@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="39.1667" height="30.0636" viewBox="0 0 39.1667 30.0636">
+  <g>
+    <path d="M13.827,10.2075a6.6512,6.6512,0,0,0,12.01.1447" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M25.05,3.2315a6.6486,6.6486,0,0,0-10.4806.1532" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <polyline points="7.984 23.77 7.984 29.314 31.324 29.314 31.324 23.77" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></polyline>
+    <polyline points="22.516 14.136 16.651 14.136 16.65 14.136" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></polyline>
+    <path d="M13.2056,7.4115a6.623,6.623,0,0,1,1.3638-4.0268,5.3057,5.3057,0,1,0-4.3907,8.3234" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M14.5694,3.3844a6.6169,6.6169,0,0,0-.7424,6.823" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M10.6668,11.7078H9.3833A8.6583,8.6583,0,0,0,.75,20.3405V23.77H7.9838v-.9663" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M16.6506,14.1356a8.6935,8.6935,0,0,0-8.6667,8.6678V23.77" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M29.3462,11.7078A5.3191,5.3191,0,1,0,25.05,3.2315a6.63,6.63,0,0,1,1.4783,4.18" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M25.8372,10.3521A6.63,6.63,0,0,0,25.05,3.2315" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <path d="M22.442,14.1356a8.88,8.88,0,0,1,8.8826,8.6678V23.77h7.0921V20.3405a8.6581,8.6581,0,0,0-8.6334-8.6327H28.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></path>
+    <line x1="31.3245" y1="23.7697" x2="31.3245" y2="22.8034" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"></line>
+  </g>
+</svg>

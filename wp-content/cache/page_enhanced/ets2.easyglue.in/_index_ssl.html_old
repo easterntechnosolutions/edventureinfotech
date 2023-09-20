@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+
+<head>
+	<title>Easternts | Just another WordPress site</title>
+	<meta charset="utf-8" />
+	<meta name="description" content="Tax Integrity.">
+	<!-- Mobile Meta -->
+	<!--<link rel="preconnect" href="https://fonts.googleapis.com">-->
+	<!--<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>-->
+	<!--<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700;800;900&display=swap" rel="preload">-->
+	<link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap">
+	</noscript>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- Favicons and Icons -->
+	<link rel="apple-touch-icon" href="https://ets2.easyglue.in/wp-content/themes/easternts/images/">
+	<!-- <link rel="icon" href="https://ets2.easyglue.in/wp-content/themes/easternts/images/favicon.ico"> -->
+	<!-- or, set /favicon.ico for IE10 win -->
+	<meta name="msapplication-TileColor" content="#F01D4F">
+	<meta name="msapplication-TileImage" content="https://ets2.easyglue.in/wp-content/themes/easternts/images/">
+	<!-- wordpress head functions -->
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ets2.easyglue.in\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://ets2.easyglue.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://ets2.easyglue.in/wp-json/" /><link rel="alternate" type="application/json" href="https://ets2.easyglue.in/wp-json/wp/v2/pages/11" /><link rel="canonical" href="https://ets2.easyglue.in/" />
+<link rel='shortlink' href='https://ets2.easyglue.in/' />
+<link rel="alternate" type="application/json+oembed" href="https://ets2.easyglue.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fets2.easyglue.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ets2.easyglue.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fets2.easyglue.in%2F&#038;format=xml" />
+	<!-- end of wordpress head -->
+</head>
+
+<body class="home page-template-default page page-id-11">
+
+	<header class="header light">
+		<div class="headerFiexd">
+			<div class="container">
+				<div>
+					<div id="header-logo" class="row d-flex">
+						<div class="col-sm-5 col-md-3">
+							<a href="">
+								<img src="https://www.easternts.com.au/wp-content/uploads/2019/04/Easternts.gif" class="header-logo" />
+							</a>
+						</div>
+						<div class="col-sm-12 col-md-9 text-center res_menu hidden-sm-down" id="site-navigation">
+							<!-- <span class="responsive-menu" id="responsive-menu"><i class="fa fa-bars"></i></span> -->
+							<nav class="primary-menu">
+								<div class="menu">
+									<ul id="menu-menu-1" class="menus-header"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-16"><a href="https://ets2.easyglue.in/" aria-current="page">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#">Services</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="#">Clients</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="#">Work</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="#">Case Studies</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="#">Career</a></li>
+<li id="menu-item-23" class="ContactHead menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="#">Contact  Us</a></li>
+</ul>								</div>
+							</nav>
+						</div>
+						<div class="responsive-menu" id="responsive-menu">
+							<i class="fa fa-bars"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--container-->
+	</header>
+<!-- We develope -->
+
+<section class="colororang">
+    <div class="container ">
+        <div class="row text-center developBeautiful">
+            <h4>We develop Beautiful native apps in record time with Flutter.
+                <a href="">Get Started</a>
+            </h4>
+        </div>
+    </div>
+</section>
+
+<!-- Hero section -->
+
+<section>
+    <div class="Hero-back">
+        <div class="container">
+            <div class="row text-center">
+                <p>Creative web design, web development, mobile development & digital marketing in Victoria, Gold Coast (Australia).</p>
+                <h3>SEARCH ENGINE OPTIMISATION</h3>
+                <!-- <h3> DIGITAL MARKETING </h3>
+                <h3> E-COMMERCE DEVELOPMENT</h3>
+                <h3> WEB DESIGN</h3> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--  Gain Competitive -->
+
+<!-- <section>
+    <div class="container">
+        <div class="row">
+
+        </div>
+    </div>
+</section> -->
+
+<section class="gain-competitive">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 gainCOmp ">
+                <h3>Gain Competitive Edge through Digital Innovation</h3>
+            </div>
+            <div class="col-md-4 getBtn text-end">
+                <a href=""> Get a Free Quote </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Our Services -->
+
+<section class="sectionPadd">
+    <div class="container">
+        <div class="row ">
+            <div class="OurServices text-center">
+                <h2>Our Services</h2>
+                <p>Our focus is not only to work towards goals, but also to quickly respond to changes throughout the development process.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="https://www.easternts.com.au/wp-content/uploads/2016/09/iphone-Development-1.png">
+                        <h4>iPhone App Development</h4>
+                        <p>Proficient in the realm of developing applications for iOS, we assure our clients the very best in class and With the very dedicated team which also gets updated along with the software update.</p>
+                        <a>Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="	https://www.easternts.com.au/wp-content/uploads/2016/09/android-development-1.png">
+                        <h4> Android App Development </h4>
+                        <p>We have excelled in all possible area of building an application be it design, graphics, code or animation. It's the client that knows what it want and we at eastern techno solutions deliver the requirements.</p>
+                        <a>Read More...</a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="https://www.easternts.com.au/wp-content/uploads/2018/11/flutter.png">
+                        <h4>Flutter App Development </h4>
+                        <p>Don’t let the user interface deter your application to reach far and wide. With our Native App Development in Flutter, we help you take your application to both Android and iOS users.</p>
+                        <a>Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="https://www.easternts.com.au/wp-content/uploads/2018/11/laravel_icon_01.png ">
+                        <h4>Laravel Development </h4>
+                        <p> Working with both Laravel and Vuejs frameworks, here is an insight into their functioning and how it can help you bolster your business.</p>
+                        <a>Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="https://www.easternts.com.au/wp-content/uploads/2016/09/e-commerce-1.png ">
+                        <h4>E-Commerce </h4>
+                        <p>E-commerce are commercial transactions on the internet conducted electronically. E-commerce rules the market of today.</p>
+                        <a>Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="ourCards">
+                    <div class="ourDetails">
+                        <img src="https://www.easternts.com.au/wp-content/uploads/2016/09/software-development-1.png">
+                        <h4> Software Development</h4>
+                        <p>Software plays a crucial role and thus a software that is efficient, time saving, affordable, and which also provides security is what we deliver.</p>
+                        <a>Read More...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row ">
+            <div class="comBtn2 text-center">
+                <a href="" class="comBtn">View All</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Technology Stack -->
+
+<section class="sectionPadd">
+    <div class="container">
+        <div class="row">
+            <div class="OurServices text-center">
+                <h2>Technology Stack</h2>
+                <p>We can easily be your One Stop Solution (You Need IT, We Have IT)</p>
+            </div>
+        </div>
+        <div class="row">
+            <img src="https://ets2.easyglue.in/wp-content/themes/easternts/images/technology.png">
+        </div>
+    </div>
+</section>
+
+<!-- Our Expertise  -->
+
+<section class="sectionPadd secPaddtable">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="OurServices text-center">
+                <h2>Our Expertise</h2>
+                <p>Creative web design, web development, mobile app development & digital marketing in Victoria, Queensland (Australia).</p>
+            </div>
+        </div>
+
+        <div class="row d-inline">
+            <div class="col-md-7 col-sm-12">
+                <a href="">
+                    <div class="ourExpert">
+                        <img src="https://www.easternts.com.au/wp-content/themes/kudos/assets/img/mobileapp.jpg">
+                        <div class="exportTitle">
+                            <h3>Mobile App Development</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-5 col-sm-12">
+                <a href="">
+                    <div class="ourExpert ourmarg monileMarg ">
+                        <img src="https://www.easternts.com.au/wp-content/themes/kudos/assets/img/webdevelopment.jpg">
+                        <div class="exportTitle">
+                            <h3>Mobile App Development</h3>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="ourExpert ourmarg">
+                        <img src="https://www.easternts.com.au/wp-content/themes/kudos/assets/img/creativewebdesign.jpg">
+                        <div class="exportTitle">
+                            <h3>Mobile App Development</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- We can help -->
+
+<section class="weCanhalp ">
+    <img class="weImg weLf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets1.png">
+    <img class="weImg weRf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets2.png">
+    <div class="container ">
+        <div class="row text-center">
+            <div class="weCan">
+                <h3>We can help you build what you have been thinking about.</h3>
+            </div>
+            <div class="comBtn2 text-center">
+                <a href="" class="comBtn">Call Us </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Subscribe newsletter -->
+
+<section class="subNew">
+    <div class="container">
+        <div class="row d-flex">
+            <div class="col-md-5 SubPadd">
+                <h3>Subscribe to our <span class="colororeang">newsletter</span></h3>
+            </div>
+            <div class="col-md-7 SubPadd">
+                <div class="row">
+                    <div class=" col-md-7 col-sm-7 SubPadd">
+                        <input type="gmail" class="emailInput" placeholder="Email">
+                    </div>
+
+                    <div class="comBtn2 col-md-5 col-sm-5  SubPadd text-center">
+                        <a href="" class="subbtn">Subscribe </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!--  Footer  -->
+
+<section class=" footerBgcolor">
+	<div class="container">
+		<div class="row">
+			<div class="footerEts">
+				<ul>
+					<li><a href=""> About US </a> </li>
+					<li><a href=""> Blog </a> </li>
+					<li><a href=""> Career </a> </li>
+					<li><a href=""> Our Team </a> </li>
+					<li><a href=""> News </a> </li>
+					<li><a href=""> Strategic Partnerships </a> </li>
+					<li><a href=""> Testimonials </a> </li>
+					<li><a href=""> Terms and Conditions </a> </li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+<section class="fooTow">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6  col-sm-6  copiyright">
+				<div><img src="https://www.easternts.com.au/wp-content/uploads/2019/03/easternicon.png"></div>
+				<div>
+					<p>© 2021 Eastern Techno Solutions. All Rights Reserved.</p>
+				</div>
+			</div>
+			<hr class="footerHr">
+			<div class="col-md-6 col-sm-6  etscenter">
+				<ul class="etsSocial">
+					<li><a href=""><i class="fab fa-facebook-f"></i></a></li>
+					<li><a href=""><i class="fab fa-twitter"></i> </a></li>
+					<li><a href=""><i class="fab fa-linkedin-in"></i> </a></li>
+					<li><a href=""><i class="fab fa-pinterest-p"></i> </a></li>
+					<li><a href=""> <i class="fab fa-instagram"></i></a></li>
+					<li><a href=""><i class="fab fa-youtube"></i></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+		<link rel="preload" href="https://ets2.easyglue.in/wp-content/themes/easternts/css/main.css" type='text/css' media='all' as="style" onload="this.rel='stylesheet'">
+		<link rel="preload" href="https://ets2.easyglue.in/wp-content/themes/easternts/css/bootst.css" type='text/css' media='all' as="style" onload="this.rel='stylesheet'">
+		<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" type='text/css' media='all' as="style" onload="this.rel='stylesheet'">
+		<!-- <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet"> -->
+<script type='text/javascript' src='https://ets2.easyglue.in/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://ets2.easyglue.in/wp-content/themes/easternts' id='font nunito-js'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://ets2.easyglue.in/wp-content/themes/easternts/js/toggle.js' id='toggle-js'></script>
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: ets2.easyglue.in @ 2021-10-23 04:24:33 by W3 Total Cache
+-->
