@@ -24,7 +24,7 @@
     <div class="Hero-back">
         <div class="container">
             <div class="row text-center">
-                <p>We provide creative web design, web development, mobile development and digital marketing services in Surat-Gujarat, INDIA</p>
+                <p>We specialize in offering innovative web design, web development, and mobile development services based in Ontario, Canada.</p>
                  <!-- <h3 class="typeText"></h3> -->
             </div>
         </div>
@@ -37,7 +37,7 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp ">
-                <h3>Gain competitive edge through digital innovation</h3>
+                <h3>Elevate Your Business with Cutting-Edge Digital Solutions</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
 				 <button class="subscriber-form  free-quote "> Get a Free Quote </button>
@@ -53,8 +53,8 @@
     <div class="container">
         <div class="row ">
             <div class="OurServices text-center">
-                <h2>Our Services</h2>
-                <p>Our team is prepared to adapt to any changes while working towards achieving the goal.</p>
+                <h2>What We Offer</h2>
+                <p>Empowering Your Digital Journey with Expert Services</p>
             </div>
         </div>
 
@@ -64,7 +64,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
                         <h4>iPhone App Development</h4>
-                        <p>Experienced in developing iOS applications with a dedicated team. Our commitment to excellence ensures the highest quality service in class. Furthermore, we are keen on keeping our clients informed of our progress on a regular basis.</p>
+                        <p>We possess extensive expertise in crafting iOS applications through a dedicated team. Our unwavering dedication to delivering top-notch quality sets us apart. Additionally, we prioritize transparent communication with our clients, providing regular updates on project progress.</p>
                         <a href="<?php echo get_permalink(44); ?>">Read More...</a>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
             <div class="OurServices text-center">
                 <h2>Technology Stack</h2>
                  <!-- <h1>ETS Projects</h1> -->
-                <p>We can easily be your One-Stop Solution, which means that if you need IT, we can provide it to you. </p>
+                <p>Building Tomorrow's Solutions with Cutting-Edge Tech Stack</p>
             </div>
         </div>
         <div class="row techno-stack">

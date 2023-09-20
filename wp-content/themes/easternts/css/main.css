@@ -971,7 +971,7 @@ img.header-logo {
 }
 .OurServices p {
     font-size: 18px;
-    text-align: justify;
+/*     text-align: justify; */
 }
 @media (min-width: 991px) {
     .OurServices p {

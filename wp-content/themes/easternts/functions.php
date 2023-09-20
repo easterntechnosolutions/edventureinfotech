@@ -600,7 +600,7 @@ function enqueue_animation_script() {
 									    <div class="row">
 										  <div class="col-md-12">
 											<div class="technical-main-mdl">
-											    <div class="technical-main-img"> <span><img src="https://www.easternts.com.au/wp-content/uploads/2020/03/Images_01.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
+											    <div class="technical-main-img"> <span><img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/tech-stack.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
 											    <div class="technical-tk-ul">
 												  <ul>
 													<li class="frontend"> <a href="javascript:void(0)">Frontend</a>
