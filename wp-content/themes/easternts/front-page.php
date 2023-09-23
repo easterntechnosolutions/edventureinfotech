@@ -154,12 +154,13 @@
         <div class="row">
             <div class="OurServices text-center">
                 <h2>Our Expertise</h2>
-                <p>A very creative company specializing in web design, web development, mobile app development & digital marketing in Surat - Gujarat (INDIA).</p>
+                <p>A very creative company specializing in web design, web development, mobile app development & digital marketing in Ontario, Canada.</p>
             </div>
         </div>
 
         <div class="row d-inline">
-            <div class="col-md-7 col-sm-12">
+			
+<!--             <div class="col-md-7 col-sm-12">
                 <a href="<?php echo get_permalink(712); ?>">
                     <div class="ourExpert">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
@@ -168,13 +169,13 @@
                         </div>
                     </div>
                 </a>
-            </div>
-            <div class="col-md-5 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
-                <a href="<?php echo get_permalink(713); ?>">
+            </div> -->
+			<div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
+                <a href="<?php echo get_permalink(712); ?>">
                     <div class="ourExpert ourmarg monileMarg ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
                         <div class="exportTitle">
-                            <h3>Web Application</h3>
+                            <h3>Mobile App Development</h3>
                         </div>
                     </div>
                 </a>
@@ -187,6 +188,25 @@
                     </div>
                 </a>
             </div>
+            <div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
+                <a href="<?php echo get_permalink(713); ?>">
+                    <div class="ourExpert ourmarg monileMarg ">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
+                        <div class="exportTitle">
+                            <h3>Web Application</h3>
+                        </div>
+                    </div>
+                </a>
+                <a href="<?php echo get_permalink(714); ?>">
+                    <div class="ourExpert ourmarg">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="creative" width="" height="">
+                        <div class="exportTitle">
+                            <h3>Point of Sale</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+			
         </div>
     </div>
 </section>

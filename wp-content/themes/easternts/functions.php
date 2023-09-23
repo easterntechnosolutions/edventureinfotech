@@ -804,7 +804,7 @@ function enqueue_animation_script() {
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/magento.png" alt="magento" title="css3"></span> </div>
 										  </li>
 										  <li class="mongodb">
-											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.infowindtech.com/wp-content/themes/infowind/company-logo/other/mongodb.png" alt="mongodb" title="css3"></span> </div>
+											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com/wp-content/uploads/2023/09/mongodb.webp" alt="mongodb" title="css3"></span> </div>
 										  </li>
 										  <li class="mysql">
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/mysql.png" alt="mysql" title="css3"></span> </div>
