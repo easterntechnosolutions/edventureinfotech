@@ -56,12 +56,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/01/UI1.webp" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui-1" >
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui-1" >
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <h2><b>UI Design as Per Your Requirement</b></h2>
-                    <p>We take pride in providing innovative UI design services that not only leverage advanced technology but also follow the highest user experience standards. Our team of creative designers adheres to usability principles in order to ensure the user interface conforms to the needs of the user. They are experts at designing across several digital devices, including the web, mobile, and tablets. Our UI designers are responsible for setting up guidelines that ensure consistency across the product’s interface.</p>
+                    <h2><b>Customized UI Design to Meet Your Needs</b></h2>
+                    <p>We are proud to offer innovative UI design services. Our services incorporate cutting-edge technology and adhere to top-tier user experience standards. Our team of creative designers prioritizes usability principles to meet user needs. They specialize in designing for various digital devices, including web, mobile, and tablets.Our UI designers establish guidelines to maintain consistency across the product's interface.</p>
                 </div>
             </div>
 
@@ -73,12 +73,14 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/01/UI2.jpg"  class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="android-2">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-2.png"  class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="android-2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <h2><b>Distinctive UI for Every Engagement</b></h2>
-                    <p>We understand how critical user engagement is on a website. We therefore provide customized and user-centric interface designs. Whether it be a web or mobile application, delivering the most optimal user experience is essential. With our team of UI designers we provide the most effective and engaging engagement models by adhering to best practices in user experience management and user-centric design.</p>
+                    <h2><b>
+Unique User Interfaces Tailored for Each Interaction</b></h2>
+                    <p>We know how important it is for users to engage with a website. We create custom interfaces that focus on the user's needs, whether it's for a website or a mobile app. Ensuring the best user experience is a top priority. Our team of UI designers follows user-centric design principles and best practices in user experience management.
+We aim to provide effective and engaging engagement models.</p>
                 </div>
             </div>
         </div>
@@ -97,9 +99,10 @@
         <div class="row d-flexWOcenter">
             <div class="col-sm-5">
                 <div class="webDesingUi">
-                    <img src="/wp-content/uploads/2023/02/complex-web-applications.webp" alt="seo1">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/complex-web.png" alt="seo1">
                     <h3>COMPLEX WEB APPLICATIONS</h3>
-                    <p> Our designers are big fans of development-oriented design meaning that we have extensive experience creating complex interfaces. Organizing complex user flows into easy-to-use products is a strong competence of ours.</p>
+                    <p> 
+Our designers are really good at making designs for software development. They know how to create complicated interfaces that are easy to use. Our strength is in making complex user journeys simple in our products.</p>
                     <div class="comBtn2 text-center buildBtn">
                         <a href="<?php echo the_permalink(714); ?>" class="comBtn">We Design Web Applications</a>
                     </div>
@@ -112,9 +115,9 @@
 
             <div class="col-sm-5">
                 <div class="webDesingUi">
-                    <img src="/wp-content/uploads/2021/11/online-shopping-phone.webp"  alt="onlineshopping">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/android-apps.png"  alt="onlineshopping">
                     <h3>NATIVE IOS & ANDROID APPS</h3>
-                    <p>We design beautiful native iOS and native Android apps taking into account all platform features, elements, components, libraries, and patterns. This will ensure that your product delivers the most seamless and pleasant user experience.</p>
+                    <p>We create stunning apps for iOS and Android, tailoring them to fully embrace each platform's features, elements, components, libraries, and design patterns. This guarantees that your product provides the smoothest and most enjoyable user experience.</p>
                     <div class="comBtn2 text-center buildBtn">
                         <a href="<?php the_permalink(43); ?>" class="comBtn">We Design Android Apps</a>
                     </div>
@@ -130,12 +133,13 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/ui3.webp" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui3">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui3.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui3">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <h2><b>We design a website by concentrating on your user</b></h2>
-                    <p>Being a superior web design and development company, we have established standard operating procedures for service delivery. We include standards of user experience design which consist of development work at each phase of the lifecycle of a website. Our goal is to transform your ideas into a clear and fully functional design in a smart way. We are a reliable company that can design the architecture of your website as well as the user interface.</p>
+                    <h2><b>Designing Websites with a User-Centric Approach</b></h2>
+                    <p>
+As an excellent web design and development company, we've set up clear steps for how we provide our services. We make sure to include high-quality user experience design throughout the entire process of creating a website. Our aim is to take your ideas and turn them into a smart, well-functioning design. We're a dependable company that can handle both the structure and the look of your website.</p>
                 </div>
             </div>
 
@@ -147,12 +151,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/ui4.webp" class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui4">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui4.png" class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui4">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
                     <h2><b>Maximize Your ROI</b></h2>
-                    <p>UI designers at our company help clients create robust and scalable user experiences that help them maximize ROI and accomplish key business goals. We help you to take a competitive advantage by mixing the latest technology with your branding needs, user experience, and market needs. We make sure that you get a high ROI on your investments. By investing in UI design, you can boost your ROI substantially.</p>
+                    <p>Our UI designers specialize in building strong and expandable user experiences that enable clients to achieve their business goals and get the most out of their investments. We assist you in gaining a competitive edge by combining cutting-edge technology with your branding requirements, user experience, and market demands. Our focus is on ensuring that your investments yield a significant return on investment. By prioritizing UI design, you have the potential to greatly increase your ROI.</p>
                 </div>
             </div>
         </div>
@@ -171,21 +175,21 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="/wp-content/uploads/2023/02/design-1.webp" alt="design">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/design-1.png" alt="design">
                     <h3>Web & Mobile Design</h3>
                     <p> Communication with the user is never sacrificed. Easy to understand, direct and beautiful.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="/wp-content/uploads/2023/02/sharing.webp" alt="sharing">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/sharing.png" alt="sharing">
                     <h3>Design Systems</h3>
                     <p>-A collection of reusable components guided by clear standards to make your application easy to scale and maintain.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="/wp-content/uploads/2023/02/concept.webp" alt="concept">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/concept.png" alt="concept">
                     <h3>Illustrations & animations</h3>
                     <p>So your product catches the user’s attention in all the right places.</p>
                 </div>
@@ -229,7 +233,7 @@
             <div class="col-md-12 p0">
                 <div id="Real-time" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/02/competitive-analysis-scaled.webp" alt="research">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/research.png" alt="research">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -242,7 +246,7 @@
                 </div>
                 <div id="NoSQL" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/Plan-Management-banner.webp" alt="Plan-Management-banner">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/plan-management.png" alt="Plan-Management-banner">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>USER STORIES</h3>
@@ -255,7 +259,7 @@
                 </div>
                 <div id="Serverless" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/explore-site.webp" alt="explore-site">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/explore.png" alt="explore-site">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -268,7 +272,7 @@
                 </div>
                 <div id="Offline" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/create-website.webp" alt="create-website">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/create-website.webp" alt="create-website">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>USER STORIES</h3>
@@ -281,7 +285,7 @@
                 </div>
                 <div id="Globally" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/finalise.webp" alt="finalise">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/finalise.webp" alt="finalise">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -294,7 +298,7 @@
                 </div>
                 <div id="Security" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/delight.webp" alt="delight">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/delight.webp" alt="delight">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -307,7 +311,7 @@
                 </div>
 				<div id="Analyse" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="/wp-content/uploads/2023/01/analyse.webp" alt="analyse">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/analyse.webp" alt="analyse">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -333,25 +337,25 @@
         <div class="row">
             <div class="owl-carousel owl-theme">
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/sketch.webp" alt="sketch">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/sketch.webp" alt="sketch">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/zeplin.webp" alt="zeplin">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/zeplin.webp" alt="zeplin">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/invision.webp" alt="invision">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/invision.webp" alt="invision">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/abstract.webp" alt="abstract">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/abstract.webp" alt="abstract">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/photoshop.webp" alt="photoshop">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/photoshop.webp" alt="photoshop">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/illustrator.webp" alt="illustrator">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/illustrator.webp" alt="illustrator">
                 </div>
                 <div class="item areasSlider">
-                    <img src="/wp-content/uploads/2023/02/after-effects.webp" alt="after-effects">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/after-effects.webp" alt="after-effects">
                 </div>
             </div>
         </div>
@@ -414,7 +418,7 @@
                 </div>
             </div>
             <div class="col-md-6 p0 text-center chooseuibg wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s">
-                <img  src="/wp-content/uploads/2023/02/ui-services-1.png" style="height: auto;" alt="ui-services">
+                <img  src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-5.png" style="height: auto; display:block;" alt="ui-services">
             </div>
         </div>
 

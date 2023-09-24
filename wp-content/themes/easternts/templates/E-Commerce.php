@@ -64,12 +64,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="/wp-content/uploads/2023/01/ecommerce1.webp"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ecommerce1">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ecommerce-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ecommerce1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <h3><b>We are a trustworthy eCommerce web Development Company in Surat.</b></h3>
-                    <p>At Eastern Techno Solution, we provide unique eCommerce web development services by creating cutting-edge online storefronts with our expertise in the latest technologies. We make eCommerce websites that are highly user-friendly and engaging for diverse business sectors in Surat.</p>
+                    <h3><b>We are a trustworthy eCommerce web Development Company that creates creative websites in Canada for business.</b></h3>
+                    <p>At Edventure Infotech, we focus on creating personalized eCommerce websites. We use the latest technology to carefully design online stores that make it easy to sell things online. Our websites are built to be user-friendly and work well for all kinds of businesses in Canada.</p>
                 </div>
             </div>
 
@@ -81,12 +81,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex" >
             <div class="col-md-6 order2 p0  text-center">
-                <img src="/wp-content/uploads/2023/01/ecommerce2.webp" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="ecommerce2" style="width: 951px;height: auto;">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ecommerce-2.png" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="ecommerce2" style="width: 951px;height: auto;">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
                     <h3><b>We develop a feature-packed eCommerce web development solution</b></h3>
-                    <p> Developing an eCommerce website is certainly not an easy task. Therefore, we at Eastern Techno Solution will design a robust eCommerce portal that incorporates all the required features to make your task simpler. We satisfy your needs by developing customized solutions according to your requirements.</p>
+                    <p> Building an eCommerce website can be quite a challenging job. That's why, at Edventure Infotech, we're dedicated to making a strong online store that includes all the necessary features to make your job easier. We meet your needs by creating custom solutions.</p>
                 </div>
             </div>
         </div>
@@ -106,37 +106,37 @@
         <div class="row ecommerce-image">
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon1.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon1.webp">
                 </div>
                 <p>In-depth market research and analysis.</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon2.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon2.webp">
                 </div>
                 <p>Critical assessment of your brand values, characteristics, and how customers currently relate to you</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon3.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon3.webp">
                 </div>
                 <p>All-inclusive theme development and customization down to the smallest detail</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon4.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon4.webp">
                 </div>
                 <p>Development of all necessary plugins and applications</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon5.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon5.webp">
                 </div>
                 <p>Microscopic attention to security needs and proper implementation</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="/wp-content/uploads/2023/01/our-process-icon6.webp">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon6.webp">
                 </div>
                 <p>Close attention to analytics to pinpoint growth opportunities</p>
             </div>
@@ -173,7 +173,7 @@
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our WooCommerce Web Development Services</h2>
-                <p>Eastern Techno Solution in Surat offers WordPress design and development services, PSD to WordPress, custom WordPress development services, theme development, and more.</p>
+                <p>Edventure Infotech, based in Canada, offers a diverse spectrum of WordPress-related services, encompassing design and development, PSD to WordPress conversion, custom WordPress development, theme creation, and supplementary service offerings.</p>
             </div>
         </div>
 
@@ -182,7 +182,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon1.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon1.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Responsive WooCommerce e-commerce development</P>
@@ -193,7 +193,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon2.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon2.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce theme development from scratch</P>
@@ -204,7 +204,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon3.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon3.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Vast WordPress e-commerce solutions</P>
@@ -215,7 +215,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon4.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon4.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Safe WooCommerce migration</P>
@@ -226,7 +226,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon5.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon5.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce theme integration</P>
@@ -237,7 +237,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon6.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon6.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>PSD to WooCommerce</P>
@@ -248,7 +248,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon7.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon7.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Component & Module Development</P>
@@ -259,7 +259,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon8.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon8.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Store Redesign</P>
@@ -270,7 +270,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon9.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon9.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Customized WordPress shopping cart</P>
@@ -281,7 +281,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon10.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon10.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce third-party integration</P>
@@ -292,7 +292,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon11.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon11.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce payment gateway integration</P>
@@ -303,7 +303,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon12.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon12.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Facebook shop integration</P>
@@ -314,7 +314,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon13.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon13.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce plugin development</P>
@@ -325,7 +325,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon14.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon14.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Magento store to WooCommerce migration</P>
@@ -336,7 +336,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon15.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon15.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce maintenance, support, and upgrade services</P>
@@ -347,7 +347,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon16.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon16.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Built-in tracking and recording</P>
@@ -358,7 +358,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon17.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon17.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Inventory management</P>
@@ -369,7 +369,7 @@
             <div class="col-md-4 -5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="/wp-content/uploads/2023/01/woocom-develo-servi-icon18.webp" alt="remarkable">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon18.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Third-party vendor integration</P>
@@ -387,9 +387,9 @@
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
-                    <h3> Right Support to Turn Your Startup <b class="bBlod"> Into Profitable Venture </b> </h3>
-                    <p><a href="tel:+91 704 682 7566">+91 704 682 7566</a>, <a href="tel:+91 760 001 5802">+91 760 001 5802</a>
-                        <br> <a href="mailto:contact@easternts.com"> contact@easternts.com </a>
+                    <h3> Providing Adequate Assistance for Nurturing Your Startup <b class="bBlod"> Into Profitable Venture </b> </h3>
+<!--                    <a href="tel:+91 704 682 7566">+91 704 682 7566</a>, <a href="tel:+91 760 001 5802">+91 760 001 5802</a> -->
+                         <p> <a href="mailto:contact@easternts.com"> info@edventureinfotech.com</a>
                     </p>
                     <div class="comBtn2 buildBtn">
 						 <a href="javascript:void(0);"  class="subscriber-form comBtn">Contact Us</a>
@@ -397,7 +397,7 @@
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg">
-                <img src="/wp-content/uploads/2023/01/inquiry.webp" alt="inquiry">
+                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>

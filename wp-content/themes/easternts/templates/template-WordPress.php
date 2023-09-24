@@ -168,7 +168,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Services</h2>
-                <p>Our web development team at Eastern Techno Solution in Surat offers WordPress design and development, PSD to WordPress conversion, custom WordPress development services, Theme development, and more.</p>
+                <p> Web development team at Edventure Infotech in Canada specializes in WordPress design and development, PSD to WordPress conversion, custom WordPress development services, theme development, and various related offerings.</p>
             </div>
         </div>
         <div class="row">
@@ -441,7 +441,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Work Process</h2>
-                <p>As a company, we are always looking for a proven methodology and agile process to provide you with better solutions that reflect your business and make you more successful.</p>
+                <p>As a company, we constantly seek effective methodologies and agile processes to deliver tailored solutions for your business success.</p>
             </div>
         </div>
 
@@ -449,7 +449,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">1</span>
                     </div>
                     <h4>Nice to Meet You</h4>
@@ -464,7 +464,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">2</span>
                     </div>
                     <h4>Awesome Design Creation </h4>
@@ -479,7 +479,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">3</span>
                     </div>
                     <h4>Well Development</h4>
@@ -494,7 +494,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">4</span>
                     </div>
                     <h4>Taking a Closer Look</h4>
@@ -509,7 +509,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">5</span>
                     </div>
                     <h4>Deliver or Go Live</h4>
@@ -524,7 +524,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">6</span>
                     </div>
                     <h4>Reach Your Audience</h4>
