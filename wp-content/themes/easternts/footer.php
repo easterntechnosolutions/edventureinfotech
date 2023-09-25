@@ -3,12 +3,12 @@
 <!-- We can help -->
 
 <section class="weCanhalp">
-	<img class="weImg weLf" src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/call-ets1.gif" alt="ets1">
-	<img class="weImg weRf" src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/call-ets2.webp" alt="ets2">
+	<img class="weImg weLf" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/dev-foot.gif" alt="ets1">
+	<img class="weImg weRf" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mountain-1.png" alt="ets2">
 	<div class="container ">
 		<div class="row text-center">
 			<div class="weCan">
-				<h3>We can help you build what you have been looking for.</h3>
+				<h3>Turning Your Vision into Reality, One Step at a Time.</h3>
 			</div>
 			<div class="comBtn2 text-center">
 				<a href="tel:+91 704 682 7566" class="comBtn">Call Us</a>
@@ -95,7 +95,7 @@
 			<div class="col-md-6  col-sm-6  copiyright">
 				<div><img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
 				<div>
-					<p>© <?php echo date('Y'); ?> Eastern Techno Solutions. All Rights Reserved.</p>
+					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : Eastern Techno Solutions</p>
 				</div>
 			</div>
 			<hr class="footerHr">

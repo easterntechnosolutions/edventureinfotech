@@ -74,7 +74,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
                         <h4> Android App Development </h4>
-                        <p>When it comes to design, graphics, code, or animation, we have excelled in all the possible areas of building an application. We at "Eastern Techno Solutions" provide the exact requirements determined by the client.</p>
+                        <p>In the realms of design, graphics, code, and animation, we have demonstrated exceptional proficiency in every facet of application development. At 'EDVENTURE INFOTECH,' we meticulously deliver precisely what our clients envision and require.</p>
                         <a href="<?php echo get_permalink(43); ?>">Read More...</a>
 
                     </div>
@@ -85,7 +85,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
                         <h4>Flutter App Development </h4>
-                        <p>The user interface of your application should not be a restriction on what your application can do. Through our Native App Development in Flutter, we can develop your app compatible with both Android and iOS users.</p>
+                        <p>Break free from limitations imposed by your app's user interface. With our expertise in Native App Development using Flutter, we create applications that seamlessly cater to both Android and iOS users, ensuring a versatile and inclusive user experience for all customers.</p>
                         <a href="<?php echo get_permalink(27); ?>">Read More...</a>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
                         <h4>Laravel Development </h4>
-                        <p>Laravel is one of the most powerful and elegant PHP frameworks that enables you to build web applications with ease, yet in a meaningful manner. With our help, you can build a website according to your specifications.</p>
+                        <p>Laravel stands as a robust and sophisticated PHP framework, facilitating the streamlined development of web applications with both simplicity and depth. Our expertise empowers you to craft a website tailored precisely to your unique specifications.</p>
                         <a href="<?php echo get_permalink(704); ?>">Read More...</a>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
                         <h4>E-Commerce </h4>
-                        <p>E-commerce refers to commercial transactions conducted electronically on the internet. At "Eastern Techno Solutions", we provide unique eCommerce web development services by creating cutting-edge online storefronts.</p>
+                        <p>We specialize in crafting state-of-the-art eCommerce platforms, enabling electronic commercial transactions on the internet. Our expertise lies in delivering unique web development services, creating innovative online storefronts for seamless digital commerce experiences.</p>
                         <a href="<?php echo get_permalink(300); ?>">Read More...</a>
                     </div>
                 </div>
@@ -115,24 +115,28 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
                         <h4> Software Development</h4>
-                        <p>Software plays a crucial role when it comes to efficiency, accuracy, time-saving, security and affordability. It is our goal at "Eastern Techno Solutions" to ensure the safe delivery of your data without compromising it.</p>
+                        <p>At 'EDVENTURE INFOTECH', we understand that software is pivotal for enhancing efficiency, accuracy, time-saving, security, and affordability. Our foremost objective is to guarantee the secure transmission of your data, preserving its integrity.</p>
                         <a href="<?php echo get_permalink(710); ?>">Read More...</a>
                     </div>
                 </div>
             </div>
+            <div class="col-12 text-center" style="margin: 17px 0;">
+                <a href="<?php echo get_permalink(221); ?>" class="comBtn" style="margin-top: 50px;">View All</a>
+            </div>
         </div>
 
-        <div class="row ">
+        <!-- <div class="row ">
             <div class="comBtn2 text-center">
                 <a href="<?php echo get_permalink(221); ?>" class="comBtn">View All</a>
             </div>
-        </div>
+        </div> -->
+
     </div>
 </section>
 
 <!-- Technology Stack -->
 
-<section class="">
+<section class="sectionPadd" style="background-color: rgb(246, 246, 246);">
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">
@@ -154,7 +158,7 @@
         <div class="row">
             <div class="OurServices text-center">
                 <h2>Our Expertise</h2>
-                <p>A very creative company specializing in web design, web development, mobile app development & digital marketing in Ontario, Canada.</p>
+                <p>Mastering the Craft, Delivering Excellence</p>
             </div>
         </div>
 
@@ -172,8 +176,8 @@
             </div> -->
 			<div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
                 <a href="<?php echo get_permalink(712); ?>">
-                    <div class="ourExpert ourmarg monileMarg ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
+                    <div class="ourExpert ourmarg">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mob-dev.gif" alt="mobile" width="" height="">
                         <div class="exportTitle">
                             <h3>Mobile App Development</h3>
                         </div>
@@ -181,7 +185,7 @@
                 </a>
                 <a href="<?php echo get_permalink(714); ?>">
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-development.gif" alt="creative" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev1.gif" alt="creative" width="" height="">
                         <div class="exportTitle">
                             <h3>Web Development</h3>
                         </div>
@@ -189,22 +193,22 @@
                 </a>
             </div>
             <div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
-                <a href="<?php echo get_permalink(713); ?>">
-                    <div class="ourExpert ourmarg monileMarg ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
-                        <div class="exportTitle">
-                            <h3>Web Application</h3>
-                        </div>
-                    </div>
-                </a>
                 <a href="<?php echo get_permalink(714); ?>">
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="creative" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/pos-1.gif" alt="creative" width="" height="">
                         <div class="exportTitle">
                             <h3>Point of Sale</h3>
                         </div>
                     </div>
                 </a>
+                <a href="<?php echo get_permalink(713); ?>">
+                    <div class="ourExpert ourmarg">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev.gif" alt="webdevelopment" width="" height="">
+                        <div class="exportTitle">
+                            <h3>Web Application</h3>
+                        </div>
+                    </div>
+                </a>                
             </div>
 			
         </div>
