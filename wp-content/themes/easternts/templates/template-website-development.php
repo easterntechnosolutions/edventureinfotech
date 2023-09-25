@@ -42,7 +42,7 @@ Template Name: Website development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="/wp-content/uploads/2023/01/ui-designe.gif" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/09/ux-4.png" alt="UI / UX Design" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">

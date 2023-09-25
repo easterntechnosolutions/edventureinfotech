@@ -642,7 +642,7 @@
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2><b>Why choose ETS for your CMS project?</b></h2>
+                <h2><b>Why choose Edventure Infotech for your CMS project?</b></h2>
                 <p>We are very well known CMS development company in India, providing advanced content management solutions that can solve complex problems of organizations and deliver better holding in the market with our unique features.</p>
             </div>
             <div class="row">
@@ -675,73 +675,73 @@
         <div class="row">
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
                     <h4>Travel & Hospitality</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
                     <h4>Media & Entertainment</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
                     <h4>Healthcare</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Education.svg" class="wow fadeIn" alt="Education">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Education.svg" class="wow fadeIn" alt="Education">
                     <h4>Education</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
                     <h4>Lifestyle & Management</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Transportation.svg" class="wow fadeIn" alt="Transportation">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Transportation.svg" class="wow fadeIn" alt="Transportation">
                     <h4>Transportation & Logistic</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/aviation.svg"  class="wow fadeIn" alt="Aviation">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/aviation.svg"  class="wow fadeIn" alt="Aviation">
                     <h4>Aviation</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
                     <h4>Manufacturing</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
                     <h4>Agriculture</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Fintech.svg" class="wow fadeIn" alt="Fintech">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Fintech.svg" class="wow fadeIn" alt="Fintech">
                     <h4>Fintech</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Retail.svg" class="wow fadeIn"  alt="Retail"> 
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Retail.svg" class="wow fadeIn"  alt="Retail"> 
                     <h4>Retail</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/realestate.svg" class="wow fadeIn"  alt="realestate">
+                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/realestate.svg" class="wow fadeIn"  alt="realestate">
                     <h4>Real estate</h4>
                 </div>
             </div>
