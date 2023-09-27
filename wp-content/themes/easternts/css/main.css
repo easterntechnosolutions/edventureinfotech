@@ -1220,7 +1220,7 @@ input:focus-visible {
     }
 }
 .footerBgcolor {
-    background-color: #eee;
+    background-color: #D4B9F8;
 }
 .footerEts {
     padding: 25px 0;
@@ -1277,8 +1277,18 @@ input:focus-visible {
         margin: 0 2px;
     }
 }
+.contact-hours .etsSocial li a {
+    color: #fff;
+}
+.contact-hours .etsSocial li a:hover {
+    color: #D4B9F8;
+}
+.contact-hours .etsSocial li a:hover i {
+    color: #D4B9F8;
+    transform: scale(1.1);
+}
 .etsSocial li a {
-    color: #1a2e59;
+    color: #390075;
     font-size: 18px;
     border: 1px solid;
     border-radius: 50px;
@@ -1292,10 +1302,10 @@ input:focus-visible {
     line-height: 1.5;
 }
 .etsSocial li a:hover {
-    color: #ed832f;
+    color: #f57f20;
 }
 .etsSocial li a:hover i {
-    color: #ed832f;
+    color: #f57f20;
     transform: scale(1.1);
 }
 .etscenter {
@@ -1313,14 +1323,29 @@ input:focus-visible {
         border-top: 1px solid;
         margin-top: 21px;
     }
+    .office_address .row .contact-hours {
+        width: 100%;
+        margin: 20px 0px;
+        border-radius: 50px 0;
+    }
+    .office_address .row .contact-about {
+        margin-right: -7px;
+    }
+    .office_address .row .cotact-details {
+        margin-left: -8px;
+        margin-bottom: 20px;
+    }
+    .office_address .row ul.address {
+        margin: 0;
+    }
 }
 .servicebanner {
-    background-image: url(../images/Services_01.png);
+    background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
     position: relative;
 }
 @media (max-width: 768px) {
     .servicebanner {
-        background-image: url(../images/Services_01.png);
+        background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
         padding-top: 60px;
         padding-bottom: 60px;
     }
@@ -1584,7 +1609,7 @@ input:focus-visible {
     }
 }
 .zigZ {
-    padding: 101px;
+    padding: 0 101px;
 }
 @media (max-width: 1024px) {
     .zigZ {
@@ -1599,6 +1624,13 @@ input:focus-visible {
 @media (max-width: 768px) {
     .zigZ h2 {
         font-size: 21px;
+    }
+    .sap-customer-transform .zigZ h2 {
+        padding-bottom: 20px;
+        font-size: 21px;
+    }
+    .sap-customer-transform .zigZ p {
+        padding-bottom: 10px;
     }
 }
 .zigZ p {
@@ -1622,11 +1654,15 @@ input:focus-visible {
 .fireAdd {
     margin-bottom: 42px;
 }
+.ets-contact-form .fireAdd h2 {
+    color: #fff;
+}
 .fireAdd h2 {
     font-size: 37px;
     font-weight: bold;
     margin-bottom: 23px;
     line-height: 1.4;
+    /* color: #000; */
 }
 @media (max-width: 768px) {
     .fireAdd h2 {
@@ -2038,7 +2074,7 @@ input:focus-visible {
     }
 }
 .buildBgcolor {
-    background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/08/lets-talk.svg?id=8119) !important;
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/lets-talk.svg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -2095,7 +2131,7 @@ input:focus-visible {
 .ourSer {
     margin-bottom: 35px;
     background: #fff;
-    min-height: 431px;
+    min-height: 350px;
     border-bottom: 3px solid #1a2e59;
     border-radius: 10px 10px 0 0;
 }
@@ -3807,6 +3843,15 @@ table {
     line-height: 1.4;
     margin-bottom: 0;
 }
+.bg-sap h2 {
+    color: #fff;
+}
+.bg-sap {
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/bg-sap.webp);
+    padding: 61px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .ucuidevbg {
     background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/11/carHire_panel_bg.jpg?id=8319);
     padding: 61px 0;
@@ -4223,6 +4268,14 @@ table {
     width: 33.33%;
     float: left;
 }
+.sap-sevices-section .seo-serices {
+    margin-bottom: 30px;
+    width: 50%;
+    float: left;
+}
+.sap-sevices-section .seo-serices .sap-card {
+    background: #e5edfa;
+}
 .seo-serices > div {
     box-shadow: 0 5px 8px 3px #00000017;
     padding: 18px 20px;
@@ -4261,6 +4314,9 @@ table {
 @media (max-width: 767px) {
     .seo-serices {
         width: 100%;
+    }
+    .sap-sevices-section .seo-serices { 
+        width: 100%;        
     }
 }
 .seo-serices .sec-capabilities {
@@ -4791,7 +4847,7 @@ span.accordion__caption {
     width: 99.5%;
     display: block;
     top: -1px;
-    z-index: 9999;
+    z-index: 10;
 }
 .why-should-you-choose::after {
     bottom: 0px;
@@ -5081,7 +5137,7 @@ span.accordion__caption {
     background-position: -22px -1876px;
 }
 .contactus {
-    background-image: url(https://www.easternts.com/wp-content/uploads/2023/01/Contact-Us-Banne_ps.jpg);
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/cont-us-banner.webp);
     position: relative;
     padding-top: 240px;
     padding-bottom: 240px;
@@ -5124,8 +5180,45 @@ span.accordion__caption {
 }
 .office_address {
     width: 100%;
-    padding: 60px 0;
+    padding: 130px 0 100px;
     float: left;
+    background-color: #D4B9F8;
+}
+.row .contact-about {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 60%);
+    padding: 20px 45px 0;
+    background-color: #390075;
+    border-radius: 30px 0 0 30px;
+    color: #fff;
+}
+.row .contact-hours {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 65%);
+    width: 33%;
+    background-color: #450f8d;
+    padding: 45px 30px;
+    margin-top: -30px;
+    color: #fff;
+    border-radius: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #541b9f;
+    z-index: 10;
+}
+.office_address .contact-hours ul.address li {
+    flex-direction: column;
+    align-items: center;
+}
+.row .contact-hours:hover {
+    transform: scale(1.02);
+    background-color: #1f0541;
+}
+.row .cotact-details {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 60%);
+    padding: 20px 45px 0;
+    border-radius: 0 30px 30px 0;
+    color: #fff;
+    background-color: #390075;
 }
 @media (max-width: 768px) {
     .office_address {
@@ -5164,11 +5257,12 @@ span.accordion__caption {
     padding: 0;
     margin-bottom: 12px;
 }
-.office_address ul.address li img.location {
+.office_address ul.address li i {
     width: 25px;
     height: 25px;
     background: transparent;
     margin-right: 12px;
+    font-size: 20px!important;
 }
 .office_address ul.address li p {
     display: inline-flex;
@@ -5185,18 +5279,22 @@ span.accordion__caption {
     margin: 0;
     align-items: center;
     font-size: 17px;
+    color: #fff;
 }
-.office_address ul.address li i {
+.office_address ul.address li .location_address:hover {
+    color: #D4B9F8;
+}
+/* .office_address ul.address li i {
     margin-right: 24px;
     display: inline-block;
     font-size: 18px;
     color: #0d2846;
-}
+} */
 .contact-form .vc_column-inner {
     padding: 31px 20px;
 }
 .contact-form .qodef-column-inner label {
-    color: #000;
+    color: #fff;
     font-weight: bold;
     margin-bottom: 5px;
     display: block;
@@ -5269,10 +5367,11 @@ input.wpcf7-form-control.wpcf7-submit {
     text-align: left !important;
 }
 .ets-contact-form {
-    background-color: #eeeeee;
+    background-color: #1f0541;
     display: inline-block;
     width: 100%;
     padding: 40px 0;
+    background-image: linear-gradient(-45deg,#f70b7f 0,#9a249c 53%,#4f0dcf 100%);
 }
 @media (max-width: 600px) {
     .data-row {
@@ -6304,7 +6403,7 @@ input.wpcf7-form-control.wpcf7-submit {
     left: 50%;
     transform: translateX(-50%);
     width: 1245px;
-    padding: 0 60px 200px;
+    padding: 0 60px 250px;
 }
 .services-process-circle {
     position: absolute;
@@ -6399,14 +6498,14 @@ input.wpcf7-form-control.wpcf7-submit {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    left: 37.5%;
+    left: 30.5%;
     top: 77%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
     text-align: center;
-    max-width: 320px;
+    max-width: 475px;
 }
 .services-process__items:nth-child(3) .services-process__icon {
     margin-bottom: 9px;
@@ -6871,6 +6970,9 @@ input.wpcf7-form-control.wpcf7-submit {
     border-radius: 10px;
     box-shadow: 0 0 15px #00000059;
 }
+.mision-vision-about .mision-vision:hover {
+    background: #121739;
+}
 @media (max-width: 600px) {
     .mision-vision-about .mision-vision {
         padding: 18px 15px;
@@ -6964,6 +7066,11 @@ input.wpcf7-form-control.wpcf7-submit {
 .map-section {
     display: inline-block;
     width: 100%;
+    padding: 0 0 40px;
+    margin-top: -6px;
+}
+.map-section .col-sm-12 {
+    padding: 0;
 }
 h2.carer-details-h2 {
     font-size: 32px;
@@ -8816,19 +8923,16 @@ ul.career-expect p {
   .gap-process-icon > svg:hover {
     box-shadow: 0 0 25px 11px #ddd;
   }
-  
+ 
 .huge-benefits h5:hover{
 	 box-shadow: 0 0 25px 11px #ddd;
 }
-
 .howDO:hover {
     box-shadow: 0 0 25px 11px #ddd;
 }
-
 .whyUS h5:hover{
 	box-shadow: 0 0 25px 11px #ddd;
 }
-
 .value_benifit_wrap .outer:hover{
 	 box-shadow: 0 0 25px 11px #e7e7e7;
 }
@@ -8838,48 +8942,48 @@ ul.career-expect p {
 .our-woocommerce-image:hover{
 	 box-shadow: 0 0 25px 11px #ddd;
 }
-
 .col-md-4.col-sm-6.serviceWe:hover {
     box-shadow: 0 0 25px 11px #ddd;
 }
-
 .SubPadd input[type="email"]{
 	border: none;
 }
 /* .gap-process-icon img:hover{
 	box-shadow: 0 0 25px 11px #ddd;
 } */
-
 .written-by {
 }
-
 .written-by .flex-start {
     display: flex !important;	
     align-items: center !important;
 }
-
 .blog-author-image {
 	border: 1px solid;
     border-radius: 50%;
 }
-
 .written-by-image {
     margin-right: 14px;
 }
-
 .written-by-text {
     position: relative;
 }
-
 .the_author {    
 	color: #8d8d8d;
     font-size: 12px;
     width: 131px;
     padding-top: 18px;
 }
-
 .author_name {
     color: #000;
     font-size: 24px;
 }
-
+.sap-customer-transform h2 {
+    padding-bottom: 30px;
+    font-size: 34px;
+}
+.sap-customer-transform p {
+    padding-bottom: 20px;
+}
+.benefit-hana .howDO {
+    min-height: 560px;
+}

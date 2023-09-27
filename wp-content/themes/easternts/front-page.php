@@ -164,16 +164,6 @@
 
         <div class="row d-inline">
 			
-<!--             <div class="col-md-7 col-sm-12">
-                <a href="<?php echo get_permalink(712); ?>">
-                    <div class="ourExpert">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
-                        <div class="exportTitle">
-                            <h3>Mobile App Development</h3>
-                        </div>
-                    </div>
-                </a>
-            </div> -->
 			<div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
                 <a href="<?php echo get_permalink(712); ?>">
                     <div class="ourExpert ourmarg">
@@ -193,11 +183,11 @@
                 </a>
             </div>
             <div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
-                <a href="<?php echo get_permalink(714); ?>">
+                <a href="<?php echo get_permalink(9740); ?>">
                     <div class="ourExpert ourmarg">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/pos-1.gif" alt="creative" width="" height="">
                         <div class="exportTitle">
-                            <h3>Point of Sale</h3>
+                            <h3>SAP</h3>
                         </div>
                     </div>
                 </a>

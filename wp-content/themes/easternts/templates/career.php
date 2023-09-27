@@ -17,7 +17,7 @@
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1> Career </h1>
-                            <p> Become a part of something big. Let’s grow together.</p>
+                            <p>Join Our Team of Innovators, Shape the Digital Future!</p>
                         </div>
                     </div>
                 </div>
@@ -44,11 +44,11 @@
               <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="box">
                   <div class="career_img">
-                    <p class="developer_name"><?php the_title(); ?></p>
-                      <?php $career_icon = get_field('career_icon'); ?>
-                      <?php if(!empty($career_icon)): ?>
-                        <img class="devlop_icon" src="<?php echo esc_url($career_icon['url']);?>" alt="<?php echo esc_attr($career_icon); ?>">
-                      <?php endif; ?>
+                    <p class="developer_name"><?php the_title(); ?></p>                        
+                        <?php $image = get_field('career_icon');
+					    if( !empty($image)): ?>
+						    <img class="devlop_icon" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>"  title="career icon"/>
+					    <?php endif; ?>
                   </div>
                   <p class="developer_name"><?php the_field('career_title'); ?></p>
                     <div class="posi-exp">

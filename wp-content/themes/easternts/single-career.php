@@ -106,7 +106,7 @@ $the_query = new WP_Query( $args );
                                                       $image = get_sub_field('tool_icon');
                                                       ?>
                                                       <li>
-                                                            <img class="devlop_icon" src="<?php echo esc_url($image['url']);?>" alt="<?php echo esc_attr($image); ?>">
+                                                            <img class="devlop_icon" src="<?php echo esc_url($image['url']);?>" alt="<?php echo esc_attr($image['alt']); ?>">
                                                             <h3><b><?php the_sub_field('tool_name'); ?> </b></h3>
                                                             <p><?php the_sub_field('tool_description'); ?></p>
                                                       </li>

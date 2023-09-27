@@ -34,7 +34,7 @@ Template Name: About us
                 <h3>Bring your application to life with Edventure Infotech</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-				<a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
+                  <a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
             </div>
         </div>
     </div>
@@ -55,7 +55,7 @@ Template Name: About us
                         </p>                  
                   </div>
                   <div class="col-md-6">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/who-are-we.gif" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/team.gif" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us">
                   </div>
             </div>
       </div>

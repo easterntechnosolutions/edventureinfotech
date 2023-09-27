@@ -17,7 +17,7 @@
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1>Blog</h1>
-                            <p>Stay technologically ahead </p>
+                            <p>Unveiling Insights, Trends, and Innovations</p>
                         </div>
                     </div>
                 </div>

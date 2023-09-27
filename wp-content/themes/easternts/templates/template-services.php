@@ -95,7 +95,7 @@ Template Name: Services
             <div class="row ">
                 <div class="serWeb colorang">
                     <h3><a href="">Mobile App Development</a></h3>
-                    <p>Eastern Techno Solution knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
+                    <p>Edventure InfoTech knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
                 </div>
             </div>
             <div class="row serflex colbgorang">
@@ -142,9 +142,34 @@ Template Name: Services
             </div>
         </div>
     </section>
+    <section class="serSectionpadd">
+        <div class="container">
+            <div class="row ">
+                <div class="serWeb coldarkpur">
+                    <h3><a href="">SAP</a></h3>
+                    <p>SAP is an enterprise resource planning (ERP) software suite developed by SAP SE, a multinational software corporation. It represents the next-generation ERP system, built on the advanced in-memory database platform called SAP HANA. SAP is designed to streamline and enhance various business processes such as finance, procurement, manufacturing, sales, distribution, and more. It offers real-time data processing and analytics capabilities, enabling organizations to make faster and more informed decisions.</p>
+                </div>
+            </div>
+            <div class="row serflex colbgdarkpur">
+                <div class="col-md-6 order1 p0">
+                    <img src="../wp-content/uploads/2023/09/SAP-service.webp">
+                </div>
+                <div class="col-md-6  p0">
+                    <div class="serCard">
+                        <p><a href="">Our SAP Services:</a></p>
+                        <ul>
+                            <li><a href="<?php the_permalink(9753); ?>">SAP S/4 HANA</a></li>
+                            <li><a href="<?php the_permalink(9755); ?>">SAP S/4 HANA Cloud</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </div>
 
-<section>
+<!-- <section>
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">
@@ -176,7 +201,7 @@ Template Name: Services
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <?php get_footer(); ?>
