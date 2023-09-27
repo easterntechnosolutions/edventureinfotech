@@ -59,7 +59,7 @@ Template Name: Custom Application Development
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Business owners have their own ideas or thoughts on how to take their businesses forward with different approaches. To meet such a wide range of requirements, Eastern Techno Solutions offers Custom Application Development services in India. These services let us customize the web application as per the product and the client’s requirements. To optimize output, we have replaced all manual work with machines. With the latest technology, discrepancies are eliminated, making the process more reliable. In this fast-moving era, Custom Application Development services serve as a means to take your product out into the world in the most efficient way.</p>
+                    <p>Business owners have their own ideas or thoughts on how to take their businesses forward with different approaches. To meet such a wide range of requirements, Edventure Infotech offers Custom Application Development services in India. These services let us customize the web application as per the product and the client’s requirements. To optimize output, we have replaced all manual work with machines. With the latest technology, discrepancies are eliminated, making the process more reliable. In this fast-moving era, Custom Application Development services serve as a means to take your product out into the world in the most efficient way.</p>
                 </div>
             </div>
 
@@ -76,7 +76,7 @@ Template Name: Custom Application Development
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Custom Application Development is a process that is built from scratch and directed towards fulfilling each client’s specifications. Our experience allows us to target the client’s area of concern and helps us in successfully delivering exceptional custom application development services. From developing custom applications for various sectors to working for individuals, Eastern Techno Solutions understands the specific needs of all.</p>
+                    <p>Custom Application Development is a process that is built from scratch and directed towards fulfilling each client’s specifications. Our experience allows us to target the client’s area of concern and helps us in successfully delivering exceptional custom application development services. From developing custom applications for various sectors to working for individuals, Edventure Infotech understands the specific needs of all.</p>
                 </div>
             </div>
         </div>

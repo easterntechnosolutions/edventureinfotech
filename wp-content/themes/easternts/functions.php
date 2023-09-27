@@ -995,7 +995,7 @@ function send_smtp_email( $phpmailer ) {
     $phpmailer->Username   = 'noreply.easternts06@gmail.com';
     $phpmailer->Password   = 'nacpgphauekshajz';
     $phpmailer->From       = 'noreply.easternts06@gmail.com';
-    $phpmailer->FromName   = 'Eastern Techno Solutions ';
+    $phpmailer->FromName   = 'Edventure Infotech ';
 //     $phpmailer->addReplyTo('noreply.easternts06@gmail.com', 'Information');
 }
 

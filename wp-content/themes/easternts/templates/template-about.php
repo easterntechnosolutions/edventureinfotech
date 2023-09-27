@@ -31,7 +31,7 @@ Template Name: About us
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp ">
-                <h3>Bring your application to life with Eastern Techno Solutions</h3>
+                <h3>Bring your application to life with Edventure Infotech</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
 				<a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
@@ -81,7 +81,7 @@ Template Name: About us
             <div class="row">
                   <div class="fireAdd text-center">
                         <h2>Our Core Values</h2>
-                        <p>Eastern Techno Solutions’s six core values are the foundation of the company – they’ve been there from the start and really are the DNA of the organisation. They represent the way we behave towards each other, our colleagues and our customers. These values drive our approach to work and business.</p>
+                        <p>Edventure Infotech’s six core values are the foundation of the company – they’ve been there from the start and really are the DNA of the organisation. They represent the way we behave towards each other, our colleagues and our customers. These values drive our approach to work and business.</p>
                   </div>
             </div>
 
@@ -211,7 +211,7 @@ Template Name: About us
       <div class="container">
             <div class="row">
                   <div class="fireAdd text-center">
-                        <h2>Why Eastern Techno Solutions?</h2>
+                        <h2>Why Edventure Infotech?</h2>
                         <p>We have built the foundation of our company on the pillars of honesty, integrity, and high-quality deliverables. Our highly talented bunch of employees always strive hard to raise our bar in terms of services provided to our clients with utmost dedication. We believe in the work hard, party harder principle.</p>
                   </div>
             </div>

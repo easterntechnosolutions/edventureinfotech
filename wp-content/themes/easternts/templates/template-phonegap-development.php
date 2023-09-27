@@ -42,7 +42,7 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp ">
-                <h3>Bring your application to life with Eastern Techno Solutions!</h3>
+                <h3>Bring your application to life with Edventure Infotech!</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
 				<a href="javascript:void(0);" class="subscriber-form">Know how</a>
@@ -56,11 +56,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/phonegap-development3.webp" class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="Phonegap">
+                <img src="../../wp-content/uploads/2023/09/phone-gap-development1.png" class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="Phonegap">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Eastern Techno Solutions excels in PhoneGap Development in India. Being one of the leading web developing companies, we use PhoneGap, an open source framework to develop mobile applications. The PhoneGap development uses web technologies like HTML5, CSS3 and Javascript to bring the applications to life. It supports all major platforms like iOS, Android and the likes. The one-time code development makes the working of the application easy across various platforms. The advanced technology has enabled PhoneGap to interact with hardware devices such as GPS and Accelerometer.</p>
+                    <p>Edventure Infotech excels in PhoneGap Development in Canada, using this open-source framework to create mobile apps with web technologies. PhoneGap supports iOS, Android, and more, allowing for cross-platform development. Its advanced technology enables interaction with hardware devices like GPS and Accelerometer.</p>
                 </div>
             </div>
 
@@ -72,33 +72,18 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/phonegap-development2.webp" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s"  style="width: 951px;height: auto;" alt="Phonegap">
+                <img src="../../wp-content/uploads/2023/09/phone-gap-development2.png" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s"  style="width: 951px;height: auto;" alt="Phonegap">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>To meet all your requirements, our expert PhoneGap developers look into each and every minute detail of the project. The development process includes one-time app building that can run on different platforms. Before launching your app, the PhoneGap developers test it’s running over various mobile operating systems to save you the cost of development and time. After the successful testing, your application is ported to multiple platforms to be launched, making the whole process thirty times faster than the usual.</p>
-                    <p>Trust us to turn your app into a sensation with our PhoneGap development in India.</p>
+                    <p>Our expert PhoneGap developers pay meticulous attention to detail to meet your requirements. We build your app once, ensuring it runs on various platforms. Through rigorous testing on different mobile systems, we save you time and development costs. Once testing is successful, we adapt your app to multiple platforms, expediting the launch process 30 times faster than usual.</p>
+                    <p>Trust us to turn your app into a sensation with our PhoneGap development in Canada.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="">
-    <div class="container-fluid p0">
-        <div class="row appFlex">
-            <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/phonegap-development1.webp" class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="Android">
-            </div>
-            <div class="col-md-6 order2  p0">
-                <div class="zigZ">
-                    <p>Eastern Techno Solutions excels in PhoneGap Development in India. Being one of the leading web developing companies, we use PhoneGap, an open source framework to develop mobile applications. The PhoneGap development uses web technologies like HTML5, CSS3 and Javascript to bring the applications to life. It supports all major platforms like iOS, Android and the likes. The one-time code development makes the working of the application easy across various platforms. The advanced technology has enabled PhoneGap to interact with hardware devices such as GPS and Accelerometer.</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 <!-- Phonegap App Development Process -->
 
@@ -534,7 +519,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/healthcare-1.webp" alt="healthcare">
+                            <img src="../../wp-content/uploads/2023/02/healthcare-1.webp" alt="healthcare">
                             <div class="health_block">
                                 <a href="#"> Healthcare <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -544,7 +529,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-education.webp" alt="a-education">
+                            <img src="../../wp-content/uploads/2023/02/a-education.webp" alt="a-education">
                             <div class="health_block">
                                 <a href="#"> Education <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -554,7 +539,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-retail.webp" alt="a-retail">
+                            <img src="../../wp-content/uploads/2023/02/a-retail.webp" alt="a-retail">
                             <div class="health_block">
                                 <a href="#"> Retail <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -564,20 +549,20 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health v_img_position">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-finance.webp" alt="a-finance">
+                            <img src="../../wp-content/uploads/2023/02/a-finance.webp" alt="a-finance">
                             <div class="health_block">
                                 <a href="#"> Finance <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="v_img_position">
-                            <img src="/wp-content/uploads/2023/01/home-left.png" alt="home-left">
+                            <img src="../../wp-content/uploads/2023/01/home-left.png" alt="home-left">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-fitness.webp" alt="a-fitness">
+                            <img src="../../wp-content/uploads/2023/02/a-fitness.webp" alt="a-fitness">
                             <div class="health_block">
                                 <a href="#"> Fitness <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -587,7 +572,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/oil-gas.webp" alt="oil-gas">
+                            <img src="../../wp-content/uploads/2023/02/oil-gas.webp" alt="oil-gas">
                             <div class="health_block">
                                 <a href="#"> Oil &amp; Gas <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -597,7 +582,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-transpotation.webp" alt="a-transpotation">
+                            <img src="../../wp-content/uploads/2023/02/a-transpotation.webp" alt="a-transpotation">
                             <div class="health_block">
                                 <a href="#"> Transpotation <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -607,7 +592,7 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <div class="industry_health">
                         <div class="industry_dev_a">
-                            <img src="/wp-content/uploads/2023/02/a-logistics.webp" alt="a-logistics">
+                            <img src="../../wp-content/uploads/2023/02/a-logistics.webp" alt="a-logistics">
                             <div class="health_block">
                                 <a href="#"> Logistics <i class="fas fa-arrow-right"></i></a>
                             </div>
@@ -636,11 +621,11 @@
                     <div class="a_mobile">
                         <div class="mobile_app_box">
                             <h3>Dedicated Experts </h3>
-                            <p class="web_desc_para">Our team of PhoneGap experts focuses on building an efficient and productive app with high potential. Being the top-rated Phone Gap mobile app development in India, we research before starting. We ensure that the app provides the most interactive UI of all time.
+                            <p class="web_desc_para">Our team of PhoneGap experts focuses on building an efficient and productive app with high potential. Being the top-rated Phone Gap mobile app development in Canada, we research before starting. We ensure that the app provides the most interactive UI of all time.
                             </p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/dedicate.webp" alt="dedicate">
+                            <img src="../../wp-content/uploads/2023/02/dedicate.webp" alt="dedicate">
                         </div>
                     </div>
                 </div>
@@ -651,7 +636,7 @@
                             <p class="web_desc_para">At Perdiscoo, we have balanced the price, features, and performance of our offerings to fit the emerging businesses. Thus, avail all our top-rated services with an ensured efficient performance at an affordable price range. But, you can take our word for zero compromises as well.</p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/affordable.webp" alt="affordable">
+                            <img src="../../wp-content/uploads/2023/02/affordable.webp" alt="affordable">
                         </div>
                     </div>
                 </div>
@@ -662,7 +647,7 @@
                             <p class="web_desc_para">Our dedicated team provides a powerful app that suits the current trend. Thus, we keep on updating our software from time to time. It guarantees an utterly reliable UI for your targeted customers.</p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/latest_tech.webp" alt="latest_tech">
+                            <img src="../../wp-content/uploads/2023/02/latest_tech.webp" alt="latest_tech">
                         </div>
                     </div>
                 </div>
@@ -673,7 +658,7 @@
                             <p class="web_desc_para">Besides infusing superior features that surpass the competition, we also leave a stick on the client's hands. All our deployed apps are customizable to a great extent. Thus, you can personalize the setup and features as per your will.</p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/custom.webp" alt="custom">
+                            <img src="../../wp-content/uploads/2023/02/custom.webp" alt="custom">
                         </div>
                     </div>
                 </div>
@@ -685,7 +670,7 @@
                             </p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/affordable.webp" alt="affordable">
+                            <img src="../../wp-content/uploads/2023/02/affordable.webp" alt="affordable">
                         </div>
                     </div>
                 </div>
@@ -697,7 +682,7 @@
                             </p>
                         </div>
                         <div class="icon_img">
-                            <img src="/wp-content/uploads/2023/02/timely.webp" alt="timely">
+                            <img src="../../wp-content/uploads/2023/02/timely.webp" alt="timely">
                         </div>
                     </div>
                 </div>
@@ -721,7 +706,7 @@
 
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/phonegap-hub.webp"  class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" alt="IphoneX_Playbook">
+                <img src="../../wp-content/uploads/2023/02/phonegap-hub.webp"  class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" alt="IphoneX_Playbook">
             </div>
 
         </div>

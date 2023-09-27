@@ -74,7 +74,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
                         <h4> Android App Development </h4>
-                        <p>When it comes to design, graphics, code, or animation, we have excelled in all the possible areas of building an application. We at "Eastern Techno Solutions" provide the exact requirements determined by the client.</p>
+                        <p>When it comes to design, graphics, code, or animation, we have excelled in all the possible areas of building an application. We at "Edventure Infotech" provide the exact requirements determined by the client.</p>
                         <a href="<?php echo get_permalink(43); ?>">Read More...</a>
 
                     </div>
@@ -105,7 +105,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
                         <h4>E-Commerce </h4>
-                        <p>E-commerce refers to commercial transactions conducted electronically on the internet. At "Eastern Techno Solutions", we provide unique eCommerce web development services by creating cutting-edge online storefronts.</p>
+                        <p>E-commerce refers to commercial transactions conducted electronically on the internet. At "Edventure Infotech", we provide unique eCommerce web development services by creating cutting-edge online storefronts.</p>
                         <a href="<?php echo get_permalink(300); ?>">Read More...</a>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                     <div class="ourDetails">
                         <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
                         <h4> Software Development</h4>
-                        <p>Software plays a crucial role when it comes to efficiency, accuracy, time-saving, security and affordability. It is our goal at "Eastern Techno Solutions" to ensure the safe delivery of your data without compromising it.</p>
+                        <p>Software plays a crucial role when it comes to efficiency, accuracy, time-saving, security and affordability. It is our goal at "Edventure Infotech" to ensure the safe delivery of your data without compromising it.</p>
                         <a href="<?php echo get_permalink(710); ?>">Read More...</a>
                     </div>
                 </div>

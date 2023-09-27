@@ -35,7 +35,7 @@ Template Name: Client
     <div class="container">
         <div class="row d-flex">
             <div class="col-lg-12 ProcssWork text-center">
-                <p>Over the years, Eastern Techno Solutions has evolved into one of the leading web development and app development companies in Australia and India. Our expertise, lets us cater to a wide range of diverse businesses. Crediting our knowledge and resources, we have provided personalised services to each of our clients. Here are the brands that are a part of Eastern Techno Solution’s family.
+                <p>Over the years, Edventure Infotech has evolved into one of the leading web development and app development companies in Australia and India. Our expertise, lets us cater to a wide range of diverse businesses. Crediting our knowledge and resources, we have provided personalised services to each of our clients. Here are the brands that are a part of Eastern Techno Solution’s family.
                   </p>
             </div>
         </div>

@@ -46,7 +46,7 @@ Template Name: Software Development
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Software development is a combination of many activities such as planning, designing, development, testing, bug fixing, application maintenance, and much more. This is a crucial process and is increasing globalization. In this tech-savvy world, software development & advancement help small and large businesses to achieve success. If you are looking for paramount software development companies in Surat, Eastern Techno Solutions is the right choice for you. As one of the leading companies, we provide creative, agile, and competitive services for software development. Our dedicated development team has helped many businesses by delivering appealing and innovative mobile apps as well as software applications to make business processes easier. If you are searching for technology consulting, custom software development, software testing, quality assurance, system integration, or software support- we have all the solutions for you.</p>
+                    <p>Software development is a combination of many activities such as planning, designing, development, testing, bug fixing, application maintenance, and much more. This is a crucial process and is increasing globalization. In this tech-savvy world, software development & advancement help small and large businesses to achieve success. If you are looking for paramount software development companies in Surat, Edventure Infotech is the right choice for you. As one of the leading companies, we provide creative, agile, and competitive services for software development. Our dedicated development team has helped many businesses by delivering appealing and innovative mobile apps as well as software applications to make business processes easier. If you are searching for technology consulting, custom software development, software testing, quality assurance, system integration, or software support- we have all the solutions for you.</p>
                 </div>
             </div>
         </div>
@@ -132,7 +132,7 @@ Template Name: Software Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Software Product Development Domain Expertise</h2>
-                <p>As one of the leading software product development companies, Eastern Techno Solutions provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
+                <p>As one of the leading software product development companies, Edventure Infotech provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
             </div>
         </div>
 
@@ -837,7 +837,7 @@ Template Name: Software Development
                 <div class="intuCMS cami-box">
                     <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>ISVs & Product Companies </h3>
-                    <p>We, Eastern Techno Solutions understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+                    <p>We, Edventure Infotech understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
@@ -871,7 +871,7 @@ Template Name: Software Development
             <div class="col-md-12 mb-5 pb-xxl-5">
                 <div class="fireAdd">
                     <h2>How to Outsource Software Development?</h2>
-                    <p>At Eastern Techno Solutions, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
+                    <p>At Edventure Infotech, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
                 </div>
             </div>  
         </div>

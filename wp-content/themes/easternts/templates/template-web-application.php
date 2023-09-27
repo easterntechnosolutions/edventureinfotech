@@ -48,7 +48,7 @@ Template Name: Web Application
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Vuejs Development</h2>
-                    <p>When it comes to high performance, effortless use, and an interactive interface for a web application, nothing beats Laravel and Vuejs' flawless pairing. Providing you with the advantages of both, the expert developers at Eastern Techno Solutions skillfully utilize both frameworks together to create a complete web application experience. For more information, call us at<br> <a href="tel: +91 704 682 7566">+91 704 682 7566</a>.</p>
+                    <p>When it comes to high performance, effortless use, and an interactive interface for a web application, nothing beats Laravel and Vuejs' flawless pairing. Providing you with the advantages of both, the expert developers at Edventure Infotech skillfully utilize both frameworks together to create a complete web application experience. For more information, call us at<br> <a href="tel: +91 704 682 7566">+91 704 682 7566</a>.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(706); ?>" class="comBtn">Read More</a>
@@ -88,7 +88,7 @@ Template Name: Web Application
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Laravel Development</h2>
-                    <p>A Laravel application is a web application that is high-functioning, effortless, and interactive. Providing you with the most effective results, the expert developers at Eastern Techno Solutions skillfully utilize the framework to create a complete web application experience. For more information, call <a href="tel: +91 704 682 7566">+91 704 682 7566</a></p>
+                    <p>A Laravel application is a web application that is high-functioning, effortless, and interactive. Providing you with the most effective results, the expert developers at Edventure Infotech skillfully utilize the framework to create a complete web application experience. For more information, call <a href="tel: +91 704 682 7566">+91 704 682 7566</a></p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(704); ?>" class="comBtn">Read More</a>
@@ -108,7 +108,7 @@ Template Name: Web Application
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>IT Consulting</h2>
-                    <p>Not so techno-savvy? Don’t worry, we are! We are here to help you with your IT concerns at any hour. Make your business unstoppable with our IT consulting services. At Eastern Techno Solutions, your concerns become ours. With us by your side, a technical glitch will never be your problem. We are at your service on <br><a href="tel: +91 704 682 7566">+91 704 682 7566</a>.</p>
+                    <p>Not so techno-savvy? Don’t worry, we are! We are here to help you with your IT concerns at any hour. Make your business unstoppable with our IT consulting services. At Edventure Infotech, your concerns become ours. With us by your side, a technical glitch will never be your problem. We are at your service on <br><a href="tel: +91 704 682 7566">+91 704 682 7566</a>.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(306); ?>" class="comBtn">Read More</a>
@@ -150,7 +150,7 @@ Template Name: Web Application
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Website Database Development</h2>
-                    <p>Just like you, we also believe in maintaining a clean database. So we know what the criteria are for making one that is easy to use and update. Never let your clients miss any update from your business with our website database development. Take everyone forward as you see your business grow! Eastern Techno Solutions is here for you at <a href="mailto: contact@easternts.com">contact@easternts.com</a></p>
+                    <p>Just like you, we also believe in maintaining a clean database. So we know what the criteria are for making one that is easy to use and update. Never let your clients miss any update from your business with our website database development. Take everyone forward as you see your business grow! Edventure Infotech is here for you at <a href="mailto: contact@easternts.com">contact@easternts.com</a></p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(714); ?>" class="comBtn">Read More</a>
