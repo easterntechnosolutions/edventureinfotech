@@ -10,7 +10,7 @@ Template Name: Software Development
           <div class="">
               <div class="row text-center">
                   <!-- <div class="">
-                      <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
+                      <img src="https://www.easternts.com.au../../wp-content/uploads/2019/05/App-Development.jpg">
                   </div> -->
                   <div class="serimg">
                       <div class="sercon ">
@@ -42,11 +42,11 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Software">
+                <img src="../../wp-content/uploads/2023/02/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Software">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Software development is a combination of many activities such as planning, designing, development, testing, bug fixing, application maintenance, and much more. This is a crucial process and is increasing globalization. In this tech-savvy world, software development & advancement help small and large businesses to achieve success. If you are looking for paramount software development companies in Surat, Eastern Techno Solutions is the right choice for you. As one of the leading companies, we provide creative, agile, and competitive services for software development. Our dedicated development team has helped many businesses by delivering appealing and innovative mobile apps as well as software applications to make business processes easier. If you are searching for technology consulting, custom software development, software testing, quality assurance, system integration, or software support- we have all the solutions for you.</p>
+                    <p>Software development encompasses a spectrum of activities, including planning, design, coding, testing, debugging, ongoing maintenance, and more. As globalization continues to surge, this process plays a pivotal role in today's tech-driven world, enabling businesses of all sizes to thrive. If you're in search of top-notch software development firms in Surat, look no further than Edventure InfoTech. As a premier company, we offer dynamic, agile, and competitive software development services. Our proficient team has empowered numerous enterprises with the delivery of cutting-edge mobile apps and software solutions, streamlining their operations. Whether you require technology consultancy, custom software development, rigorous testing, quality assurance, seamless system integration, or robust software support, we have the comprehensive solutions you seek.</p>
                 </div>
             </div>
         </div>
@@ -57,11 +57,11 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/software-development4.gif" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Phonegap">
+                <img src="../../wp-content/uploads/2023/02/software-development4.gif" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Phonegap">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                <p>Software development is the process of designing, creating, testing, and maintaining software applications. It involves writing and maintaining the source code that makes up the application, as well as designing and implementing the various features and functions of the software. There are many different methods and approaches to software development, including agile development, waterfall development, and rapid prototyping. These methods differ in terms of their focus and the level of planning and control employed in the development process. Software development requires a combination of technical skills and creative problem-solving abilities. It also involves working with a team of developers, designers, and testers to ensure that the software is of high quality and meets the needs of users.</p>
+                <p>Software development encompasses the entire lifecycle of crafting, testing, and sustaining software applications. This involves not only writing and managing the underlying source code, but also conceptualizing and executing the diverse features and functionalities of the software. Various methodologies such as agile development, waterfall development, and rapid prototyping are employed, each differing in their emphasis on planning and control throughout the development process. Success in software development demands a blend of technical proficiency and inventive problem-solving skills. Additionally, it entails collaboration with a team of developers, designers, and testers to guarantee the software's excellence and alignment with user requirements.</p>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@ Template Name: Software Development
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-1.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-1.webp" alt="ets-it-consulty">
                     </div>
                     <h3>Common development concerns</h3>
                     <p>Here are some common concerns of global product companies</p>
@@ -101,7 +101,7 @@ Template Name: Software Development
             <div class="col-md-4">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center it-consult-marg-nagtive">
-                        <img src="/wp-content/uploads/2023/02/ets-it-consulting.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/ets-it-consulting.webp" alt="ets-it-consulty">
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@ Template Name: Software Development
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-2.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-2.webp" alt="ets-it-consulty">
                     </div>
                     <h3>Our product development approach</h3>
                     <p>Considering your common & specific challenges we respond accordingly</p>
@@ -132,7 +132,7 @@ Template Name: Software Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Software Product Development Domain Expertise</h2>
-                <p>As one of the leading software product development companies, Eastern Techno Solutions provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
+                <p>As one of the leading software product development companies, Edventure InfoTech provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
             </div>
         </div>
 
@@ -141,7 +141,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-32.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-32.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>Media Portals </h3>
                     <p>We partner with media and entertainment companies to help them deliver responsive web portals that are easy to monetize. These portals include features such as advanced search and filtering, DRM functionality, and seamless CDN integration. </p>
@@ -151,7 +151,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-31.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-31.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>BI & Reporting</h3>
                     <p>Our BI & reporting solutions produce useful information by presenting complex analytical and statistical information. Easily accessible to non-tech users, these BI solutions are interactive and fully customized to facilitate decision making for professionals. </p>
@@ -161,7 +161,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-33.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-33.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>Cloud powered OTT </h3>
                     <p>Unlock the full potential of your OTT software with our cloud solutions. Our development team has years of hands-on experience in cloud-based workflow orchestration, metadata enrichment, ML-based transcoding, captioning, dubbing, quality control, compliance and more. </p>
@@ -171,7 +171,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-30.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-30.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>EdTech </h3>
                     <p>Use the cloud to increase the overall performance of your e-Learning solution. Unlock seamless access to media libraries from any device, and streamline analysis of student data with ML algorithms. </p>
@@ -181,7 +181,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-29.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-29.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>M-Commerce </h3>
                     <p>We build M-Commerce products using the latest technologies such as Al, IoT, Geo- fencing etc to deliver solutions like online payment, eStores, food delivery etc. </p>
@@ -191,7 +191,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-28.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-28.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3> Healthcare</h3>
                     <p>Our software product development team has the expertise to create intuitive user experiences. They also safeguard confidential medical and financial data, and link your solution with EHR, telehealth, PHM and other existing systems. </p>
@@ -771,7 +771,7 @@ Template Name: Software Development
                 </div>
             </div>
             <div class="col-md-6 p-4">
-                <img src="/wp-content/uploads/2022/12/development-lifecycle-1.gif" alt="development-lifecycle">
+                <img src="../../wp-content/uploads/2022/12/development-lifecycle-1.gif" alt="development-lifecycle">
             </div>
         </div>
       
@@ -790,14 +790,14 @@ Template Name: Software Development
             </div>  
             <div class="col-sm-6 col-lg-6 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Healthcare </h3>
                     <p>We provide complete solutions for the healthcare industry. Our IT solutions effectively improve internal processes and enhance operational efficiencies.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Travel & Tourism </h3>
                     <p>Our agile travel software design & development services improve your tour & travel business ROI and reduce operational costs to make it more profitable.</p>
                 </div>
@@ -806,28 +806,28 @@ Template Name: Software Development
     
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Retail & Ecommerce</h3>
                     <p>We build powerful custom e-commerce development solutions including e-carts & marketplaces, social commerce solutions, e-auction sites, to name a few. Our retail solutions help you streamline your business process and maximize profitability by cutting additional costs. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Education & E-Learning </h3>
                     <p>Our custom elearning solutions include online training apps, online courses, learning management systems, corporate learning portals to name a few. For your elearning needs, we offer complete web, mobile, and SaaS-based solutions. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Banking & Finance </h3>
                     <p>Our banking software development company offers custom banking & financial software solutions for increased operational efficiency. Constant cost leadership and agility. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Media & Entertainment</h3>
                     <p>Our offshore software development company offers social networking development tools, online promotion solutions, and media content distribution channels. </p>
                 </div>
@@ -835,28 +835,28 @@ Template Name: Software Development
 
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>ISVs & Product Companies </h3>
-                    <p>We, Eastern Techno Solutions understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+                    <p>We, Edventure InfoTech understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Publishing/ Advertising </h3>
                     <p>Our advanced publishing and advertising software development solutions help businesses empower their business models to cater to future digital needs. A software development company in India can offer complete web and mobile solutions to the publishing industry. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Logistics & Transportation </h3>
                     <p>Our result-driven software development services for logistics & transportation maximize ROI and effectively manage daily workflows. As an Indian software development company, we are able to provide complete web & mobile solutions for the logistics industry.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt=svgexport-black>
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt=svgexport-black>
                     <h3>Automotive </h3>
                     <p>Our innovative web and mobile applications help the automotive sector to be more cost efficient & sustainable. Located in Surat, Gujarat, India, our software development company can provide complete web and mobile solutions for the automotive sector. </p>
                 </div>
@@ -869,9 +869,9 @@ Template Name: Software Development
     <div class="container">
         <div class="row">
             <div class="col-md-12 mb-5 pb-xxl-5">
-                <div class="fireAdd">
+                <div class="fireAdd text-center-important">
                     <h2>How to Outsource Software Development?</h2>
-                    <p>At Eastern Techno Solutions, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
+                    <p>At Edventure InfoTech, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
                 </div>
             </div>  
         </div>
@@ -1011,7 +1011,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_Backend" src="/wp-content/uploads/2023/02/ic_backend.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_Backend" src="../../wp-content/uploads/2023/02/ic_backend.webp" class="card-image-height" />
                         <h4 class="card-title">Back End</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1031,7 +1031,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_frontend" src="/wp-content/uploads/2023/02/ic_frontend.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_frontend" src="../../wp-content/uploads/2023/02/ic_frontend.webp" class="card-image-height" />
                         <h4 class="card-title">Front End</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1049,7 +1049,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_database" src="/wp-content/uploads/2023/02/ic_database.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_database" src="../../wp-content/uploads/2023/02/ic_database.webp" class="card-image-height" />
                         <h4 class="card-title">Database</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1068,7 +1068,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_database" src="/wp-content/uploads/2023/02/ic_deployment.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_database" src="../../wp-content/uploads/2023/02/ic_deployment.webp" class="card-image-height" />
                         <h4 class="card-title"> Cloud & DevOps</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1089,7 +1089,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_testing_new" src="/wp-content/uploads/2023/02/ic_testing_new.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_testing_new" src="../../wp-content/uploads/2023/02/ic_testing_new.webp" class="card-image-height" />
                         <h4 class="card-title">Testing</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1107,7 +1107,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_devops" src="/wp-content/uploads/2023/02/ic_devops.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_devops" src="../../wp-content/uploads/2023/02/ic_devops.webp" class="card-image-height" />
                         <h4 class="card-title">Project Management Tools</h4>
                     </div>
                     <div class="row mt-3 tech-names">
