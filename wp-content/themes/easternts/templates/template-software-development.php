@@ -42,7 +42,7 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="../../wp-content/uploads/2023/02/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Software">
+                <img src="../../wp-content/uploads/2023/09/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Software">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -57,7 +57,7 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="../../wp-content/uploads/2023/02/software-development4.gif" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Phonegap">
+                <img src="../../wp-content/uploads/2023/09/software-development1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Phonegap">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -394,8 +394,8 @@ Template Name: Software Development
             <div class="col-md-6 righStart">
                 <div>
                     <h3>Right support to turn your startup into <b class="bBlod"> Profitable Venture </b> </h3>
-                    <p><a href="tel:+91 704 682 7566">+91 704 682 7566</a>
-                        <br><a href="mailto:contact@easternts.com"> contact@easternts.com </a>
+                    <p><a href="tel:+00 000 000 000">+00 000 000 000</a>
+                        <br><a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
                     </p>
                     <div class="comBtn2 buildBtn">
 						<a href="javascript:void(0);" class="subscriber-form comBtn">Contact us</a>
@@ -837,7 +837,7 @@ Template Name: Software Development
                 <div class="intuCMS cami-box">
                     <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>ISVs & Product Companies </h3>
-                    <p>We, Edventure InfoTech understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+                    <p>We understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
