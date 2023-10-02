@@ -874,7 +874,7 @@ The global demand for iPhone devices is on the rise, and businesses aim to tap i
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
-                    <h3> Right support to turn your startup <b class=""> into profitable venture </b> </h3>
+                    <h3> Supporting Your Startup's Growth<b class=""> into profitable venture </b> </h3>
 					<p><!-- <a href="tel:+91 704 682 7566">+91 704 682 7566</a> --> 
                         <a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
                     </p>

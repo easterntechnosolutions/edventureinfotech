@@ -108,7 +108,7 @@ Easternts
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Custom CMS</h2>
-                    <p>Pick Eastern Techno Solution as your CMS development agency. Get expert professionals, modern infrastructure and development on up-to-date technologies trends. We adhere to industry best standards to offer secure and scalable content management systems web applications for diverse business sectors.</p>
+                    <p>Pick Edventure Infotech as your CMS development agency. Get expert professionals, modern infrastructure and development on up-to-date technologies trends. We adhere to industry best standards to offer secure and scalable content management systems web applications for diverse business sectors.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(41); ?>" class="comBtn">Read More</a>

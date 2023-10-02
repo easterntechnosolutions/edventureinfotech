@@ -3,8 +3,8 @@
 <!-- We can help -->
 
 <section class="weCanhalp">
-	<img class="weImg weLf" src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/call-ets1.gif" alt="ets1">
-	<img class="weImg weRf" src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/call-ets2.webp" alt="ets2">
+	<img class="weImg weLf" src="../../wp-content/uploads/2021/11/call-ets1.gif" alt="ets1">
+	<img class="weImg weRf" src="../../wp-content/uploads/2021/11/call-ets2.webp" alt="ets2">
 	<div class="container ">
 		<div class="row text-center">
 			<div class="weCan">
@@ -93,7 +93,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6  col-sm-6  copiyright">
-				<div><img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
+				<div><img src="../../wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
 				<div>
 					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved.</p>
 				</div>

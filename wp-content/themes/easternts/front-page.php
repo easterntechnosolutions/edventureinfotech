@@ -62,7 +62,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
                         <h4>iPhone App Development</h4>
                         <p>Experienced in developing iOS applications with a dedicated team. Our commitment to excellence ensures the highest quality service in class. Furthermore, we are keen on keeping our clients informed of our progress on a regular basis.</p>
                         <a href="<?php echo get_permalink(44); ?>">Read More...</a>
@@ -72,7 +72,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
                         <h4> Android App Development </h4>
                         <p>When it comes to design, graphics, code, or animation, we have excelled in all the possible areas of building an application. We at "Edventure Infotech" provide the exact requirements determined by the client.</p>
                         <a href="<?php echo get_permalink(43); ?>">Read More...</a>
@@ -83,7 +83,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
                         <h4>Flutter App Development </h4>
                         <p>The user interface of your application should not be a restriction on what your application can do. Through our Native App Development in Flutter, we can develop your app compatible with both Android and iOS users.</p>
                         <a href="<?php echo get_permalink(27); ?>">Read More...</a>
@@ -93,7 +93,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
                         <h4>Laravel Development </h4>
                         <p>Laravel is one of the most powerful and elegant PHP frameworks that enables you to build web applications with ease, yet in a meaningful manner. With our help, you can build a website according to your specifications.</p>
                         <a href="<?php echo get_permalink(704); ?>">Read More...</a>
@@ -103,7 +103,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
                         <h4>E-Commerce </h4>
                         <p>E-commerce refers to commercial transactions conducted electronically on the internet. At "Edventure Infotech", we provide unique eCommerce web development services by creating cutting-edge online storefronts.</p>
                         <a href="<?php echo get_permalink(300); ?>">Read More...</a>
@@ -113,7 +113,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
+                        <img src="../../wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
                         <h4> Software Development</h4>
                         <p>Software plays a crucial role when it comes to efficiency, accuracy, time-saving, security and affordability. It is our goal at "Edventure Infotech" to ensure the safe delivery of your data without compromising it.</p>
                         <a href="<?php echo get_permalink(710); ?>">Read More...</a>
@@ -162,7 +162,7 @@
             <div class="col-md-7 col-sm-12">
                 <a href="<?php echo get_permalink(712); ?>">
                     <div class="ourExpert">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
+                        <img src="../../wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
                         <div class="exportTitle">
                             <h3>Mobile App Development</h3>
                         </div>
@@ -172,7 +172,7 @@
             <div class="col-md-5 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
                 <a href="<?php echo get_permalink(713); ?>">
                     <div class="ourExpert ourmarg monileMarg ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
+                        <img src="../../wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
                         <div class="exportTitle">
                             <h3>Web Application</h3>
                         </div>
@@ -180,7 +180,7 @@
                 </a>
                 <a href="<?php echo get_permalink(714); ?>">
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-development.gif" alt="creative" width="" height="">
+                        <img src="../../wp-content/uploads/2021/10/web-development.gif" alt="creative" width="" height="">
                         <div class="exportTitle">
                             <h3>Web Development</h3>
                         </div>

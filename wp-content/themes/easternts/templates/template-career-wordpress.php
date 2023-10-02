@@ -101,7 +101,7 @@ Template Name: WordPress Developer Hire
             <div class="row">
                   <div class="fireAdd text-center">
                         <h2>Tools we use</h2>
-                        <p>Eastern Techno Solution six core values are the foundation of the company – they’ve been there from the start and really are the DNA of organization. They represent the way we behave towards each other, our colleagues and our customers, and drive our approach to work and business.</p>
+                        <p>Edventure Infotech six core values are the foundation of the company – they’ve been there from the start and really are the DNA of organization. They represent the way we behave towards each other, our colleagues and our customers, and drive our approach to work and business.</p>
                   </div>
             </div>
             <div class="row">

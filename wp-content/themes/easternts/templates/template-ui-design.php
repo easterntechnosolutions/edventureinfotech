@@ -56,7 +56,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui-1" >
+                <img src="../../wp-content/uploads/2023/09/ui-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui-1" >
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -73,7 +73,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-2.png"  class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="android-2">
+                <img src="../../wp-content/uploads/2023/09/ui-2.png"  class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="android-2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -99,7 +99,7 @@ We aim to provide effective and engaging engagement models.</p>
         <div class="row d-flexWOcenter">
             <div class="col-sm-5">
                 <div class="webDesingUi">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/complex-web.png" alt="seo1">
+                    <img src="../../wp-content/uploads/2023/09/complex-web.png" alt="seo1">
                     <h3>COMPLEX WEB APPLICATIONS</h3>
                     <p> 
 Our designers are really good at making designs for software development. They know how to create complicated interfaces that are easy to use. Our strength is in making complex user journeys simple in our products.</p>
@@ -115,7 +115,7 @@ Our designers are really good at making designs for software development. They k
 
             <div class="col-sm-5">
                 <div class="webDesingUi">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/android-apps.png"  alt="onlineshopping">
+                    <img src="../../wp-content/uploads/2023/09/android-apps.png"  alt="onlineshopping">
                     <h3>NATIVE IOS & ANDROID APPS</h3>
                     <p>We create stunning apps for iOS and Android, tailoring them to fully embrace each platform's features, elements, components, libraries, and design patterns. This guarantees that your product provides the smoothest and most enjoyable user experience.</p>
                     <div class="comBtn2 text-center buildBtn">
@@ -133,7 +133,7 @@ Our designers are really good at making designs for software development. They k
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui3.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui3">
+                <img src="../../wp-content/uploads/2023/09/ui3.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui3">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -151,7 +151,7 @@ As an excellent web design and development company, we've set up clear steps for
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui4.png" class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui4">
+                <img src="../../wp-content/uploads/2023/09/ui4.png" class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="ui4">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -175,21 +175,21 @@ As an excellent web design and development company, we've set up clear steps for
         <div class="row">
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/design-1.png" alt="design">
+                    <img src="../../wp-content/uploads/2023/09/design-1.png" alt="design">
                     <h3>Web & Mobile Design</h3>
                     <p> Communication with the user is never sacrificed. Easy to understand, direct and beautiful.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/sharing.png" alt="sharing">
+                    <img src="../../wp-content/uploads/2023/09/sharing.png" alt="sharing">
                     <h3>Design Systems</h3>
                     <p>-A collection of reusable components guided by clear standards to make your application easy to scale and maintain.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="userInter">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/concept.png" alt="concept">
+                    <img src="../../wp-content/uploads/2023/09/concept.png" alt="concept">
                     <h3>Illustrations & animations</h3>
                     <p>So your product catches the user’s attention in all the right places.</p>
                 </div>
@@ -233,7 +233,7 @@ As an excellent web design and development company, we've set up clear steps for
             <div class="col-md-12 p0">
                 <div id="Real-time" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/research.png" alt="research">
+                        <img src="../../wp-content/uploads/2023/09/research.png" alt="research">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -246,7 +246,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
                 <div id="NoSQL" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/plan-management.png" alt="Plan-Management-banner">
+                        <img src="../../wp-content/uploads/2023/09/plan-management.png" alt="Plan-Management-banner">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>USER STORIES</h3>
@@ -259,7 +259,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
                 <div id="Serverless" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/explore.png" alt="explore-site">
+                        <img src="../../wp-content/uploads/2023/09/explore.png" alt="explore-site">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -272,7 +272,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
                 <div id="Offline" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/create-website.webp" alt="create-website">
+                        <img src="../../wp-content/uploads/2023/09/create-website.webp" alt="create-website">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>USER STORIES</h3>
@@ -285,7 +285,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
                 <div id="Globally" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/finalise.webp" alt="finalise">
+                        <img src="../../wp-content/uploads/2023/09/finalise.webp" alt="finalise">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -298,7 +298,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
                 <div id="Security" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/delight.webp" alt="delight">
+                        <img src="../../wp-content/uploads/2023/09/delight.webp" alt="delight">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -311,7 +311,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
 				<div id="Analyse" class="row uiTabPlan tabcontent">
                     <div class="col-md-5 col-sm-5 ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/analyse.webp" alt="analyse">
+                        <img src="../../wp-content/uploads/2023/09/analyse.webp" alt="analyse">
                     </div>
                     <div class="col-md-7 col-sm-7">
                         <h3>COMPETITIVE ANALYSIS</h3>
@@ -337,25 +337,25 @@ As an excellent web design and development company, we've set up clear steps for
         <div class="row">
             <div class="owl-carousel owl-theme">
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/sketch.webp" alt="sketch">
+                    <img src="../../wp-content/uploads/2023/09/sketch.webp" alt="sketch">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/zeplin.webp" alt="zeplin">
+                    <img src="../../wp-content/uploads/2023/09/zeplin.webp" alt="zeplin">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/invision.webp" alt="invision">
+                    <img src="../../wp-content/uploads/2023/09/invision.webp" alt="invision">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/abstract.webp" alt="abstract">
+                    <img src="../../wp-content/uploads/2023/09/abstract.webp" alt="abstract">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/photoshop.webp" alt="photoshop">
+                    <img src="../../wp-content/uploads/2023/09/photoshop.webp" alt="photoshop">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/illustrator.webp" alt="illustrator">
+                    <img src="../../wp-content/uploads/2023/09/illustrator.webp" alt="illustrator">
                 </div>
                 <div class="item areasSlider">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/after-effects.webp" alt="after-effects">
+                    <img src="../../wp-content/uploads/2023/09/after-effects.webp" alt="after-effects">
                 </div>
             </div>
         </div>
@@ -418,7 +418,7 @@ As an excellent web design and development company, we've set up clear steps for
                 </div>
             </div>
             <div class="col-md-6 p0 text-center chooseuibg wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="3s">
-                <img  src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ui-5.png" style="height: auto; display:block;" alt="ui-services">
+                <img  src="../../wp-content/uploads/2023/09/ui-5.png" style="height: auto; display:block;" alt="ui-services">
             </div>
         </div>
 

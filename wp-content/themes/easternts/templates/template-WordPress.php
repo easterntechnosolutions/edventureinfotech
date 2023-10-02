@@ -45,7 +45,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/worpress-img-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;"  alt="wordpress1">
+                <img src="../../wp-content/uploads/2023/09/worpress-img-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;"  alt="wordpress1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -62,7 +62,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/wordpress-img-2.png" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="wordpress2">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-2.png" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="wordpress2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -147,7 +147,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order p0">
-                <img  class="wow fadeInLeft" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mobile-first-approach.png"  data-wow-duration="3s"  data-wow-delay="0.2s"  style="width: 951px;height: auto;" alt="wordpress-mobile">
+                <img  class="wow fadeInLeft" src="../../wp-content/uploads/2023/09/mobile-first-approach.png"  data-wow-duration="3s"  data-wow-delay="0.2s"  style="width: 951px;height: auto;" alt="wordpress-mobile">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -286,7 +286,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img  data-wow-delay="0.4s" class="wow fadeInLeftBig"  data-wow-duration="3s" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/wordpress-multisite-development.png" alt="WordPress-Multisite-Development">
+                <img  data-wow-delay="0.4s" class="wow fadeInLeftBig"  data-wow-duration="3s" src="../../wp-content/uploads/2023/09/wordpress-multisite-development.png" alt="WordPress-Multisite-Development">
             </div>
             <div class="col-md-6">
                 <div class="takingBusin">
@@ -311,7 +311,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
                 </div>
             </div>
             <div class="col-md-6">
-                <img  data-wow-duration="2s" class="wow fadeInRightBig" data-wow-delay="0.4s" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/API-integration.png" alt="WordPress-API-Integrations">
+                <img  data-wow-duration="2s" class="wow fadeInRightBig" data-wow-delay="0.4s" src="../../wp-content/uploads/2023/09/API-integration.png" alt="WordPress-API-Integrations">
             </div>
         </div>
     </div>
@@ -322,7 +322,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img  data-wow-duration="2s" class="wow fadeInLeftBig" data-wow-delay="0.4s"  src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/wordpress-plugin-developement.png" alt="WordPress-Plugin-Development">
+                <img  data-wow-duration="2s" class="wow fadeInLeftBig" data-wow-delay="0.4s"  src="../../wp-content/uploads/2023/09/wordpress-plugin-developement.png" alt="WordPress-Plugin-Development">
             </div>
             <div class="col-md-6">
                 <div class="takingBusin">
@@ -339,7 +339,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-4">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/wordpress-img-3.png" class="wow fadeInLeft" data-wow-delay="0.2s" alt="Advanced-features">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-3.png" class="wow fadeInLeft" data-wow-delay="0.2s" alt="Advanced-features">
             </div>
             <div class="col-md-8">
                 <div class="row">
@@ -377,7 +377,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-4 order1">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/wordpress-img-4.png" class="wow fadeInRight" data-wow-delay="0.2s" alt="technology-stack">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-4.png" class="wow fadeInRight" data-wow-delay="0.2s" alt="technology-stack">
             </div>
             <div class="col-md-8 order2">
                 <div class="row">
@@ -449,7 +449,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">1</span>
                     </div>
                     <h4>Nice to Meet You</h4>
@@ -464,7 +464,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">2</span>
                     </div>
                     <h4>Awesome Design Creation </h4>
@@ -479,7 +479,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">3</span>
                     </div>
                     <h4>Well Development</h4>
@@ -494,7 +494,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">4</span>
                     </div>
                     <h4>Taking a Closer Look</h4>
@@ -509,7 +509,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">5</span>
                     </div>
                     <h4>Deliver or Go Live</h4>
@@ -524,7 +524,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
             <div class="our-work-prosess col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/process.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">6</span>
                     </div>
                     <h4>Reach Your Audience</h4>

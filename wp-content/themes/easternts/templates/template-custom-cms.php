@@ -56,7 +56,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/cms-1.png"  class="wow fadeInLeft"  data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms1">
+                <img src="../../wp-content/uploads/2023/09/cms-1.png"  class="wow fadeInLeft"  data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -72,7 +72,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/cms-2.png" class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms2">
+                <img src="../../wp-content/uploads/2023/09/cms-2.png" class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -96,28 +96,28 @@
         <div class="row">
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/post-project-requirements.png" alt="post-project-requirements">
+                    <img src="../../wp-content/uploads/2023/09/post-project-requirements.png" alt="post-project-requirements">
                 </div>
                 <h3>POST YOUR PROJECT REQUIREMENTS</h3>
                 <p>Depending on your project requirements, our analysts will select the most experienced developers.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/discuss-project.png" alt="discuss-project">
+                    <img src="../../wp-content/uploads/2023/09/discuss-project.png" alt="discuss-project">
                 </div>
                 <h3>DISCUSS PROJECT DETAILS WITH OUR ANALYSTS</h3>
                 <p>Our experts will contact you within no time to discuss your project related queries and to offer the best solution for your project development.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/engagement-terms.png" alt="engagement-terms">
+                    <img src="../../wp-content/uploads/2023/09/engagement-terms.png" alt="engagement-terms">
                 </div>
                 <h3>CHOOSE ENGAGEMENT TERMS & TIMELINES</h3>
                 <p>Based on the project consultation provided by our experts, you can choose the engagement timelines for your project execution.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/secure-payment.png" alt="secure-payment">
+                    <img src="../../wp-content/uploads/2023/09/secure-payment.png" alt="secure-payment">
                 </div>
                 <h3>SECURELY PAY ONLINE AND GET STARTED!</h3>
                 <p>Make payment through our 100% secure online system and our team shall immediately get started on your project within 24 hours.</p>
@@ -130,7 +130,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img  class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/cms-3.png" style="width: 951px;height: auto;" alt="cms5">
+                <img  class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-3.png" style="width: 951px;height: auto;" alt="cms5">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -146,7 +146,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img  class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/cms-4.png" style="width: 951px;height: auto;" alt="cms4">
+                <img  class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-4.png" style="width: 951px;height: auto;" alt="cms4">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -161,7 +161,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/cms-5.png" style="width: 951px;height: auto;" alt="cms3">
+                <img class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-5.png" style="width: 951px;height: auto;" alt="cms3">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -185,28 +185,28 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/intutive-cms1-e1599541571488.png" alt="intutive-cms1">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms1-e1599541571488.png" alt="intutive-cms1">
                     <h3>Easy to Manage</h3>
                     <p>Edit, Publish, Delete, web pages with ease.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/intutive-cms2-e1599541620431.png" alt="intutive-cms2">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms2-e1599541620431.png" alt="intutive-cms2">
                     <h3>Time Saving</h3>
                     <p>Interactive content management features to save time and effort</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/intutive-cms3-e1599541645239.png" alt="intutive-cms3">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms3-e1599541645239.png" alt="intutive-cms3">
                     <h3>Complete Control</h3>
                     <p>Have complete authority over website content and graphics.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/intutive-cms4-e1599541670467.png" alt="intutive-cms4">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms4-e1599541670467.png" alt="intutive-cms4">
                     <h3>Highly Secure</h3>
                     <p>Multiple users can work in a highly secure and collaborative way.
 </p>
@@ -675,73 +675,73 @@
         <div class="row">
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
+                    <img src="../../wp-content/uploads/2023/09/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
                     <h4>Travel & Hospitality</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
+                    <img src="../../wp-content/uploads/2023/09/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
                     <h4>Media & Entertainment</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
+                    <img src="../../wp-content/uploads/2023/09/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
                     <h4>Healthcare</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Education.svg" class="wow fadeIn" alt="Education">
+                    <img src="../../wp-content/uploads/2023/09/Education.svg" class="wow fadeIn" alt="Education">
                     <h4>Education</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
+                    <img src="../../wp-content/uploads/2023/09/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
                     <h4>Lifestyle & Management</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Transportation.svg" class="wow fadeIn" alt="Transportation">
+                    <img src="../../wp-content/uploads/2023/09/Transportation.svg" class="wow fadeIn" alt="Transportation">
                     <h4>Transportation & Logistic</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/aviation.svg"  class="wow fadeIn" alt="Aviation">
+                    <img src="../../wp-content/uploads/2023/09/aviation.svg"  class="wow fadeIn" alt="Aviation">
                     <h4>Aviation</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
+                    <img src="../../wp-content/uploads/2023/09/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
                     <h4>Manufacturing</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
+                    <img src="../../wp-content/uploads/2023/09/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
                     <h4>Agriculture</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Fintech.svg" class="wow fadeIn" alt="Fintech">
+                    <img src="../../wp-content/uploads/2023/09/Fintech.svg" class="wow fadeIn" alt="Fintech">
                     <h4>Fintech</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Retail.svg" class="wow fadeIn"  alt="Retail"> 
+                    <img src="../../wp-content/uploads/2023/09/Retail.svg" class="wow fadeIn"  alt="Retail"> 
                     <h4>Retail</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/realestate.svg" class="wow fadeIn"  alt="realestate">
+                    <img src="../../wp-content/uploads/2023/09/realestate.svg" class="wow fadeIn"  alt="realestate">
                     <h4>Real estate</h4>
                 </div>
             </div>

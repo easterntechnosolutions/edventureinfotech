@@ -64,7 +64,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ecommerce-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ecommerce1">
+                <img src="../../wp-content/uploads/2023/09/ecommerce-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ecommerce1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -81,7 +81,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex" >
             <div class="col-md-6 order2 p0  text-center">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ecommerce-2.png" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="ecommerce2" style="width: 951px;height: auto;">
+                <img src="../../wp-content/uploads/2023/09/ecommerce-2.png" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="ecommerce2" style="width: 951px;height: auto;">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -106,37 +106,37 @@
         <div class="row ecommerce-image">
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon1.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon1.webp">
                 </div>
                 <p>In-depth market research and analysis.</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon2.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon2.webp">
                 </div>
                 <p>Critical assessment of your brand values, characteristics, and how customers currently relate to you</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon3.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon3.webp">
                 </div>
                 <p>All-inclusive theme development and customization down to the smallest detail</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon4.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon4.webp">
                 </div>
                 <p>Development of all necessary plugins and applications</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon5.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon5.webp">
                 </div>
                 <p>Microscopic attention to security needs and proper implementation</p>
             </div>
             <div class="col-sm-6 col-md-4 text-center mb-5 ecommerce-col">
                 <div class="ecommerce-circle-image">
-                    <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/our-process-icon6.webp">
+                    <img src="../../wp-content/uploads/2023/09/our-process-icon6.webp">
                 </div>
                 <p>Close attention to analytics to pinpoint growth opportunities</p>
             </div>
@@ -182,7 +182,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon1.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon1.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Responsive WooCommerce e-commerce development</P>
@@ -193,7 +193,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon2.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon2.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce theme development from scratch</P>
@@ -204,7 +204,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon3.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon3.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Vast WordPress e-commerce solutions</P>
@@ -215,7 +215,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon4.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon4.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Safe WooCommerce migration</P>
@@ -226,7 +226,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon5.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon5.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce theme integration</P>
@@ -237,7 +237,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon6.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon6.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>PSD to WooCommerce</P>
@@ -248,7 +248,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon7.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon7.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Component & Module Development</P>
@@ -259,7 +259,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon8.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon8.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Store Redesign</P>
@@ -270,7 +270,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon9.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon9.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Customized WordPress shopping cart</P>
@@ -281,7 +281,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon10.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon10.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce third-party integration</P>
@@ -292,7 +292,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon11.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon11.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce payment gateway integration</P>
@@ -303,7 +303,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon12.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon12.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce Facebook shop integration</P>
@@ -314,7 +314,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon13.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon13.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce plugin development</P>
@@ -325,7 +325,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon14.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon14.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Magento store to WooCommerce migration</P>
@@ -336,7 +336,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon15.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon15.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>WooCommerce maintenance, support, and upgrade services</P>
@@ -347,7 +347,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon16.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon16.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Built-in tracking and recording</P>
@@ -358,7 +358,7 @@
             <div class="col-md-4 mb-5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon17.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon17.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Inventory management</P>
@@ -369,7 +369,7 @@
             <div class="col-md-4 -5 col-sm-6">
                 <div class="wood-flex">
                     <div class="our-woocommerce-image">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/woocom-develo-servi-icon18.webp" alt="remarkable">
+                        <img src="../../wp-content/uploads/2023/09/woocom-develo-servi-icon18.webp" alt="remarkable">
                     </div>
                     <div class="our-woo-contert">
                         <P>Third-party vendor integration</P>
@@ -397,7 +397,7 @@
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
+                <img src="../../wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>

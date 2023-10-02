@@ -54,7 +54,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/ux-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux1">
+                <img src="../../wp-content/uploads/2023/09/ux-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">

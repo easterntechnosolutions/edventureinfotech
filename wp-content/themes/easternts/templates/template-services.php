@@ -95,7 +95,7 @@ Template Name: Services
             <div class="row ">
                 <div class="serWeb colorang">
                     <h3><a href="">Mobile App Development</a></h3>
-                    <p>Eastern Techno Solution knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
+                    <p>Edventure Infotech knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
                 </div>
             </div>
             <div class="row serflex colbgorang">
