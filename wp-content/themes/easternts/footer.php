@@ -93,7 +93,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6  col-sm-6  copiyright">
-				<div><img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
+				<div><img src="../../wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
 				<div>
 					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : Eastern Techno Solutions</p>
 				</div>

@@ -83,6 +83,7 @@ Template Name: About us
       <div class="container">
             <div class="row">
                   <div class="fireAdd text-center">
+
                         <h2>Why Edventure InfoTech?</h2>
                         <p class="text-center-important">Edventure InfoTech’s four core values are the foundation of the company.</p>
                   </div>
@@ -94,7 +95,7 @@ Template Name: About us
                               <li>
                                     <i class="icon3 wow fadeIn"></i>
                                     <h3><b>Global Reach, Local Touch </b></h3>
-                                    <p>With years of experience in India and a keen focus on expanding our footprint in Canada, we offer a global perspective and the local know-how necessary to thrive in both markets.</p>
+                                    <p>With years of experience and a keen focus on expanding our footprint in Canada, we offer a global perspective and the local know-how necessary to thrive in both markets.</p>
                               </li>
                               <li>
                                     <i class="icon1 wow fadeIn"></i>
@@ -205,8 +206,10 @@ Template Name: About us
       <div class="container">
             <div class="row">
                   <div class="fireAdd text-center">
+
                         <h2>Our Approach</h2>
                         <p class="text-center-important">We have built the foundation of our company on the pillars of honesty, integrity, and high-quality deliverables.</p>
+
                   </div>
             </div>
             <div class="mision-vision-about">

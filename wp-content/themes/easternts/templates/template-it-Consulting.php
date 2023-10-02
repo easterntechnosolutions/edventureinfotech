@@ -60,7 +60,7 @@ Template Name: IT Consulting
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>In addition to providing IT consultancy services and business IT support to organizations of any size, Eastern Techno Solution is one of the leading providers of information technology consulting services in Surat. Through our IT consultancy services, we can take your business to the next level by making highly effective IT strategies and implementing innovative solutions.</p>
+                    <p>Beyond delivering IT consultancy services and business IT support to organizations of all sizes, Edventure Infotech is a prominent provider of information technology consulting services in Canada. Through our IT consultancy, we elevate your business by formulating highly effective IT strategies and implementing innovative solutions.</p>
                 </div>
             </div>
 
@@ -76,7 +76,7 @@ Template Name: IT Consulting
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Through our IT consulting services, we assist you in designing, developing, and implementing business models that utilize the latest technologies and accelerate your business. In today's competitive era, we take advantage of innovative technologies in order to drive business from a productive perspective. Our IT consulting team takes transformation initiatives in terms of cloud, data, and machine learning to harness the power of digital. We provide flexible delivery models to satisfy your business needs and assist you to strategize and implement advanced solutions.</p>
+                    <p>Through our IT consulting services, we help you design, develop, and implement business models using the latest technologies to boost your business. In today's competitive environment, we use innovative technologies to enhance productivity. Our IT consulting team leads transformation initiatives in cloud, data, and machine learning to leverage digital capabilities. We offer flexible delivery models to meet your business needs and assist in planning and implementing advanced solutions.</p>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@ Template Name: IT Consulting
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Use the expertise of Eastern Techno Solution to develop an extensive IT strategy for the digital and technological transformation of your organization that is aligned with your business goals. We can assist you with automating and digitalizing operations, managing software portfolios, and implementing the latest technology.</p>
+                    <p>Use the expertise of Edventure Infotech to develop an extensive IT strategy for the digital and technological transformation of your organization that is aligned with your business goals. We can assist you with automating and digitalizing operations, managing software portfolios, and implementing the latest technology.</p>
                 </div>
             </div>
 
@@ -115,7 +115,7 @@ Template Name: IT Consulting
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-1.webp" class="wow lightSpeedIn" alt="ets-it-consulty1.1">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-1.webp" class="wow lightSpeedIn" alt="ets-it-consulty1.1">
                     </div>
                     <h3>Common concerns of IT businesses</h3>
                     <P>Here are some common IT related concerns/challenges that businesses face</P>
@@ -132,7 +132,7 @@ Template Name: IT Consulting
             <div class="col-md-4">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center it-consult-marg-nagtive">
-                        <img src="/wp-content/uploads/2023/02/ets-it-consulting.webp"   alt="ets-it-consulty"> 
+                        <img src="../../wp-content/uploads/2023/02/ets-it-consulting.webp"   alt="ets-it-consulty"> 
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@ Template Name: IT Consulting
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-2.webp" class="wow lightSpeedIn" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-2.webp" class="wow lightSpeedIn" alt="ets-it-consulty">
                     </div>
                     <h3>Our IT strategy & consulting approach</h3>
                     <p>As one of the leading IT consulting firms, we understand all your IT related challenges and respond accordingly.</p>
@@ -269,7 +269,7 @@ Template Name: IT Consulting
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Assisting Global Customers With Robust Technical Solutions</h2>
-                <p>Our technology consulting competence extends beyond what is generally expected of "an Indian IT strategy consulting company". We have a solid base in open source technologies and we keep up to date with the latest trends.</p>
+                <p>Our technology consulting competence extends beyond what is generally expected of "a Canadian IT strategy consulting company". We have a solid base in open source technologies and we keep up to date with the latest trends.</p>
             </div>
         </div>
 
@@ -278,7 +278,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/image2vector.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/image2vector.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Application Development</h3>
                     <p>Our app development experts provide you with tailored apps strategies built around high scope, usability & security.</p>
@@ -288,7 +288,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/digital.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/digital.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Digital Transformation</h3>
                     <p>Improve operational capability through process automation, workflows digitization and enterprise integration.</p>
@@ -298,7 +298,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/cloud-1.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/cloud-1.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Cloud Computing </h3>
                     <p>Our dedicated offshore developers are adept at all the modern technologies and provide you with fast results as well.</p>
@@ -308,7 +308,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/channel.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/channel.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Channel Extension </h3>
                     <p>Introducing latest mobile & web technologies ensure your presence on various platforms.</p>
@@ -318,7 +318,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/cost.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/cost.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Cost Optimization </h3>
                     <p>Improve your project's promptness for maintenance & support and also save up to 15% with our pre-support analysis service. </p>
@@ -328,7 +328,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/devops.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/devops.svg" alt="ets-it-consulty">
                     </div>
                     <h3>DevOps Enablement</h3>
                     <p>We set up DevOps environments in order to methodize update delivery and fortify integrity of various businesses.</p>
@@ -337,7 +337,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/development.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/development.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Development Re-Engineering </h3>
                     <p>Increase project visibility & development productivity by introducing agile practices under the guidance of ValueCoders. </p>
@@ -347,7 +347,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/it.svg" alt="ets-it-consulty">    
+                        <img src="../../wp-content/uploads/2023/01/it.svg" alt="ets-it-consulty">    
                     </div>
                     <h3>IT Infrastructure Upgrade </h3>
                     <p>Using infrastructure virtualization & migration to the cloud, revitalize software and network resources & cut down on TCO. </p>
@@ -357,7 +357,7 @@ Template Name: IT Consulting
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/quality.svg" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/01/quality.svg" alt="ets-it-consulty">
                     </div>
                     <h3>Quality & Security </h3>
                     <p>Our development experts provide you with custom-made application strategies built around high quality & security. </p>
@@ -378,9 +378,9 @@ Template Name: IT Consulting
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
-                    <h3>Right Support to Turn Your Startup <b class="bBlod"> Into Profitable Venture </b> </h3>
-                    <p> <a href="tel:+91 704 682 7566">+91 704 682 7566</a>
-                        <br> <a href="mailto:contact@easternts.com"> contact@easternts.com</a>
+                    <h3>Supporting Your Startup's Growth <b class="bBlod"> Into Profitable Venture </b> </h3>
+                    <p> <!--  <a href="tel:+91 704 682 7566">+91 704 682 7566</a> -->
+                         <a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com</a>
                     </p>
                     <div class="comBtn2 buildBtn">
 						 <a href="javascript:void(0);"  class="subscriber-form comBtn">Contact Us</a>
@@ -388,7 +388,7 @@ Template Name: IT Consulting
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg-butnbg-transparent">
-                <img src="https://www.easternts.com.au/wp-content/uploads/2020/08/inquiry.png" alt="inquiry">
+                <img src="../../wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>
@@ -425,7 +425,7 @@ Template Name: IT Consulting
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Covering all Major Industries</h2>
-                <p>Being one of the top technology consulting firms in India, we cater to a wide gamut of business industries and verticals. Some of the industries for which our tech consulting firm provides solutions are,</p>
+                <p>Being one of the top technology consulting firms in Canada, we cater to a wide gamut of business industries and verticals. Some of the industries for which our tech consulting firm provides solutions are,</p>
             </div>
         </div>
 

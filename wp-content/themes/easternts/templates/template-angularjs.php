@@ -56,11 +56,12 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="../../wp-content/uploads/2023/02/AngularJS2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
+                <img src="../../wp-content/uploads/2023/09/angular1.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>AngularJS is an open source web development framework developed and maintained by Google. You can employ AngularJS to develop interactive and dynamic user interfaces for web and mobile apps. AngularJS enhances HTML's capabilities. It is widely used for building web, mobile and native applications. JavaScript is used on the front end and for Single Page Applications. Angular development is well organized and dynamic which allows developers to develop clear and flexible code.</p>
+                    <p>
+AngularJS, an open-source web development framework by Google, is used to create interactive interfaces for web and mobile apps, enhancing HTML capabilities. Widely adopted for building web, mobile, and native applications, it employs JavaScript for Single Page Applications. Angular development is well-organized and dynamic, enabling developers to produce clear and flexible code.</p>
                 </div>
             </div>
 
@@ -72,11 +73,11 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="../../wp-content/uploads/2023/02/angular-js-2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 951px;height: auto;"alt="Android">
+                <img src="../../wp-content/uploads/2023/10/angular2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 951px;height: auto;"alt="Android">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>The latest component router helps AngularJS apps load faster and also provides automatic code splitting. When a user requests a view, it helps to show that view by loading only the needed code. Templates are transformed into highly optimized code using AngularJS. This code serves as a framework for developing web and mobile applications. With the use of AngularJS, a large data requirement is met by making data models on Immutable.js, RxJS, or another push-model.</p>
+                    <p>AngularJS's latest component router accelerates app loading with automatic code splitting, efficiently loading only necessary code when a user requests a view. It transforms templates into optimized code, serving as a framework for web and mobile app development. AngularJS meets large data requirements through data models constructed with Immutable.js, RxJS, or a push-model approach.</p>
                 </div>
             </div>
         </div>
@@ -84,14 +85,14 @@ Template Name: AngularJS
 </section>
 
 
-<!-- A Wide Range Of Angular Js Development Services At Eastern Techno Solution
+<!-- A Wide Range Of Angular Js Development Services At Edventure Infotech
  -->
 
 <section class="sectionPadd bg-orange">
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>A Wide Range Of Angular Js Development Services At Eastern Techno Solution</h2>
+                <h2>A Wide Range Of Angular Js Development Services At Edventure Infotech </h2>
                 <!-- <p>Flexible and fast development process of web and mobile apps.</p> -->
             </div>
         </div>
@@ -109,7 +110,7 @@ Template Name: AngularJS
                         </svg>
                     </div>
                     <h3>Angular JS Consulting</h3>
-                    <p>We fully understand the particular needs of your business and explain the advantages of developing an enterprise application using AngularJS. Feel free to contact us. Our developers are ready to serve you.</p>
+                    <p>We comprehensively grasp the specific requirements of your business and elucidate the benefits of constructing an enterprise application using AngularJS. Please do not hesitate to reach out to us. Our developers stand prepared to assist you.</p>
                 </div>
             </div>
 
@@ -183,7 +184,7 @@ Template Name: AngularJS
                         </svg>
                     </div>
                     <h3>Angular JS API Development </h3>
-                    <p>At Eastern Techno Solution, we aim to provide high-performing and scalable enterprise-oriented Angular API development services suited to the specific needs of your business. Just tell us your specific needs and we'll take care of the rest.</p>
+                    <p>At Edventure Infotech , we aim to provide high-performing and scalable enterprise-oriented Angular API development services suited to the specific needs of your business. Just tell us your specific needs and we'll take care of the rest.</p>
                 </div>
             </div>
         </div>
@@ -480,7 +481,7 @@ Template Name: AngularJS
                 <P>Utilizing the latest techniques, approaches, and standards of AngularJS, we develop robust web solutions that attract customers and enhance user experiences.</P>
             </div>
             <div class="col-md-6 text-center">
-                <img src="../../wp-content/uploads/2023/02/AngularJS3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
+                <img src="../../wp-content/uploads/2023/09/angular3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
             </div>
 
         </div>
@@ -494,7 +495,8 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="../../wp-content/uploads/2023/02/angular-4.webp" alt="why-choose">
+                <img src="../../wp-content/uploads/2023/09/angular4.webp" alt="why-choose">
+
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
@@ -786,11 +788,11 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="../../wp-content/uploads/2023/02/angular-5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
+                <img src="../../wp-content/uploads/2023/09/angular5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
-                <p>Easternts offers excellent open-source Angular front-end framework solutions, and you should hire BitCot for AngularJS development.</p>
+                <p>Edventure Infotech offers excellent open-source Angular front-end framework solutions, and you should hire BitCot for AngularJS development.</p>
             </div>
         </div>
     </div>

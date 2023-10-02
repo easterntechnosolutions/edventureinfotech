@@ -48,7 +48,7 @@ Template Name: Digital Marketing
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Search Engine Optimization </h2>
-                    <p>Being on the front page of Google is as simple as getting our SEO services. We are all for making your business the talk of the Google town. Our SEO services help you augment your business bringing it right to the customers. Join hands with us to take your business forward. Digitally yours, Eastern Techno Solutions.</p>
+                    <p>Being on the front page of Google is as simple as getting our SEO services. We are all for making your business the talk of the Google town. Our SEO services help you augment your business bringing it right to the customers. Join hands with us to take your business forward. Digitally yours, Edventure Infotech.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(279); ?>" class="comBtn">Read More</a>

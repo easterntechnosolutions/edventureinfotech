@@ -252,9 +252,9 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Why Choose Us For Custom Software Development Services?</h2>
-                <p>Having advanced feature-rich software today is no longer a luxury, but a necessity for having an advantage over competitors. For over a decade, One Technologies has been a trusted ally to organizations across the globe when it comes to custom software development.</p>
-                <p>From conceptualization ideas to coding, development to deployment, The One Technologies provides custom software development services that accelerate workflows, optimize operations and boost revenues. Whether you're looking to develop a customized app for your business or improve your existing software environment, we offer the bespoke software application development services you require.</p>
-                <p>We have highly skilled and experienced software developers with excellent technical knowledge in using the latest software standards, tools, platforms, frameworks and technologies. We invest continuously in training and education, to be able to respond to any new technology challenges and demands from our clients.</p>
+                <p>Having advanced and feature-rich software is now a necessity, not just a luxury, for staying ahead of competitors. One Technologies has been a trusted partner for over a decade, assisting organizations globally with custom software development.</p>
+                <p>The One Technologies offers end-to-end custom software development services, spanning from idea conceptualization to coding, development, and deployment. We streamline workflows, optimize operations, and enhance revenues. Whether you need a customized business app or improvements to your existing software, we've got you covered.
+                We have a team of highly skilled software developers proficient in the latest technologies. Continuous investment in training allows us to meet new technology challenges and client demands effectively.
             </div>
         </div>
 

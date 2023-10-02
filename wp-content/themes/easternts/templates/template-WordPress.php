@@ -45,12 +45,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/01/wordpress1.webp" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;"  alt="wordpress1">
+                <img src="../../wp-content/uploads/2023/09/worpress-img-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;"  alt="wordpress1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
                     <p>
-                    <p>As a web development company, we have been helpful in providing top-notch experience by delivering unique WordPress development services to customers in India. Using WordPress technology, we make sure that whatever your web development needs are, they are met within a given timeline.</p>
+                    <p>We are a web development company that's committed to delivering excellent experiences by providing one-of-a-kind WordPress development services to clients in India. With the use of WordPress technology, we ensure that we meet your web development needs within agreed-upon deadlines.</p>
                 </div>
             </div>
 
@@ -62,11 +62,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/01/wordpress2.webp" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="wordpress2">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-2.png" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="wordpress2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>In addition to getting a high-quality development service, you can also anticipate getting maintenance & outstanding support from our WordPress development company.</p>
+                    <p>In addition to acquiring high-quality development services, one can anticipate receiving outstanding maintenance and support from our esteemed WordPress development company.</p>
                 </div>
             </div>
         </div>
@@ -147,13 +147,14 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order p0">
-                <img  class="wow fadeInLeft" src="/wp-content/uploads/2023/01/wordpress3.webp"  data-wow-duration="3s"  data-wow-delay="0.2s"  style="width: 951px;height: auto;" alt="wordpress-mobile">
+                <img  class="wow fadeInLeft" src="../../wp-content/uploads/2023/09/mobile-first-approach.png"  data-wow-duration="3s"  data-wow-delay="0.2s"  style="width: 951px;height: auto;" alt="wordpress-mobile">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
                     <h2><b>MOBILE-FIRST APPROACH</b></h2>
-                    <p>In today’s market, it is imperative to provide your visitors with an experience on your website that is accessible to all. This means across all devices including desktop, tablet, and mobile. Getting there is no easy task and with all the various devices being released at a rapid pace (almost daily!) it’s challenging to keep up the pace unless your website is fully responsive in all environments. We approach all projects with a ‘mobile-first’ approach that allows your website and content to adapt to screens of many sizes.</p>
-                    <p>One website adapts to all types of devices, saving you time and money! With mobile browsing surpassing desktop in May of 2015, and mobile-friendliness becoming an official Google ranking factor in April, creating a mobile-friendly website is no longer optional: it’s a necessity. It all starts with responsive web design.</p>
+                    <p>Today's market demands website accessibility across all devices.This includes desktops, tablets, and mobiles.Adapting to the ever-evolving device landscape can be challenging.A fully responsive website is the key to meeting this challenge.We prioritize a 'mobile-first' approach in all our projects for versatile screen adaptation.</p>
+                    <p>
+A website that seamlessly adjusts to various devices not only saves you time but also reduces costs. Since mobile browsing overtook desktop usage in May 2015 and mobile-friendliness became an official Google ranking factor in April, having a mobile-friendly website is no longer a choice; it's an essential requirement. The foundation for this begins with responsive web design.</p>
                 </div>
             </div>
         </div>
@@ -167,7 +168,7 @@
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Services</h2>
-                <p>Our web development team at Eastern Techno Solution in Surat offers WordPress design and development, PSD to WordPress conversion, custom WordPress development services, Theme development, and more.</p>
+                <p> Web development team at Edventure Infotech in Canada specializes in WordPress design and development, PSD to WordPress conversion, custom WordPress development services, theme development, and various related offerings.</p>
             </div>
         </div>
         <div class="row">
@@ -285,13 +286,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img  data-wow-delay="0.4s" class="wow fadeInLeftBig"  data-wow-duration="3s" src="/wp-content/uploads/2023/01/WordPress-Multisite-Development.webp" alt="WordPress-Multisite-Development">
+                <img  data-wow-delay="0.4s" class="wow fadeInLeftBig"  data-wow-duration="3s" src="../../wp-content/uploads/2023/09/wordpress-multisite-development.png" alt="WordPress-Multisite-Development">
             </div>
             <div class="col-md-6">
                 <div class="takingBusin">
                     <h2>Website networks</h2>
-                    <p>If you need to manage multiple websites from a central location, WordPress Multisite is for you.</p>
-                    <p>Highrise Digital has built multisite networks with over 500 websites. We’ve seen and solved common challenges.</p>
+                    <p>If you're looking to manage numerous websites efficiently from one central location, WordPress Multisite offers the perfect solution..</p>
+                    <p>Highrise Digital has successfully constructed multisite networks encompassing more than 500 websites, allowing us to address and resolve typical challenges that arise in such projects.</p>
                 </div>
             </div>
         </div>
@@ -305,12 +306,12 @@
             <div class="col-md-6">
                 <div class="takingBusin ltakingLeft">
                     <h2>API integrations</h2>
-                    <p>Sometimes you need WordPress to integrate with other business tools, for example, CRMs, marketing automation tools, job boards, etc.</p>
-                    <P>Highrise Digital has experience building custom integrations using third-party APIs.</p>
+                    <p>Sometimes there is a need to integrate WordPress with a variety of business tools, such as CRMs, marketing automation platforms, job boards, and more.</p>
+                    <P>Highrise Digital has a strong capability in creating unique connections between different software and services by using tools provided by other companies, which are known as third-party APIs. </p>
                 </div>
             </div>
             <div class="col-md-6">
-                <img  data-wow-duration="2s" class="wow fadeInRightBig" data-wow-delay="0.4s" src="/wp-content/uploads/2023/01/WordPress-API-Integrations.webp" alt="WordPress-API-Integrations">
+                <img  data-wow-duration="2s" class="wow fadeInRightBig" data-wow-delay="0.4s" src="../../wp-content/uploads/2023/09/API-integration.png" alt="WordPress-API-Integrations">
             </div>
         </div>
     </div>
@@ -321,12 +322,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img  data-wow-duration="2s" class="wow fadeInLeftBig" data-wow-delay="0.4s"  src="/wp-content/uploads/2023/01/WordPress-Plugin-Development.webp" alt="WordPress-Plugin-Development">
+                <img  data-wow-duration="2s" class="wow fadeInLeftBig" data-wow-delay="0.4s"  src="../../wp-content/uploads/2023/09/wordpress-plugin-developement.png" alt="WordPress-Plugin-Development">
             </div>
             <div class="col-md-6">
                 <div class="takingBusin">
                     <h2>WordPress plugin development</h2>
-                    <p>With experience of building popular and commercial plugins, Highrise Digital can add the functionality you need to get the most out of your website’s potential.</p>
+                    <p>Utilizing their wealth of experience in developing plugins that have gained widespread adoption and proven commercial success, Highrise Digital can enhance your website's performance by integrating vital features for its optimal functionality.</p>
                 </div>
             </div>
         </div>
@@ -338,7 +339,7 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-4">
-                <img src="/wp-content/uploads/2023/01/advanced-features-scaled.webp" class="wow fadeInLeft" data-wow-delay="0.2s" alt="Advanced-features">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-3.png" class="wow fadeInLeft" data-wow-delay="0.2s" alt="Advanced-features">
             </div>
             <div class="col-md-8">
                 <div class="row">
@@ -376,7 +377,7 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-4 order1">
-                <img src="/wp-content/uploads/2023/01/technology-stack.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="technology-stack">
+                <img src="../../wp-content/uploads/2023/09/wordpress-img-4.png" class="wow fadeInRight" data-wow-delay="0.2s" alt="technology-stack">
             </div>
             <div class="col-md-8 order2">
                 <div class="row">
@@ -440,7 +441,7 @@
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Work Process</h2>
-                <p>As a company, we are always looking for a proven methodology and agile process to provide you with better solutions that reflect your business and make you more successful.</p>
+                <p>As a company, we constantly seek effective methodologies and agile processes to deliver tailored solutions for your business success.</p>
             </div>
         </div>
 
@@ -448,7 +449,7 @@
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">1</span>
                     </div>
                     <h4>Nice to Meet You</h4>
@@ -463,7 +464,7 @@
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">2</span>
                     </div>
                     <h4>Awesome Design Creation </h4>
@@ -478,7 +479,7 @@
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">3</span>
                     </div>
                     <h4>Well Development</h4>
@@ -493,7 +494,7 @@
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">4</span>
                     </div>
                     <h4>Taking a Closer Look</h4>
@@ -508,7 +509,7 @@
             <div class="our-work-prosess mb-5 col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">5</span>
                     </div>
                     <h4>Deliver or Go Live</h4>
@@ -523,7 +524,7 @@
             <div class="our-work-prosess col-sm-6 col-md-4 col-lg-4 col-xl-2">
                 <div class=" text-center">
                     <div class="our-work-imag d-inline-block position-relative">
-                        <img src="/wp-content/uploads/2022/02/sprites2.png" alt="sprites2">
+                        <img src="../../wp-content/uploads/2023/09/process.png" alt="sprites2">
                         <span class="step-no">6</span>
                     </div>
                     <h4>Reach Your Audience</h4>

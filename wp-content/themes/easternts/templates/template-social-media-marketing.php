@@ -49,7 +49,7 @@
             <div class="col-sm-12 fireAdd text-center">
                 <h2>Social community management. </h2>
                 <p> Rainfactory's social and content marketing team works to take data learnings and turn those into successful social campaigns. We help build your brand and community.</p>
-                <img class="mt-5 wow slideInLeft" src="/wp-content/uploads/2022/05/management.jpg" alt="management">
+                <img class="mt-5 wow slideInLeft" src="../../wp-content/uploads/2023/09/management.webp" alt="management">
             </div>
         </div>
     </div>
@@ -60,11 +60,11 @@
         <div class="row appFlex">
             <div class="col-md-6 order1  p0">
                 <div class="zigZ">
-                    <p>Social Media Marketing is playing an important role in a digital marketing strategy for marketing business services through social media channels such as Twitter, Facebook, and YouTube, etc. With the wide popularity of social networking websites, you can simply connect users and engage with them to make your brand more famous. In other words, it is a method of marketing your products and services through social media sites to increase your brand awareness. The purpose is to increase engagement between you & your potential customers without any efforts.</p>
+                    <p>Social Media Marketing holds a crucial role in a digital marketing strategy for promoting business services through platforms like Twitter, Facebook, and YouTube. Given the widespread use of social networking sites, it's an effective way to connect with users and boost your brand's visibility. Essentially, it involves marketing your products and services through social media platforms to enhance brand recognition. The goal is to foster engagement with potential customers effortlessly.</p>
                 </div>
             </div>
             <div class="col-md-6 p0  text-center">
-                <img src="/wp-content/uploads/2023/02/social-media2.webp"  class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="seo">
+                <img src="../../wp-content/uploads/2023/09/social-media1.webp"  class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="seo">
             </div>
 
         </div>
@@ -86,7 +86,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="fireAdd ">
-                    <img src="/wp-content/uploads/2021/11/PHP2.webp" class="mb-3 wow slideInRight" alt="php2">
+                    <img src="../../wp-content/uploads/2023/09/social-media2.webp" class="mb-3 wow slideInRight" alt="php2">
                     <h3 class="mb-4"><b>Social Media Audit</b></h3>
                     <p class="mb-4">After we thoroughly analyze your desired channels you will receive a detailed report that provides</p>
                     <ul class="meida-audit">
@@ -100,7 +100,7 @@
             </div>
             <div class="col-md-4">
                 <div class="fireAdd ">
-                    <img src="/wp-content/uploads/2021/11/UI-1.webp" class="mb-3 wow slideInRight" alt="UI">
+                    <img src="../../wp-content/uploads/2023/09/social-media3.webp" class="mb-3 wow slideInRight" alt="UI">
                     <h3 class="mb-4"><b>Social Media Management</b></h3>
                     <p class="mb-4">Social media management overwhelming you and underwhelming your fans? Our program includes</p>
                     <ul class="meida-audit">
@@ -114,7 +114,7 @@
             </div>
             <div class="col-md-4">
                 <div class="fireAdd ">
-                    <img src="/wp-content/uploads/2021/11/Ios-2.webp" class="mb-3 wow slideInRight" alt="IOS">
+                    <img src="../../wp-content/uploads/2023/09/social-media4.webp" class="mb-3 wow slideInRight" alt="IOS">
                     <h3 class="mb-4"><b>Social Media Ads</b></h3>
                     <p class="mb-4">We have successfully managed over 1 million in social ad spends for brands. Our service involves</p>
                     <ul class="meida-audit">
@@ -137,7 +137,7 @@
 
         <div class="row d-flex991">
             <div class="col-md-5 text-center mb-5 mb-lg-0">
-                <img src="/wp-content/uploads/2023/02/social-media3.webp" alt="seo">
+                <img src="../../wp-content/uploads/2023/09/social-media5.webp" alt="seo">
             </div>
             <div class="col-md-7">
 
@@ -280,7 +280,7 @@
                 <p>A crawl, walk, run approach to scaling your campaign while optimizing the entire funnel.</p>
             </div>
             <div class="row">
-                <img src="/wp-content/uploads/2023/02/process2.webp" alt="process">
+                <img src="../../wp-content/uploads/2023/02/process2.webp" alt="process">
             </div>
         </div>
     </div>
@@ -295,7 +295,7 @@
                 <p>We can aid you to promote your services and products If you have a Facebook profile for your business. We can accomplish this by posting links related to blogs. We can also initiate a contest to bring more customers.</p>
             </div>
             <div class="col-md-6">
-                <img src="/wp-content/uploads/2023/02/fb.webp" alt="social-media-fb">
+                <img src="../../wp-content/uploads/2023/02/fb.webp" alt="social-media-fb">
             </div>
         </div>
     </div>
@@ -306,7 +306,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="/wp-content/uploads/2023/02/ig.webp" alt="social-media-ig">
+                <img src="../../wp-content/uploads/2023/02/ig.webp" alt="social-media-ig">
             </div>
             <div class="col-md-6 fireAdd">
                 <h3 class="mb-4"><b>Instagram Content Creation Services</b></h3>
@@ -325,7 +325,7 @@
                 <p>Another place where you require marketing your business is on Twitter. This is where you can post your links and short bursts of information for your readers.</p>
             </div>
             <div class="col-md-6">
-                <img src="/wp-content/uploads/2023/02/twitter.webp" alt="social-media-twitter">
+                <img src="../../wp-content/uploads/2023/02/twitter.webp" alt="social-media-twitter">
             </div>
         </div>
     </div>
@@ -336,7 +336,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="/wp-content/uploads/2023/02/linked-in.webp" alt="social-media-lnkdin">
+                <img src="../../wp-content/uploads/2023/02/linked-in.webp" alt="social-media-lnkdin">
             </div>
             <div class="col-md-6 fireAdd">
                 <h3 class="mb-4"><b>Linkedin Content Creation</b></h3>
@@ -356,7 +356,7 @@
                 <p>We develop and deliver social media campaigns, including the generation of all content and the management of customer conversations.</p>
             </div>
             <div class="col-md-7">
-                <img src="/wp-content/uploads/2022/05/tes-fachbook10-e1652166077386.png" alt="tes-fachbook" style="box-shadow: 0px 8px 15px 17px #1414143d; ">
+                <img src="../../wp-content/uploads/2023/09/social-media7.webp" alt="tes-fachbook" style="box-shadow: 0px 8px 15px 17px #1414143d; ">
             </div>
         </div>
     </div>
@@ -368,7 +368,7 @@
     <div class="container p-0">
         <div class="row d-flex991">
             <div class="col-md-5 text-center">
-                <img src="/wp-content/uploads/2023/02/social-media4.webp" alt="seo">
+                <img src="../../wp-content/uploads/2023/09/social-media6.webp" alt="seo">
             </div>
             <div class="col-md-7">
                 <div class="fireAdd ">

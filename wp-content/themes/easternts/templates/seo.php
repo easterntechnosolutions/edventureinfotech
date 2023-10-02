@@ -45,12 +45,15 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0  text-center">
-                <img src="/wp-content/uploads/2023/02/seo1.webp"  class="wow fadeInLeft"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="SEO">
+                <img src="../../wp-content/uploads/2023/09/seo1.webp"  class="wow fadeInLeft"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="SEO">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
                     <p>
-                    <p>The goal of SEO is to improve your organic keyword ranking and generate quality traffic to your website on a search engine such as Google. SEO is an essential component of a digital marketing campaign for enhancing the digital presence of your business. So it is crucial for online businesses to get more and more valuable customers by utilizing the services of SEO agencies. For any online business, SEO is a vital element of a digital marketing campaign. A powerful SEO strategy is necessary to rank higher in search engines because potential customers can discover your website by typing keywords into search engines. If your website is ranking high, it increases the conversion rate for your website.</p>
+                    
+The aim of SEO is to enhance your website's position in search engines, like Google, and attract valuable traffic. It's a fundamental aspect of digital marketing that plays a pivotal role in improving your online presence. For online businesses, leveraging the services of SEO agencies is essential.
+
+SEO is a critical component of any digital marketing campaign. A robust SEO strategy is necessary to achieve higher rankings in search engine results. When your website ranks well, it increases the likelihood of potential customers finding you through keyword searches. This, in turn, can significantly boost your website's conversion rate, leading to more successful interactions with your site.</p>
     </div>
             </div>
 
@@ -62,11 +65,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0  text-center">
-                <img src="/wp-content/uploads/2023/02/seo2-scaled.webp" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="SEO">
+                <img src="../../wp-content/uploads/2023/09/seo2.webp" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="SEO">
             </div>
             <div class="col-md-6 p0 ">
                 <div class="zigZ">
-                    <p>Search engines like Google use numerous factors when determining a website's position. These are the quality of your website content, high-quality backlinks from authority websites, the URL structure of your website, engagement with social media, etc. Therefore, optimizing these elements for search engines will improve a website's ranking on search engine result pages. It is imperative to work with a company that is very knowledgeable about SEO.</p>
+                    <p>Search engines like Google consider various factors when deciding where a website appears in search results. These factors include the quality of your website content, having good backlinks from authoritative websites, your website's URL structure, and your social media presence. So, optimizing these aspects for search engines can boost your website's position in search results. It's essential to collaborate with an SEO-savvy company for this purpose.</p>
                 </div>
             </div>
         </div>
@@ -185,7 +188,7 @@
                         <i class="fas fa-cogs"></i>
                         <h3>Ecommerce SEO</h3>
                     </div>
-                    <p>If you are looking for top eCommerce SEO services, you are surely in the right place. Eastern Techno Solution, an eCommerce SEO company, helps you get your eCommerce website ranked higher on Google. We are eCommerce SEO specialists with vast experience of working with the most reputable brands and can help you achieve top rankings on Google SERPs. You will get the right professional expertise and support to increase your revenues for your eCommerce website organically.</p>
+                    <p>If you are looking for top eCommerce SEO services, you are surely in the right place. Edventure Infotech , an eCommerce SEO company, helps you get your eCommerce website ranked higher on Google. We are eCommerce SEO specialists with vast experience of working with the most reputable brands and can help you achieve top rankings on Google SERPs. You will get the right professional expertise and support to increase your revenues for your eCommerce website organically.</p>
                 </div>
             </div>
 
@@ -200,7 +203,7 @@
     <div class="container p-6">
         <div class="row d-flex">
             <div class="col-md-5 order-2 text-center">
-                <img src="/wp-content/uploads/2023/02/seo4.webp" alt="SEO">
+                <img src="../../wp-content/uploads/2023/09/seo3.webp" alt="SEO">
             </div>
             <div class="col-md-6">
                 <div class="fireAdd ">
@@ -222,7 +225,7 @@
         <div class="section-content">
             <div class="row d-flex991">
                 <div class="col-md-5 text-center mb-5 mb-lg-0">
-                    <img src="/wp-content/uploads/2023/02/seo6.webp" alt="SEO">
+                    <img src="../../wp-content/uploads/2023/09/seo4.webp" alt="SEO">
                 </div>
                 <div class="col-md-7">
                     <div class="accordion__item accordion__item--active">
@@ -307,7 +310,7 @@
                 </div>
             </div>
             <div class="col-md-5 text-center">
-                <img src="/wp-content/uploads/2023/02/seo3.webp" alt="SEO">
+                <img src="../../wp-content/uploads/2023/09/seo5-scaled.webp" alt="SEO">
             </div>
 
         </div>
@@ -321,7 +324,7 @@
     <div class="container p-0">
         <div class="row d-flex">
             <div class="col-md-5 text-center">
-                <img src="/wp-content/uploads/2023/02/seo5.webp" alt="SEO">
+                <img src="../../wp-content/uploads/2023/09/seo6.webp" alt="SEO">
             </div>
             <div class="col-md-7">
                 <div class="fireAdd ">
@@ -341,7 +344,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <img src="/wp-content/uploads/2022/05/case-study.jpg" alt="case-study">
+                <img src="../../wp-content/uploads/2022/05/case-study.jpg" alt="case-study">
             </div>
         </div>
     </div>

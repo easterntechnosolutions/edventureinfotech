@@ -41,7 +41,7 @@ Template Name: Firebase app development
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp">
-                <h3>Bring your application to life with Eastern Techno Solution!</h3>
+                <h3>Bring your application to life with Edventure Infotech!</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
 				 <a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
@@ -55,11 +55,12 @@ Template Name: Firebase app development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/firebase-app-development1.webp" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="firebase">
+                <img src="../../wp-content/uploads/2023/09/firebase-app-development1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="firebase">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>As mobile apps evolved from being simple entertainment platforms for people to more sophisticated and challenging tools for even enterprises, there was a huge need to improve its backend capabilities. Backed by Google, Firebase offers a suite of tools required for businesses to build powerful apps without having to worry about management of infrastructure. It is designed to support backend developers at all stages of development and helps in improving the quality of the overall app development exercise.</p>
+                    <p>
+As mobile apps evolved from basic entertainment tools into complex business solutions, there arose a significant demand for enhancing their backend capabilities. Google's Firebase, supported by Google, provides a comprehensive set of tools that businesses can utilize to create robust apps without the burden of managing technical infrastructure. It is tailored to assist backend developers throughout the entire development process, ultimately enhancing the quality of the overall app development endeavor.</p>
                 </div>
             </div>
 
@@ -70,11 +71,14 @@ Template Name: Firebase app development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/firebase-app-development2.webp" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="firebase">
+                <img src="../../wp-content/uploads/2023/09/firebase-app-development2.png" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="firebase">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Firebase is used to manage real-time data in the database. It easily and quickly exchanges the data to and from the database. It uses NoSQL for the database for the storage of data. Firebase has three main services, i.e., a real-time database, user authentication, and hosting. When you’re looking to develop an application in the traditional method, there’s an inherent need to write codes for frontend and backend software. Firebase triumphs over traditional methods, as it allows you to develop applications without the need for backend codes. We use these services with the help of the Firebase iOS SDK to create apps without writing any server code.</p>
+                    <p>
+Firebase is a tool used to handle real-time data in a database. It makes it easy and fast to send and receive data to and from the database. It employs a NoSQL database for data storage. Firebase offers three primary services: a real-time database, user authentication, and hosting. <br> <br>
+
+When you develop an app using the traditional method, you typically have to write code for both the frontend (what users see) and the backend (the behind-the-scenes stuff). Firebase is advantageous because it allows you to create apps without the need for backend code. We make use of these services with the Firebase iOS SDK to build apps without writing any server code.</p>
                 </div>
             </div>
         </div>
@@ -88,7 +92,7 @@ Template Name: Firebase app development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Firebase App Development Services</h2>
-                <p> We are established as one of the best Firebase development company have opted firebase as one of our backends choice for creating robust web and mobile application & be it firebase app development or firebase database deployment, our Dev team will have track record of making our clients contented with our quality custom Firebase development services.</p>
+                <p> We have earned a solid reputation as a top Firebase development company. Firebase is our preferred backend choice for building strong web and mobile applications. Whether it's Firebase app development or deploying Firebase databases, our development team has a proven track record of satisfying our clients with high-quality custom Firebase development services.</p>
             </div>
         </div>
         <style>
@@ -169,21 +173,21 @@ Template Name: Firebase app development
         <div class="row">
             <div class="col-md-4">
                 <div class="benefit">
-                    <img src="/wp-content/uploads/2023/02/firebase-b-1.webp" alt="firebase">
+                    <img src="../../wp-content/uploads/2023/02/firebase-b-1.webp" alt="firebase">
                     <h3>Real-Time Database</h3>
                     <p>Firebase offers cloud-hosted NoSQL database which efficiently stores and syncs up data between the users. Also, there is no need of backend to build apps, as it comes with loaded SDKs for various platforms, Android, iOS,Web and so on.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="benefit">
-                    <img src="/wp-content/uploads/2023/02/firebase-b-2.webp" alt="firebase">
+                    <img src="../../wp-content/uploads/2023/02/firebase-b-2.webp" alt="firebase">
                     <h3>Secure Web Hosting </h3>
                     <p>Firebase hosting gives you the opportunity to set-up a single-page, a mobile landing page, web page or a progressive web page with ease. Developers can easily deploy the web apps at Content Delivery Network.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="benefit">
-                    <img src="/wp-content/uploads/2023/02/firebase-b-3.webp" alt="firebase">
+                    <img src="../../wp-content/uploads/2023/02/firebase-b-3.webp" alt="firebase">
                     <h3>Firebase Authentication </h3>
                     <p>Firebase authentication offers easy sign-in process with identity solution for emails, passwords and other social media. Firebase also gives you a flexible and customized UI, without compromising with data security.</p>
                 </div>
@@ -217,7 +221,7 @@ Template Name: Firebase app development
                 </div>
             </div>
             <div class="col-md-5 simplbgimage text-center">
-                <img src="/wp-content/uploads/2023/02/auth-a.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="firebase">
+                <img src="../../wp-content/uploads/2023/09/auth-a.png" class="wow fadeInRight" data-wow-delay="0.2s"   alt="firebase">
             </div>
         </div>
     </div>
@@ -233,24 +237,24 @@ Template Name: Firebase app development
         <div class="row">
             <div class="col-md-6 col-sm-6 MoveDAte">
                 <div>
-                    <img src="/wp-content/uploads/2023/02/save-your-data1.webp" alt="firebase">
+                    <img src="../../wp-content/uploads/2023/02/save-your-data1.webp" alt="firebase">
                     <h4>Store Your Data</h4>
                     <p>Firebase cloud storage developed for developers which allows them quick and easy storage and serve user-generated content. Such as images, videos, code, and serve user-generated content.</p>
                 </div>
                 <div>
-                    <img src="/wp-content/uploads/2023/02/save-your-data2.webp" alt="save-your-data">
+                    <img src="../../wp-content/uploads/2023/02/save-your-data2.webp" alt="save-your-data">
                     <h4>Strong Security</h4>
                     <p>Firebase SDKs for cloud storage integrate seamlessly with firebase authentication. It also provides a declarative security language to set access controls on individual files or groups of files, to provide simple & intuitive authentication.</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 MoveDAte">
                 <div>
-                    <img src="/wp-content/uploads/2023/02/save-your-data3.webp" alt="save-your-data">
+                    <img src="../../wp-content/uploads/2023/02/save-your-data3.webp" alt="save-your-data">
                     <h4>Robust Operations</h4>
                     <p> Firebase SDKs for cloud storage perform uploads and downloads. It will automatically pause and restarts your transfers as the app loses and regains mobile connectivity, saving the time and bandwidth of your users.</p>
                 </div>
                 <div>
-                    <img src="/wp-content/uploads/2023/02/save-your-data4.webp" alt="save-your-data">
+                    <img src="../../wp-content/uploads/2023/02/save-your-data4.webp" alt="save-your-data">
                     <h4>Highly Scalable and Performant</h4>
                     <p>Cloud storage for firebase is built for exabyte scale, when your app need to scale up more. It offers object storage and individual objects can be large in size backed by Google infrastructure, which makes it more scalable.</p>
                 </div>
@@ -271,7 +275,7 @@ Template Name: Firebase app development
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="choosecard">
-                    <img src="/wp-content/uploads/2023/02/fire-b-1.webp" alt="fire">
+                    <img src="../../wp-content/uploads/2023/02/fire-b-1.webp" alt="fire">
                     <h4>Cloud Firestore</h4>
                     <hr>
                     <p>Store up your app data and sync it all with Cloud Firestore on a global level without having to buy more servers</p>
@@ -279,7 +283,7 @@ Template Name: Firebase app development
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="choosecard">
-                    <img src="/wp-content/uploads/2023/01/authentication.webp" alt="authentication">
+                    <img src="../../wp-content/uploads/2023/01/authentication.webp" alt="authentication">
                     <h4>Authentication</h4>
                     <hr>
                     <p>A simple and completely secure authentication process offered to your users without any hassles.</p>
@@ -287,7 +291,7 @@ Template Name: Firebase app development
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="choosecard">
-                    <img src="/wp-content/uploads/2023/01/hosting.webp" alt="hosting">
+                    <img src="../../wp-content/uploads/2023/01/hosting.webp" alt="hosting">
                     <h4>Hosting</h4>
                     <hr>
                     <p>Now deliver your web app assets in a considerably lesser time and at a better optimized speed.</p>
@@ -295,7 +299,7 @@ Template Name: Firebase app development
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="choosecard">
-                    <img src="/wp-content/uploads/2023/01/analytics.webp" alt="analytics">
+                    <img src="../../wp-content/uploads/2023/01/analytics.webp" alt="analytics">
                     <h4>Analytics</h4>
                     <hr>
                     <p>Commendable analytics that brings you real-time reports of crashes and bugs to be fixed on priority.</p>
@@ -304,7 +308,7 @@ Template Name: Firebase app development
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/messaging.webp" alt="messaging">
+                        <img src="../../wp-content/uploads/2023/01/messaging.webp" alt="messaging">
                         <h4>Messaging</h4>
                         <hr>
                         <p>In-app messaging facility to communicate with the active app users, providing instant results and increasing conversion rate.</p>
@@ -312,7 +316,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/google-analytics.webp" alt="google-analytics">
+                        <img src="../../wp-content/uploads/2023/01/google-analytics.webp" alt="google-analytics">
                         <h4>Google Analytics</h4>
                         <hr>
                         <p>Get unlimited and regular analytics reports by Google on your app's performance, at a global scale.</p>
@@ -320,7 +324,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/predictions.webp" alt="predictions">
+                        <img src="../../wp-content/uploads/2023/01/predictions.webp" alt="predictions">
                         <h4>Predictions</h4>
                         <hr>
                         <p>Gives you reports on user's predicament, improving your app's performance, next time user visits</p>
@@ -328,7 +332,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/testing.webp" alt="testing">
+                        <img src="../../wp-content/uploads/2023/01/testing.webp" alt="testing">
                         <h4>Testing</h4>
                         <hr>
                         <p>Optimize your app's performance and users' engagement with regular quality testing.</p>
@@ -338,7 +342,7 @@ Template Name: Firebase app development
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/cloud-messaging.webp" alt="cloud-messaging">
+                        <img src="../../wp-content/uploads/2023/01/cloud-messaging.webp" alt="cloud-messaging">
                         <h4>Cloud Messaging</h4>
                         <hr>
                         <p>Send collective messages and push notifications to your targeted audience regularly, on a large scale.</p>
@@ -346,7 +350,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/remote-configuration.webp" alt="remote-configuration">
+                        <img src="../../wp-content/uploads/2023/01/remote-configuration.webp" alt="remote-configuration">
                         <h4>Remote Configuration</h4>
                         <hr>
                         <p>Modify your application without the need for having to deploy a new version.</p>
@@ -354,7 +358,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/performance-monitoring.webp" alt="performance-monitoring">
+                        <img src="../../wp-content/uploads/2023/01/performance-monitoring.webp" alt="performance-monitoring">
                         <h4>Performance Monitoring</h4>
                         <hr>
                         <p>Get regular insights into your application's performance and what you can do for improvements.</p>
@@ -362,7 +366,7 @@ Template Name: Firebase app development
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="choosecard">
-                        <img src="/wp-content/uploads/2023/01/app-testing.webp" alt="app-testing">
+                        <img src="../../wp-content/uploads/2023/01/app-testing.webp" alt="app-testing">
                         <h4>App Testing</h4>
                         <hr>
                         <p>Test your application's performance on devices run by Google.</p>
@@ -387,7 +391,7 @@ Template Name: Firebase app development
             <div class="col-md-3 col-sm-6">
                 <a href="javascript:void(0)" class="cloud-box">
                     <div class="item-title serverl">
-                        <img src="/wp-content/uploads/2023/02/IT-infra.png" alt="IT-infra">
+                        <img src="../../wp-content/uploads/2023/02/IT-infra.png" alt="IT-infra">
                         <p class="choopseP"> Easy & flexible Infrastructure</p>
                     </div>
                     <div class="">
@@ -401,7 +405,7 @@ Template Name: Firebase app development
             <div class="col-md-3 col-sm-6">
                 <a href="javascript:void(0)" class="cloud-box">
                     <div class="item-title serverl">
-                        <img src="/wp-content/uploads/2023/02/low-maintanece.png" alt="low-maintance">
+                        <img src="../../wp-content/uploads/2023/02/low-maintanece.png" alt="low-maintance">
                         <p class="choopseP">Develop a backend without managing servers</p>
                     </div>
                     <div class="">
@@ -415,7 +419,7 @@ Template Name: Firebase app development
             <div class="col-md-3 col-sm-6">
                 <a href="javascript:void(0)" class="cloud-box">
                     <div class="item-title serverl">
-                        <img src="/wp-content/uploads/2023/02/secure.png" alt="secure">
+                        <img src="../../wp-content/uploads/2023/02/secure.png" alt="secure">
                         <p class="choopseP">Easy & flexible Infrastructure</p>
                     </div>
                     <div class="">
@@ -429,7 +433,7 @@ Template Name: Firebase app development
             <div class="col-md-3 col-sm-6">
                 <a href="javascript:void(0)" class="cloud-box">
                     <div class="item-title serverl">
-                        <img src="/wp-content/uploads/2023/02/low-maintanece.png" alt="low-maintance">
+                        <img src="../../wp-content/uploads/2023/02/low-maintanece.png" alt="low-maintance">
                         <p class="choopseP">Low maintenance</p>
                     </div>
                     <div class="">
@@ -473,7 +477,7 @@ Template Name: Firebase app development
                         <p>Cloud Firestore uses data synchronization to keep your data in sync across client apps through real-time listeners. It also offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity.</p>
                     </div>
                     <div class="col-md-6 col-sm-4 ">
-                        <img src="/wp-content/uploads/2023/02/real-time-updates.webp" alt="real-time-update">
+                        <img src="../../wp-content/uploads/2023/09/real-time-updates.png" alt="real-time-update">
                     </div>
                 </div>
                 <div id="NoSQL" class="row realTime tabcontent">
@@ -482,7 +486,7 @@ Template Name: Firebase app development
                         <p>Cloud Firestore is a cloud-hosted, NoSQL database that your iOS, Android, and web apps can access directly via native SDKs. These documents are stored in collections, which are containers for your documents that you can use to organize your data and build queries.</p>
                     </div>
                     <div class="col-md-6 col-sm-4">
-                        <img src="/wp-content/uploads/2023/02/database.webp" alt="database">
+                        <img src="../../wp-content/uploads/2023/09/database.png" alt="database">
                     </div>
                 </div>
                 <div id="Serverless" class="row realTime tabcontent">
@@ -491,7 +495,7 @@ Template Name: Firebase app development
                         <p>Cloud Firestore ships with mobile and web SDKs and a complete set of security so you can access your database without needing to set up your own server. Using Cloud Functions, our serverless compute product can execute hosted backend code that responds to data changes in our database.</p>
                     </div>
                     <div class="col-md-6 col-sm-4">
-                        <img src="/wp-content/uploads/2023/02/serverless-app.webp" alt="serverless"> 
+                        <img src="../../wp-content/uploads/2023/09/serverless-app.png" alt="serverless"> 
                     </div>
                 </div>
                 <div id="Offline" class="row realTime tabcontent">
@@ -500,7 +504,7 @@ Template Name: Firebase app development
                         <p>Firestore can automatically synchronize app data between devices. It will notify data changes as they occur. Users can access and make changes to their data at any time, even when they’re offline.</p>
                     </div>
                     <div class="col-md-6 col-sm-4">
-                        <img src="/wp-content/uploads/2023/02/offline-support.webp" alt="offline-support">
+                        <img src="../../wp-content/uploads/2023/09/offilne-support.png" alt="offline-support">
                     </div>
                 </div>
                 <div id="Globally" class="row realTime tabcontent">
@@ -509,7 +513,7 @@ Template Name: Firebase app development
                         <p>Cloud Firestore is powered by Google’s storage infrastructure to scale with your business which supports automatic multi-region data replication, strong consistency guarantees, atomic batch operations, and real transactions without worrying about managing servers & compatibility.</p>
                     </div>
                     <div class="col-md-6 col-sm-4">
-                        <img src="/wp-content/uploads/2023/02/scale-globally.webp" alt="scale-globally">
+                        <img src="../../wp-content/uploads/2023/09/scale-globally.png" alt="scale-globally">
                     </div>
                 </div>
                 <div id="Security" class="row realTime tabcontent">
@@ -518,7 +522,7 @@ Template Name: Firebase app development
                         <p>Cloud Firestore integrates with Firebase Authentication to provide simple and intuitive user authentication which improves the authorization & security of the app. Cloud Firestore Security Rules and Identity and Access Management allow you to secure your mobile, web, and server data, respectively.</p>
                     </div>
                     <div class="col-md-6 col-sm-4">
-                        <img src="/wp-content/uploads/2023/02/serverless-app.webp" alt="serverless-app">
+                        <img src="../../wp-content/uploads/2023/09/serverless-app.png" alt="serverless-app">
                     </div>
                 </div>
             </div>
@@ -534,25 +538,25 @@ Template Name: Firebase app development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Why Choose us?</h2>
-                <p>ETS is a top-ranked Web and Mobile App Development Company and has helped many small and large enterprises through industry-specific Javascript Development solutions.</p>
+                <p>Edventure Infotech is a highly regarded company specializing in web and mobile app development. We have successfully assisted numerous small and large enterprises with tailored JavaScript development solutions tailored to their specific industries.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
                     <h5>Experienced Team of Firebase Developers</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
                     <h5>Proven Development Strategy</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
                     <h5>Advanced and Latest Coding Standards</h5>
                 </div>
             </div>
@@ -561,19 +565,19 @@ Template Name: Firebase app development
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
                     <h5>Flexible Pricing Structure</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
                     <h5>On-time Delivery</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/24-7services.webp" alt="7services"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/24-7services.webp" alt="7services"></div>
                     <h5>Support via Phone, Skype, and Email</h5>
                 </div>
             </div>

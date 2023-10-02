@@ -46,7 +46,9 @@ Template Name: Software Development
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
+
                     <p>Software development encompasses a spectrum of activities, including planning, design, coding, testing, debugging, ongoing maintenance, and more. As globalization continues to surge, this process plays a pivotal role in today's tech-driven world, enabling businesses of all sizes to thrive. If you're in search of top-notch software development firms in Surat, look no further than Edventure InfoTech. As a premier company, we offer dynamic, agile, and competitive software development services. Our proficient team has empowered numerous enterprises with the delivery of cutting-edge mobile apps and software solutions, streamlining their operations. Whether you require technology consultancy, custom software development, rigorous testing, quality assurance, seamless system integration, or robust software support, we have the comprehensive solutions you seek.</p>
+
                 </div>
             </div>
         </div>
@@ -61,7 +63,9 @@ Template Name: Software Development
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
+
                 <p>Software development encompasses the entire lifecycle of crafting, testing, and sustaining software applications. This involves not only writing and managing the underlying source code, but also conceptualizing and executing the diverse features and functionalities of the software. Various methodologies such as agile development, waterfall development, and rapid prototyping are employed, each differing in their emphasis on planning and control throughout the development process. Success in software development demands a blend of technical proficiency and inventive problem-solving skills. Additionally, it entails collaboration with a team of developers, designers, and testers to guarantee the software's excellence and alignment with user requirements.</p>
+
                 </div>
             </div>
         </div>
@@ -132,7 +136,9 @@ Template Name: Software Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Software Product Development Domain Expertise</h2>
+
                 <p>As one of the leading software product development companies, Edventure InfoTech provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
+
             </div>
         </div>
 
@@ -393,9 +399,11 @@ Template Name: Software Development
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
+
                     <h3>Right support to turn your startup into <b class="bBlod"> Profitable Venture </b> </h3>
                     <p><a href="tel:+00 000 000 000">+00 000 000 000</a>
                         <br><a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
+
                     </p>
                     <div class="comBtn2 buildBtn">
 						<a href="javascript:void(0);" class="subscriber-form comBtn">Contact us</a>
@@ -403,7 +411,7 @@ Template Name: Software Development
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg-butnbg-transparent">
-                <img src="https://www.easternts.com.au/wp-content/uploads/2020/08/inquiry.png" alt="inquiry">
+                <img src="../../wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>
@@ -837,7 +845,9 @@ Template Name: Software Development
                 <div class="intuCMS cami-box">
                     <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>ISVs & Product Companies </h3>
+
                     <p>We understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
@@ -871,6 +881,7 @@ Template Name: Software Development
             <div class="col-md-12 mb-5 pb-xxl-5">
                 <div class="fireAdd text-center-important">
                     <h2>How to Outsource Software Development?</h2>
+
                     <p>At Edventure InfoTech, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
                 </div>
             </div>  
