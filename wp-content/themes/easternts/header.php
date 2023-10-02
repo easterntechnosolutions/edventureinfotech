@@ -41,8 +41,12 @@
 			<div class="container">
 				<div>
 					<div id="header-logo" class="row d-flex">
-						<div class="col-sm-5 bgLogocss col-md-3">
+<!-- 						<div class="col-sm-5 bgLogocss col-md-3"> -->
+						<div class="col-sm-5 col-md-3">
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="">
+								<h3 style="color: rgb(113, 120, 117);font-family: 'Fjalla One', arial, sans-serif;font-size: 22px;">
+									EDVENTURE INFOTECH
+								</h3>
 								<!--<img src="https://www.easternts.com.au/wp-content/uploads/2019/04/Easternts.gif" class="header-logo" alt="Logo"  height="100%" width="100%"/>-->
 							</a>
 						</div>

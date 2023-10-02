@@ -16,7 +16,7 @@ Template Name: About us
                       <div class="sercon ">
                           <div class="text-start container">
                               <h1><?php the_title(); ?></h1>
-                              <p>We specialize in Website and Application development</p>
+                              <p>Crafting Exceptional Websites and Apps is Our Expertise</p>
                           </div>
                       </div>
                   </div>
@@ -34,7 +34,7 @@ Template Name: About us
                 <h3>Bring your application to life with Edventure Infotech</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-				<a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
+                  <a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
             </div>
         </div>
     </div>
@@ -47,11 +47,15 @@ Template Name: About us
             <div class="row d-flex">
                   <div class="col-md-6 fireAdd  who-we-are-about">
                         <h2 class="mb-4">Who We Are</h2>
-                        <p class="mb-3">Easternts is not an entity, it’s a family that represents togetherness for over two decades of a successful journey. For Easternts ians, the definition of success is to transcend innovative ideas of people to reality with the help of our tech expertise. This is what we, as a Team, want to be remembered for!</p>
-                        <P>Our vision has led Easternts to become a top IT company in India & Australia for delivering various industry-led mobility solutions. The goal is to empower clients and businesses by creating new possibilities leveraging the technologies of today and tomorrow with the utmost quality, satisfaction, and transparency.</P>                  
+                        <p class="mb-3">
+                              Since our establishment in Edventure InfoTech has evolved into a leading force in the IT industry, serving clients in India with distinction. We're thrilled to extend our reach to Canada, embracing fresh opportunities and challenges on this exciting international journey. Edventure InfoTech is on an unwavering mission to empower organizations across Canada and beyond with cutting-edge technology. Our journey has been marked by significant milestones, partnerships, and a relentless pursuit of excellence in the ever-evolving IT landscape.
+                        </p>                        
+                        <p>
+                              With our office in Canada now, we are excited to serve businesses across the country. Whether you're a start-up looking for salable solutions or an established enterprise aiming to optimize your IT solution, Edventure InfoTech is your trusted partner in this new chapter of your IT journey.
+                        </p>                  
                   </div>
                   <div class="col-md-6">
-                        <img src="/wp-content/uploads/2023/01/who-we-are.gif" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/team.gif" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us">
                   </div>
             </div>
       </div>
@@ -64,11 +68,10 @@ Template Name: About us
             <div class="row d-flex">
                   <div class="col-md-6 fireAdd who-we-are-about order-2">
                         <h2 class="mb-4">What We Do</h2>
-                        <p class="mb-3">Our enthusiasm has led us to become a top IT company in India & Australia for delivering various industry-led mobility solutions in web and mobile application development domains leveraging futuristic technologies like Internet of Things (IoT), AI-ML, AR-VR, Voice assistants and Voice Skills, DevOps & Cloud computing, etc.</p>
-                        <P>We feel empowered with our certified Tech experts and our R&D team who have always challenged themselves to help global clientele with a plethora of IT services and solutions. Engagement with our team guarantees our clients to save huge money on project development with faster delivery.</P>                  
+                        <p class="mb-3">At Edventure InfoTech, our mission is to empower businesses through technology. We offer a comprehensive range of IT services and solutions tailored to meet your organization's unique needs. With our expertise, innovation, and unwavering commitment, we provide you with the tools and support you need to succeed in today's rapidly evolving digital landscape.</p>                                         
                   </div>
                   <div class="col-md-6">
-                        <img src="/wp-content/uploads/2023/01/what-we-do.gif" alt="Something About Us"  class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" title="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/what-we-do.png" alt="Something About Us"  class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" title="">
                   </div>
             </div>
       </div>
@@ -80,8 +83,9 @@ Template Name: About us
       <div class="container">
             <div class="row">
                   <div class="fireAdd text-center">
-                        <h2>Our Core Values</h2>
-                        <p>Edventure Infotech’s six core values are the foundation of the company – they’ve been there from the start and really are the DNA of the organisation. They represent the way we behave towards each other, our colleagues and our customers. These values drive our approach to work and business.</p>
+
+                        <h2>Why Edventure InfoTech?</h2>
+                        <p class="text-center-important">Edventure InfoTech’s four core values are the foundation of the company.</p>
                   </div>
             </div>
 
@@ -89,34 +93,24 @@ Template Name: About us
                   <div class="col-lg-12 services-list-fresh cover-all-industries-mobile-aap-development">
                         <ul>
                               <li>
-                                    <i class="icon1 wow fadeIn"></i>
-                                    <h3><b>Authenticity </b></h3>
-                                    <p>Be sincere, honest & open in dealings to ensure trustworthy Never lie - fulfill commitments. </p>
-                              </li>
-                              <li>
-                                    <i class="icon5 wow fadeIn"></i>
-                                    <h3><b>Offering Exceptional Value </b></h3>
-                                    <p>Understand and exceed customer expectations, all the time. Maximum client content is our top priority. </p>
-                              </li>
-                              <li>
-                                    <i class="icon4 wow fadeIn"></i>
-                                    <h3><b>Leadership </b></h3>
-                                    <p>Set trends for your peers and the industry in general to follow. We follow the latest industry trends. </p>
-                              </li>
-                              <li>
                                     <i class="icon3 wow fadeIn"></i>
-                                    <h3><b>Quest for perfection </b></h3>
-                                    <p>Improve and innovate continuously. Pursue excellence in everything that you do. </p>
+                                    <h3><b>Global Reach, Local Touch </b></h3>
+                                    <p>With years of experience and a keen focus on expanding our footprint in Canada, we offer a global perspective and the local know-how necessary to thrive in both markets.</p>
                               </li>
                               <li>
-                                    <i class="icon2 wow fadeInIn"></i>
-                                    <h3><b>Respect </b></h3>
-                                    <p>Treat others as you would like yourself be treated. We ensure maximum trust to our customers. </p>
+                                    <i class="icon1 wow fadeIn"></i>
+                                    <h3><b>Innovation at Heart</b></h3>
+                                    <p>We are passionate about innovation. From pioneering software solutions to optimizing IT infrastructure, we continuously explore new frontiers to keep your business ahead of the curve.</p>
+                              </li>
+                              <li>
+                                    <i class="icon8 wow fadeIn"></i>
+                                    <h3><b>Client-Centric Approach</b></h3>
+                                    <p>Our commitment to your success is unwavering. We work closely with you to understand your goals and challenges, tailoring IT strategies that align perfectly with your vision.</p>
                               </li>
                               <li>
                                     <i class="icon6 wow fadeIn"></i>
-                                    <h3><b>Employee Satisfaction </b></h3>
-                                    <p>Our greatest asset. We love and support our colleagues and operate without hierarchy. </p>
+                                    <h3><b>Proven Track Record</b></h3>
+                                    <p>Over the years, we have established a noteworthy track record of successful projects that have left a trail of satisfied clients across a diverse spectrum of industries. </p>
                               </li>
                         </ul>
                   </div>
@@ -126,7 +120,7 @@ Template Name: About us
 
 <!-- Things We have Achieved -->
 
-<section class="sectionPadd position-relative why-should-you-choose" style="background-image: url(https://d2ms8rpfqc4h24.cloudfront.net/rxweb_tailored_laravel_df14f51acb.jpg); background-size:cover;">
+<section class="sectionPadd position-relative why-should-you-choose" style="background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/background.webp); background-size:cover;">
       <div class="container">
             <div class="row">
                   <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
@@ -194,12 +188,13 @@ Template Name: About us
       <div class="container">
             <div class="row d-flex">
                   <div class="col-md-6 fireAdd  who-we-are-about">
-                        <h2 class="mb-4">How We Work?</h2>
-                        <p> We have curated a <b>Custom Agile Approach</b> to develop your software solutions for <b>maximum adaptability</b> with exceptional technological expertise at affordable prices.
+                        <h2 class="mb-4">Our Vision</h2>
+                        <p> 
+                              We want to be the leading provider of <b>innovative technology solutions</b> that unlocks the growth in small and medium-size enterprises. We strive to create a future where technology enhances and improves every aspect of business, and where our <b>customers trust</b> us to be their partner in this journey. 
                         </p>
                   </div>
                   <div class="col-md-6">
-                        <img src="/wp-content/uploads/2021/10/about-us3.gif" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us" title="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/Our-Vision.png" class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" alt="Something About Us" title="Our Vision">
                   </div>
             </div>
       </div>
@@ -211,18 +206,30 @@ Template Name: About us
       <div class="container">
             <div class="row">
                   <div class="fireAdd text-center">
-                        <h2>Why Edventure Infotech?</h2>
-                        <p>We have built the foundation of our company on the pillars of honesty, integrity, and high-quality deliverables. Our highly talented bunch of employees always strive hard to raise our bar in terms of services provided to our clients with utmost dedication. We believe in the work hard, party harder principle.</p>
+
+                        <h2>Our Approach</h2>
+                        <p class="text-center-important">We have built the foundation of our company on the pillars of honesty, integrity, and high-quality deliverables.</p>
+
                   </div>
             </div>
             <div class="mision-vision-about">
                   <div class="mision-vision">
-                        <h3>Our Mission</h3>
-                        <p>We envision to be the best service providers for mobile application and website development. To constantly expand our boundaries of innovation and bring novel concepts to the table. To provide our clients with services that turn into business revolutions.</p>
+                        <h3>Client-Centric Focus</h3>
+                        <p>
+                              Your success is our priority. We take the time to understand your business inside and out, ensuring that our solutions are tailored to your specific needs.
+                        </p>
                   </div>
                   <div class="mision-vision">
-                        <h3>Our Vision</h3>
-                        <p>To provide you with all-encompassing websites and applications that meet all your requirements and the ones that your customers will love. We work relentlessly to bring customers to your door. Using our skills and services we strive to get more visibility for your websites and applications.</p>
+                        <h3>Innovation at Heart</h3>
+                        <p>
+                              We thrive on innovation. Our team continuously explores emerging technologies and industry trends to deliver cutting-edge solutions that keep you ahead of the curve.
+                        </p>
+                  </div>
+                  <div class="mision-vision">
+                        <h3>Quality Assurance</h3>
+                        <p>
+                              Excellence is ingrained in our culture. We maintain the highest standards of quality in all our services and solutions, providing you with reliable and robust IT infrastructure.
+                        </p>
                   </div>
             </div>
       </div>
@@ -233,9 +240,9 @@ Template Name: About us
 <section class="sectionPadd bg-orange">
     <div class="container">
         <div class="row">
-            <div class="fireAdd  ">
+            <div class="fireAdd text-center">
                 <h2>Industry We Serve </h2>
-                <p>We provide innovative solutions for following industries.</p>
+                <p class="text-center-important">We provide innovative solutions for following industries.</p>
             </div>
         </div>
 

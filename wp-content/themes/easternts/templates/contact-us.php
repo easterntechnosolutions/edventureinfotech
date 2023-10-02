@@ -16,7 +16,7 @@
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1>Contact Us</h1>
-                            <p>You know where to find us</p>
+                            <p>Connect with Our Digital Experts to Transform Your Vision into Reality</p>
                         </div>
                     </div>
                 </div>
@@ -30,43 +30,55 @@
 <section class="office_address">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12  min-h2">
-                <h3 class="country_name"><img class="country_image" src ="https://bestanimations.com/media/india/911976162india-flag-waving-animated-gif-12.gif"> INDIA</h3>
+            
+            <div class="col-lg-4 col-md-4 col-sm-12 min-h2 contact-about">
+                <h3 class="country_name">Edventure Infotech</h3>
                 <ul class="address">
-                    <li><img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2dVYokPTttgdiIq9N946X3rXmxYAKRdM1m7JVQfaYCtmR5Dhge3Ogcv2qS-LrtONNJY&amp;usqp=CAU">
-                    <p class=""> 2nd Floor, Halwawala Point, Jamna Nagar
-                    BRTS Bus Stand, Canal Road Surat,
-                    Gujarat 395007, INDIA</p>
-                    <li><img class="location" src="https://static.thenounproject.com/png/52971-200.png"><a href="tel:+91 704 682 7566" class="location_address" >Tel +91 704 682 7566</a></li>
-                    <li><img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKVkUUAf0uGakG0j0oNRf8IU28VoTnAVuN1Q77rYraZEAEnOOThbh-LgPUUDfkQlHTDs&usqp=CAU"><a href="mailto: contact@easternts.com" class="location_address">contact@easternts.com</a></li>
+                    <li>
+                        <!-- <img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2dVYokPTttgdiIq9N946X3rXmxYAKRdM1m7JVQfaYCtmR5Dhge3Ogcv2qS-LrtONNJY&amp;usqp=CAU">  -->
+                        <p>Share insights about your business and development goals, and let us customize a service package just for you. We're eager to connect and bring your vision to life.</p>
+                    </li>    
+                </ul>   
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 min-h2 contact-hours">
+                <h3 class="country_name">Working Hours</h3>
+                <ul class="address" style="padding: 20px 0 0 0;">
+                    <li>
+                        <p>Week Days : 9am - 5pm</p>
+                        <p>Saturday - Sunday : Day Off</p>
+                    </li>    
+                </ul>
+                <h4 class="country_name"><b>We Are Social</b></h4>
+                <ul class="etsSocial">
+                    <li><a href="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="" target="_blank"><i class="fab fa-twitter"></i> </a></li>
+                    <li><a href="" target="_blank"><i class="fab fa-linkedin-in"></i> </a></li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 min-h2 cotact-details">
+                <h3 class="country_name">Contact Details</h3>
+                <ul class="address">
+                    <li>
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p class=""> 
+                            1295 Dundas Street, Unit 2,
+                            <br> Woodstock, Ontario N4S 7V9,                    
+                            <br> Canada
+                        </p>
+                    </li>
+                    <li>
+                        <i class="fa fa-phone" aria-hidden="true"></i>                       
+                        <a  href="tel: +00 000 000 000" class="location_address"> Tel +00 000 000 000</a>                        
+                    </li>
+                    <li>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>                        
+                        <a href="mailto: info@edventureinfotech.com" class="location_address">info@edventureinfotech.com</a>
                     </li>
                 </ul>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 min-h2">
-                <h3 class="country_name"><img class="country_image"  src ="https://bestanimations.com/media/australia/96065829autralia-flag-gif-25.gif">AUSTRALIA</h3>
-                <ul class="address">
-                    <li><img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2dVYokPTttgdiIq9N946X3rXmxYAKRdM1m7JVQfaYCtmR5Dhge3Ogcv2qS-LrtONNJY&amp;usqp=CAU"> 
-                    <p class=""> Unit 6 191 Scoresby Road,
-                    Boronia, VIC - 3155,
-                    <br>Australia</p>
-                   <li><img class="location" src="https://static.thenounproject.com/png/52971-200.png"><a  href="tel: +61 420 822 457" class="location_address"> Tel +61 420 822 457</a></li></li>
-                    <li><img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKVkUUAf0uGakG0j0oNRf8IU28VoTnAVuN1Q77rYraZEAEnOOThbh-LgPUUDfkQlHTDs&usqp=CAU"> <a href="mailto: contact@easternts.com.au" class="location_address">contact@easternts.com.au</a></li>
-                </ul>
-            </div>
-	
-<!--             <div class="col-lg-4 col-md-4 col-sm-12  min-h2">
-                <h3 class="country_name"><img class="country_image"  src ="https://thumbs.gfycat.com/AntiqueLittleBear-size_restricted.gif"> UAE</h3>
-                <ul class="address">
-                    <li> 
-                    <img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2dVYokPTttgdiIq9N946X3rXmxYAKRdM1m7JVQfaYCtmR5Dhge3Ogcv2qS-LrtONNJY&amp;usqp=CAU">
-                    <p class=""> Unit 6 191 Scoresby Road,
-                    <br>Boronia, VIC - 3155,
-                    <br>Australia</p>
-                    <li><img class="location" src="https://static.thenounproject.com/png/52971-200.png"><a href="tel: +91 704 682 7566" class="location_address"> Tel +91 704 682 7566 </a></li></li>
-                    <li><img class="location" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKVkUUAf0uGakG0j0oNRf8IU28VoTnAVuN1Q77rYraZEAEnOOThbh-LgPUUDfkQlHTDs&usqp=CAU"> <a href="mailto: contact@easternts.com" class="location_address">contact@easternts.com</a></li>
-                </ul>
-            </div> -->
-	
+            
+            
+
         </div>
     </div>
 </section>
@@ -100,7 +112,7 @@
 <section class="map-section">
     <div class="col-sm-12">
         <div class="maps">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.5720449825094!2d72.80870901538671!3d21.16942278833624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e746083caa5%3A0xaae6fb4cb31ad325!2sEastern%20Techno%20Solutions!5e0!3m2!1sen!2sin!4v1673615299240!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9792.7953105239!2d-80.72203229864044!3d43.137804245604805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c19f39d7a9b23%3A0xd12d58ef8b5c067!2sEdventure%20Infotech!5e0!3m2!1sen!2sin!4v1695728014012!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
         </div>
     </div>
 </section>
