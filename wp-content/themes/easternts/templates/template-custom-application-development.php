@@ -150,7 +150,11 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
+<<<<<<< HEAD
+                                <img  src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true" >
+=======
                                 <img src="../../wp-content/uploads/2023/10/Security-icon.png" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="40" height="40" data-was-processed="true" >
+>>>>>>> 1bcbebc047504feacd6d1d48014c6432a436caec
                             </picture>
                         </span>
                         <h3>Robust Security</h3>

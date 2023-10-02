@@ -56,7 +56,7 @@ Template Name: IT Consulting
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="/wp-content/uploads/2023/02/it-consulting1.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Consultation">
+                <img src="../../wp-content/uploads/2023/10/it-consulting1.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Consultation">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -72,7 +72,7 @@ Template Name: IT Consulting
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0 text-center">
-                <img src="/wp-content/uploads/2023/02/it-consulting2-scaled.webp"  class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Consultation">
+                <img src="../../wp-content/uploads/2023/10/it-consulting2.webp"  class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Consultation">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -87,7 +87,7 @@ Template Name: IT Consulting
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="/wp-content/uploads/2023/02/it-consulting3.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Live-Project-Training">
+                <img src="../../wp-content/uploads/2023/10/it-consulting3.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Live-Project-Training">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -179,12 +179,12 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp"  src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp" class="lazy loaded wow zoomIn" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="48" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/Digital-Transformation-consulting.svg" class="lazy loaded wow zoomIn" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="49" data-was-processed="true">
                             </picture>
                         </span>
                         <h3>Digital Transformation Consulting</h3>
                     </div>
-                    <p>At Octal IT Solutions, our Digital Transformation team helps companies identify gaps between where they are now and where they need to be. We help bridge the gap.</p>
+                    <p>At Edventure Infotech, our Digital Transformation team helps companies identify gaps between where they are now and where they need to be. We help bridge the gap.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 mb-5">
@@ -193,7 +193,7 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" class="lazy loaded wow zoomIn" type="image/webp" width="60" height="49" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/Enterprise-mobility-consultation.svg" class="lazy loaded wow zoomIn" type="image/webp" width="49" height="49" data-was-processed="true">
                             </picture>
                         </span>
                         <h3>Enterprise Mobility Consultation</h3>
@@ -207,7 +207,7 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" class="lazy loaded wow zoomIn" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/Business-process-automation-consultation.svg" class="lazy loaded wow zoomIn" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true">
                             </picture>
                         </span>
                         <h3>Business Process Automation Consultation</h3>
@@ -221,10 +221,10 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/CLOUD_CONSULTING_SERVICES.webp" src="https://cdn.octalsoftware.com/images/software-consulting/CLOUD_CONSULTING_SERVICES.webp" class="lazy loaded wow zoomIn" alt="CLOUD CONSULTING &amp; SERVICES" width="49" height="49" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/Cloud-computing.svg" class="lazy loaded wow zoomIn" alt="CLOUD CONSULTING &amp; SERVICES" width="49" height="49" data-was-processed="true">
                             </picture>
                         </span>
-                        <h3>Cloud Consulting &amp; Services</h3>
+                        <h3>Cloud Computing &amp; Services</h3>
                     </div>
                     <p>With <a href="https://www.octalsoftware.com/cloud-computing-solutions" target="_blank">Cloud computing</a>, it’s easier to reduce operational expenses, boost innovation, unleash new possibilities, and realize your strategic IT objective faster. Our software consulting services use this technology to regain your lost core business focus.</p>
                 </div>
@@ -235,7 +235,7 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/IT_INFRASTRUCTURE_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/IT_INFRASTRUCTURE_CONSULTATION.webp" class="lazy loaded wow zoomIn" type="image/webp" width="51" height="49" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/itinfrastructure.svg" class="lazy loaded wow zoomIn" type="image/webp" width="51" height="49" data-was-processed="true">
                             </picture>
                         </span>
                         <h3>IT Infrastructure Consultation</h3>
@@ -249,12 +249,12 @@ Template Name: IT Consulting
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/WEB_AND_MOBILE_CONSULTING_SERVICES.webp" src="https://cdn.octalsoftware.com/images/software-consulting/WEB_AND_MOBILE_CONSULTING_SERVICES.webp" class="lazy loaded wow zoomIn" type="image/webp" width="51" height="49" data-was-processed="true">
+                                <img  src="../../wp-content/uploads/2023/10/Web-application.svg" class="lazy loaded wow zoomIn" type="image/webp" width="51" height="49" data-was-processed="true">
                             </picture>
                         </span>
                         <h3>Web Mobile Consulting &amp; Services</h3>
                     </div>
-                    <p>Octal IT Solutions engineers and fine-tunes search and analytics solutions for clients around the world. Our software consulting companies help clients with web and mobile app strategy planning, implementation, and support of your application.</p>
+                    <p>Edventure Infotech engineers and fine-tunes search and analytics solutions for clients around the world. Our software consulting companies help clients with web and mobile app strategy planning, implementation, and support of your application.</p>
                 </div>
             </div>
         </div>
@@ -406,13 +406,13 @@ Template Name: IT Consulting
         </div>
         <div class="row d-flex">
             <div class="col-md-6 ProcssWork text-dark">
-                <h3 class="mb-5">AngularJS Developmen</h3>
+                <h3 class="mb-5">AngularJS Development</h3>
                 <p>Not sure which technology aligns perfectly with your business objectives? or confused with your operational and financial objectives?</P>
                 <p>Leave it to us!</p>
                 <p>As a team of qualified professionals, we offer a range of services to satisfy your business/product needs. Providing you with a blend of technical knowledge, and information based on data mining practices and with the help of analytical tools, we help you to create and transform business processes & operations tailor-made as per your requirements.</p>
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/it-strategy.webp" class="wow fadeInLeft" data-wow-delay="0.2s" alt="it-stratgey">
+                <img src="../../wp-content/uploads/2023/10/it-strategy.png" class="wow fadeInLeft" data-wow-delay="0.2s" alt="it-stratgey">
             </div>
     </div>
 </section>
