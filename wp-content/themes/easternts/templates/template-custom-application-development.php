@@ -27,7 +27,7 @@ Template Name: Custom Application Development
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1><?php the_title(); ?></h1>
-                            <p>You ideate, we create</p>
+                            <p>You Dream, We Build</p>
                         </div>
                     </div>
                 </div>
@@ -55,11 +55,11 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="/wp-content/uploads/2023/02/cad1.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Edventure Infotech offers Custom Application Development services in Canada , catering to diverse business needs. We customize web applications based on product specifications and client requirements, optimizing output through automation. Utilizing advanced technology, we eliminate discrepancies, ensuring a reliable process. In this fast-paced era, our Custom Application Development services provide an efficient means to globally introduce your product.</p>
+                    <p>Entrepreneurs harbor unique visions for propelling their businesses, each demanding a tailored strategy. Edventure InfoTech, based in Ontario, caters to this diverse spectrum through its Custom Application Development services. This enables the customization of web applications according to both product specifications and client preferences. We've streamlined operations by substituting manual tasks with automated processes, ensuring heightened precision through cutting-edge technology. In today's dynamic landscape, our Custom Application Development services stand as a pivotal conduit for efficiently launching your product into the global market.</p>
                 </div>
             </div>
 
@@ -72,11 +72,13 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 text-center p0">
-                <img src="/wp-content/uploads/2023/02/cad2-1.webp" class="wow fadeInright" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-2.webp" class="wow fadeInright" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Custom Application Development is a method constructed from the ground up, tailored to meet each client's specifications. Leveraging our experience, we pinpoint the client's area of concern, enabling us to deliver exceptional custom application development services successfully. Whether developing custom applications for diverse sectors or catering to individual requirements, Edventure Infotech comprehends the distinct needs of all stakeholders.</p>
+                    <p>
+                        Crafted from the ground up to meet precise client requirements, Custom Application Development is a meticulous process we excel in. Drawing on our wealth of experience, we focus on addressing client concerns, ensuring the delivery of outstanding custom application development services. Whether it's tailoring applications for diverse sectors or catering to individual needs, Edventure InfoTech is adept at comprehending and meeting specific requirements.
+                    </p>
                 </div>
             </div>
         </div>
@@ -89,9 +91,11 @@ Template Name: Custom Application Development
 <section class="sectionPadd">
     <div class="container">
         <div class="row">
-            <div class="fireAdd ">
+            <div class="fireAdd text-center">
                 <h2>The Agile Process to achieve your business goal</h2>
-                <p>Selleo believes in using Agile and Lean principles for effective project management. We employ Scrum, a lightweight process framework, to enhance communication and collaboration with the client's team, considering it crucial for the success of outsourced projects.</p>
+                <p>
+                    We firmly adhere to the Agile and Lean software development methodologies, considering them as the most efficient approach to project management. Our choice of utilizing Scrum, a lightweight agile process framework, stems from its ability to foster optimal communication and collaboration with our clients. We view this as a pivotal element contributing to the success of outsourced projects.
+                </p>
                 <img src="../../wp-content/uploads/2022/11/scrum-process-lp.png" class="wow fadeIn"  alt="scrum-process">
             </div>
         </div>
@@ -107,7 +111,7 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Opt For Excellent Quality App Development Services</h2>
-                <p>Take advantage of our custom application development services to improve the security of your solution, speed time to market, and deliver exceptional customer value.</p>
+                <p>Utilize our tailored application development services to enhance solution security, accelerate time-to-market, and provide outstanding customer value.</p>
             </div>
         </div>
 
@@ -118,7 +122,7 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp" src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp" class="lazy loaded  wow flipInX" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="48" data-was-processed="true" >
+                                <img src="../../wp-content/uploads/2023/10/Quality-icon.png" class="lazy loaded  wow flipInX" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="48" data-was-processed="true" >
                             </picture>
                         </span>
                         <h3>Assurance Of Top-Grade Quality</h3>
@@ -132,7 +136,7 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" class="lazy loaded wow flipInX" type="image/webp" width="60" height="49" data-was-processed="true" >
+                                <img src="../../wp-content/uploads/2023/10/DevOps-icon.png" class="lazy loaded wow flipInX" type="image/webp" width="49" height="48"  data-was-processed="true" >
                             </picture>
                         </span>
                         <h3>DevOps Integrated Culture</h3>
@@ -146,7 +150,11 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
+<<<<<<< HEAD
                                 <img  src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true" >
+=======
+                                <img src="../../wp-content/uploads/2023/10/Security-icon.png" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="40" height="40" data-was-processed="true" >
+>>>>>>> 1bcbebc047504feacd6d1d48014c6432a436caec
                             </picture>
                         </span>
                         <h3>Robust Security</h3>
@@ -166,8 +174,8 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd ">
                 <h2 class="text-center">Software Architecture</h2>
-                <p>Many developers sometimes overlook software architecture and design, affecting performance and development speed. Alternatively, projects with extensive upfront design may encounter unnecessary complexity and delayed feedback during implementation.</p>
-                <p>We take a pragmatic approach to architecture and design challenges. We identify the most crucial areas that warrant upfront investment, prioritizing others for subsequent stages where design follows more critical development iterations. We also implement a Microservices architecture.</p>
+                <p>Developers often underestimate the significance of software architecture and design, potentially impeding both application performance and development speed. Conversely, some projects may grapple with excessive upfront design, leading to unwarranted intricacy and postponing feedback that could naturally emerge during the implementation phase.</p>
+                <p>We adopt a practical approach to architecture and design challenges. We identify the pivotal areas that merit initial investment of time and prioritize others for later stages, focusing on design once critical development iterations are completed.</p>
             </div>
         </div>
         <div class="row">
@@ -212,7 +220,7 @@ Template Name: Custom Application Development
                 </div>
             </div>
             <div class="col-md-6 p-4">
-                <img src="/wp-content/uploads/2023/02/agile1.webp" alt="scrum-process-lp">
+                <img src="../../wp-content/uploads/2023/10/agile.webp" alt="scrum-process-lp">
 
             </div>
         </div>
@@ -228,7 +236,7 @@ Template Name: Custom Application Development
             <div class="col-md-6 mt-5">
                 <div class="mb-0 fireAdd  text-white col-md-12 ProcssWork">
                     <h2>Request a Quote </h2>
-                    <P>Share a brief about your project and get a guaranteed response within 24 hours.</P>
+                    <P>Provide a project overview and receive a guaranteed response within 24 hours.</P>
                     <div class="gain-competitive bg-transparent hover-blue-color">
 						<a href="javascript:void(0);"  class="subscriber-form">Let's Start</a>
                     </div>
@@ -301,7 +309,7 @@ Template Name: Custom Application Development
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>Opt For Excellent Quality App Development Services</h2>
+                <h2>Opt Superior App Development Services for Unmatched Quality</h2>
                 <p>Take advantage of our custom application development services to improve the security of your solution, speed time to market, and deliver exceptional customer value.</p>
             </div>
         </div>

@@ -600,7 +600,7 @@ function enqueue_animation_script() {
 									    <div class="row">
 										  <div class="col-md-12">
 											<div class="technical-main-mdl">
-											    <div class="technical-main-img"> <span><img src="https://www.easternts.com.au/wp-content/uploads/2020/03/Images_01.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
+											    <div class="technical-main-img"> <span><img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/tech-stack.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
 											    <div class="technical-tk-ul">
 												  <ul>
 													<li class="frontend"> <a href="javascript:void(0)">Frontend</a>
@@ -804,7 +804,7 @@ function enqueue_animation_script() {
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/magento.png" alt="magento" title="css3"></span> </div>
 										  </li>
 										  <li class="mongodb">
-											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.infowindtech.com/wp-content/themes/infowind/company-logo/other/mongodb.png" alt="mongodb" title="css3"></span> </div>
+											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com/wp-content/uploads/2023/09/mongodb.webp" alt="mongodb" title="css3"></span> </div>
 										  </li>
 										  <li class="mysql">
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/mysql.png" alt="mysql" title="css3"></span> </div>

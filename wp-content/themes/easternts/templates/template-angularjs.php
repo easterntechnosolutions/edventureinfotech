@@ -27,7 +27,7 @@ Template Name: AngularJS
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1>AngularJS</h1>
-                            <p>Race your sales ahead</p>
+                            <p>Accelerate Your Sales Performance</p>
                         </div>
                     </div>
                 </div>
@@ -496,6 +496,7 @@ AngularJS, an open-source web development framework by Google, is used to create
         <div class="row d-flex">
             <div class="col-md-6 text-center">
                 <img src="../../wp-content/uploads/2023/09/angular4.webp" alt="why-choose">
+
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>

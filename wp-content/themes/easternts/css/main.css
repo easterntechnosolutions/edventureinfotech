@@ -526,8 +526,13 @@ ul {
     display: inline-block;
 }
 .comBtn:hover {
-    color: #fff !important;
-    background-color: #1a2e59;
+    /* color: #fff !important;
+    background-color: #1a2e59; */
+
+}
+.weCanhalp .comBtn:hover {
+    color: #fff!important;
+    background-color: #390075;
 }
 .colororeang {
     color: #ee8c1d;
@@ -631,7 +636,7 @@ ul {
 .ContactHead a {
     border-radius: 51px;
     color: #fff !important;
-    background: #2c375a;
+    background: #21295C;
     padding: 9px 19px !important;
     font-weight: 600 !important;
     transition: all 0.3s ease-in-out;
@@ -808,7 +813,8 @@ img.header-logo {
     }
 }
 .colororang {
-    background-color: #f57f20;
+/*     background-color: #f57f20; */
+	background-color: #1B3B6F;	
 }
 .developBeautiful {
     padding: 14px 15px;
@@ -821,11 +827,11 @@ img.header-logo {
     line-height: 1.2;
 }
 .developBeautiful a {
-    color: #1a2e59;
+    color: rgb(179 179 179);
     font-weight: 700;
 }
 .Hero-back {
-    background-image: url(../images/download.jpg);
+    background-image: url(../images/home-banner.jpg);
     background-repeat: no-repeat;
     position: relative;
     padding-top: 274px;
@@ -877,7 +883,7 @@ img.header-logo {
     }
 }
 .gain-competitive {
-    background-color: #1a2e59;
+    background-color: #21295C;
     padding: 31px 0;
 }
 @media (max-width: 990px) {
@@ -971,7 +977,7 @@ img.header-logo {
 }
 .OurServices p {
     font-size: 18px;
-    text-align: justify;
+/*     text-align: justify; */
 }
 @media (min-width: 991px) {
     .OurServices p {
@@ -980,7 +986,7 @@ img.header-logo {
     }
 }
 .ourDetails {
-    margin-bottom: 8px;
+    margin-bottom: 30px;
 }
 @media (min-width: 768px) {
     .ourDetails {
@@ -1026,7 +1032,8 @@ img.header-logo {
 .ourExpert h3 {
     position: absolute;
     left: 0;
-    background-color: rgba(26, 46, 89, 0.9);
+    /* background-color: rgba(26, 46, 89, 0.9); */
+    background-color: rgba(33, 41, 92, 0.9);
     color: #fff;
     right: 0;
     bottom: 0px;
@@ -1062,7 +1069,7 @@ img.header-logo {
 @media (min-width: 991px) {
     .ourmarg {
         width: 95%;
-        margin: 0 auto;
+        margin: 10px auto;
     }
     .monileMarg {
         margin-bottom: 22px;
@@ -1081,6 +1088,7 @@ img.header-logo {
 @media (max-width: 991px) {
     .ourmarg {
         width: 100%;
+        margin: 10px auto;
     }
     .ourExpert {
         margin-bottom: 32px;
@@ -1122,9 +1130,9 @@ img.header-logo {
     }
 }
 .weCanhalp .comBtn {
-    background-color: #ed832f;
-    border-color: #ed832f !important;
-    color: #fff !important;
+    background-color: #F0E5FF;
+    border-color: #390075!important;
+    color: #390075!important;
 }
 .weCanhalp .weImg {
     position: absolute;
@@ -1143,7 +1151,7 @@ img.header-logo {
     bottom: 0;
 }
 .subNew {
-    background-color: #1a2e59;
+    background-color: #21295C;
     padding: 27px;
 }
 .subNew h3 {
@@ -1212,7 +1220,7 @@ input:focus-visible {
     }
 }
 .footerBgcolor {
-    background-color: #eee;
+    background-color: #D4B9F8;
 }
 .footerEts {
     padding: 25px 0;
@@ -1269,8 +1277,18 @@ input:focus-visible {
         margin: 0 2px;
     }
 }
+.contact-hours .etsSocial li a {
+    color: #fff;
+}
+.contact-hours .etsSocial li a:hover {
+    color: #D4B9F8;
+}
+.contact-hours .etsSocial li a:hover i {
+    color: #D4B9F8;
+    transform: scale(1.1);
+}
 .etsSocial li a {
-    color: #1a2e59;
+    color: #390075;
     font-size: 18px;
     border: 1px solid;
     border-radius: 50px;
@@ -1284,10 +1302,10 @@ input:focus-visible {
     line-height: 1.5;
 }
 .etsSocial li a:hover {
-    color: #ed832f;
+    color: #f57f20;
 }
 .etsSocial li a:hover i {
-    color: #ed832f;
+    color: #f57f20;
     transform: scale(1.1);
 }
 .etscenter {
@@ -1305,14 +1323,29 @@ input:focus-visible {
         border-top: 1px solid;
         margin-top: 21px;
     }
+    .office_address .row .contact-hours {
+        width: 100%;
+        margin: 20px 0px;
+        border-radius: 50px 0;
+    }
+    .office_address .row .contact-about {
+        margin-right: -7px;
+    }
+    .office_address .row .cotact-details {
+        margin-left: -8px;
+        margin-bottom: 20px;
+    }
+    .office_address .row ul.address {
+        margin: 0;
+    }
 }
 .servicebanner {
-    background-image: url(../images/Services_01.png);
+    background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
     position: relative;
 }
 @media (max-width: 768px) {
     .servicebanner {
-        background-image: url(../images/Services_01.png);
+        background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
         padding-top: 60px;
         padding-bottom: 60px;
     }
@@ -1576,7 +1609,7 @@ input:focus-visible {
     }
 }
 .zigZ {
-    padding: 101px;
+    padding: 0 101px;
 }
 @media (max-width: 1024px) {
     .zigZ {
@@ -1591,6 +1624,13 @@ input:focus-visible {
 @media (max-width: 768px) {
     .zigZ h2 {
         font-size: 21px;
+    }
+    .sap-customer-transform .zigZ h2 {
+        padding-bottom: 20px;
+        font-size: 21px;
+    }
+    .sap-customer-transform .zigZ p {
+        padding-bottom: 10px;
     }
 }
 .zigZ p {
@@ -1614,11 +1654,15 @@ input:focus-visible {
 .fireAdd {
     margin-bottom: 42px;
 }
+.ets-contact-form .fireAdd h2 {
+    color: #fff;
+}
 .fireAdd h2 {
     font-size: 37px;
     font-weight: bold;
     margin-bottom: 23px;
     line-height: 1.4;
+    /* color: #000; */
 }
 @media (max-width: 768px) {
     .fireAdd h2 {
@@ -2030,7 +2074,7 @@ input:focus-visible {
     }
 }
 .buildBgcolor {
-    background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/08/lets-talk.svg?id=8119) !important;
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/lets-talk.svg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -2087,7 +2131,7 @@ input:focus-visible {
 .ourSer {
     margin-bottom: 35px;
     background: #fff;
-    min-height: 431px;
+    min-height: 350px;
     border-bottom: 3px solid #1a2e59;
     border-radius: 10px 10px 0 0;
 }
@@ -3799,6 +3843,15 @@ table {
     line-height: 1.4;
     margin-bottom: 0;
 }
+.bg-sap h2 {
+    color: #fff;
+}
+.bg-sap {
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/bg-sap.webp);
+    padding: 61px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .ucuidevbg {
     background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/11/carHire_panel_bg.jpg?id=8319);
     padding: 61px 0;
@@ -4215,6 +4268,14 @@ table {
     width: 33.33%;
     float: left;
 }
+.sap-sevices-section .seo-serices {
+    margin-bottom: 30px;
+    width: 50%;
+    float: left;
+}
+.sap-sevices-section .seo-serices .sap-card {
+    background: #e5edfa;
+}
 .seo-serices > div {
     box-shadow: 0 5px 8px 3px #00000017;
     padding: 18px 20px;
@@ -4253,6 +4314,9 @@ table {
 @media (max-width: 767px) {
     .seo-serices {
         width: 100%;
+    }
+    .sap-sevices-section .seo-serices { 
+        width: 100%;        
     }
 }
 .seo-serices .sec-capabilities {
@@ -4783,7 +4847,7 @@ span.accordion__caption {
     width: 99.5%;
     display: block;
     top: -1px;
-    z-index: 9999;
+    z-index: 10;
 }
 .why-should-you-choose::after {
     bottom: 0px;
@@ -5006,9 +5070,12 @@ span.accordion__caption {
     flex-wrap: wrap;
 }
 .services-list-fresh ul li {
-    flex: 0 0 30%;
+    flex: 0 0 21%;
     padding: 0 0 40px;
     list-style: none;
+}
+.services-list-fresh.cover-all-industries-mobile-aap-development ul li {
+    flex: 0 0 29%;
 }
 @media (max-width: 991px) {
     .services-list-fresh ul li {
@@ -5016,6 +5083,9 @@ span.accordion__caption {
     }
 }
 @media (max-width: 767px) {
+    .services-list-fresh.cover-all-industries-mobile-aap-development ul li {
+        flex: 0 0 100%;
+    }
     .services-list-fresh ul li {
         flex: 0 0 100%;
         text-align: center;
@@ -5073,7 +5143,7 @@ span.accordion__caption {
     background-position: -22px -1876px;
 }
 .contactus {
-    background-image: url(https://www.easternts.com/wp-content/uploads/2023/01/Contact-Us-Banne_ps.jpg);
+    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/cont-us-banner.webp);
     position: relative;
     padding-top: 240px;
     padding-bottom: 240px;
@@ -5116,8 +5186,45 @@ span.accordion__caption {
 }
 .office_address {
     width: 100%;
-    padding: 60px 0;
+    padding: 130px 0 100px;
     float: left;
+    background-color: #D4B9F8;
+}
+.row .contact-about {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 60%);
+    padding: 20px 45px 0;
+    background-color: #390075;
+    border-radius: 30px 0 0 30px;
+    color: #fff;
+}
+.row .contact-hours {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 65%);
+    width: 33%;
+    background-color: #450f8d;
+    padding: 45px 30px;
+    margin-top: -30px;
+    color: #fff;
+    border-radius: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #541b9f;
+    z-index: 10;
+}
+.office_address .contact-hours ul.address li {
+    flex-direction: column;
+    align-items: center;
+}
+.row .contact-hours:hover {
+    transform: scale(1.02);
+    background-color: #1f0541;
+}
+.row .cotact-details {
+    box-shadow: 0px 24px 39px rgb(0 0 0 / 60%);
+    padding: 20px 45px 0;
+    border-radius: 0 30px 30px 0;
+    color: #fff;
+    background-color: #390075;
 }
 @media (max-width: 768px) {
     .office_address {
@@ -5156,11 +5263,12 @@ span.accordion__caption {
     padding: 0;
     margin-bottom: 12px;
 }
-.office_address ul.address li img.location {
+.office_address ul.address li i {
     width: 25px;
     height: 25px;
     background: transparent;
     margin-right: 12px;
+    font-size: 20px!important;
 }
 .office_address ul.address li p {
     display: inline-flex;
@@ -5177,18 +5285,22 @@ span.accordion__caption {
     margin: 0;
     align-items: center;
     font-size: 17px;
+    color: #fff;
 }
-.office_address ul.address li i {
+.office_address ul.address li .location_address:hover {
+    color: #D4B9F8;
+}
+/* .office_address ul.address li i {
     margin-right: 24px;
     display: inline-block;
     font-size: 18px;
     color: #0d2846;
-}
+} */
 .contact-form .vc_column-inner {
     padding: 31px 20px;
 }
 .contact-form .qodef-column-inner label {
-    color: #000;
+    color: #fff;
     font-weight: bold;
     margin-bottom: 5px;
     display: block;
@@ -5261,10 +5373,11 @@ input.wpcf7-form-control.wpcf7-submit {
     text-align: left !important;
 }
 .ets-contact-form {
-    background-color: #eeeeee;
+    background-color: #1f0541;
     display: inline-block;
     width: 100%;
     padding: 40px 0;
+    background-image: linear-gradient(-45deg,#f70b7f 0,#9a249c 53%,#4f0dcf 100%);
 }
 @media (max-width: 600px) {
     .data-row {
@@ -5991,19 +6104,20 @@ input.wpcf7-form-control.wpcf7-submit {
     padding: 20px;
     margin: 15px 0;
     border-radius: 5px;
-    border: 1px solid #ed832f;
+    border: 1px solid #390075;
     text-align: center;
     box-shadow: 0 0 30px -2px #ddd;
     background-color: #fff;
 }
 .industry-image:hover {
-    background: linear-gradient(115deg, #2c375a 50%, #ed832f 50%);
+    /* background: linear-gradient(115deg, #2c375a 50%, #ed832f 50%); */
+    background: linear-gradient(115deg, #F0E5FF 50%, #D4B9F8 50%);
 }
 .industry-image:hover img {
-    filter: brightness(2.5);
+    filter: brightness(0.5);
 }
 .industry-image:hover p {
-    color: #fff;
+    color: #262626;
 }
 .industry-image img {
     width: 50px;
@@ -6295,7 +6409,7 @@ input.wpcf7-form-control.wpcf7-submit {
     left: 50%;
     transform: translateX(-50%);
     width: 1245px;
-    padding: 0 60px 200px;
+    padding: 0 60px 250px;
 }
 .services-process-circle {
     position: absolute;
@@ -6390,14 +6504,14 @@ input.wpcf7-form-control.wpcf7-submit {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    left: 37.5%;
+    left: 30.5%;
     top: 77%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
     text-align: center;
-    max-width: 320px;
+    max-width: 475px;
 }
 .services-process__items:nth-child(3) .services-process__icon {
     margin-bottom: 9px;
@@ -6847,7 +6961,7 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .mision-vision-about {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 }
 @media (max-width: 991px) {
     .mision-vision-about {
@@ -6856,11 +6970,14 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .mision-vision-about .mision-vision {
     margin: 15px;
-    background: #2c375a;
+    background: #21295C;
     padding: 30px;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0 0 15px #00000059;
+}
+.mision-vision-about .mision-vision:hover {
+    background: #121739;
 }
 @media (max-width: 600px) {
     .mision-vision-about .mision-vision {
@@ -6955,6 +7072,11 @@ input.wpcf7-form-control.wpcf7-submit {
 .map-section {
     display: inline-block;
     width: 100%;
+    padding: 0 0 40px;
+    margin-top: -6px;
+}
+.map-section .col-sm-12 {
+    padding: 0;
 }
 h2.carer-details-h2 {
     font-size: 32px;
@@ -8807,19 +8929,16 @@ ul.career-expect p {
   .gap-process-icon > svg:hover {
     box-shadow: 0 0 25px 11px #ddd;
   }
-  
+ 
 .huge-benefits h5:hover{
 	 box-shadow: 0 0 25px 11px #ddd;
 }
-
 .howDO:hover {
     box-shadow: 0 0 25px 11px #ddd;
 }
-
 .whyUS h5:hover{
 	box-shadow: 0 0 25px 11px #ddd;
 }
-
 .value_benifit_wrap .outer:hover{
 	 box-shadow: 0 0 25px 11px #e7e7e7;
 }
@@ -8829,48 +8948,48 @@ ul.career-expect p {
 .our-woocommerce-image:hover{
 	 box-shadow: 0 0 25px 11px #ddd;
 }
-
 .col-md-4.col-sm-6.serviceWe:hover {
     box-shadow: 0 0 25px 11px #ddd;
 }
-
 .SubPadd input[type="email"]{
 	border: none;
 }
 /* .gap-process-icon img:hover{
 	box-shadow: 0 0 25px 11px #ddd;
 } */
-
 .written-by {
 }
-
 .written-by .flex-start {
     display: flex !important;	
     align-items: center !important;
 }
-
 .blog-author-image {
 	border: 1px solid;
     border-radius: 50%;
 }
-
 .written-by-image {
     margin-right: 14px;
 }
-
 .written-by-text {
     position: relative;
 }
-
 .the_author {    
 	color: #8d8d8d;
     font-size: 12px;
     width: 131px;
     padding-top: 18px;
 }
-
 .author_name {
     color: #000;
     font-size: 24px;
 }
-
+.sap-customer-transform h2 {
+    padding-bottom: 30px;
+    font-size: 34px;
+}
+.sap-customer-transform p {
+    padding-bottom: 20px;
+}
+.benefit-hana .howDO {
+    min-height: 560px;
+}
