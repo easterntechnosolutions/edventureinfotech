@@ -5074,12 +5074,18 @@ span.accordion__caption {
     padding: 0 0 40px;
     list-style: none;
 }
+.services-list-fresh.cover-all-industries-mobile-aap-development ul li {
+    flex: 0 0 29%;
+}
 @media (max-width: 991px) {
     .services-list-fresh ul li {
         flex: 0 0 46%;
     }
 }
 @media (max-width: 767px) {
+    .services-list-fresh.cover-all-industries-mobile-aap-development ul li {
+        flex: 0 0 100%;
+    }
     .services-list-fresh ul li {
         flex: 0 0 100%;
         text-align: center;

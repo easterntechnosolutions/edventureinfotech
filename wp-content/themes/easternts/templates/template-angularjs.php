@@ -27,7 +27,7 @@ Template Name: AngularJS
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1>AngularJS</h1>
-                            <p>Race your sales ahead</p>
+                            <p>Accelerate Your Sales Performance</p>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/AngularJS2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
+                <img src="../../wp-content/uploads/2023/02/AngularJS2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -72,7 +72,7 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/angular-js-2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 951px;height: auto;"alt="Android">
+                <img src="../../wp-content/uploads/2023/02/angular-js-2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 951px;height: auto;"alt="Android">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -389,7 +389,7 @@ Template Name: AngularJS
 
         <div class="row  angularjs-devcompmay d-flex">
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2023/02/logo-angularjs.webp" alt="logo-angularjs">
+                <img src="../../wp-content/uploads/2023/02/logo-angularjs.webp" alt="logo-angularjs">
             </div>
             <div class="col-md-3 text-center">
                 <h3>Single page applications </h3>
@@ -422,19 +422,19 @@ Template Name: AngularJS
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
                     <h5>Company backed by 9001:2008 Certification</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
                     <h5>Delivering Angular JS development solutions since 2008</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
                     <h5>2500+ Projects<br class="d-sm-none">
                         Delivered</h5>
                 </div>
@@ -444,19 +444,19 @@ Template Name: AngularJS
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
                     <h5>92% Customer Satisfaction</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
                     <h5>365 Days Availability</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/24-7services.webp" alt="service"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/24-7services.webp" alt="service"></div>
                     <h5>High-Quality Development</h5>
                 </div>
             </div>
@@ -480,7 +480,7 @@ Template Name: AngularJS
                 <P>Utilizing the latest techniques, approaches, and standards of AngularJS, we develop robust web solutions that attract customers and enhance user experiences.</P>
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/AngularJS3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
+                <img src="../../wp-content/uploads/2023/02/AngularJS3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
             </div>
 
         </div>
@@ -494,7 +494,7 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/angular-4.webp" alt="why-choose">
+                <img src="../../wp-content/uploads/2023/02/angular-4.webp" alt="why-choose">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
@@ -679,7 +679,7 @@ Template Name: AngularJS
 
         <div class="row ubint-testing-marg angularjs-devcompmay d-flex">
             <div class="col-sm-6 cmd-back-img text-center">
-                <img src="/wp-content/uploads/2023/02/karma-work-flow.webp" alt="karma-work-flow">
+                <img src="../../wp-content/uploads/2023/02/karma-work-flow.webp" alt="karma-work-flow">
             </div>
             <div class="col-sm-6 unit-testing-karma text-center">
                 <h3>Unit Testing with Karma</h3>
@@ -706,7 +706,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/affordable.png" alt="affordable-icon">
+                        <img src="../../wp-content/uploads/2023/01/affordable.png" alt="affordable-icon">
                     </div>
                     <h3>Affordable</h3>
                 </div>
@@ -715,7 +715,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/scalib.png" alt="scalability-icon">
+                        <img src="../../wp-content/uploads/2023/01/scalib.png" alt="scalability-icon">
                     </div>
                     <h3>Scalability</h3>
                 </div>
@@ -724,7 +724,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/flexibility.png" alt="flexibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/flexibility.png" alt="flexibility-icon">
                     </div>
                     <h3>Flexibility </h3>
                 </div>
@@ -732,7 +732,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/rest.png" alt="rest-friendly-icon">
+                        <img src="../../wp-content/uploads/2023/01/rest.png" alt="rest-friendly-icon">
                     </div>
                     <h3>REST Friendly </h3>
                 </div>
@@ -744,7 +744,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/compatibility.png" alt="browser-compatibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/compatibility.png" alt="browser-compatibility-icon">
                     </div>
                     <h3>Browser Compatibility</h3>
                 </div>
@@ -753,7 +753,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/extensibility.png" alt="extensibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/extensibility.png" alt="extensibility-icon">
                     </div>
                     <h3>Extensibility</h3>
                 </div>
@@ -762,7 +762,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/user-interface.png" alt="user-interface-icon">
+                        <img src="../../wp-content/uploads/2023/01/user-interface.png" alt="user-interface-icon">
                     </div>
                     <h3>User Interface </h3>
                 </div>
@@ -770,7 +770,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/export-img.png" alt="fast-loading-icon">
+                        <img src="../../wp-content/uploads/2023/01/export-img.png" alt="fast-loading-icon">
                     </div>
                     <h3>Fast Loading</h3>
                 </div>
@@ -786,7 +786,7 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/angular-5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
+                <img src="../../wp-content/uploads/2023/02/angular-5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
@@ -803,7 +803,7 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center order-2">
-                <img src="/wp-content/uploads/2023/02/AngularJS2-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
+                <img src="../../wp-content/uploads/2023/02/AngularJS2-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">Angular js development company</h3>
