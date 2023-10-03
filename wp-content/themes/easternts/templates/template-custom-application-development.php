@@ -55,7 +55,7 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-3.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -72,7 +72,7 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 text-center p0">
-                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-2.webp" class="wow fadeInright" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -150,11 +150,7 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-<<<<<<< HEAD
-                                <img  src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true" >
-=======
                                 <img src="../../wp-content/uploads/2023/10/Security-icon.png" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="40" height="40" data-was-processed="true" >
->>>>>>> 1bcbebc047504feacd6d1d48014c6432a436caec
                             </picture>
                         </span>
                         <h3>Robust Security</h3>

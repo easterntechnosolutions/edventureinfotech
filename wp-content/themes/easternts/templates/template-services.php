@@ -12,7 +12,7 @@ Template Name: Services
         <div class="">
             <div class="row text-center">
                 <div class="">
-                    <img src="/wp-content/uploads/2022/12/Services_01.png">
+                    <img src="../wp-content/uploads/2022/12/Services_01.png">
                 </div>
                 <div class="serimg">
                     <div class="sercon ">

@@ -100,24 +100,28 @@
             </div>
         </div>
         <div class="row">
-            <div class="seo-serices seo-serices-follow">
+            <div class="seo-serices seo-serices-follow">                
                 <div class="sap-card">
-                    <div class="d-flex sec-capabilities">
-                        <!-- <img src=""> -->
-                        <i class="fas fa-cogs"></i>
-                        <h3>SAP S/4 HANA</h3>
-                    </div>
-                    <p>SAP S/4 HANA is an enterprise resource planning (ERP) software suite developed by SAP SE, a multinational software corporation. It represents the next-generation ERP system, built on the advanced in-memory database platform called SAP HANA.</p>
+                    <a href="<?php echo get_permalink(9753); ?>">
+                        <div class="d-flex sec-capabilities">
+                            <!-- <img src=""> -->
+                            <i class="fas fa-cogs"></i>
+                            <h3>SAP S/4 HANA</h3>
+                        </div>
+                        <p style="color: #333">SAP S/4 HANA is an enterprise resource planning (ERP) software suite developed by SAP SE, a multinational software corporation. It represents the next-generation ERP system, built on the advanced in-memory database platform called SAP HANA.</p>
+                    </a>
                 </div>
             </div>
             <div class="seo-serices seo-serices-follow">
                 <div class="sap-card">
-                    <div class="d-flex sec-capabilities">
-                        <!-- <img src=""> -->
-                        <i class="fas fa-cogs"></i>
-                        <h3>SAP S/4 HANA Cloud</h3>
-                    </div>
-                    <p>SAP S/4 HANA Cloud is the cloud-based version of SAP's next-generation Enterprise Resource Planning (ERP) software, SAP S/4HANA. It provides businesses with a comprehensive suite of integrated applications to manage various aspects of their operations.</p>
+                    <a href="<?php echo get_permalink(9755); ?>">
+                        <div class="d-flex sec-capabilities">
+                            <!-- <img src=""> -->
+                            <i class="fas fa-cogs"></i>
+                            <h3>SAP S/4 HANA Cloud</h3>
+                        </div>
+                        <p style="color: #333">SAP S/4 HANA Cloud is the cloud-based version of SAP's next-generation Enterprise Resource Planning (ERP) software, SAP S/4HANA. It provides businesses with a comprehensive suite of integrated applications to manage various aspects of their operations.</p>
+                    </a>
                 </div>
             </div>
             
@@ -125,46 +129,14 @@
     </div>
 </section>
 
-<!-- <section class="">
-    <div class="container-fluid p0">
-        <div class="row appFlex">
-            <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/UX3.webp"  class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux3">
-            </div>
-            <div class="col-md-6 order2  p0">
-                <div class="zigZ">
-                    <h2><b>We make UX design which focuses on users</b></h2>
-                    <p> Our UX team follows best practices for user experience that consist of development standards at each stage of your web or mobile application. We help you create Call to Actions that will encourage visitors to become your customers.</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<section class="">
-    <div class="container-fluid p0">
-        <div class="row appFlex">
-            <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/ux4.webp" class="wow fadeInRight" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux4">
-            </div>
-            <div class="col-md-6 p0">
-                <div class="zigZ">
-                    <h2><b>Increase ROI</b></h2>
-                    <p>We help our valued customers in delivering a scalable and robust user experience through our UX design services assisting them to increase ROI and achieve long-term business goals. We encompass advanced technology suitable for your branding and marketing needs that is aligned with user experience.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <!-- The Process How it Works? -->
-
-<!-- <section class="sectionPadd procesWorkBG">
+<!-- 
+<section class="sectionPadd procesWorkBG">
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2021/11/2018_IphoneX_Playbook-Hub_5pics.webp" class="wow fadeInLeft" data-wow-delay="0.2s" alt="iphonex">
+                <img src="../../wp-content/uploads/2021/11/2018_IphoneX_Playbook-Hub_5pics.webp" class="wow fadeInLeft" data-wow-delay="0.2s" alt="iphonex">
             </div>
             <div class="col-md-6 ProcssWork text-center">
                 <h3>Have a Project To Explore?</h3>

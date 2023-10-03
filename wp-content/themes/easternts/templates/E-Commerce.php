@@ -417,193 +417,193 @@
         <div class="row woo-remarkable">
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Modern and clean interface</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Improved experience for store owners</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>WordPress Content Integration</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Complete control over the checkout process</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5> Complete control over the checkout process</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Set Default Currency </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Geo-location Support </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Automatic Taxes </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Cart Behavior </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5> Fast Page Loading Speed</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Add/Manage Products </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Product Types </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Product Variables </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Inventory Management </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Shipping Calculations </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Cart Calculator</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Flexible Shipping Destinations </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Shipping Prices </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt=remarkable></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt=remarkable></div>
                     <h5>Limit Sales </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Multiple Shipping Methods </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Custom Tax Calculations </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Geo-location Enabled Taxes </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Select Customer Address </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Tax Rate Definition </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Search Engine Optimization </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5> Simplified Coupon System</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Product Reviews </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Owner Verification </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Reporting</h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Discount Coupons and Codes </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Dashboard </h5>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 woo-remark">
                 <div class="woo-ramark-border">
-                    <div><img src="/wp-content/uploads/2022/02/remarkable.png" alt="remarkable"></div>
+                    <div><img src="../../wp-content/uploads/2023/10/woo.png" alt="remarkable"></div>
                     <h5>Analyze Products and Orders </h5>
                 </div>
             </div>

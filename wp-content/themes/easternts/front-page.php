@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-4 getBtn text-end">
 				 <button class="subscriber-form  free-quote "> Get a Free Quote </button>
-<!--                 <a herf="#"  class="subscriber-form pum-trigger "> Get a Free Quote </a> -->
+                <!-- <a herf="#"  class="subscriber-form pum-trigger "> Get a Free Quote </a> -->
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
                         <h4>iPhone App Development</h4>
                         <p>We possess extensive expertise in crafting iOS applications through a dedicated team. Our unwavering dedication to delivering top-notch quality sets us apart. Additionally, we prioritize transparent communication with our clients, providing regular updates on project progress.</p>
                         <a href="<?php echo get_permalink(44); ?>">Read More...</a>
@@ -72,7 +72,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
                         <h4> Android App Development </h4>
 
                         <p>In the realms of design, graphics, code, and animation, we have demonstrated exceptional proficiency in every facet of application development. At 'EDVENTURE INFOTECH,' we meticulously deliver precisely what our clients envision and require.</p>
@@ -84,7 +84,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
                         <h4>Flutter App Development </h4>
                         <p>Break free from limitations imposed by your app's user interface. With our expertise in Native App Development using Flutter, we create applications that seamlessly cater to both Android and iOS users, ensuring a versatile and inclusive user experience for all customers.</p>
                         <a href="<?php echo get_permalink(27); ?>">Read More...</a>
@@ -94,7 +94,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
                         <h4>Laravel Development </h4>
                         <p>Laravel stands as a robust and sophisticated PHP framework, facilitating the streamlined development of web applications with both simplicity and depth. Our expertise empowers you to craft a website tailored precisely to your unique specifications.</p>
                         <a href="<?php echo get_permalink(704); ?>">Read More...</a>
@@ -104,7 +104,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
                         <h4>E-Commerce </h4>
 
                         <p>We specialize in crafting state-of-the-art eCommerce platforms, enabling electronic commercial transactions on the internet. Our expertise lies in delivering unique web development services, creating innovative online storefronts for seamless digital commerce experiences.</p>
@@ -116,12 +116,13 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="../../wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
-                        <h4> Software Development</h4>
+                        <img src="wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
+                        <h4>SAP</h4>
+                        <p>
+                            With our expertise take your business to new heights of efficiency, innovation, and growth. We can seamlessly integrate SAP solutions into your operations, revolutionizing the way you manage processes, data, and customer relationships.
+                        </p>
 
-                        <p>At 'EDVENTURE INFOTECH', we understand that software is pivotal for enhancing efficiency, accuracy, time-saving, security, and affordability. Our foremost objective is to guarantee the secure transmission of your data, preserving its integrity.</p>
-
-                        <a href="<?php echo get_permalink(710); ?>">Read More...</a>
+                        <a href="<?php echo get_permalink(9740); ?>">Read More...</a>
                     </div>
                 </div>
             </div>
@@ -129,12 +130,6 @@
                 <a href="<?php echo get_permalink(221); ?>" class="comBtn" style="margin-top: 50px;">View All</a>
             </div>
         </div>
-
-        <!-- <div class="row ">
-            <div class="comBtn2 text-center">
-                <a href="<?php echo get_permalink(221); ?>" class="comBtn">View All</a>
-            </div>
-        </div> -->
 
     </div>
 </section>
@@ -173,7 +168,7 @@
                 <a href="<?php echo get_permalink(712); ?>">
 
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mob-dev.gif" alt="mobile" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mob-dev.gif" alt="mobile">
 
                         <div class="exportTitle">
                             <h3>Mobile App Development</h3>
@@ -183,7 +178,7 @@
 
                 <a href="<?php echo get_permalink(714); ?>">
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev1.gif" alt="creative" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev1.gif" alt="creative">
 
                         <div class="exportTitle">
                             <h3>Web Development</h3>
@@ -195,7 +190,7 @@
                 <a href="<?php echo get_permalink(9740); ?>">
                     <div class="ourExpert ourmarg">
 
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/pos-1.gif" alt="creative" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/pos-1.gif" alt="creative">
 
                         <div class="exportTitle">
                             <h3>SAP</h3>
@@ -204,7 +199,7 @@
                 </a>
                 <a href="<?php echo get_permalink(713); ?>">
                     <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev.gif" alt="webdevelopment" width="" height="">
+                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/web-dev.gif" alt="webdevelopment">
                         <div class="exportTitle">
                             <h3>Web Application</h3>
                         </div>

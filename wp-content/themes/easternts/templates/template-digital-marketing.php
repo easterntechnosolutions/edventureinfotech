@@ -16,7 +16,7 @@ Template Name: Digital Marketing
                       <div class="sercon ">
                           <div class="text-start container">
                               <h1><?php the_title(); ?></h1>
-                              <p>Software design just for you</p>
+                              <p>Elevate Your Brand, Expand Your Reach</p>
                           </div>
                       </div>
                   </div>
@@ -43,12 +43,14 @@ Template Name: Digital Marketing
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="https://dcdh7ea8gkhvt.cloudfront.net/wp-content/uploads/2022/02/mobile-app-development-ios-app-img.webp" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/seo-banner.webp" alt="Search Engine Optimization" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Search Engine Optimization </h2>
-                    <p>Being on the front page of Google is as simple as getting our SEO services. We are all for making your business the talk of the Google town. Our SEO services help you augment your business bringing it right to the customers. Join hands with us to take your business forward. Digitally yours, Edventure Infotech.</p>
+                    <p>
+                        Unlocking the power of Google's front page is as easy as enlisting our top-notch SEO services. We're dedicated to propelling your business into the spotlight on Google. Our SEO expertise is your gateway to reaching and engaging with your target audience. Partner with us to propel your business to new heights. Yours in the digital journey, Edventure Infotech.
+                    </p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(279); ?>" class="comBtn">Read More</a>
@@ -63,12 +65,14 @@ Template Name: Digital Marketing
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center order-2">
-            <img src="https://dcdh7ea8gkhvt.cloudfront.net/wp-content/uploads/2022/02/img-mobile-app-development-android-app.webp" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/Social-Media-Marketing.webp" alt="Social Media Marketing" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Social Media Marketing</h2>
-                    <p>With Social Media taking most of the people’s screen time, social media comes as a perfect means to take your business to them. Using effective campaigns and content strategy, we help people relate to your business. Get in touch with us today on <a href="tel: +91 704 682 7566">+91 704 682 7566</a> where we make your business just a click away (quite literally)!</p>
+                    <p>
+                        In an era dominated by social media, it's essential to bring your business directly to your audience. Through compelling campaigns and strategic content, we establish a meaningful connection between people and your brand. Reach out to us today at <a href="mailto: info@edventureinfotech.com">info@edventureinfotech.com</a>, where we make accessing your business as easy as a click!
+                    </p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(708); ?>" class="comBtn">Read More</a>

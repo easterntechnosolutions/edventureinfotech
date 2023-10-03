@@ -4247,13 +4247,18 @@ table {
         width: 100% !important;
     }
 }
+.woo-remarkable .woo-remark .woo-ramark-border img {
+    max-width: 45px;
+    margin-right: 10px;
+}
 .woo-remarkable .woo-remark .woo-ramark-border {
+    display: flex;
     border: 1px solid #e5e5e5;
     padding: 15px;
-    text-align: center;
+    /* text-align: center; */
     margin-bottom: 30px;
     transition: all 400ms ease;
-    min-height: 203px;
+    min-height: 128px;
 }
 .woo-remarkable .woo-remark .woo-ramark-border:hover {
     box-shadow: #0000001a 0 2px 20px 0;
@@ -4335,6 +4340,9 @@ table {
 }
 .seo-serices-follow > div {
     box-shadow: 0px 8px 38px -4px #d0d9e9eb;
+}
+.seo-serices-follow > div:hover {
+    box-shadow: 0px 8px 38px -4px #9baecfeb;
 }
 .seo-serices-follow i {
     background: #e5edfa;

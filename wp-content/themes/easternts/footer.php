@@ -93,7 +93,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6  col-sm-6  copiyright">
-				<div><img src="../../wp-content/uploads/2021/11/easternicon.webp" alt="eastern"></div>
+				<div><img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/easternicon.webp" alt="edventure logo"></div>
 				<div>
 					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : Eastern Techno Solutions</p>
 				</div>
@@ -101,12 +101,12 @@
 			<hr class="footerHr">
 			<div class="col-md-6 col-sm-6  etscenter">
 				<ul class="etsSocial">
-					<li><a href="https://www.facebook.com/EasternTechnoSolutions" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-					<li><a href="https://twitter.com/EasternTechnoS" target="_blank"><i class="fab fa-twitter"></i> </a></li>
-					<li><a href="https://www.linkedin.com/company/eastern-techno-solutions" target="_blank"><i class="fab fa-linkedin-in"></i> </a></li>
-					<li><a href="https://in.pinterest.com/easternts" target="_blank"><i class="fab fa-pinterest-p"></i> </a></li>
-					<li><a href="https://www.instagram.com/easterntechnosolutions" target="_blank"> <i class="fab fa-instagram"></i></a></li>
-					<li><a href="https://www.youtube.com/EasternTechnoSolutionsSurat" target="_blank"><i class="fab fa-youtube"></i></a></li>
+					<li><a href="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+					<li><a href="" target="_blank"><i class="fab fa-twitter"></i> </a></li>
+					<li><a href="" target="_blank"><i class="fab fa-linkedin-in"></i> </a></li>
+					<li><a href="" target="_blank"><i class="fab fa-pinterest-p"></i> </a></li>
+					<li><a href="" target="_blank"> <i class="fab fa-instagram"></i></a></li>
+					<li><a href="" target="_blank"><i class="fab fa-youtube"></i></a></li>
 				</ul>
 			</div>
 		</div>

@@ -43,10 +43,10 @@
     </div>
 </section>
 
-<section class="sectionPadd bg-orange" >
+<section class="sectionPadd bg-orange" style="padding-bottom: 0;">
     <div class="container p-0">
         <div class="row">
-            <div class="col-sm-12 fireAdd text-center">
+            <div class="col-sm-12 fireAdd text-center" style="margin: 0;">
                 <h2>Social community management. </h2>
                 <p> Rainfactory's social and content marketing team works to take data learnings and turn those into successful social campaigns. We help build your brand and community.</p>
                 <img class="mt-5 wow slideInLeft" src="../../wp-content/uploads/2023/09/management.webp" alt="management">
@@ -294,7 +294,7 @@
                 <h3 class="mb-4"><b>Facebook Content Creation Services</b></h3>
                 <p>We can aid you to promote your services and products If you have a Facebook profile for your business. We can accomplish this by posting links related to blogs. We can also initiate a contest to bring more customers.</p>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="../../wp-content/uploads/2023/02/fb.webp" alt="social-media-fb">
             </div>
         </div>
@@ -305,7 +305,7 @@
 <section class="sectionPadd">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="../../wp-content/uploads/2023/02/ig.webp" alt="social-media-ig">
             </div>
             <div class="col-md-6 fireAdd">
@@ -324,7 +324,7 @@
                 <h3 class="mb-4"><b>Twitter Content Creation Services</b></h3>
                 <p>Another place where you require marketing your business is on Twitter. This is where you can post your links and short bursts of information for your readers.</p>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="../../wp-content/uploads/2023/02/twitter.webp" alt="social-media-twitter">
             </div>
         </div>
@@ -335,7 +335,7 @@
 <section class="sectionPadd">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="../../wp-content/uploads/2023/02/linked-in.webp" alt="social-media-lnkdin">
             </div>
             <div class="col-md-6 fireAdd">
