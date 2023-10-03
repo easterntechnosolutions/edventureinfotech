@@ -43,12 +43,12 @@ Template Name: Mobile App Development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="/wp-content/uploads/2023/01/iphone-app.gif" alt="iphone-app" >
+            <img src="../../wp-content/uploads/2023/10/iphone-app.webp" alt="iphone-app" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>iPhone App Development</h2>
-                    <p>Among the mobile app development industry, our creative design team is more popular for their ability to create beautiful UIs with less effort that are suitable for iPhone devices. In the last few years, we have launched a large number of iOS apps in the Apple store since we are associated with app development. We develop apps with advanced features and a user-friendly interface using the latest technologies. We are exceptional in the competitive market for iPhone app development companies in Surat. We provide top-rated solutions to our customers that enhance the user experience for iPhone users. Our qualified iOS developers develop mobile apps that adhere to Apple Store guidelines.</p>
+                    <p>Our design team excels in effortlessly creating beautiful UIs for iPhone apps in the competitive Surat market. Over the years, we've launched numerous successful iOS apps using the latest technologies. Our top-rated solutions enhance the user experience, and our skilled developers strictly adhere to Apple Store guidelines.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(44); ?>" class="comBtn">Read More</a>
@@ -63,12 +63,12 @@ Template Name: Mobile App Development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center order-2">
-            <img src="https://dcdh7ea8gkhvt.cloudfront.net/wp-content/uploads/2022/02/img-mobile-app-development-android-app.webp" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/android-app.png" alt="Android-developement" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Android App Development</h2>
-                    <p>We are one of the leading Android mobile apps development companies in Surat. We have a team of Android UX / UI designers, developers, and mobile strategists who provide top-class Android development services. The company understands changing technological needs and develops Android applications to achieve its strategic goals. You have a great idea for an Android app and we will work with you to make it a reality. We fully understand the vast range of Android technology that assists us to develop flexible and long-lasting Android applications for Android platforms including Android phones and Android tablets. The app is built using the native Android SDK which incorporates native packages and libraries provided by Google's Android development kit.</p>
+                    <p>We're a leading Android mobile app development company in Surat. Our team includes Android UX/UI designers, developers, and mobile strategists providing top-notch Android development services. We grasp the evolving tech landscape and create Android apps to meet strategic goals. If you have a great idea for an Android app, we'll collaborate to bring it to life. We're well-versed in Android technology, enabling us to create flexible and durable apps for Android phones and tablets. Our apps are crafted using the native Android SDK, utilizing Google's development kit.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(43); ?>" class="comBtn">Read More</a>
@@ -83,12 +83,12 @@ Template Name: Mobile App Development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="/wp-content/uploads/2023/01/firebas-development.gif" alt="firebas-development" >
+            <img src="../../wp-content/uploads/2023/09/firebase-app-development2.png" alt="firebas-development" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Firebase App Development</h2>
-                    <p>Being a leading Flutter app development company in Surat, Edventure Infotech has gained expertise in this new technology introduced by Google. Our adept developers have done extensive research and leveraged their extensive experience for developing remarkable mobile apps on iOS and Android using Flutter by mixing state-of-the-art solutions with Flutter qualities. Flutter cross-platform app development services provide you with expressive UI, native performance, and engaging visuals. This ensures that you receive the most suitable app in a short amount of time. Flutter allows developers to do highly customization, so our developers can develop mobile applications for any business vertical including entertainment, food, travel, and more.</p>
+                    <p>As a top Flutter app development company in Surat, Edventure Infotech excels in this new Google technology. Our skilled developers, with extensive research and experience, create outstanding mobile apps for iOS and Android using Flutter. They blend cutting-edge solutions with Flutter's strengths, delivering expressive UI, native performance, and captivating visuals. This ensures you get a fitting app quickly. Flutter's high customizability allows us to develop mobile apps for various business sectors like entertainment, food, travel, and more.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(30); ?>" class="comBtn">Read More</a>
@@ -103,12 +103,12 @@ Template Name: Mobile App Development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center order-2">
-            <img src="https://dcdh7ea8gkhvt.cloudfront.net/wp-content/uploads/2022/02/img-mobile-app-development-hybrid-app.webp" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/phone-gap-development.webp" alt="phone-gap" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>PhoneGap Development</h2>
-                    <p>Our PhoneGap development services have been provided since its launch, and we have gained extensive experience in developing superb mobile applications. Advanced PhoneGap development services delivered by us give you cutting-edge solutions. Our PhoneGap development services let us develop mobile apps once and deploy them seamlessly on Android, iPhone, Windows Phone, etc. We provide PhoneGap App Development services by using modern technologies and following platform-specific guidelines so that the application can be approved quickly on the app store. Being a leading PhoneGap development company, our team of PhoneGap Development specialists has gained unique expertise in Custom PhoneGap Development.</p>
+                    <p>We've been offering PhoneGap development services since its launch, gaining extensive experience in creating excellent mobile apps. Our advanced PhoneGap services provide cutting-edge solutions. With our PhoneGap development, we can build apps once and smoothly deploy them on various platforms like Android, iPhone, and Windows Phone. We ensure our PhoneGap apps meet modern standards and platform-specific guidelines for swift approval on app stores. As a top PhoneGap development company, our specialists excel in Custom PhoneGap Development.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(40); ?>" class="comBtn">Read More</a>
@@ -124,12 +124,12 @@ Template Name: Mobile App Development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="https://dcdh7ea8gkhvt.cloudfront.net/wp-content/uploads/2022/02/mobile-app-development-progressive-web-app-img.webp" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/fluuter-app-development.webp" alt="flutter-app" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>Flutter App Development</h2>
-                    <p>Being a premier Flutter application company in Surat, Edventure Infotech has gained expertise in this technology developed by Google. Our adept developers have done extensive research and leveraged their extensive experience for developing remarkable mobile apps on iOS and Android using Flutter by mixing state-of-the-art solutions with Flutter qualities. Flutter cross-platform app development services offer expressive UIs, native performance, and stunning visuals so that you receive the highest quality app as quickly as possible. Flutter allows developers to do highly customization, so our developers can build mobile applications for any business vertical including entertainment, food, travel, and more.</p>
+                    <p>As a leading Flutter app company in Surat, Edventure Infotech excels in this Google-developed technology. Our skilled developers, with extensive research and experience, craft exceptional iOS and Android mobile apps using Flutter. They blend cutting-edge solutions with Flutter's strengths, providing expressive UIs, native performance, and impressive visuals for top-notch apps delivered quickly. Flutter's high customizability allows our developers to create mobile applications for various business sectors like entertainment, food, travel, and more.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(27); ?>" class="comBtn">Read More</a>
