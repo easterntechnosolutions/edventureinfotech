@@ -47,8 +47,8 @@ Template Name: Website development
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>UI Design</h2>
-                    <p>UI design prioritizes the user’s visual experience. A good user interface is functional, reliable, and enjoyable to use. User interface design should minimize the effort that the user has to invest interacting with a product and help users accomplish their goals with ease.</p>
-                    <p>Here, at EasternTs we make sure to provide the most suitable designs which explains your website the best. </p>
+                    <p>Designing a user interface focuses on making sure that users have a positive visual experience. A great user interface is practical, trustworthy, and enjoyable to use. The goal of user interface design is to reduce the effort users need to put into interacting with a product and make it easy for them to achieve their goals.</p>
+                    <p>Here, at Edventure Infotech we make sure to provide the most suitable designs which explains your website the best. </p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(42); ?>" class="comBtn">Read More</a>
@@ -63,12 +63,12 @@ Template Name: Website development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center order-2">
-            <img src="/wp-content/uploads/2023/01/ux-design.gif" alt="UI / UX Design" >
+            <img src="../../wp-content/uploads/2023/10/ux_design.gif" alt="UI / UX Design" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>UX Design</h2>
-                    <p>User experience (UX) refers to any interaction a user has with a product or service. UX design considers each and every element that shapes this experience, how it makes the user feel, and how easy it is for the user to accomplish their desired tasks. Contact EasternTs in order to recieve the best results for your website.</p>
+                    <p>User experience (UX) is all about every time a user interacts with a product or service. UX design looks at every part that influences this interaction, how it affects the user's feelings, and how simple it is for the user to do what they want. Get in touch with EasternTs for the best outcomes for your website.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(158); ?>" class="comBtn">Read More</a>
@@ -82,14 +82,13 @@ Template Name: Website development
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="/wp-content/uploads/2023/01/wordpress.gif" alt="wordpress" >
+            <img src="../../wp-content/uploads/2023/10/wordpress.gif" alt="wordpress" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>WordPress</h2>
-                    <p>Smart web design is nothing without the ease of use for the business owners. With our WordPress development, you can get the best of both worlds. Our enthusiasm towards work is all you need to make a website that envelops the quintessential elements to make it perfect. Aiming to shoot for the stars? Connect today on 
-Easternts
-<a href="tel:+91 704 682 7566">+91 704 682 7566</a></p>
+                    <p>Effective web design is pointless if it's not user-friendly for business owners. With our WordPress development, you can have the best of both worlds. Our passion for our work is all you need to create a website that includes all the essential elements to make it ideal. Dreaming big? Contact us today at Edventure Infotech.
+<!-- <a href="tel:+91 704 682 7566">+91 704 682 7566</a> --></p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(271); ?>" class="comBtn">Read More</a>
@@ -103,7 +102,7 @@ Easternts
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center order-2">
-            <img src="/wp-content/uploads/2023/01/custom-cms.gif" alt="custom-cms" >
+            <img src="../../wp-content/uploads/2023/10/Desk.gif" alt="custom-cms" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
@@ -122,12 +121,12 @@ Easternts
     <div class="container">
         <div class="row d-flex">
            <div class="col-md-6 text-center">
-            <img src="/wp-content/uploads/2023/01/ecommerce-marketing.gif" alt="ecommerce-marketing" >
+            <img src="../../wp-content/uploads/2023/10/Online-Shopping.gif" alt="ecommerce-marketing" >
            </div>
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>E-Commerce</h2>
-                    <p>It is not difficult to keep with the e-commerce trend when we are with you. Make your products an easy catch when you expand on the web. You and success will go hand in hand as you make the most of our e-commerce services. We stay updated with the latest technologies and trends so you don’t have to. Connect today!</p>
+                    <p>Staying on top of the e-commerce trend is a breeze with us. Showcase your products effortlessly as you expand online. Success will be right there with you when you take advantage of our e-commerce services. We keep up with the newest technologies and trends, so you don't have to worry about it. Reach out to us today!</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(300); ?>" class="comBtn">Read More</a>
