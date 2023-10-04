@@ -1145,6 +1145,7 @@ img.header-logo {
 .weCanhalp .weLf {
     left: 0;
     bottom: 0px;
+    width: 31% !important;
 }
 .weCanhalp .weRf {
     right: 0;
@@ -2089,7 +2090,7 @@ input:focus-visible {
 }
 @media (min-width: 768px) {
     .buildYour {
-        width: 600px !important;
+        width: 650px !important;
         padding: 50px 0 50px 100px !important;
     }
 }
@@ -5077,6 +5078,9 @@ span.accordion__caption {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+.services-list-fresh.about ul li {
+    flex: 0 0 21%!important;
+}
 .services-list-fresh ul li {
     flex: 0 0 21%;
     padding: 0 0 40px;
@@ -5093,6 +5097,9 @@ span.accordion__caption {
 @media (max-width: 767px) {
     .services-list-fresh.cover-all-industries-mobile-aap-development ul li {
         flex: 0 0 100%;
+    }
+    .services-list-fresh.about ul li {
+        flex: 0 0 100%!important;
     }
     .services-list-fresh ul li {
         flex: 0 0 100%;

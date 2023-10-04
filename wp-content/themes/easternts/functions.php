@@ -993,11 +993,11 @@ function send_smtp_email( $phpmailer ) {
     $phpmailer->Port       = '587';
     $phpmailer->SMTPSecure = 'tls';
     $phpmailer->SMTPAuth   = true;
-    $phpmailer->Username   = 'noreply.easternts06@gmail.com';
-    $phpmailer->Password   = 'nacpgphauekshajz';
-    $phpmailer->From       = 'noreply.easternts06@gmail.com';
+    $phpmailer->Username   = 'noreply.edventure@gmail.com';
+    $phpmailer->Password   = 'atvwzeiijssinadn';
+    $phpmailer->From       = 'noreply.edventure@gmail.com';
     $phpmailer->FromName   = 'Edventure Infotech ';
-//     $phpmailer->addReplyTo('noreply.easternts06@gmail.com', 'Information');
+//     $phpmailer->addReplyTo('noreply.edventure@gmail.com', 'Information');
 }
 
 //add_filter( 'wp_mail_content_type','set_my_mail_content_type' );

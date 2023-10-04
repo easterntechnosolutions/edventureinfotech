@@ -58,7 +58,7 @@
     </div>
 </section>
 
-<section class="">
+<section class="bg-orange">
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">

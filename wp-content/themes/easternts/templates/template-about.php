@@ -9,9 +9,6 @@ Template Name: About us
       <div class="firebaseApp">
           <div class="tailored-statistics-box">
               <div class="row text-center">
-                  <!-- <div class="tailored-statistics-box">
-                      <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                  </div> -->
                   <div class="serimg">
                       <div class="sercon ">
                           <div class="text-start container">
@@ -48,10 +45,10 @@ Template Name: About us
                   <div class="col-md-6 fireAdd  who-we-are-about">
                         <h2 class="mb-4">Who We Are</h2>
                         <p class="mb-3">
-                              Since our establishment in Edventure InfoTech has evolved into a leading force in the IT industry, serving clients in India with distinction. We're thrilled to extend our reach to Canada, embracing fresh opportunities and challenges on this exciting international journey. Edventure InfoTech is on an unwavering mission to empower organizations across Canada and beyond with cutting-edge technology. Our journey has been marked by significant milestones, partnerships, and a relentless pursuit of excellence in the ever-evolving IT landscape.
+                              Since our establishment Edventure InfoTech has evolved into a leading force in the IT industry, serving clients in Canada. Edventure InfoTech is on an unwavering mission to empower organizations across Canada and beyond with cutting-edge technology. Our journey has been marked by significant milestones, partnerships, and a relentless pursuit of excellence in the ever-evolving IT landscape.
                         </p>                        
                         <p>
-                              With our office in Canada now, we are excited to serve businesses across the country. Whether you're a start-up looking for salable solutions or an established enterprise aiming to optimize your IT solution, Edventure InfoTech is your trusted partner in this new chapter of your IT journey.
+                              Edventure Infotech offers a range of IT services, including consulting, development, support, training, and managed services, to help businesses and individuals effectively use technology to meet their goals.
                         </p>                  
                   </div>
                   <div class="col-md-6">
@@ -90,7 +87,7 @@ Template Name: About us
             </div>
 
             <div class="row">
-                  <div class="col-lg-12 services-list-fresh cover-all-industries-mobile-aap-development">
+                  <div class="col-lg-12 services-list-fresh about cover-all-industries-mobile-aap-development">
                         <ul>
                               <li>
                                     <i class="icon3 wow fadeIn"></i>
@@ -132,31 +129,31 @@ Template Name: About us
             <div class=" row mt-5 tailored-statistics">
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>2011</h3>
+                              <h3>2020</h3>
                               <p>Year of Foundation</p>
                         </div>
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>810 <span>+</span> </h3>
+                              <h3>241 <span>+</span> </h3>
                               <p>Global Customers </p>
                         </div>
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>60 <span>+</span>  </h3>
+                              <h3>17 <span>+</span>  </h3>
                               <p>IT Professionals </p>
                         </div>
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>3600 <span>+</span></h3>
+                              <h3>2560 <span>+</span></h3>
                               <p>Countries with active customers </p>
                         </div>
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>1800 <span>+</span></h3>
+                              <h3>260 <span>+</span></h3>
                               <p>Completed Projects </p>
                         </div>
                   </div>
@@ -168,13 +165,13 @@ Template Name: About us
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>96 <span>%</span>  </h3>
+                              <h3>93 <span>%</span>  </h3>
                               <p>Customer Retention </p>
                         </div>
                   </div>
                   <div class="col-md-3 col-sm-4 col-6">
                         <div class="tailored-statistics-box">
-                              <h3>22 <span>+</span></h3>
+                              <h3>19 <span>+</span></h3>
                               <p>Industries Served </p>
                         </div>
                   </div>
@@ -360,4 +357,4 @@ Template Name: About us
     </div>
 </section>
 
-<?php get_footer(); ?>
+<?php  get_footer(); ?>

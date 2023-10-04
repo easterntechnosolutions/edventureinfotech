@@ -109,7 +109,7 @@
                         SAP S/4 HANA gives you access to new innovations such as embedded real-time analytics, the latest user experience across all devices with SAP Fiori, as well as faster response times and a better performance. It has hundreds of new features and functionality, ranging from real-time supply chain, finance, machine learning applications, predictive MRP through to state-of-the-art warehousing systems.
                     </p>
                     <p>
-                        SAP S/4 HANA is giving a foundation to take advantage of emerging technologies such as machine learning and AI.SAP S/4 HANA helps customers to Support their growth strategy with the latest technology
+                        SAP S/4 HANA is giving a foundation to take advantage of emerging technologies such as machine learning and AI. SAP S/4 HANA helps customers to Support their growth strategy with the latest technology.
                     </p>
                 </div>
             </div>
