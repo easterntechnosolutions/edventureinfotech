@@ -24,8 +24,7 @@
     <div class="Hero-back">
         <div class="container">
             <div class="row text-center">
-                <p>We specialize in offering innovative web design, web development, and mobile development services based in Ontario, Canada.</p>
-                 <!-- <h3 class="typeText"></h3> -->
+                 <h1 class="word"></h1>
             </div>
         </div>
     </div>
@@ -41,7 +40,6 @@
             </div>
             <div class="col-md-4 getBtn text-end">
 				 <button class="subscriber-form  free-quote "> Get a Free Quote </button>
-                <!-- <a herf="#"  class="subscriber-form pum-trigger "> Get a Free Quote </a> -->
             </div>
         </div>
     </div>
@@ -134,37 +132,20 @@
     </div>
 </section>
 
-<!-- Technology Stack -->
-
-<section class="sectionPadd" style="background-color: rgb(246, 246, 246);">
-    <div class="container">
-        <div class="row">
-            <div class="OurServices text-center">
-                <h2>Technology Stack</h2>
-                 <!-- <h1>ETS Projects</h1> -->
-                <p>Building Tomorrow's Solutions with Cutting-Edge Tech Stack</p>
-            </div>
-        </div>
-        <div class="row techno-stack">
-            <?php do_shortcode("[technology_stack]"); ?>
-        </div>
-    </div>
-</section>
-
 <!-- Our Expertise  -->
 
-<section class="sectionPadd secPaddtable">
+<section class="sectionPadd secPaddtable" style="background-color: #0D1321; padding: 60px 0 100px;">
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">
-                <h2>Our Expertise</h2>
-                <p>Mastering the Craft, Delivering Excellence</p>
+                <h2 style="color: #fff">Our Expertise</h2>
+                <p style="color: #fff">Mastering the Craft, Delivering Excellence</p>
             </div>
         </div>
 
         <div class="row d-inline">
 			
-			<div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
+			<div class="col-md-6 col-sm-12 wow bounceInLeft" data-wow-delay="0.4s">
                 <a href="<?php echo get_permalink(712); ?>">
 
                     <div class="ourExpert ourmarg">
@@ -186,7 +167,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-md-6 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
+            <div class="col-md-6 col-sm-12 wow bounceInRight" data-wow-delay="0.4s">
                 <a href="<?php echo get_permalink(9740); ?>">
                     <div class="ourExpert ourmarg">
 
@@ -211,46 +192,21 @@
     </div>
 </section>
 
-<!-- We can help -->
+<!-- Technology Stack -->
 
-<!-- <section class="weCanhalp ">
-    <img class="weImg weLf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets1.png">
-    <img class="weImg weRf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets2.png">
-    <div class="container ">
-        <div class="row text-center">
-            <div class="weCan">
-                <h3>We can help you build what you have been thinking about.</h3>
-            </div>
-            <div class="comBtn2 text-center">
-                <a href="/" class="comBtn">Call Us </a>
-            </div>
-        </div>
-    </div>
-</section> -->
-
-<!-- Subscribe newsletter -->
-<!-- 
-<section class="subNew">
+<!-- <section class="sectionPadd" style="background-color: rgb(246, 246, 246);"> -->
+<section class="sectionPadd">
     <div class="container">
-        <div class="row d-flex">
-            <div class="col-md-5 SubPadd">
-                <h3>Subscribe to our <span class="colororeang">newsletter</span></h3>
-            </div>
-            <div class="col-md-7 SubPadd">
-                <div class="row">
-                    <div class=" col-md-7 col-sm-7 SubPadd">
-                        <input type="gmail" class="emailInput" placeholder="Email">
-                    </div>
-
-                    <div class="comBtn2 col-md-5 col-sm-5  SubPadd text-center">
-                        <a href="" class="subbtn">Subscribe </a>
-                    </div>
-                </div>
+        <div class="row">
+            <div class="OurServices text-center">
+                <h2>Technology Stack</h2>
+                <p>Building Tomorrow's Solutions with Cutting-Edge Tech Stack</p>
             </div>
         </div>
+        <div class="row techno-stack">
+            <?php do_shortcode("[technology_stack]"); ?>
+        </div>
     </div>
-</section> -->
-
-
+</section>
 
 <?php get_footer(); ?>

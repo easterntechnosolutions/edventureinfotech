@@ -311,7 +311,7 @@
                 </div>
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/flutter-hero-banner.webp" alt="flutter_hero_banner">
+                <img src="../../wp-content/uploads/2023/02/flutter-hero-banner.webp" alt="flutter_hero_banner">
             </div>
         </div>
     </div>

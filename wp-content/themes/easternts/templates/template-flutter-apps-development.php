@@ -476,7 +476,7 @@ Flutter serves as a valuable tool for building business-critical apps on both iO
                 </div>
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/flutter-hero-banner.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="flutter">
+                <img src="../../wp-content/uploads/2023/02/flutter-hero-banner.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="flutter">
             </div>
         </div>
     </div>

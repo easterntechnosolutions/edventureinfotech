@@ -1,8 +1,8 @@
+<section class="footer-bg"></section>
 <!--  Footer  -->
 
 <!-- We can help -->
-
-<section class="weCanhalp">
+<!-- <section class="weCanhalp">
 	<img class="weImg weLf" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/dev-foot.gif" alt="ets1">
 	<img class="weImg weRf" src="http://localhost/edventureinfotech/wp-content/uploads/2023/09/mountain-1.png" alt="ets2">
 	<div class="container ">
@@ -15,30 +15,9 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <!-- Subscribe newsletter -->
-
-<!-- <section class="subNew">
-	<div class="container">
-		<div class="row d-flex">
-			<div class="col-md-5 SubPadd">
-				<h3>Subscribe to our <span class="colororeang">newsletter</span></h3>
-			</div>
-			<div class="col-md-7 SubPadd">
-				<div class="row">
-					<div class=" col-md-7 col-sm-7 SubPadd">
-						<input type="gmail" class="emailInput" placeholder="Email">
-					</div>
-
-					<div class="comBtn2 col-md-5 col-sm-5  SubPadd text-center">
-						<a href="/" class="subbtn">Subscribe </a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
 
 <section class="subNew"> 
 	<div class="container">
@@ -93,7 +72,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6  col-sm-6  copiyright">
-				<div><img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/easternicon.webp" alt="edventure logo"></div>
+				<div><img src="<?php echo get_template_directory_uri(); ?>/images/ed-icon.png" alt="edventure logo"></div>
 				<div>
 					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : Eastern Techno Solutions</p>
 				</div>

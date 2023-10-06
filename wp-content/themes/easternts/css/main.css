@@ -535,7 +535,7 @@ ul {
     background-color: #390075;
 }
 .colororeang {
-    color: #ee8c1d;
+    color: #ED2124;
 }
 .colorblue {
     color: #3b6fd2;
@@ -636,10 +636,11 @@ ul {
 .ContactHead a {
     border-radius: 51px;
     color: #fff !important;
-    background: #21295C;
+    background: #0D1321;
     padding: 9px 19px !important;
     font-weight: 600 !important;
     transition: all 0.3s ease-in-out;
+    /* border: 2px solid #000; */
 }
 @media (max-width: 991px) {
     .ContactHead a {
@@ -648,7 +649,7 @@ ul {
     }
 }
 .ContactHead a:hover {
-    background-color: #f57f20;
+    background-color: #ED2024;
 }
 .ContactHead {
     margin: 4px 14px;
@@ -813,8 +814,7 @@ img.header-logo {
     }
 }
 .colororang {
-/*     background-color: #f57f20; */
-	background-color: #1B3B6F;	
+	background-color: #ED2124;	
 }
 .developBeautiful {
     padding: 14px 15px;
@@ -827,15 +827,18 @@ img.header-logo {
     line-height: 1.2;
 }
 .developBeautiful a {
-    color: rgb(179 179 179);
+    /* color: rgb(179 179 179); */
+    color: #0D1321;
     font-weight: 700;
 }
 .Hero-back {
-    background-image: url(../images/home-banner.jpg);
+    /* background-image: url(../images/home-banner.jpg); */
+    background-image: url(../images/home-bg.jpg);
     background-repeat: no-repeat;
     position: relative;
-    padding-top: 274px;
-    padding-bottom: 274px;
+    padding-top: 375px;
+    padding-bottom: 375px;
+    background-attachment:fixed;
     background-size: cover;
 }
 @media (max-width: 768px) {
@@ -861,8 +864,9 @@ img.header-logo {
     background-color: rgba(0, 0, 0, 0.5);
 }
 .Hero-back p,
-.Hero-back h3 {
+.Hero-back h1 {
     color: #fff;
+    font-size: 65px;
 }
 .Hero-back p {
     font-size: 20px;
@@ -883,8 +887,26 @@ img.header-logo {
     }
 }
 .gain-competitive {
-    background-color: #21295C;
+    background-color: #0D1321;
+    /* background-color: #ED2024; */
     padding: 31px 0;
+}
+.free-quote {
+    color: #fff !important;
+    background-color: #0D1321;
+    border-color: #0D1321 !important;
+    border: 2px solid;
+    padding: 15px 44px;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-radius: 50px;
+    font-weight: 700;
+    /* background: #fff; */
+    transition: all 0.3s ease-in-out;
+}
+.free-quote:hover {
+    color: #0D1321 !important;
+    background-color: #fff;
 }
 @media (max-width: 990px) {
     .gain-competitive {
@@ -919,9 +941,9 @@ img.header-logo {
     transition: all 0.3s ease-in-out;
 }
 .gain-competitive a:hover {
-    background-color: #f57f20;
+    background-color: #0D1321;
     color: #fff;
-    border-color: #1a2e59;
+    border-color: #0D1321;
 }
 @media (max-width: 768px) {
     .gain-competitive a {
@@ -954,6 +976,7 @@ img.header-logo {
 .sectionPadd {
     padding-top: 60px;
     padding-bottom: 60px;
+    background-color: #fff;
 }
 @media (max-width: 768px) {
     .sectionPadd {
@@ -1019,7 +1042,7 @@ img.header-logo {
 }
 .ourDetails a {
     font-weight: 700;
-    color: #f57e20;
+    color: #ED2124;
 }
 @media (min-width: 1300px) {
     .techno-stack {
@@ -1032,8 +1055,7 @@ img.header-logo {
 .ourExpert h3 {
     position: absolute;
     left: 0;
-    /* background-color: rgba(26, 46, 89, 0.9); */
-    background-color: rgba(33, 41, 92, 0.9);
+    background-color: rgba(13, 19, 33, 0.85);
     color: #fff;
     right: 0;
     bottom: 0px;
@@ -1042,6 +1064,9 @@ img.header-logo {
     font-size: 22px;
     transition: all 0.3s ease-in-out;
     margin: 0;
+}
+.ourExpert:hover h3 {
+    padding: 30px 20px;
 }
 @media (max-width: 1024px) {
     .ourExpert h3 {
@@ -1152,8 +1177,14 @@ img.header-logo {
     bottom: 0;
 }
 .subNew {
-    background-color: #21295C;
+    background-color: #0D1321;
     padding: 27px;
+
+    background-attachment: fixed;
+    position: fixed;    
+    width: 100%;
+    z-index: -1;
+    bottom: 194px;
 }
 .subNew h3 {
     font-size: 34px;
@@ -1221,7 +1252,13 @@ input:focus-visible {
     }
 }
 .footerBgcolor {
-    background-color: #D4B9F8;
+    background-color: #ED2124;
+
+    background-attachment: fixed;
+    position: fixed;    
+    width: 100%;
+    z-index: -999;
+    bottom: 103px;
 }
 .footerEts {
     padding: 25px 0;
@@ -1237,11 +1274,18 @@ input:focus-visible {
     display: inline-block;
 }
 .footerEts a {
-    color: #000 !important;
+    color: #fff!important;
     font-size: 16px;
+    font-weight: 600;
 }
 .fooTow {
     padding: 23px 0;
+
+    background-attachment: fixed;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: -999;
 }
 .copiyright {
     display: flex;
@@ -1254,7 +1298,7 @@ input:focus-visible {
     }
 }
 .copiyright img {
-    width: 70%;
+    width: 80%;
 }
 .copiyright p {
     margin: 0;
@@ -1282,14 +1326,14 @@ input:focus-visible {
     color: #fff;
 }
 .contact-hours .etsSocial li a:hover {
-    color: #D4B9F8;
+    color: #ED2124;
 }
 .contact-hours .etsSocial li a:hover i {
-    color: #D4B9F8;
+    color: #ED2124;
     transform: scale(1.1);
 }
 .etsSocial li a {
-    color: #390075;
+    color: #0D1321;
     font-size: 18px;
     border: 1px solid;
     border-radius: 50px;
@@ -1303,10 +1347,10 @@ input:focus-visible {
     line-height: 1.5;
 }
 .etsSocial li a:hover {
-    color: #f57f20;
+    color: #ED2124;
 }
 .etsSocial li a:hover i {
-    color: #f57f20;
+    color: #ED2124;
     transform: scale(1.1);
 }
 .etscenter {
@@ -1643,6 +1687,7 @@ input:focus-visible {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #fff;
 }
 .appFlex .order2 {
     order: 2;
@@ -1681,7 +1726,7 @@ input:focus-visible {
     }
 }
 .firCheck {
-    background-color: #f2f2f2;
+    background: linear-gradient(115deg, #2c375a17 30%, #ed21240d 61%);
     padding: 14px 0;
     text-align: left;
     margin-bottom: 18px;
@@ -1699,7 +1744,7 @@ input:focus-visible {
     min-width: 35px;
     min-height: 35px;
     line-height: 35px;
-    background-color: #ee8c1d;
+    background-color: #ED2124;
     color: #fff;
     border-radius: 50px;
     margin: 0 10px;
@@ -1749,7 +1794,7 @@ input:focus-visible {
     text-align: justify;
 }
 .simpkeBGoffblue {
-    background: #1a2e59;
+    background: #0D1321;
 }
 .simplbgimage {
 /*     background: url(https://www.easternts.com.au/wp-content/uploads/2020/09/multi-platform-bg.png?id=8250); */
@@ -1848,7 +1893,7 @@ input:focus-visible {
 }
 .choosecard {
     padding: 50px 40px 0 40px;
-    background-color: #2c375a;
+    background-color: #0D1321;
     box-shadow: 0 0px 10px 1px #888;
     margin-top: 15px;
     min-height: 300px;
@@ -1857,7 +1902,7 @@ input:focus-visible {
     margin-bottom: 14px;
 }
 .choosecard:hover {
-    background: #ed832f;
+    background: #ed2124;
 }
 @media (max-width: 1440px) {
     .choosecard {
@@ -1946,7 +1991,7 @@ input:focus-visible {
     }
 }
 .item-overlay {
-    background: #1a2e59;
+    background: #ed2124;
     color: #fff;
     width: 100%;
     padding: 15px;
@@ -1957,7 +2002,7 @@ input:focus-visible {
     min-height: 360px;
 }
 .cloud-box:hover {
-    border-color: #1a2e59;
+    border-color: #0D1321;
 }
 .Choosebtom {
     top: -450px;
@@ -2001,18 +2046,18 @@ input:focus-visible {
 }
 .whyUS h5 {
     font-size: 18px;
-    border: 1px solid #ef78008c;
+    border: 1px solid #ed212461;
     padding: 13px 7px;
     line-height: 1.3;
 }
 .industriBgcolor {
-    background-color: #1a2e59;
+    background-color: #0D1321;
     color: #fff;
 }
 .industriesWe li {
     counter-increment: list;
     color: #fff;
-    width: 33.333%;
+    width: 25%;
     float: left;
     margin-top: 32px;
     margin-bottom: 0 !important;
@@ -2028,6 +2073,9 @@ input:focus-visible {
     .industriesWe li {
         margin-top: 16px;
         width: 50%;
+    }
+    .industriesWe {
+        margin-left: 0px!important;
     }
 }
 @media (max-width: 551px) {
@@ -2054,6 +2102,9 @@ input:focus-visible {
     position: absolute;
     left: 0;
 }
+.industriesWe {
+    margin-left: 100px;
+}
 .industriesWe li:hover::before {
     background-color: #fff;
     color: #1a2e59;
@@ -2061,6 +2112,9 @@ input:focus-visible {
 @media (max-width: 551px) {
     .industriesWe li:nth-child(1) {
         margin-top: 0 !important;
+    }
+    .industriesWe {
+        margin-left: 30px;
     }
 }
 @media (max-width: 1400px) {
@@ -2122,18 +2176,18 @@ input:focus-visible {
     margin-top: 42px;
 }
 .buildBtn a {
-    background-color: #ed832f;
-    border-color: #ed832f !important;
+    background-color: #ed2124;
+    border-color: #ed2124 !important;
     color: #fff !important;
 }
 .buildBtn a:hover {
-    border-color: #444444 !important;
+    border-color: #0D1321 !important;
 }
 .ourSer {
     margin-bottom: 35px;
     background: #fff;
     min-height: 350px;
-    border-bottom: 3px solid #1a2e59;
+    border-bottom: 3px solid #0D1321;
     border-radius: 10px 10px 0 0;
 }
 @media (max-width: 767px) {
@@ -2142,7 +2196,7 @@ input:focus-visible {
     }
 }
 .ourSer h3 {
-    background-color: #1a2e59;
+    background-color: #0D1321;
     padding: 15px 10px;
     color: #fff;
     margin: 20px 0 10px;
@@ -2175,7 +2229,7 @@ input:focus-visible {
 }
 .ourSer a:hover {
     background: transparent !important;
-    color: #ff6600 !important;
+    color: #ed2124 !important;
     padding-left: 15px !important;
 }
 .serVicePadd {
@@ -2205,11 +2259,11 @@ input:focus-visible {
 }
 .tab button:hover {
     color: #fff;
-    background-color: #1a2e59;
+    background-color: #ed2124;
 }
 .tab button.active {
     color: #fff;
-    background-color: #1a2e59;
+    background-color: #ed2124;
 }
 .realTime h3 {
     font-size: 21px;
@@ -2435,7 +2489,7 @@ input:focus-visible {
     }
 }
 .ourExpertcard:hover i {
-    color: #ed832f;
+    color: #ED2124;
 }
 .flutterComp {
     background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/08/bg_new.png?id=8291);
@@ -2781,7 +2835,7 @@ table {
 }
 .whyChoode {
     padding-top: 50px;
-    padding-bottom: 58px;
+    /* padding-bottom: 58px; */
 }
 @media (max-width: 768px) {
     .whyChoode {
@@ -5378,11 +5432,19 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .wpcf7-form-control.wpcf7-submit:hover {
     color: #fff !important;
-    background-color: #1a2e59;
+    background-color: #ED2124;
 }
 .post-password-form input[type="submit"],
 input.wpcf7-form-control.wpcf7-submit {
-    border: 2px solid #1a2e59 !important;
+    border: 2px solid #3b0000!important;
+}
+.home-subscriber-form input.wpcf7-form-control.has-spinner.wpcf7-submit.comBtn:hover {
+    background-color: #ED2124;
+}
+.subscriber-form-home .wpcf7-form-control.wpcf7-submit:hover {
+    background-color: #ED2124;
+    border-color: #ED2124!important;
+    color: #fff !important;
 }
 #submit_form {
     text-align: left !important;
@@ -5392,7 +5454,9 @@ input.wpcf7-form-control.wpcf7-submit {
     display: inline-block;
     width: 100%;
     padding: 40px 0;
-    background-image: linear-gradient(-45deg,#f70b7f 0,#9a249c 53%,#4f0dcf 100%);
+    margin-bottom: -6px;
+    background: #0D1321;
+    background-image: linear-gradient(45deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 10%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 90%, rgba(237,33,36,1) 100%)
 }
 @media (max-width: 600px) {
     .data-row {
@@ -5415,7 +5479,7 @@ input.wpcf7-form-control.wpcf7-submit {
         width: 100%;
     }
     .career_details {
-        padding: 50px 0px 30px !important;
+        padding: 50px 0px 30px !important;        
     }
 }
 .carrer-stick {
@@ -5559,6 +5623,7 @@ input.wpcf7-form-control.wpcf7-submit {
 .blog-page-padd {
     padding-top: 70px;
     padding-bottom: 50px;
+    background-color: #fff;
 }
 @media (max-width: 992px) {
     .blog-page-padd {
@@ -6864,6 +6929,7 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .career_details {
     padding: 70px 20px 40px;
+    background-color: #fff;
 }
 .career_details p.latest-opning {
     text-align: center;
@@ -7087,8 +7153,7 @@ input.wpcf7-form-control.wpcf7-submit {
 .map-section {
     display: inline-block;
     width: 100%;
-    padding: 0 0 40px;
-    margin-top: -6px;
+    margin-bottom: -12px;
 }
 .map-section .col-sm-12 {
     padding: 0;
@@ -9007,4 +9072,7 @@ ul.career-expect p {
 }
 .benefit-hana .howDO {
     min-height: 560px;
+}
+.footer-bg {
+    padding: 159px 0;
 }

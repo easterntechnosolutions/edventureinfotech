@@ -593,7 +593,7 @@ When you develop an app using the traditional method, you typically have to writ
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Industries We Serve</h2>
-                <p>We provide innovative and cost-effective solutions for the following industries.</p>
+                <p class="text-center-important">We provide innovative and cost-effective solutions for the following industries.</p>
             </div>
         </div>
         <div class="row industriesWe">

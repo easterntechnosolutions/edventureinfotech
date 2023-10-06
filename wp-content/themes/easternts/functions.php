@@ -119,16 +119,16 @@ function add_js_footer_function()
 		wp_enqueue_script('font-awesome', get_template_directory_uri("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"), true);
 		
 		// wp_enqueue_script('owl css', get_template_directory_uri("https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"), true);
-		wp_register_script('toggle', get_template_directory_uri() . '/js/toggle.js', false, true, false);
-		wp_register_script('owl-js', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js', false, true, false);
-		wp_register_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', false, false, false);
-		// wp_register_script('jquery-min', 'https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js', false, false, false);
-		
+		wp_enqueue_script('heading', get_template_directory_uri() . '/js/heading.js', false, true, false);
+		wp_enqueue_script('owl-js', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js', false, true, false);
+		wp_enqueue_script('toggle', get_template_directory_uri() . '/js/toggle.js', false, true, false);
+		wp_enqueue_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', false, false, false);		
 		wp_enqueue_script('wow-min', 'https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js', false, true, false);
 		
 		// wp_enqueue_script('jquery');
-		wp_enqueue_script('toggle');
-		wp_enqueue_script('owl-js');
+		// wp_enqueue_script('heading');
+		// wp_enqueue_script('toggle');
+		// wp_enqueue_script('owl-js');
 // 		wp_enqueue_script( 'animation-script', get_template_directory_uri() . '/js/aos.js');
 
 
