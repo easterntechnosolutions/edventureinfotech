@@ -231,7 +231,6 @@ A website that seamlessly adjusts to various devices not only saves you time but
                             <ul>
                                 <li>Custom WordPress theme development</li>
                                 <li>Clean-coded WordPress website development</li>
-                                <li>Bug-Free WordPress website development</li>
                                 <li>SEO friendly WordPress website development</li>
                                 <li>Quick support</li>
                                 <li>Reliable fixes</li>
@@ -247,7 +246,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
                             </div>
                             <p>Do you require specific features for your WordPress website to have that suit the distinct needs of your business? Our custom WordPress plug-in development services strengthen your business website with new features. Our competent custom WordPress plug-in development services can provide you with the the following:</p>
                             <ul>
-                                <li>Plug-in development which suits your business needs</li>
+                                <li>Plug-in development</li>
                                 <li>Plug-in Installation & Documentation</li>
                                 <li>Plug-in modifications</li>
                                 <li>Plug-in upgrade</li>

@@ -374,8 +374,8 @@ Flutter serves as a valuable tool for building business-critical apps on both iO
 </section>
 
 <!-- Our Flutter Expertise  -->
-
-<div class="container">
+<section class="sectionPadd" >
+    <div class="container">
     <div class="row">
         <div class="fireAdd  text-center">
             <h2>Our Flutter Expertise</h2>
@@ -460,8 +460,8 @@ Flutter serves as a valuable tool for building business-critical apps on both iO
             </div>
         </div>
     </div>
-</div>
-
+    </div>
+</section>
 
 <!-- Flutter App Development company -->
 

@@ -136,7 +136,7 @@ $the_query = new WP_Query( $args );  ?>
                 <div class="bog-details">
                     <?php the_post_thumbnail(); ?>
                     <div class="blog-containt">
-                        <span class="blog-category"><?php the_title(); ?></span>
+<!--                         <span class="blog-category"><?php the_title(); ?></span> -->
                         <h3 class="blog-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                         <p class="blog-short-description"><?php echo wp_trim_words( get_the_content(), 28); ?></p>
                         <div class="blog-hover-btn">

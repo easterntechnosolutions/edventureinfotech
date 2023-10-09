@@ -1,4 +1,4 @@
-<section class="footer-bg"></section>
+<div class="footer-bg"></div>
 <!--  Footer  -->
 
 <!-- We can help -->
@@ -74,7 +74,7 @@
 			<div class="col-md-6  col-sm-6  copiyright">
 				<div><img src="<?php echo get_template_directory_uri(); ?>/images/ed-icon.png" alt="edventure logo"></div>
 				<div>
-					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : Eastern Techno Solutions</p>
+					<p>© <?php echo date('Y'); ?> Edventure Infotech. All Rights Reserved. <br>Powered By : <a href="https://www.easternts.com/" target="_blank">Eastern Techno Solutions</a></p>
 				</div>
 			</div>
 			<hr class="footerHr">

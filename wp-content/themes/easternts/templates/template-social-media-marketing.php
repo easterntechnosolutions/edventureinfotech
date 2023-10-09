@@ -222,7 +222,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 fireAdd text-center">
-                <h2>Results.</h2>
+                <h2>Our Results</h2>
             </div>
         </div>
         <div class="row">
@@ -275,9 +275,9 @@
 <section class="sectionPadd">
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 fireAdd text-center">
-                <h2 class="mb-3">Process.</h2>
-                <p>A crawl, walk, run approach to scaling your campaign while optimizing the entire funnel.</p>
+            <div class="col-sm-12 fireAdd text-center-important">
+                <h2 class="mb-3">Process We Follow</h2>
+                <p class="text-center-important">A crawl, walk, run approach to scaling your campaign while optimizing the entire funnel.</p>
             </div>
             <div class="row">
                 <img src="../../wp-content/uploads/2023/02/process2.webp" alt="process">

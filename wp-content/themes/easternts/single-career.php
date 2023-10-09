@@ -233,7 +233,7 @@ $the_query = new WP_Query( $args );
             </div>
            
             <div class="blog-hover-btn text-center center-btn-margin">
-                  <a href="<?php the_permalink(533); ?>" class="career-btn">
+                  <a href="<?php the_permalink(533); ?>#contact-form" class="career-btn">
                         <svg class="icon-arrow before">
                         <use xlink:href="#arrow"></use>
                         </svg>

@@ -672,12 +672,12 @@ AngularJS, an open-source web development framework by Google, is used to create
 
 <section class="sectionPadd unit-testing-devel-bg">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
                 <h2>Unit Testing with AngularJS </h2>
                 <P>Unit testing is performed on all modules by splitting them to surface their abstraction level. Unit testing describes the expected functionality and behavior of the modules. AngularJS development services yield clean and error-free applications using test environments that provide solid solutions to enterprise requirements.</P>
             </div>
-        </div>
+        </div> -->
 
         <div class="row ubint-testing-marg angularjs-devcompmay d-flex">
             <div class="col-sm-6 cmd-back-img text-center">

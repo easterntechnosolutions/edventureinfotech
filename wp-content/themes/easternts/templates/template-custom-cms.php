@@ -225,7 +225,7 @@
             </div>
             <div class="col-md-9">
                 <div class="takingBusin wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s">
-                    <h2 data-wow-duration="3s" data-wow-delay="0.5s">Taking business content to the new heights!</h2>
+                    <h2 data-wow-duration="3s" data-wow-delay="0.5s">Taking business content to new heights!</h2>
                     <p  data-wow-duration="3s" data-wow-delay="0.5s">With the evolving demand for managing corporate content effectively, organizations need to have a robust Enterprise Content Management System. This will enable them to access, analyze, and act on business content for superior insight & action. Content services & solutions provided by Clavax support your digital transformation, which leads to a more efficient and competitive business.</p>
                 </div>
             </div>
@@ -236,7 +236,7 @@
 <!-- What are the benefits of a custom CMS? -->
 
 <section>
-    <div class="container-fluid">
+    <div class="cms container-fluid">
         <div class="row d-flex991">
             <div class="col-md-6 whatArepadd">
                 <div class="whatArecms text-center">
@@ -484,7 +484,7 @@
 <!-- We build CMSs around your Business Workflow. -->
 
 <section>
-    <div class="container-fluid p0">
+    <div class="cms container-fluid p0">
         <div class="row d-flex991">
             <div class="col-md-4 whatArepadd">
                 <div class="whatArecms text-center">

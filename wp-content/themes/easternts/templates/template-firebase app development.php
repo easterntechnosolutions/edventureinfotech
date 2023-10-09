@@ -227,7 +227,7 @@ When you develop an app using the traditional method, you typically have to writ
     </div>
 </section>
 
-<section>
+<section class="sectionPadd bg-orange">
     <div class="container MoveSeaml">
         <div class="row">
             <div class="fireAdd text-center">
@@ -379,7 +379,7 @@ When you develop an app using the traditional method, you typically have to writ
 
 <!-- Serverless Architectures -->
 
-<section>
+<section class="sectionPadd">
     <div class="container serverAcrch">
         <div class="row">
             <div class="fireAdd text-center">

@@ -8,16 +8,17 @@
 
 <!-- We develope -->
 
-<section class="colororang">
-    <div class="container ">
-        <div class="row text-center developBeautiful">
-            <h4>We develop Beautiful native apps in record time with Flutter.
-                <a href="<?php the_permalink(27); ?>">Get Started</a>
-            </h4>
+<a href="<?php the_permalink(27); ?>">
+    <section class="colororang sub-header">
+        <div class="container ">
+            <div class="row text-center developBeautiful">
+                <h4>We develop Beautiful native apps in record time with Flutter.
+                    <span>Get Started</span>
+                </h4>
+            </div>
         </div>
-    </div>
-</section>
-
+    </section>
+</a>
 <!-- Hero section -->
 
 <section>
@@ -124,7 +125,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 text-center" style="margin: 17px 0;">
+            <div class="col-12 view-more text-center" style="margin: 17px 0;">
                 <a href="<?php echo get_permalink(221); ?>" class="comBtn" style="margin-top: 50px;">View All</a>
             </div>
         </div>

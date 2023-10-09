@@ -339,8 +339,8 @@ SEO is a critical component of any digital marketing campaign. A robust SEO stra
     </div>
 </section>
 
-
-<section class="sectionPadd wow slideInUp" data-wow-delay="0.2s" data-wow-duration="2s">
+<!-- 
+<section class="sectionPadd">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -349,27 +349,6 @@ SEO is a critical component of any digital marketing campaign. A robust SEO stra
         </div>
     </div>
 
-</section>
-
-
-<!--  MOBILE-FIRST APPROACH -->
-
-
-<!-- <section class="mobileFirstbg">
-    <div class="container-fluid p0">
-        <div class="row appFlex">
-            <div class="col-md-6 order p0">
-                <img src="https://www.easternts.com.au/wp-content/uploads/2019/10/Untitled-5.jpg">
-            </div>
-            <div class="col-md-6 p0">
-                <div class="zigZ">
-                    <h2><b>MOBILE-FIRST APPROACH</b></h2>
-                    <p>In today’s market, it is important to provide your visitors an experience on your web site that is accessible by all, and that means across all devices including desktop, tablet, and mobile. Getting there is no easy task and with all the new devices being released at a rapid pace (almost daily!) it’s hard to keep up the pace unless your website is fully responsive in all environments. We approach all projects with a ‘mobile-first’ approach that allows your website and content to adapt to screens of many sizes.</p>
-                    <p>One website adapts to all mobile devices, saving you time and money! With mobile browsing surpassing desktop in May of 2015, and mobile-friendliness becoming an official Google ranking factor in April, creating a mobile-friendly website is no longer optional: it’s a necessity. It all starts with responsive web design.</p>
-                </div>
-            </div>
-        </div>
-    </div>
 </section> -->
 
 

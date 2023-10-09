@@ -892,7 +892,7 @@ The global demand for iPhone devices is on the rise, and businesses aim to tap i
 
 <!-- 5 iPhone -->
 
-<section class="rightsecondpadd">
+<section class="rightsecondpadd sectionPadd">
     <div class="container">
         <div class="fireAdd aboutDevelop  text-center">
             <h2><b>Custom iOS App Development Service</b></h2>

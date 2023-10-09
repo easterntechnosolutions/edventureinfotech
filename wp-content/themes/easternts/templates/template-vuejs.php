@@ -359,12 +359,12 @@ Template Name: Vue JS
 
 <section class="sectionPadd unit-testing-devel-bg">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
                 <h2>Unit Testing with Cypress  </h2>
                 <p>Unit testing is conducted on individual modules by dividing them to expose their abstraction level. These tests outline the anticipated functionality and behavior of the modules. AngularJS development services yield clean and error-free applications through testing environments that offer robust solutions to enterprise needs.</p>
             </div>
-        </div>
+        </div> -->
 
         <div class="row ubint-testing-marg angularjs-devcompmay d-flex">
             <div class="col-sm-6 cmd-back-img text-center">

@@ -45,11 +45,12 @@
                 <h3>Engage your customers with the perfect visual experience!</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-                <a class="subscriber-form  comBtn" href="javascript:void(0);" >BUILD YOUR WEBSITE WITH US!</a>
+                <a class="subscriber-form" href="javascript:void(0);" >BUILD WITH US !</a>
             </div>
         </div>
     </div>
 </section>
+
 
 
 <section class="">
@@ -198,16 +199,6 @@ As an excellent web design and development company, we've set up clear steps for
     </div>
 </section>
 
-<!-- Img -->
-
-<section>
-    <img src="/wp-content/uploads/2021/11/unnamed.webp?id=8399" alt="unnamed" >
-    <div class="container-fluid">
-        <div class="row">
-        </div>
-    </div>
-</section>
-
 <!-- Real Time App with Cloud Firestore -->
 
 <section class="sectionPadd realBgcolor">
@@ -331,9 +322,9 @@ As an excellent web design and development company, we've set up clear steps for
 
 <section class="ourMostused gain-competitive">
     <div class="container displayInherit p-0">
-        <div class="row">
-            <!-- <h3>OUR MOST USED TOOLS</h3> -->
-        </div>
+        <!-- <div class="row text-center">
+            <h3>OUR MOST USED TOOLS</h3>
+        </div> -->
         <div class="row">
             <div class="owl-carousel owl-theme">
                 <div class="item areasSlider">
@@ -362,14 +353,18 @@ As an excellent web design and development company, we've set up clear steps for
     </div>
 </section>
 
+
 <!--  Why choose us for UI design services? -->
 
-<section>
+<section class="sectionPadd">
     <div class="container-fluid p0">
         <div class="row d-flex991">
             <div class="col-md-6">
                 <div class="whyChooseui">
-                    <h3>Why choose us for UI design services?</h3>
+                    <div class="fireAdd">
+                        <h2>Why choose us for UI design services?</h2>
+                    </div>
+                    <!-- <h2>Why choose us for UI design services?</h2> -->
                     <div class="choosedevaid">
                         <div class="chooseUidesign">
                             <i class="fas fa-check wow fadeIn"></i>
