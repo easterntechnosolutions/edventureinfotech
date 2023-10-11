@@ -6,22 +6,10 @@ Template Name: Firebase app development
 
 <?php get_header() ?>
 
-
-<!-- <section>
-    <div class="container-fluid">
-        <div class="row">
-
-        </div>
-    </div>
-</section> -->
-
 <section>
     <div class="firebaseApp app-dev-banner">
         <div class="">
             <div class="row text-center">
-                <!-- <div class="">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                </div> -->
                 <div class="serimg">
                     <div class="sercon ">
                         <div class="text-start container">

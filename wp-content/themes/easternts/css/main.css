@@ -858,7 +858,7 @@ img.header-logo {
     position: relative;
     padding: 375px 0 460px;
     background-attachment: fixed;
-    background-position: center;
+    background-position:top  center;
     background-size: cover;
     z-index: 1;
 }
