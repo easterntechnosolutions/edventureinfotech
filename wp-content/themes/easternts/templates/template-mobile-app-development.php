@@ -6,7 +6,7 @@ Template Name: Mobile App Development
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp app-dev-banner">
           <div class="">
               <div class="row text-center">
                   <!-- <div class="">

@@ -7,7 +7,7 @@
 <?php get_header() ?>
 
 <section>
-    <div class="firebaseApp customCmsmain">
+    <div class="firebaseApp web-dev-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">

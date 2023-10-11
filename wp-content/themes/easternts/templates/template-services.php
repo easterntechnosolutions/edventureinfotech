@@ -11,9 +11,9 @@ Template Name: Services
     <div class="servicebanner">
         <div class="">
             <div class="row text-center">
-                <div class="">
+                <!-- <div class="">
                     <img src="../wp-content/uploads/2022/12/Services_01.png">
-                </div>
+                </div> -->
                 <div class="serimg">
                     <div class="sercon ">
                         <div class="text-start container">

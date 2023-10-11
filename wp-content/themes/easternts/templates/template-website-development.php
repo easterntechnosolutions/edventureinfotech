@@ -6,8 +6,8 @@ Template Name: Website development
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
-          <div class="">
+      <div class="firebaseApp web-dev-banner">
+          <!-- <div class=""> -->
               <div class="row text-center">
                   <!-- <div class="">
                       <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
@@ -21,7 +21,7 @@ Template Name: Website development
                       </div>
                   </div>
               </div>
-          </div>
+          <!-- </div> -->
       </div>
 </section>
 

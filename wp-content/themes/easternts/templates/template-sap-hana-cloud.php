@@ -16,7 +16,7 @@
 <?php get_header() ?>
 
 <section>
-    <div class="firebaseApp customCmsmain">
+    <div class="firebaseApp sap-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">

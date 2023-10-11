@@ -16,7 +16,7 @@
                     <div class="sercon ">
                         <div class="text-center container">
                             <h1>Contact Us</h1>
-                            <p>Connect with Our Digital Experts to Transform Your Vision into Reality</p>
+                            <p class="wow fadeInUp">Connect with Our Digital Experts to Transform Your Vision into Reality</p>
                         </div>
                     </div>
                 </div>

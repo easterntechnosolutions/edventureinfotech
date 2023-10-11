@@ -6,7 +6,7 @@ Template Name: Digital Marketing
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp digital-media-banner">
           <div class="">
               <div class="row text-center">
                   <!-- <div class="">

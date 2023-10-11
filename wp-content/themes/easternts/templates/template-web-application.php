@@ -6,12 +6,9 @@ Template Name: Web Application
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp web-app-banner">
           <div class="">
               <div class="row text-center">
-                  <!-- <div class="">
-                      <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                  </div> -->
                   <div class="serimg">
                       <div class="sercon ">
                           <div class="text-start container">

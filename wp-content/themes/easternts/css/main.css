@@ -582,11 +582,11 @@ ul {
     }
 }
 .header {
-    margin-top: 61px;
+    margin-top: 82px;
 }
 @media (max-width: 991px) {
     .header {
-        margin-top: 85px;
+        margin-top: 77px;
     }
 }
 .headerFiexd {
@@ -749,8 +749,11 @@ ul {
     color: #00aeef;
 }
 img.header-logo {
-    max-width: 200px;
+    max-width: 240px;
     height: 100%;
+}
+#wp-megamenu-main-menu>.wpmm-nav-wrap ul.wp-megamenu>li>a, .wp-megamenu-wrap .wpmm-nav-wrap>ul>li.wpmm-social-link.wpmm-social-link-search a, .wpmm-menu-cart .cart-icon .fa-shopping-cart, .wp-megamenu-wrap .form .submit, .wpmm-menu-cart span.cart-icon i {
+    padding: 30px 14px;
 }
 .responsive-menu {
     position: absolute;
@@ -783,16 +786,17 @@ img.header-logo {
         position: absolute !important;
         width: 100% !important;
         background: #fffffffa;
-        top: 81px;
+        top: 77px;
         border: 0;
         z-index: 999;
         box-shadow: 0 13px 15px -9px #d1d1d1db;
-        border-top: 2px solid #f57f20;
+        border-top: 2px solid #ED2124;
     }
     .open_closed_megamnu #site-navigation #menu-primary-navigation-mega-menu,
     .open_closed_megamnu #site-navigation #menu-primary-menu {
         overflow: scroll;
-        height: 89vh;
+        min-height: 44vh;
+        max-height: 89vh;
         padding: 0;
     }
     .open_closed_megamnu #site-navigation #menu-primary-navigation-mega-menu .wp-megamenu-sub-menu li ul li,
@@ -812,6 +816,15 @@ img.header-logo {
     .open_closed_megamnu #site-navigation #menu-primary-menu .wp-megamenu-sub-menu b.fa.fa-caret-down.mega_submenu {
         transform: none !important;
         margin-top: -20px;
+    }
+    #wp-megamenu-main-menu>.wpmm-nav-wrap ul.wp-megamenu>li.wpmm_mega_menu>ul.wp-megamenu-sub-menu {
+        width: calc(100% + 600px) !important;
+        margin-left: 0 !important;
+        padding: 0;
+    }
+    #wp-megamenu-main-menu > .wpmm-nav-wrap ul.wp-megamenu > li ul.wp-megamenu-sub-menu li a {
+        line-height: normal;
+        padding: 5px 0;
     }
 }
 .colororang {
@@ -840,20 +853,23 @@ img.header-logo {
     color: #0D1321;
 }
 .Hero-back {
-    /* background-image: url(../images/home-banner.jpg); */
     background-image: url(../images/home-bg.jpg);
     background-repeat: no-repeat;
     position: relative;
-    padding-top: 375px;
-    padding-bottom: 375px;
-    background-attachment:fixed;
+    padding: 375px 0 460px;
+    background-attachment: fixed;
+    background-position: center;
     background-size: cover;
     z-index: 1;
 }
+@media (max-width: 1440px) {
+    .Hero-back {
+        padding: 280px 0 370px;
+    }
+}
 @media (max-width: 768px) {
     .Hero-back {
-        padding-top: 180px;
-        padding-bottom: 180px;
+        padding: 300px 0 380px;
     }
 }
 @media (max-width: 375px) {
@@ -872,31 +888,18 @@ img.header-logo {
     display: block;
     background-color: rgba(0, 0, 0, 0.5);
 }
-.Hero-back p,
 .Hero-back h1 {
     color: #fff;
     font-size: 65px;
-}
-.Hero-back p {
-    font-size: 20px;
-}
-@media (max-width: 768px) {
-    .Hero-back p {
-        font-size: 18px;
-    }
-}
-.Hero-back h3 {
-    font-size: 40px;
     font-weight: bold;
     line-height: 1.2;
 }
-@media (max-width: 768px) {
-    .Hero-back h3 {
-        font-size: 28px;
+@media (max-width: 1024px) {
+    .Hero-back h1 {
+        font-size: 40px;
     }
 }
 .gain-competitive {
-    /* background-color: #0D1321; */
     background-color: #ED2024;
     padding: 31px 0;
     z-index: 1;
@@ -1386,38 +1389,49 @@ input:focus-visible {
 .footerHr {
     display: none;
 }
-@media (max-width: 767px) {
-    .footerHr {
-        display: block;
-        color: #f57f20;
-        width: 89%;
-        margin: 0 auto;
-        border-top: 1px solid;
-        margin-top: 21px;
+@media (max-width: 1024px) {
+    .office_address .row .contact-hours, .office_address .row .contact-about, .office_address .row .cotact-details {
+        min-height: 320px;
     }
+    .office_address ul.address li p {
+        font-size: 14px!important;
+    }
+}
+@media (max-width: 768px) {
+    .office_address .row .contact-hours, .office_address .row .contact-about, .office_address .row .cotact-details {
+        min-height: auto;
+    }
+    .office_address ul.address li p {
+        font-size: 18px!important;
+    }    
     .office_address .row .contact-hours {
         width: 100%;
         margin: 20px 0px;
-        border-radius: 50px 0;
+        border-radius: 30px;
     }
     .office_address .row .contact-about {
-        margin-right: -7px;
+        border-radius: 30px;
     }
-    .office_address .row .cotact-details {
-        margin-left: -8px;
+    .office_address .row .cotact-details {        
         margin-bottom: 20px;
+        border-radius: 30px;
     }
     .office_address .row ul.address {
         margin: 0;
     }
 }
+@media (max-width: 375px) {
+    .office_address .row .contact-hours, .office_address .row .contact-about, .office_address .row .cotact-details {
+        padding: 20px ;
+    }
+}
+
 .servicebanner {
-    background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
+    background-image: url(../../../uploads/2023/10/services-banner.webp);
     position: relative;
 }
 @media (max-width: 768px) {
     .servicebanner {
-        background-image: url(http://localhost/edventureinfotech/wp-content/themes/easternts/images/Services_01.png);
         padding-top: 60px;
         padding-bottom: 60px;
     }
@@ -1467,6 +1481,9 @@ input:focus-visible {
 }
 .servicesMain {
     padding: 50px 0 0;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
 }
 .serSectionpadd {
     padding-bottom: 50px;
@@ -1643,7 +1660,30 @@ input:focus-visible {
     transition: transform 0.6s cubic-bezier(0.19, 0.65, 0.02, 0.93);
 }
 .firebaseApp {
-    background-image: url(https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg);
+    background-image: url(../../../uploads/2023/10/dev-bg.webp);
+}
+.clients-banner {
+    background-image: url(../../../uploads/2023/10/clients-banner.webp);
+}
+.about-banner {
+    background-image: url(../../../uploads/2023/10/about-us.webp);
+}
+.app-dev-banner {
+    background-image: url(../../../uploads/2023/10/app-dev-banner.webp);
+}
+.web-dev-banner {
+    background-image: url(../../../uploads/2023/10/web-dev-banner.webp);
+}
+.web-app-banner {
+    background-image: url(../../../uploads/2023/10/web-app-banner.webp);
+}
+.digital-media-banner {
+    background-image: url(../../../uploads/2023/10/digital-media-banner.webp);
+}
+.sap-banner {
+    background-image: url(../../../uploads/2023/10/sap-banner.webp);
+}
+.firebaseApp, .about-banner, .servicebanner {
     position: relative;
     padding-top: 240px;
     padding-bottom: 240px;
@@ -1651,36 +1691,37 @@ input:focus-visible {
     background-size: cover;
 }
 @media (max-width: 768px) {
-    .firebaseApp {
+    .firebaseApp, .about-banner {
         padding-top: 180px;
         padding-bottom: 180px;
     }
 }
 @media (max-width: 768px) {
-    .firebaseApp {
+    .firebaseApp, .about-banner {
         padding-top: 120px;
         padding-bottom: 120px;
     }
 }
 .firebaseApp p,
-.firebaseApp h1 {
+.firebaseApp h1, 
+.about-banner {
     color: #fff;
 }
-.firebaseApp p {
+.firebaseApp p, .about-banner p {
     font-size: 24px;
 }
 @media (max-width: 768px) {
-    .firebaseApp p {
+    .firebaseApp p, .about-banner p  {
         font-size: 18px;
     }
 }
-.firebaseApp h1 {
+.firebaseApp h1, .about-banner h1 {
     font-size: 48px;
     font-weight: bold;
     line-height: 1.2;
 }
 @media (max-width: 768px) {
-    .firebaseApp h1 {
+    .firebaseApp h1, .about-banner h1 {
         font-size: 28px;
     }
 }
@@ -3223,8 +3264,8 @@ table {
 .choosEts h4 {
     line-height: 1.3;
 }
-.customCmsmain {
-    background-image: url(https://www.easternts.com.au/wp-content/uploads/2019/05/Website-1.jpg);
+.blog-banner {
+    background-image: url(../../../uploads/2023/10/blog-banner.webp);
 }
 .ourPross h2 {
     font-weight: 800;
@@ -5242,24 +5283,16 @@ span.accordion__caption {
     background-position: -22px -1876px;
 }
 .contactus {
-    background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/cont-us-banner.webp);
+    /* background-image: url(http://localhost/edventureinfotech/wp-content/uploads/2023/09/cont-us-banner.webp); */
     position: relative;
-    padding-top: 240px;
-    padding-bottom: 240px;
+    padding: 170px;
     background-position: 90%;
     background-size: cover;
-    background-image: linear-gradient(37deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 10%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 90%, rgba(237,33,36,1) 100%);
+    background-image: linear-gradient(37deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 11%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 89%, rgba(237,33,36,1) 100%);
 }
 @media (max-width: 768px) {
     .contactus {
-        padding-top: 180px;
-        padding-bottom: 180px;
-    }
-}
-@media (max-width: 768px) {
-    .contactus {
-        padding-top: 120px;
-        padding-bottom: 120px;
+        padding: 120px 0;
     }
 }
 .contactus p,
@@ -5286,7 +5319,7 @@ span.accordion__caption {
 }
 .office_address {
     width: 100%;
-    padding: 130px 0 100px;
+    padding: 110px 0;
     float: left;
     background-color: #0D1321;
     background-image: linear-gradient(140deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 10%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 90%, rgba(237,33,36,1) 100%)
@@ -5329,8 +5362,8 @@ span.accordion__caption {
 }
 @media (max-width: 768px) {
     .office_address {
-        padding: 31px 0 10px;
-    }
+        padding: 50px 0;
+    }    
 }
 .office_address h3.country_name {
     font-size: 24px;
@@ -5486,9 +5519,9 @@ input.wpcf7-form-control.wpcf7-submit {
     display: inline-block;
     width: 100%;
     padding: 40px 0;
-    margin-bottom: -6px;
+    margin-bottom: -5px;
     background: #0D1321;
-    background-image: linear-gradient(45deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 10%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 90%, rgba(237,33,36,1) 100%);
+    background-image: linear-gradient(45deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 9.5%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 90.5%, rgba(237,33,36,1) 100%);
     z-index: 1;
     position: relative;
 }
@@ -6921,7 +6954,7 @@ input.wpcf7-form-control.wpcf7-submit {
     color: #fff !important;
 }
 .career {
-    background-image: url(https://www.easternts.com.au/wp-content/uploads/2020/01/careers.png);
+    background-image: url(../../../uploads/2023/10/career-banner-3.webp);
     position: relative;
     padding-top: 240px;
     padding-bottom: 240px;
@@ -7097,14 +7130,17 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .mision-vision-about .mision-vision {
     margin: 15px;
-    background: #21295C;
+    background: #0D1321;
     padding: 30px;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0 0 15px #00000059;
 }
+.mision-vision-about .mision-vision:nth-child(2) {
+    background-color: #ED2124;;
+}
 .mision-vision-about .mision-vision:hover {
-    background: #121739;
+    box-shadow: 0 0 15px #000000c2;
 }
 @media (max-width: 600px) {
     .mision-vision-about .mision-vision {
@@ -9131,4 +9167,69 @@ section {
 }
 .red-back {
     background-color: #ED2124;
+}
+@media (max-width: 1024px){
+    .footer-bg {
+        padding: 210px 0;
+    }
+}
+@media (max-width: 500px){
+    .footer-bg {
+        padding: 262px 0;
+    }
+    .subNew {
+        bottom: 255px;
+    }
+    .footerBgcolor {
+        bottom: 165px;
+    }
+    .subNew h3 {
+        font-size: 22px;
+    }
+    .footerEts a {
+        font-size: 14px;
+    }
+    .copiyright p {
+        font-size: 12px;
+    }
+    .contactus {
+        background-image: linear-gradient(37deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 9%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 91%, rgba(237,33,36,1) 100%);
+    }
+    .office_address {
+        background-image: linear-gradient(140deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 4%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 96%, rgba(237,33,36,1) 100%);
+    }
+    .ets-contact-form {
+        background-image: linear-gradient(45deg, rgba(237,33,36,1) 0%, rgba(13,19,33,1) 5%, rgba(13,19,33,1) 50%, rgba(13,19,33,1) 95%, rgba(237,33,36,1) 100%);
+    }
+    .row .contact-about {
+        box-shadow: none;
+    }
+    .row .contact-hours {
+        box-shadow: none;
+    }
+    .row .cotact-details {
+        box-shadow: none;
+    }
+    .footerHr {
+        display: block;
+        color: #ED2124;
+        width: 89%;
+        margin: 0 auto;
+        border-top: 1px solid;
+        margin-top: 21px;
+    }
+}
+@media (max-width: 375px){
+    .footerEts li {
+        padding: 9px;
+    }
+    .copiyright p {
+        font-size: 10px;
+    }
+    .subNew h3 {
+        margin: 16px 0;
+    }
+}
+.error-page {
+    margin: 0;
 }

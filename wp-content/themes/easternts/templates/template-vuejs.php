@@ -17,7 +17,7 @@ Template Name: Vue JS
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp">
+    <div class="firebaseApp web-app-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">

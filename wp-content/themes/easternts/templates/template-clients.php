@@ -7,7 +7,7 @@ Template Name: Client
   <?php get_header(); ?>
   
   <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp clients-banner">
           <div class="">
               <div class="row text-center">
                   <div class="serimg">

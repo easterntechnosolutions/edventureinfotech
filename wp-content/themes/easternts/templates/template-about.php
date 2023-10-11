@@ -6,7 +6,7 @@ Template Name: About us
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
+      <div class="about-banner">
           <div class="tailored-statistics-box">
               <div class="row text-center">
                   <div class="serimg">
