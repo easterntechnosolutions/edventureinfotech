@@ -115,19 +115,20 @@ function add_js_footer_function()
 	if (!is_admin()) {
 		wp_deregister_script('jquery');
 
-		wp_enqueue_script('font nunito', get_template_directory_uri("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap"), true);
-		wp_enqueue_script('font awesome', get_template_directory_uri("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"), true);
+		wp_enqueue_script('font-nunito', get_template_directory_uri("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap"), true);
+		wp_enqueue_script('font-awesome', get_template_directory_uri("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"), true);
 		
 		// wp_enqueue_script('owl css', get_template_directory_uri("https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"), true);
-		wp_register_script('toggle', get_template_directory_uri() . '/js/toggle.js', false, true, false);
-		wp_register_script('owl-js', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js', false, false, false);
-		wp_register_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', false, false, false);
-		
+		wp_enqueue_script('heading', get_template_directory_uri() . '/js/heading.js', false, true, false);
+		wp_enqueue_script('owl-js', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js', false, true, false);
+		wp_enqueue_script('toggle', get_template_directory_uri() . '/js/toggle.js', false, true, false);
+		wp_enqueue_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', false, false, false);		
 		wp_enqueue_script('wow-min', 'https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js', false, true, false);
 		
-		wp_enqueue_script('jquery');
-		wp_enqueue_script('toggle');
-		wp_enqueue_script('owl-js');
+		// wp_enqueue_script('jquery');
+		// wp_enqueue_script('heading');
+		// wp_enqueue_script('toggle');
+		// wp_enqueue_script('owl-js');
 // 		wp_enqueue_script( 'animation-script', get_template_directory_uri() . '/js/aos.js');
 
 
@@ -600,7 +601,7 @@ function enqueue_animation_script() {
 									    <div class="row">
 										  <div class="col-md-12">
 											<div class="technical-main-mdl">
-											    <div class="technical-main-img"> <span><img src="https://www.easternts.com.au/wp-content/uploads/2020/03/Images_01.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
+											    <div class="technical-main-img"> <span><img src="wp-content/uploads/2023/09/tech-stack.png" width="610px" height="552px" alt="technology-stack" title="technology-stack"></span> </div>
 											    <div class="technical-tk-ul">
 												  <ul>
 													<li class="frontend"> <a href="javascript:void(0)">Frontend</a>
@@ -804,7 +805,7 @@ function enqueue_animation_script() {
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/magento.png" alt="magento" title="css3"></span> </div>
 										  </li>
 										  <li class="mongodb">
-											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.infowindtech.com/wp-content/themes/infowind/company-logo/other/mongodb.png" alt="mongodb" title="css3"></span> </div>
+											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com/wp-content/uploads/2023/09/mongodb.webp" alt="mongodb" title="css3"></span> </div>
 										  </li>
 										  <li class="mysql">
 											<div class="index-list__divider-inn aos-init aos-animate" data-aos="zoom-in" data-aos-duration="500"> <span><img src="https://www.easternts.com.au/wp-content/uploads/home_img/icons/mysql.png" alt="mysql" title="css3"></span> </div>
@@ -992,14 +993,14 @@ function send_smtp_email( $phpmailer ) {
     $phpmailer->Port       = '587';
     $phpmailer->SMTPSecure = 'tls';
     $phpmailer->SMTPAuth   = true;
-    $phpmailer->Username   = 'noreply.easternts06@gmail.com';
-    $phpmailer->Password   = 'nacpgphauekshajz';
-    $phpmailer->From       = 'noreply.easternts06@gmail.com';
-    $phpmailer->FromName   = 'Eastern Techno Solutions ';
-//     $phpmailer->addReplyTo('noreply.easternts06@gmail.com', 'Information');
+    $phpmailer->Username   = 'noreply.edventure@gmail.com';
+    $phpmailer->Password   = 'atvwzeiijssinadn';
+    $phpmailer->From       = 'noreply.edventure@gmail.com';
+    $phpmailer->FromName   = 'Edventure Infotech ';
+//     $phpmailer->addReplyTo('noreply.edventure@gmail.com', 'Information');
 }
 
-//add_filter( 'wp_mail_content_type','set_my_mail_content_type' );
+// add_filter( 'wp_mail_content_type','set_my_mail_content_type' );
 function set_my_mail_content_type() {
     return "text/html";
 }

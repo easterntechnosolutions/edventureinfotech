@@ -6,12 +6,9 @@ Template Name: Software Development
 <?php get_header(); ?>
 
 <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp web-app-banner">
           <div class="">
               <div class="row text-center">
-                  <!-- <div class="">
-                      <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                  </div> -->
                   <div class="serimg">
                       <div class="sercon ">
                           <div class="text-start container">
@@ -42,11 +39,13 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Software">
+                <img src="../../wp-content/uploads/2023/09/software-development2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Software">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Software development is a combination of many activities such as planning, designing, development, testing, bug fixing, application maintenance, and much more. This is a crucial process and is increasing globalization. In this tech-savvy world, software development & advancement help small and large businesses to achieve success. If you are looking for paramount software development companies in Surat, Eastern Techno Solutions is the right choice for you. As one of the leading companies, we provide creative, agile, and competitive services for software development. Our dedicated development team has helped many businesses by delivering appealing and innovative mobile apps as well as software applications to make business processes easier. If you are searching for technology consulting, custom software development, software testing, quality assurance, system integration, or software support- we have all the solutions for you.</p>
+
+                    <p>Software development encompasses a spectrum of activities, including planning, design, coding, testing, debugging, ongoing maintenance, and more. As globalization continues to surge, this process plays a pivotal role in today's tech-driven world, enabling businesses of all sizes to thrive. If you're in search of top-notch software development firms in Canada, look no further than Edventure Infotech. As a premier company, we offer dynamic, agile, and competitive software development services. Our proficient team has empowered numerous enterprises with the delivery of cutting-edge mobile apps and software solutions, streamlining their operations. Whether you require technology consultancy, custom software development, rigorous testing, quality assurance, seamless system integration, or robust software support, we have the comprehensive solutions you seek.</p>
+
                 </div>
             </div>
         </div>
@@ -57,11 +56,13 @@ Template Name: Software Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/software-development4.gif" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Phonegap">
+                <img src="../../wp-content/uploads/2023/09/software-development1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Phonegap">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                <p>Software development is the process of designing, creating, testing, and maintaining software applications. It involves writing and maintaining the source code that makes up the application, as well as designing and implementing the various features and functions of the software. There are many different methods and approaches to software development, including agile development, waterfall development, and rapid prototyping. These methods differ in terms of their focus and the level of planning and control employed in the development process. Software development requires a combination of technical skills and creative problem-solving abilities. It also involves working with a team of developers, designers, and testers to ensure that the software is of high quality and meets the needs of users.</p>
+
+                <p>Software development encompasses the entire lifecycle of crafting, testing, and sustaining software applications. This involves not only writing and managing the underlying source code, but also conceptualizing and executing the diverse features and functionalities of the software. Various methodologies such as agile development, waterfall development, and rapid prototyping are employed, each differing in their emphasis on planning and control throughout the development process. Success in software development demands a blend of technical proficiency and inventive problem-solving skills. Additionally, it entails collaboration with a team of developers, designers, and testers to guarantee the software's excellence and alignment with user requirements.</p>
+
                 </div>
             </div>
         </div>
@@ -84,7 +85,7 @@ Template Name: Software Development
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-1.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-1.webp" alt="ets-it-consulty">
                     </div>
                     <h3>Common development concerns</h3>
                     <p>Here are some common concerns of global product companies</p>
@@ -101,7 +102,7 @@ Template Name: Software Development
             <div class="col-md-4">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center it-consult-marg-nagtive">
-                        <img src="/wp-content/uploads/2023/02/ets-it-consulting.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/ets-it-consulting.webp" alt="ets-it-consulty">
                     </div>
                 </div>
             </div>
@@ -109,7 +110,7 @@ Template Name: Software Development
             <div class="col-md-4 mt-5">
                 <div class="it-consulti-address">
                     <div class="gap-process-icon text-center">
-                        <img src="/wp-content/uploads/2023/02/it-concern-2.webp" alt="ets-it-consulty">
+                        <img src="../../wp-content/uploads/2023/02/it-concern-2.webp" alt="ets-it-consulty">
                     </div>
                     <h3>Our product development approach</h3>
                     <p>Considering your common & specific challenges we respond accordingly</p>
@@ -132,7 +133,9 @@ Template Name: Software Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Our Software Product Development Domain Expertise</h2>
-                <p>As one of the leading software product development companies, Eastern Techno Solutions provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
+
+                <p>As one of the leading software product development companies, Edventure Infotech provides custom product development services to startups, software product development companies, digital agencies, and large enterprises.</p>
+
             </div>
         </div>
 
@@ -141,7 +144,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-32.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-32.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>Media Portals </h3>
                     <p>We partner with media and entertainment companies to help them deliver responsive web portals that are easy to monetize. These portals include features such as advanced search and filtering, DRM functionality, and seamless CDN integration. </p>
@@ -151,7 +154,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-31.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-31.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>BI & Reporting</h3>
                     <p>Our BI & reporting solutions produce useful information by presenting complex analytical and statistical information. Easily accessible to non-tech users, these BI solutions are interactive and fully customized to facilitate decision making for professionals. </p>
@@ -161,7 +164,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-33.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-33.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>Cloud powered OTT </h3>
                     <p>Unlock the full potential of your OTT software with our cloud solutions. Our development team has years of hands-on experience in cloud-based workflow orchestration, metadata enrichment, ML-based transcoding, captioning, dubbing, quality control, compliance and more. </p>
@@ -171,7 +174,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-30.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-30.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>EdTech </h3>
                     <p>Use the cloud to increase the overall performance of your e-Learning solution. Unlock seamless access to media libraries from any device, and streamline analysis of student data with ML algorithms. </p>
@@ -181,7 +184,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-29.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-29.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3>M-Commerce </h3>
                     <p>We build M-Commerce products using the latest technologies such as Al, IoT, Geo- fencing etc to deliver solutions like online payment, eStores, food delivery etc. </p>
@@ -191,7 +194,7 @@ Template Name: Software Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="assisting-it-consulting laravel-hire-ser text-center mb-5">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2022/12/svgexport-28.svg"  class="wow tada" alt="svgexport">
+                        <img src="../../wp-content/uploads/2022/12/svgexport-28.svg"  class="wow tada" alt="svgexport">
                     </div>
                     <h3> Healthcare</h3>
                     <p>Our software product development team has the expertise to create intuitive user experiences. They also safeguard confidential medical and financial data, and link your solution with EHR, telehealth, PHM and other existing systems. </p>
@@ -219,7 +222,7 @@ Template Name: Software Development
                   <div class="item">
                         <div class="item__description">
                             <div>
-                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="63" viewBox="0 0 92 63"><g fill="none" fill-rule="evenodd"><path stroke="#494946" d="M48 36.122v11.09a3.58 3.58 0 0 0 1.133 2.61 4.02 4.02 0 0 0 2.756 1.087h27.223a4.02 4.02 0 0 0 2.755-1.088A3.58 3.58 0 0 0 83 47.21V15.79a3.58 3.58 0 0 0-1.133-2.61 4.02 4.02 0 0 0-2.755-1.088H51.89a4.02 4.02 0 0 0-2.756 1.088A3.58 3.58 0 0 0 48 15.789v9.242m5.834 25.878V62h23.334V50.91m0-38.82V1H53.834v11.09"></path><path stroke="#494946" d="M65.704 31.032H19m5.838 5.63L19 31.03l5.838-5.63m35.026 11.26l5.839-5.63-5.839-5.63m27.244 0h1.946c1.074 0 1.946.842 1.946 1.876v7.508c0 1.036-.872 1.878-1.946 1.878h-1.946"></path><path stroke="#1476F2" stroke-linejoin="round" d="M1 51.125h37m0-40.74H1m15.579 46.294h5.842"></path><path stroke="#1476F2" d="M38 36.122v22.18a3.578 3.578 0 0 1-1.134 2.61A4.028 4.028 0 0 1 34.106 62H4.894a4.028 4.028 0 0 1-2.759-1.088A3.578 3.578 0 0 1 1 58.302V4.698a3.578 3.578 0 0 1 1.135-2.61A4.029 4.029 0 0 1 4.895 1h29.212a4.028 4.028 0 0 1 2.759 1.088A3.578 3.578 0 0 1 38 4.698V25.03"></path></g></svg>
+                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="63" viewBox="0 0 92 63"><g fill="none" fill-rule="evenodd"><path stroke="#494946" d="M48 36.122v11.09a3.58 3.58 0 0 0 1.133 2.61 4.02 4.02 0 0 0 2.756 1.087h27.223a4.02 4.02 0 0 0 2.755-1.088A3.58 3.58 0 0 0 83 47.21V15.79a3.58 3.58 0 0 0-1.133-2.61 4.02 4.02 0 0 0-2.755-1.088H51.89a4.02 4.02 0 0 0-2.756 1.088A3.58 3.58 0 0 0 48 15.789v9.242m5.834 25.878V62h23.334V50.91m0-38.82V1H53.834v11.09"></path><path stroke="#494946" d="M65.704 31.032H19m5.838 5.63L19 31.03l5.838-5.63m35.026 11.26l5.839-5.63-5.839-5.63m27.244 0h1.946c1.074 0 1.946.842 1.946 1.876v7.508c0 1.036-.872 1.878-1.946 1.878h-1.946"></path><path stroke="#ed2124" stroke-linejoin="round" d="M1 51.125h37m0-40.74H1m15.579 46.294h5.842"></path><path stroke="#ed2124" d="M38 36.122v22.18a3.578 3.578 0 0 1-1.134 2.61A4.028 4.028 0 0 1 34.106 62H4.894a4.028 4.028 0 0 1-2.759-1.088A3.578 3.578 0 0 1 1 58.302V4.698a3.578 3.578 0 0 1 1.135-2.61A4.029 4.029 0 0 1 4.895 1h29.212a4.028 4.028 0 0 1 2.759 1.088A3.578 3.578 0 0 1 38 4.698V25.03"></path></g></svg>
                             </div>
                             <h3 class="item__description-title">Mobile Development</h3>
                         </div>
@@ -232,23 +235,23 @@ Template Name: Software Development
                                           d="M48 36.122v11.09a3.58 3.58 0 0 0 1.133 2.61 4.02 4.02 0 0 0 2.756 1.087h27.223a4.02 4.02 0 0 0 2.755-1.088A3.58 3.58 0 0 0 83 47.21V15.79a3.58 3.58 0 0 0-1.133-2.61 4.02 4.02 0 0 0-2.755-1.088H51.89a4.02 4.02 0 0 0-2.756 1.088A3.58 3.58 0 0 0 48 15.789v9.242m5.834 25.878V62h23.334V50.91m0-38.82V1H53.834v11.09"
                                     ></path>
                                     <path stroke="#494946" d="M65.704 31.032H19m5.838 5.63L19 31.03l5.838-5.63m35.026 11.26l5.839-5.63-5.839-5.63m27.244 0h1.946c1.074 0 1.946.842 1.946 1.876v7.508c0 1.036-.872 1.878-1.946 1.878h-1.946"></path>
-                                    <path stroke="#1476F2" stroke-linejoin="round" d="M1 51.125h37m0-40.74H1m15.579 46.294h5.842"></path>
+                                    <path stroke="#ed2124" stroke-linejoin="round" d="M1 51.125h37m0-40.74H1m15.579 46.294h5.842"></path>
                                     <path
-                                          stroke="#1476F2"
+                                          stroke="#ed2124"
                                           d="M38 36.122v22.18a3.578 3.578 0 0 1-1.134 2.61A4.028 4.028 0 0 1 34.106 62H4.894a4.028 4.028 0 0 1-2.759-1.088A3.578 3.578 0 0 1 1 58.302V4.698a3.578 3.578 0 0 1 1.135-2.61A4.029 4.029 0 0 1 4.895 1h29.212a4.028 4.028 0 0 1 2.759 1.088A3.578 3.578 0 0 1 38 4.698V25.03"
                                     ></path>
                                     </g>
                               </svg>
                               <div class="item__link-title">Mobile Development</div>
                               <p class="item__link-text">Meet your demanding deadlines with our mobile app development services that converge a mobile platform, custom development, and the latest tech.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>
                   <div class="item">
                         <div class="item__description">
                             <div>
-                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="91" viewBox="0 0 91 91" width="91"><g fill="none" fill-rule="evenodd"><path d="m81.91 91v-28zm-8.091-48c4.713 0 8.09-2.94 8.09-7.2v-3.6c0-4.26-3.375-7.2-8.09-7.2-4.716 0-8.092 2.94-8.092 7.2v3.6c0 4.26 3.375 7.2 8.092 7.2zm-64.729 48v-28zm8.09-48c-4.713 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2 4.716 0 8.092 2.94 8.092 7.2v3.6c0 4.26-3.375 7.2-8.092 7.2zm10.114-24c-4.715 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2 4.716 0 8.09 2.94 8.09 7.2v3.6c0 4.26-3.374 7.2-8.09 7.2zm36.41 0c-4.716 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.374-7.2 8.09-7.2 4.715 0 8.09 2.94 8.09 7.2v3.6c0 4.26-3.375 7.2-8.09 7.2zm18.206 64c3.934 0 8.09-2.11 8.09-6v-18c0-6.607-11.88-10-18.203-10-.626 0-1.308.033-2.024.1m-60.683 33.9c-3.933 0-8.09-2.11-8.09-6v-18c0-6.607 11.88-10 18.203-10 .626 0 1.308.033 2.024.1" stroke="#323232"></path><path d="m45.5 37c-4.715 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2s8.09 2.94 8.09 7.2v3.6c0 4.26-3.375 7.2-8.09 7.2zm12.136 54v-34zm0-12c4.371 0 8.09-4.11 8.09-8v-18c0-6.607-13.198-10-20.226-10s-20.227 3.393-20.227 10v18c0 3.89 3.72 8 8.091 8m0-22v34" stroke="#1476f2"></path></g></svg>
+                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="91" viewBox="0 0 91 91" width="91"><g fill="none" fill-rule="evenodd"><path d="m81.91 91v-28zm-8.091-48c4.713 0 8.09-2.94 8.09-7.2v-3.6c0-4.26-3.375-7.2-8.09-7.2-4.716 0-8.092 2.94-8.092 7.2v3.6c0 4.26 3.375 7.2 8.092 7.2zm-64.729 48v-28zm8.09-48c-4.713 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2 4.716 0 8.092 2.94 8.092 7.2v3.6c0 4.26-3.375 7.2-8.092 7.2zm10.114-24c-4.715 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2 4.716 0 8.09 2.94 8.09 7.2v3.6c0 4.26-3.374 7.2-8.09 7.2zm36.41 0c-4.716 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.374-7.2 8.09-7.2 4.715 0 8.09 2.94 8.09 7.2v3.6c0 4.26-3.375 7.2-8.09 7.2zm18.206 64c3.934 0 8.09-2.11 8.09-6v-18c0-6.607-11.88-10-18.203-10-.626 0-1.308.033-2.024.1m-60.683 33.9c-3.933 0-8.09-2.11-8.09-6v-18c0-6.607 11.88-10 18.203-10 .626 0 1.308.033 2.024.1" stroke="#323232"></path><path d="m45.5 37c-4.715 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2s8.09 2.94 8.09 7.2v3.6c0 4.26-3.375 7.2-8.09 7.2zm12.136 54v-34zm0-12c4.371 0 8.09-4.11 8.09-8v-18c0-6.607-13.198-10-20.226-10s-20.227 3.393-20.227 10v18c0 3.89 3.72 8 8.091 8m0-22v34" stroke="#ed2124"></path></g></svg>
                             </div>
                             <h3 class="item__description-title">Dedicated Development Teams</h3>
                         </div>
@@ -262,20 +265,20 @@ Template Name: Software Development
                                     ></path>
                                     <path
                                           d="m45.5 37c-4.715 0-8.09-2.94-8.09-7.2v-3.6c0-4.26 3.375-7.2 8.09-7.2s8.09 2.94 8.09 7.2v3.6c0 4.26-3.375 7.2-8.09 7.2zm12.136 54v-34zm0-12c4.371 0 8.09-4.11 8.09-8v-18c0-6.607-13.198-10-20.226-10s-20.227 3.393-20.227 10v18c0 3.89 3.72 8 8.091 8m0-22v34"
-                                          stroke="#1476f2"
+                                          stroke="#ed2124"
                                     ></path>
                                     </g>
                               </svg>
                               <div class="item__link-title">Dedicated Development Teams</div>
                               <p class="item__link-text">Quickly hire the right tech talent for your project with our decade-long expertise. We will help you build a loyal and easily scalable software development team.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>
                   <div class="item">
                         <div class="item__description">
                             <div>
-                                 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="85" viewBox="0 0 92 85"><g fill="none" fill-rule="evenodd"><path stroke="#323232" d="M85.13 84H6.87C3.628 84 1 81.407 1 78.21v-3.861h35.217l1.956 1.93h15.654l1.956-1.93H91v3.86C91 81.408 88.372 84 85.13 84zM6.87 74.349v-5.79 5.79z"></path><path stroke="#1476F2" d="M38.173 45.395v15.443a3.87 3.87 0 0 1-1.153 2.737 3.901 3.901 0 0 1-2.758 1.123H4.912a3.901 3.901 0 0 1-2.759-1.123A3.87 3.87 0 0 1 1 60.838V4.861a3.87 3.87 0 0 1 1.153-2.738A3.901 3.901 0 0 1 4.913 1h29.349a3.901 3.901 0 0 1 2.759 1.123 3.87 3.87 0 0 1 1.152 2.738v28.952"></path><path stroke="#1476F2" stroke-linejoin="round" d="M1 53.116h37.173m0-42.465H1m15.652 48.256h5.87"></path><path stroke="#323232" d="M42.087 22.233h39.13a3.901 3.901 0 0 1 2.76 1.122 3.87 3.87 0 0 1 1.153 2.738v48.256"></path><path stroke="#1476F2" d="M55.783 39.605H20.567m5.866 5.79l-5.866-5.79 5.866-5.792m23.48 11.582l5.87-5.79-5.87-5.792"></path></g></svg>
+                                 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="85" viewBox="0 0 92 85"><g fill="none" fill-rule="evenodd"><path stroke="#323232" d="M85.13 84H6.87C3.628 84 1 81.407 1 78.21v-3.861h35.217l1.956 1.93h15.654l1.956-1.93H91v3.86C91 81.408 88.372 84 85.13 84zM6.87 74.349v-5.79 5.79z"></path><path stroke="#ed2124" d="M38.173 45.395v15.443a3.87 3.87 0 0 1-1.153 2.737 3.901 3.901 0 0 1-2.758 1.123H4.912a3.901 3.901 0 0 1-2.759-1.123A3.87 3.87 0 0 1 1 60.838V4.861a3.87 3.87 0 0 1 1.153-2.738A3.901 3.901 0 0 1 4.913 1h29.349a3.901 3.901 0 0 1 2.759 1.123 3.87 3.87 0 0 1 1.152 2.738v28.952"></path><path stroke="#ed2124" stroke-linejoin="round" d="M1 53.116h37.173m0-42.465H1m15.652 48.256h5.87"></path><path stroke="#323232" d="M42.087 22.233h39.13a3.901 3.901 0 0 1 2.76 1.122 3.87 3.87 0 0 1 1.153 2.738v48.256"></path><path stroke="#ed2124" d="M55.783 39.605H20.567m5.866 5.79l-5.866-5.79 5.866-5.792m23.48 11.582l5.87-5.79-5.87-5.792"></path></g></svg>
                             </div>
                             <h3 class="item__description-title">Product Engineering</h3>
                         </div>
@@ -285,24 +288,38 @@ Template Name: Software Development
                                     <g fill="none" fill-rule="evenodd">
                                     <path stroke="#323232" d="M85.13 84H6.87C3.628 84 1 81.407 1 78.21v-3.861h35.217l1.956 1.93h15.654l1.956-1.93H91v3.86C91 81.408 88.372 84 85.13 84zM6.87 74.349v-5.79 5.79z"></path>
                                     <path
-                                          stroke="#1476F2"
+                                          stroke="#ed2124"
                                           d="M38.173 45.395v15.443a3.87 3.87 0 0 1-1.153 2.737 3.901 3.901 0 0 1-2.758 1.123H4.912a3.901 3.901 0 0 1-2.759-1.123A3.87 3.87 0 0 1 1 60.838V4.861a3.87 3.87 0 0 1 1.153-2.738A3.901 3.901 0 0 1 4.913 1h29.349a3.901 3.901 0 0 1 2.759 1.123 3.87 3.87 0 0 1 1.152 2.738v28.952"
                                     ></path>
-                                    <path stroke="#1476F2" stroke-linejoin="round" d="M1 53.116h37.173m0-42.465H1m15.652 48.256h5.87"></path>
+                                    <path stroke="#ed2124" stroke-linejoin="round" d="M1 53.116h37.173m0-42.465H1m15.652 48.256h5.87"></path>
                                     <path stroke="#323232" d="M42.087 22.233h39.13a3.901 3.901 0 0 1 2.76 1.122 3.87 3.87 0 0 1 1.153 2.738v48.256"></path>
-                                    <path stroke="#1476F2" d="M55.783 39.605H20.567m5.866 5.79l-5.866-5.79 5.866-5.792m23.48 11.582l5.87-5.79-5.87-5.792"></path>
+                                    <path stroke="#ed2124" d="M55.783 39.605H20.567m5.866 5.79l-5.866-5.79 5.866-5.792m23.48 11.582l5.87-5.79-5.87-5.792"></path>
                                     </g>
                               </svg>
                               <div class="item__link-title">Product Engineering</div>
                               <p class="item__link-text">Use a powerful combination of profound tech expertise, mature, low-risk processes, and proven experience in a variety of business domains to turn your business idea into reality.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>         
                   <div class="item">
                         <div class="item__description">
                             <div>
-                                <img src="https://www.easternts.com/wp-content/uploads/2023/01/UI-and-UX-Services.svg" alt="UI-and-UX-Services"> 
+                               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="88" viewBox="0 0 81 88">
+								   <defs>
+									   <path id="a" d="M0 89.725h83V0H0z"></path>
+								   </defs>
+								   <g fill="none" fill-rule="evenodd" transform="translate(-1 -1)">
+									   <path stroke="#505050" d="M49.045 77.033l-5.659 5.677 5.66 5.677"></path>
+									   <path stroke="#505050" d="M43.386 82.71h32.069c3.125 0 5.659-2.542 5.659-5.677V42.97M33.955 12.692l5.659-5.677-5.66-5.677"></path>
+									   <path stroke="#505050" d="M39.614 7.015H7.545c-3.125 0-5.659 2.542-5.659 5.677v34.063"></path>
+									   <mask id="b" fill="#fff">
+										   <use xlink:href="#a"></use>
+									   </mask>
+									   <path stroke="#ed2124" d="M13.205 69.463h56.59V20.262h-56.59zM18.864 25.939h3.772M24.523 25.939h3.772M13.205 31.616h56.59" mask="url(#b)"></path>
+									   <path stroke="#505050" d="M20.75 61.894h18.864V39.185H20.75zM45.273 39.185h18.863M45.273 46.755h18.863M45.273 54.324H56.59M81.114 39.185v-3.784M81.114 31.616V27.83M1.886 61.894v-3.785M1.886 54.324V50.54" mask="url(#b)"></path>
+								   </g>
+								</svg>
                             </div>
                             <h3 class="item__description-title">UX/UI Design</h3>
                         </div>
@@ -315,7 +332,7 @@ Template Name: Software Development
                                     <path stroke="#505050" d="M43.386 82.71h32.069c3.125 0 5.659-2.542 5.659-5.677V42.97M33.955 12.692l5.659-5.677-5.66-5.677"></path>
                                     <path stroke="#505050" d="M39.614 7.015H7.545c-3.125 0-5.659 2.542-5.659 5.677v34.063"></path>
                                     <mask id="b" fill="#fff"><use xlink:href="#a"></use></mask>
-                                    <path stroke="#1476F2" d="M13.205 69.463h56.59V20.262h-56.59zM18.864 25.939h3.772M24.523 25.939h3.772M13.205 31.616h56.59" mask="url(#b)"></path>
+                                    <path stroke="#ed2124" d="M13.205 69.463h56.59V20.262h-56.59zM18.864 25.939h3.772M24.523 25.939h3.772M13.205 31.616h56.59" mask="url(#b)"></path>
                                     <path
                                           stroke="#505050"
                                           d="M20.75 61.894h18.864V39.185H20.75zM45.273 39.185h18.863M45.273 46.755h18.863M45.273 54.324H56.59M81.114 39.185v-3.784M81.114 31.616V27.83M1.886 61.894v-3.785M1.886 54.324V50.54"
@@ -325,14 +342,14 @@ Template Name: Software Development
                               </svg>
                               <div class="item__link-title">UX/UI Design</div>
                               <p class="item__link-text">Our services in software development allow you to create the products as you envisioned it with a mature design team. We rely on established standards and ten-year expertise.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>
                   <div class="item">
                         <div class="item__description">
                             <div>
-                            <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="96" viewBox="0 0 90 96" width="90"><g fill="none" fill-rule="evenodd"><path d="m45 0v18.19zm-22.5 5.957 9.205 15.756zm-16.472 16.277 15.944 9.095zm-6.028 22.235h18.41zm6.028 22.233 15.944-9.095zm77.944 0-15.944-9.095zm6.028-22.232h-18.41zm-6.028-22.235-15.944 9.095zm-16.472-16.278-9.205 15.756z" stroke="#323232"></path><path d="m32.726 76.81h24.548m-24.548 8.083h24.548m-24.548-40.423c0-6.7 5.496-12.129 12.274-12.129" stroke="#1476f2"></path><path d="m38.864 50.531 6.136 6.064 6.136-6.064m-6.136 6.064v14.15" stroke="#323232"></path><path d="m53.181 92.979h-2.045l-2.046 2.021h-8.182l-2.047-2.021h-2.041m18.407-22.234v-2.023c0-3.649 1.285-7.014 3.851-9.602 3.865-3.895 6.378-8.714 6.378-14.651 0-11.164-9.16-20.214-20.455-20.214-11.298 0-20.453 9.05-20.453 20.214 0 5.937 2.513 10.756 6.376 14.65 2.566 2.587 3.85 5.954 3.85 9.605v2.021" stroke="#1476f2"></path></g></svg>
+                            <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="96" viewBox="0 0 90 96" width="90"><g fill="none" fill-rule="evenodd"><path d="m45 0v18.19zm-22.5 5.957 9.205 15.756zm-16.472 16.277 15.944 9.095zm-6.028 22.235h18.41zm6.028 22.233 15.944-9.095zm77.944 0-15.944-9.095zm6.028-22.232h-18.41zm-6.028-22.235-15.944 9.095zm-16.472-16.278-9.205 15.756z" stroke="#323232"></path><path d="m32.726 76.81h24.548m-24.548 8.083h24.548m-24.548-40.423c0-6.7 5.496-12.129 12.274-12.129" stroke="#ed2124"></path><path d="m38.864 50.531 6.136 6.064 6.136-6.064m-6.136 6.064v14.15" stroke="#323232"></path><path d="m53.181 92.979h-2.045l-2.046 2.021h-8.182l-2.047-2.021h-2.041m18.407-22.234v-2.023c0-3.649 1.285-7.014 3.851-9.602 3.865-3.895 6.378-8.714 6.378-14.651 0-11.164-9.16-20.214-20.455-20.214-11.298 0-20.453 9.05-20.453 20.214 0 5.937 2.513 10.756 6.376 14.65 2.566 2.587 3.85 5.954 3.85 9.605v2.021" stroke="#ed2124"></path></g></svg>
                             </div>
                             <h3 class="item__description-title">IT Consulting</h3>
                         </div>
@@ -344,7 +361,7 @@ Template Name: Software Development
                                           d="m45 0v18.19zm-22.5 5.957 9.205 15.756zm-16.472 16.277 15.944 9.095zm-6.028 22.235h18.41zm6.028 22.233 15.944-9.095zm77.944 0-15.944-9.095zm6.028-22.232h-18.41zm-6.028-22.235-15.944 9.095zm-16.472-16.278-9.205 15.756z"
                                           stroke="#323232"
                                     ></path>
-                                    <path d="m32.726 76.81h24.548m-24.548 8.083h24.548m-24.548-40.423c0-6.7 5.496-12.129 12.274-12.129" stroke="#1476f2"></path>
+                                    <path d="m32.726 76.81h24.548m-24.548 8.083h24.548m-24.548-40.423c0-6.7 5.496-12.129 12.274-12.129" stroke="#ed2124"></path>
                                     <path d="m38.864 50.531 6.136 6.064 6.136-6.064m-6.136 6.064v14.15" stroke="#323232"></path>
                                     <path
                                           d="m53.181 92.979h-2.045l-2.046 2.021h-8.182l-2.047-2.021h-2.041m18.407-22.234v-2.023c0-3.649 1.285-7.014 3.851-9.602 3.865-3.895 6.378-8.714 6.378-14.651 0-11.164-9.16-20.214-20.455-20.214-11.298 0-20.453 9.05-20.453 20.214 0 5.937 2.513 10.756 6.376 14.65 2.566 2.587 3.85 5.954 3.85 9.605v2.021"
@@ -354,14 +371,14 @@ Template Name: Software Development
                               </svg>
                               <div class="item__link-title">IT Consulting</div>
                               <p class="item__link-text">Enlist our top minds to perform a successful digital transformation of your enterprise that goes in line with your business objectives.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>
                   <div class="item">
                         <div class="item__description">
                             <div>
-                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="68" viewBox="0 0 92 68"><g fill="none" fill-rule="evenodd"><path stroke="#323232" d="M91 55.353H55.783l-3.913 3.882h-9.783l-5.87-3.882H1v3.882a7.717 7.717 0 0 0 2.289 5.487A7.875 7.875 0 0 0 8.827 67h74.346a7.875 7.875 0 0 0 5.538-2.278A7.717 7.717 0 0 0 91 59.235v-3.882zM85.13 55.353V4.883a3.858 3.858 0 0 0-1.144-2.744A3.937 3.937 0 0 0 81.216 1H10.784c-1.039 0-2.035.41-2.769 1.139A3.858 3.858 0 0 0 6.87 4.882v50.47"></path><path stroke="#1476F2" d="M22.522 14.588l3.913 3.882 7.827-7.765m-11.74 17.47l3.913 3.885 7.827-7.765m-11.74 17.47l3.913 3.882 7.827-7.765m5.868-23.294h27.392M40.13 28.176h27.392M40.13 41.764h27.392"></path></g></svg>
+                                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="92" height="68" viewBox="0 0 92 68"><g fill="none" fill-rule="evenodd"><path stroke="#323232" d="M91 55.353H55.783l-3.913 3.882h-9.783l-5.87-3.882H1v3.882a7.717 7.717 0 0 0 2.289 5.487A7.875 7.875 0 0 0 8.827 67h74.346a7.875 7.875 0 0 0 5.538-2.278A7.717 7.717 0 0 0 91 59.235v-3.882zM85.13 55.353V4.883a3.858 3.858 0 0 0-1.144-2.744A3.937 3.937 0 0 0 81.216 1H10.784c-1.039 0-2.035.41-2.769 1.139A3.858 3.858 0 0 0 6.87 4.882v50.47"></path><path stroke="#ed2124" d="M22.522 14.588l3.913 3.882 7.827-7.765m-11.74 17.47l3.913 3.885 7.827-7.765m-11.74 17.47l3.913 3.882 7.827-7.765m5.868-23.294h27.392M40.13 28.176h27.392M40.13 41.764h27.392"></path></g></svg>
                             </div>
                             <h3 class="item__description-title">QA &amp; Testing</h3>
                         </div>
@@ -373,12 +390,12 @@ Template Name: Software Development
                                           stroke="#323232"
                                           d="M91 55.353H55.783l-3.913 3.882h-9.783l-5.87-3.882H1v3.882a7.717 7.717 0 0 0 2.289 5.487A7.875 7.875 0 0 0 8.827 67h74.346a7.875 7.875 0 0 0 5.538-2.278A7.717 7.717 0 0 0 91 59.235v-3.882zM85.13 55.353V4.883a3.858 3.858 0 0 0-1.144-2.744A3.937 3.937 0 0 0 81.216 1H10.784c-1.039 0-2.035.41-2.769 1.139A3.858 3.858 0 0 0 6.87 4.882v50.47"
                                     ></path>
-                                    <path stroke="#1476F2" d="M22.522 14.588l3.913 3.882 7.827-7.765m-11.74 17.47l3.913 3.885 7.827-7.765m-11.74 17.47l3.913 3.882 7.827-7.765m5.868-23.294h27.392M40.13 28.176h27.392M40.13 41.764h27.392"></path>
+                                    <path stroke="#ed2124" d="M22.522 14.588l3.913 3.882 7.827-7.765m-11.74 17.47l3.913 3.885 7.827-7.765m-11.74 17.47l3.913 3.882 7.827-7.765m5.868-23.294h27.392M40.13 28.176h27.392M40.13 41.764h27.392"></path>
                                     </g>
                               </svg>
                               <div class="item__link-title">QA &amp; Testing</div>
                               <p class="item__link-text">Automated software testing, established standards, streamlined Q&amp;A testing lifecycle — use our testing services to ensure the smooth operation of your software services.</p>
-                              <span class="item__more">view more<i class="isoi-angle-right"></i></span>
+<!--                               <span class="item__more">view more<i class="isoi-angle-right"></i></span> -->
                         </a>
                         </div>
                   </div>
@@ -393,9 +410,11 @@ Template Name: Software Development
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
+
                     <h3>Right support to turn your startup into <b class="bBlod"> Profitable Venture </b> </h3>
-                    <p><a href="tel:+91 704 682 7566">+91 704 682 7566</a>
-                        <br><a href="mailto:contact@easternts.com"> contact@easternts.com </a>
+                    <p><a href="tel:+00 000 000 000">+00 000 000 000</a>
+                        <br><a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
+
                     </p>
                     <div class="comBtn2 buildBtn">
 						<a href="javascript:void(0);" class="subscriber-form comBtn">Contact us</a>
@@ -403,7 +422,7 @@ Template Name: Software Development
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg-butnbg-transparent">
-                <img src="https://www.easternts.com.au/wp-content/uploads/2020/08/inquiry.png" alt="inquiry">
+                <img src="../../wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>
@@ -771,7 +790,7 @@ Template Name: Software Development
                 </div>
             </div>
             <div class="col-md-6 p-4">
-                <img src="/wp-content/uploads/2022/12/development-lifecycle-1.gif" alt="development-lifecycle">
+                <img src="../../wp-content/uploads/2022/12/development-lifecycle-1.gif" alt="development-lifecycle">
             </div>
         </div>
       
@@ -790,14 +809,14 @@ Template Name: Software Development
             </div>  
             <div class="col-sm-6 col-lg-6 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Healthcare </h3>
                     <p>We provide complete solutions for the healthcare industry. Our IT solutions effectively improve internal processes and enhance operational efficiencies.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Travel & Tourism </h3>
                     <p>Our agile travel software design & development services improve your tour & travel business ROI and reduce operational costs to make it more profitable.</p>
                 </div>
@@ -806,28 +825,28 @@ Template Name: Software Development
     
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Retail & Ecommerce</h3>
                     <p>We build powerful custom e-commerce development solutions including e-carts & marketplaces, social commerce solutions, e-auction sites, to name a few. Our retail solutions help you streamline your business process and maximize profitability by cutting additional costs. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Education & E-Learning </h3>
                     <p>Our custom elearning solutions include online training apps, online courses, learning management systems, corporate learning portals to name a few. For your elearning needs, we offer complete web, mobile, and SaaS-based solutions. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Banking & Finance </h3>
                     <p>Our banking software development company offers custom banking & financial software solutions for increased operational efficiency. Constant cost leadership and agility. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Media & Entertainment</h3>
                     <p>Our offshore software development company offers social networking development tools, online promotion solutions, and media content distribution channels. </p>
                 </div>
@@ -835,30 +854,32 @@ Template Name: Software Development
 
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>ISVs & Product Companies </h3>
-                    <p>We, Eastern Techno Solutions understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+
+                    <p>We understand the unique requirements of ISVs and our accelerated, disciplined approach to offshore product development gives a powerful value proposition to clients. A wide range of web, mobile, and SaaS-based solutions are available to ISVs and product companies. </p>
+
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Publishing/ Advertising </h3>
                     <p>Our advanced publishing and advertising software development solutions help businesses empower their business models to cater to future digital needs. A software development company in India can offer complete web and mobile solutions to the publishing industry. </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt="svgexport-black">
                     <h3>Logistics & Transportation </h3>
                     <p>Our result-driven software development services for logistics & transportation maximize ROI and effectively manage daily workflows. As an Indian software development company, we are able to provide complete web & mobile solutions for the logistics industry.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="intuCMS cami-box">
-                    <img src="/wp-content/uploads/2022/12/svgexport-black-28.svg" alt=svgexport-black>
+                    <img src="../../wp-content/uploads/2022/12/svgexport-black-28.svg" alt=svgexport-black>
                     <h3>Automotive </h3>
-                    <p>Our innovative web and mobile applications help the automotive sector to be more cost efficient & sustainable. Located in Surat, Gujarat, India, our software development company can provide complete web and mobile solutions for the automotive sector. </p>
+                    <p>Our innovative web and mobile applications help the automotive sector to be more cost efficient & sustainable. Located in Canada, our software development company can provide complete web and mobile solutions for the automotive sector. </p>
                 </div>
             </div>
     </div>
@@ -869,9 +890,10 @@ Template Name: Software Development
     <div class="container">
         <div class="row">
             <div class="col-md-12 mb-5 pb-xxl-5">
-                <div class="fireAdd">
+                <div class="fireAdd text-center-important">
                     <h2>How to Outsource Software Development?</h2>
-                    <p>At Eastern Techno Solutions, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
+
+                    <p>At Edventure Infotech, we pay much attention to establishing a transparent process for software development and project management. We also pay much attention to smooth collaboration between the customer and the outsourcing team. We offer the following outsourcing services for software development.</p>
                 </div>
             </div>  
         </div>
@@ -1011,7 +1033,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_Backend" src="/wp-content/uploads/2023/02/ic_backend.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_Backend" src="../../wp-content/uploads/2023/02/ic_backend.webp" class="card-image-height" />
                         <h4 class="card-title">Back End</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1031,7 +1053,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_frontend" src="/wp-content/uploads/2023/02/ic_frontend.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_frontend" src="../../wp-content/uploads/2023/02/ic_frontend.webp" class="card-image-height" />
                         <h4 class="card-title">Front End</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1049,7 +1071,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_database" src="/wp-content/uploads/2023/02/ic_database.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_database" src="../../wp-content/uploads/2023/02/ic_database.webp" class="card-image-height" />
                         <h4 class="card-title">Database</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1068,7 +1090,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_database" src="/wp-content/uploads/2023/02/ic_deployment.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_database" src="../../wp-content/uploads/2023/02/ic_deployment.webp" class="card-image-height" />
                         <h4 class="card-title"> Cloud & DevOps</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1089,7 +1111,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_testing_new" src="/wp-content/uploads/2023/02/ic_testing_new.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_testing_new" src="../../wp-content/uploads/2023/02/ic_testing_new.webp" class="card-image-height" />
                         <h4 class="card-title">Testing</h4>
                     </div>
                     <div class="row mt-3 tech-names">
@@ -1107,7 +1129,7 @@ Template Name: Software Development
             <div class="col-lg-4 col-md-6">
                 <div class="vue-technology-stack-card card-technology">
                     <div class="d-flex">
-                        <img loading="lazy" alt="ic_devops" src="/wp-content/uploads/2023/02/ic_devops.webp" class="card-image-height" />
+                        <img loading="lazy" alt="ic_devops" src="../../wp-content/uploads/2023/02/ic_devops.webp" class="card-image-height" />
                         <h4 class="card-title">Project Management Tools</h4>
                     </div>
                     <div class="row mt-3 tech-names">

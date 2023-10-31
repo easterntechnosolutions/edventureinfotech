@@ -11,9 +11,6 @@ Template Name: Services
     <div class="servicebanner">
         <div class="">
             <div class="row text-center">
-                <div class="">
-                    <img src="/wp-content/uploads/2022/12/Services_01.png">
-                </div>
                 <div class="serimg">
                     <div class="sercon ">
                         <div class="text-start container">
@@ -41,7 +38,7 @@ Template Name: Services
             </div>
             <div class="row colbgBlue">
                 <div class="col-md-6 p0">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2020/03/web.png">
+                    <img src="../wp-content/uploads/2023/10/web.webp">
                 </div>
                 <div class="col-md-6 p0">
                     <div class="serCard">
@@ -51,7 +48,6 @@ Template Name: Services
 							<li><a href="<?php the_permalink(41); ?>">Custom CMS</a></li>
 							<li><a href="<?php the_permalink(300); ?>">E-Commerce</a></li>
                             <li><a href="<?php the_permalink(42); ?>">UI Design </a></li>
-							<!--<li><a href="<?php //the_permalink(714); ?>">Responsive Website Rewamp</a></li> -->
                             <li><a href="<?php the_permalink(158); ?>">UX Design</a></li>
                         </ul>
                     </div>
@@ -70,7 +66,7 @@ Template Name: Services
             </div>
             <div class="row serflex colbgPurp">
                 <div class="col-md-6 order2 p0">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2020/03/web-development.png">
+                    <img src="../wp-content/uploads/2023/10/web-development.webp">
                 </div>
                 <div class="col-md-6 order1 p0">
                     <div class="serCard">
@@ -81,7 +77,6 @@ Template Name: Services
                             <li><a href="<?php the_permalink(303); ?>">AngularJS </a></li>
                             <li><a href="<?php the_permalink(700); ?>">Custom Application Development </a></li>
                             <li><a href="<?php the_permalink(306); ?>">IT Consulting </a></li>
-<!--                             <li><a href="<?php //the_permalink(42); ?>">Website Database Development</a></li> -->
                             <li><a href="<?php the_permalink(710); ?>">Software Development </a></li>
                         </ul>
                     </div>
@@ -95,12 +90,12 @@ Template Name: Services
             <div class="row ">
                 <div class="serWeb colorang">
                     <h3><a href="">Mobile App Development</a></h3>
-                    <p>Eastern Techno Solution knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
+                    <p>Edventure Infotech knows how to combine state-of-the-art mobile technologies and trending user engagement practices to furnish interactive mobile apps. We develop apps, games, and utilities for Android and iOS. The dedication of our mobile app developers toward developing a reliable and amazing mobile app is a result of their vast experience in mobile technologies. We are pleased with our mobile app development team who has expertise in mobile technologies, user-centric app development, mobility management, quality assurance, and cross-platform functionalities. Blending attractive design with a compelling user experience is what allows us to stay ahead in the digital age.</p>
                 </div>
             </div>
             <div class="row serflex colbgorang">
                 <div class="col-md-6  p0">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2020/03/Mobile-App.png">
+                    <img src="../wp-content/uploads/2023/10/Mobile-App.webp">
                 </div>
                 <div class="col-md-6 order1 p0">
                     <div class="serCard">
@@ -128,7 +123,7 @@ Template Name: Services
             </div>
             <div class="row serflex colbgdarkpur">
                 <div class="col-md-6 order2 p0">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2020/03/Digital-Marketing.png">
+                    <img src="../wp-content/uploads/2023/10/Digital-Marketing.webp">
                 </div>
                 <div class="col-md-6  p0">
                     <div class="serCard">
@@ -142,9 +137,34 @@ Template Name: Services
             </div>
         </div>
     </section>
+    <section class="serSectionpadd">
+        <div class="container">
+            <div class="row ">
+                <div class="serWeb coldarkpur">
+                    <h3><a href="">SAP</a></h3>
+                    <p>SAP is an enterprise resource planning (ERP) software suite developed by SAP SE, a multinational software corporation. It represents the next-generation ERP system, built on the advanced in-memory database platform called SAP HANA. SAP is designed to streamline and enhance various business processes such as finance, procurement, manufacturing, sales, distribution, and more. It offers real-time data processing and analytics capabilities, enabling organizations to make faster and more informed decisions.</p>
+                </div>
+            </div>
+            <div class="row serflex colbgdarkpur">
+                <div class="col-md-6 order1 p0">
+                    <img src="../wp-content/uploads/2023/09/SAP-service.webp">
+                </div>
+                <div class="col-md-6  p0">
+                    <div class="serCard">
+                        <p><a href="">Our SAP Services:</a></p>
+                        <ul>
+                            <li><a href="<?php the_permalink(9753); ?>">SAP S/4 HANA</a></li>
+                            <li><a href="<?php the_permalink(9755); ?>">SAP S/4 HANA Cloud</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </div>
 
-<section>
+<!-- <section>
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">
@@ -176,7 +196,7 @@ Template Name: Services
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <?php get_footer(); ?>

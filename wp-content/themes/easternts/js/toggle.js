@@ -42,15 +42,24 @@ jQuery(document).ready(function () {
     }),
     jQuery(document).ready(function (e) {
         e("#menu-website-development-btn").on("click", function (n) {
-            e("#site-navigation ul ul.menu").removeClass("open_important"), e("#menu-website-development").toggleClass("open_important");
+//             e("#site-navigation ul ul.menu").removeClass("open_important"),
+			e("#menu-website-development").toggleClass("open_important"),
+			e("#menu-website-development-btn").toggleClass("fa-caret-up fa-caret-down");
         }),
-            e("#menu-mobile-app-development-btn").on("click", function (n) {
-                e("#site-navigation ul ul.menu").removeClass("open_important"), e("#menu-mobile-app-development").toggleClass("open_important");
-            }),
-            e("#menu-digital-marketing-btn").on("click", function (n) {
-                e("#site-navigation ul ul.menu").removeClass("open_important"), e("#menu-digital-marketing").toggleClass("open_important");
-            }),
-            e("#menu-web-application-btn").on("click", function (n) {
-                e("#site-navigation ul ul.menu").removeClass("open_important"), e("#menu-web-application").toggleClass("open_important");
-            });
+		e("#menu-mobile-app-development-btn").on("click", function (n) {
+			e("#menu-mobile-app-development").toggleClass("open_important"),
+			e("#menu-mobile-app-development-btn").toggleClass("fa-caret-up fa-caret-down");
+		}),
+		e("#menu-digital-marketing-btn").on("click", function (n) {
+			e("#menu-digital-marketing").toggleClass("open_important"),
+			e("#menu-digital-marketing-btn").toggleClass("fa-caret-up fa-caret-down");
+		}),
+		e("#menu-web-application-btn").on("click", function (n) {
+			e("#menu-web-application").toggleClass("open_important"),
+			e("#menu-web-application-btn").toggleClass("fa-caret-up fa-caret-down");
+		}),
+		e("#menu-sap-btn").on("click", function (n) {
+			e("#menu-sap").toggleClass("open_important"),
+			e("#menu-sap-btn").toggleClass("fa-caret-up fa-caret-down");
+		});
     });

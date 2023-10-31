@@ -16,7 +16,7 @@
 <?php get_header() ?>
 
 <section>
-    <div class="firebaseApp customCmsmain">
+    <div class="firebaseApp web-dev-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">
@@ -44,7 +44,8 @@
                 <h3 >Leverge your website with the perfect end-user experience.</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-                <a href="javascript:void(0);" class="subscriber-form  comBtn">Call US Today!</a>
+                <a class="subscriber-form" href="javascript:void(0);" >Call US Today !</a>
+                <!-- <a href="javascript:void(0);" class="subscriber-form  comBtn">Call US Today!</a> -->
             </div>
         </div>
     </div>
@@ -54,12 +55,13 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/UX1.webp"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux1">
+                <img src="../../wp-content/uploads/2023/09/ux-1.png"  class="wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" style="width: 1000px;height: auto;" alt="ux1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
                     <h2><b>Flawless UX Design Solutions</b></h2>
-                    <p>Leveraging best practices in UX design, Eastern Techno Solution assists in converting your potential customers into actual customers through an attractive and flawless design. We not only create designs, but also enhance the user experience.</p>
+                    <p>
+Harnessing the artistry of UX design, Edventure Infotech transforms potential customers into delighted clients by weaving captivating and seamless designs. We don't just craft designs; we elevate the user journey to an extraordinary experience.</p>
                 </div>
             </div>
 
@@ -71,12 +73,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/UX2.webp" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux2">
+                <img src="../../wp-content/uploads/2023/09/ux-2.png" class="wow fadeInRight"  data-wow-delay="0.2s" data-wow-duration="3s" style="width: 1000px;height: auto;" alt="ux2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
                     <h2><b>User Experience that Converts Successfully</b></h2>
-                    <p>From start to finish, our UX designer team knows how to enhance the user experience. By having extensive experience with our UX designer team, we provide an unmatched, ingenious, and engaging experience that is flawless. Whether it's a web application or mobile app, we can offer seamless UX design that will convert visitors into customers.</p>
+                    <p>Throughout the entire process, our UX design team excels at elevating user experiences. With our experienced team, we deliver an unparalleled, innovative, and captivating journey that's nothing short of perfection. Whether it's a website or amobile app, we craft seamless UX designs that turn visitors into loyal customers.</p>
                 </div>
             </div>
         </div>
@@ -89,13 +91,13 @@
     <div class="container">
         <div class="row">
             <div class="OurServices mb0 text-center">
-                <h4><b>The Process</b></h4>
+                <h4><b>THE PROCESS</b></h4>
                 <h2>How does it work?</h2>
-                <p>For each workshop, we assign a dedicated analyst, a UI/UX designer and a technical team. These teams work with you to do full justice to your ideas with the most relevant and technically advanced solutions.</p>
+                <p>Each workshop is orchestrated with precision, featuring a dedicated analyst, a seasoned UI/UX designer, and a proficient technical team. Together, we collaborate closely with you to bring your ideas to life, delivering the most pertinent and technologically advanced solutions to meet your objectives.</p>
             </div>
         </div>
         <div class="row text-center">
-            <img src="/wp-content/uploads/2021/11/ic-design-how-it-work.webp" alt="icdesign">
+            <img src="../../wp-content/uploads/2023/09/ic-design.png" alt="icdesign">
         </div>
     </div>
 </section>
@@ -105,12 +107,12 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/UX3.webp"  class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux3">
+                <img src="../../wp-content/uploads/2023/09/ux-3.png"  class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 1000px;height: auto;" alt="ux3">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <h2><b>We make UX design which focuses on users</b></h2>
-                    <p> Our UX team follows best practices for user experience that consist of development standards at each stage of your web or mobile application. We help you create Call to Actions that will encourage visitors to become your customers.</p>
+                    <h2><b>We make UX design t focuses on users</b></h2>
+                    <p>Our UX team adheres to top-notch user experience practices, integrating development standards at every phase of your web or mobile app. We specialize in crafting compelling Call to Actions that inspire visitors to become loyal customers.</p>
                 </div>
             </div>
 
@@ -122,7 +124,7 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/ux4.webp" class="wow fadeInRight" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 951px;height: auto;" alt="ux4">
+                <img src="../../wp-content/uploads/2023/09/ux-4.png" class="wow fadeInRight" data-wow-delay="0.4s"  data-wow-duration="3s" style="width: 1000px;height: auto;" alt="ux4">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
@@ -144,7 +146,7 @@
             </div>
         </div>
         <div class="row text-center">
-            <img src="/wp-content/uploads/2023/02/work-flow.gif" alt="work-flow">
+            <img src="../../wp-content/uploads/2023/02/work-flow.gif" alt="work-flow">
         </div>
     </div>
 </section>
@@ -155,11 +157,11 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2021/11/2018_IphoneX_Playbook-Hub_5pics.webp" class="wow fadeInLeft" data-wow-delay="0.2s" alt="iphonex">
+                <img src="../../wp-content/uploads/2023/09/project-explore.png" class="wow fadeInLeft" data-wow-delay="0.2s" alt="iphonex">
             </div>
             <div class="col-md-6 ProcssWork text-center">
                 <h3>Have a Project To Explore?</h3>
-                <p>We love to discuss new ideas for digital products, design challenges, and opportunities to improve on user’s experience.</p>
+                <p>We love to discuss new ideas for digital products, design challenges, and opportunities to improve user experience.</p>
                 <div class="gain-competitive">
                     <a href="javascript:void(0);" class="subscriber-form">Book a Consult</a>
                 </div>
@@ -180,61 +182,61 @@
         <div class="row">
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/interactive-prototypes.webp" alt="interactive">
+                    <img src="../../wp-content/uploads/2023/09/interactive-prototypes.webp" alt="interactive">
                     <h4>Interactive Prototypes</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/wifeframe.webp" alt="wifeframe">
+                    <img src="../../wp-content/uploads/2023/09/wifeframe.webp" alt="wifeframe">
                     <h4>Wireframes and Prototypes</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/info-architech.webp" alt="infoarch">
+                    <img src="../../wp-content/uploads/2023/09/info-architech.webp" alt="infoarch">
                     <h4>Information Architect</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/colours.webp" alt="colours">
+                    <img src="../../wp-content/uploads/2023/09/colours.webp" alt="colours">
                     <h4>Colors</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/scenarios.webp" alt="scenarios">
+                    <img src="../../wp-content/uploads/2023/09/scenarios.webp" alt="scenarios">
                     <h4>Scenarios</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/visual-design.webp" alt="visual">
+                    <img src="../../wp-content/uploads/2021/11/visual-design.webp" alt="visual">
                     <h4>Visual Design</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/colours.webp" alt="colours">
+                    <img src="../../wp-content/uploads/2021/11/colours.webp" alt="colours">
                     <h4>Colors</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/layous.webp" alt="layous">
+                    <img src="../../wp-content/uploads/2021/11/layous.webp" alt="layous">
                     <h4>Layouts</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/graphics-design-1.webp" alt="graphics">
+                    <img src="../../wp-content/uploads/2021/11/graphics-design-1.webp" alt="graphics">
                     <h4>Graphic Design</h4>
                 </div>
             </div>
             <div class="featuresWeproinder">
                 <div class="featuresWepro">
-                    <img src="/wp-content/uploads/2021/11/typography-1.webp" alt="typography">
+                    <img src="../../wp-content/uploads/2021/11/typography-1.webp" alt="typography">
                     <h4>Typography</h4>
                 </div>
             </div>
@@ -265,34 +267,34 @@
 
             <div class="col-md-6 p0">
                 <div id="Real-time" class="row uxDEveloff tabcontent">
-                    <img src="/wp-content/uploads/2021/11/analysis.webp" alt="analysis">
+                    <img src="../../wp-content/uploads/2021/11/analysis.webp" alt="analysis">
                     <h3>UX/UI RESEARCH & ANALYSIS</h3>
-                    <p>When it comes to research and analysis, there are many factors that are studied before performing UX and UI design. These factors include requirements gathering, audience analysis, online surveys, and more. In our attempt to achieve high quality and target driven outputs, research and analysis play a vital role.</p>   
+                    <p>When it comes to research and analysis, there are many factors that are studied before performing UX and UI design. These factors include requirements gathering, audience analysis, online surveys, and more. In our attempt to achieve high quality and target-driven outputs, research and analysis play a vital role.</p>   
                 </div>
                 <div id="NoSQL" class="row uxDEveloff tabcontent">
-                    <img src="/wp-content/uploads/2021/11/ui-ux.webp" alt="ui-ux">
+                    <img src="../../wp-content/uploads/2021/11/ui-ux.webp" alt="ui-ux">
                     <h3>HUMAN FACTORS ANALYSIS</h3>
-                    <p>Human factors analysis is performed to determine whether products need to be recalled and if a design change is necessary. This is in order to address issues such as icon size, fat fingers, sound, color scheme, among others.</p>   
+                    <p>Human factors analysis is performed to determine whether products need to be recalled and if a design change is necessary. This is in order to address issues such as icon size, fat fingers, sound,  color scheme, among others.</p>   
                 </div>
                 <div id="Serverless" class="row uxDEveloff tabcontent">
-                <img src="/wp-content/uploads/2021/11/wireframeicon.webp" alt="wire">
+                <img src="../../wp-content/uploads/2021/11/wireframeicon.webp" alt="wire">
                     <h3>WIRE FRAMES & PROTOTYPES</h3>
                     <p>When it comes to working with wireframes, it’s mainly about strengthening the UX and UI development process. In this phase, we design the information architecture and layout. A clickable prototype is then analyzed and included to ensure a seamless user experience.</p>   
                 </div>
                 <div id="Offline" class="row uxDEveloff tabcontent">
-                    <img src="/wp-content/uploads/2021/11/userexperience.webp" alt="userexp">
+                    <img src="../../wp-content/uploads/2021/11/userexperience.webp" alt="userexp">
                     <h3>USER EXPERIENCE DESIGN</h3>
-                    <p>User experience design is the most significant factor necessary to make an application, website or ecommerce web platform a success. It consists of factors such as information architecture, user journey mapping, concept mapping, visual design, among others.</p>   
+                    <p>User experience design is the most significant factor necessary to make an application, website, or e-commerce web platform a success. It consists of factors such as information architecture, user journey mapping, concept mapping,  visual design, among others.</p>   
                 </div>
                 <div id="Globally" class="row uxDEveloff tabcontent">
-                    <img src="/wp-content/uploads/2021/11/design-frotend.webp" alt="frontend">
+                    <img src="../../wp-content/uploads/2021/11/design-frotend.webp" alt="frontend">
                     <h3>ATTRACTIVE FRONT-END DESIGNS</h3>
-                    <p> At Eastern Techno Solutions, we focus on many aspects of frontend development with instructional design and illustration as one of our core concerns.</p>
+                    <p> At Edventure Infotech, we focus on many aspects of frontend development with instructional design and illustration as one of our core concerns.</p>
                 </div>
                 <div id="Security" class="row uxDEveloff tabcontent">
-                <img src="/wp-content/uploads/2021/11/messagerstante.webp"  alt="message">
+                <img src="../../wp-content/uploads/2021/11/messagerstante.webp"  alt="message">
                     <h3>USER EXPERIENCE EVALUATION</h3>
-                    <p>At Eastern Techno Solutions we operate in a system where we control the methods, skills and tools required to be utilized. These are necessary to understand how a user perceives from a UX and UI perspective. The factors considered here are expert review, usability testing, contextual inquiry, content audit, among others.</p>   
+                    <p>At Edventure Infotech we operate in a system where we control the methods, skills and tools required to be utilized. These are necessary to understand how a user perceives from a UX and UI perspective. The factors considered here are expert review, usability testing, contextual inquiry, a content audit, among others.</p>   
                 </div>
             </div>
         </div>
@@ -311,27 +313,27 @@
         </div>
         <div class="row">
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/photoshop-logo-1.webp" alt="photoshop">
+                <img src="../../wp-content/uploads/2021/11/photoshop-logo-1.webp" alt="photoshop">
                 <h4>Adobe Photoshop</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/illustrater-logo-1.webp" alt="illustrater">
+                <img src="../../wp-content/uploads/2021/11/illustrater-logo-1.webp" alt="illustrater">
                 <h4>Illustrator</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/sketch-logo-1.webp" alt="sketch">
+                <img src="../../wp-content/uploads/2021/11/sketch-logo-1.webp" alt="sketch">
                 <h4>Sketch</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/balsamiq-logo-1.webp" alt="balsamiq">
+                <img src="../../wp-content/uploads/2021/11/balsamiq-logo-1.webp" alt="balsamiq">
                 <h4>Balsamiq</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/in-vision-logo-1.webp" alt="invision">
+                <img src="../../wp-content/uploads/2021/11/in-vision-logo-1.webp" alt="invision">
                 <h4>Invision</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 text-center TechnologiesFram">
-                <img src="/wp-content/uploads/2021/11/marvel-logo-1.webp" alt="marvel">
+                <img src="../../wp-content/uploads/2021/11/marvel-logo-1.webp" alt="marvel">
                 <h4>Marvel</h4>
             </div>
         </div>

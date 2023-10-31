@@ -17,12 +17,9 @@ Template Name: Laravel Development
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp">
+    <div class="firebaseApp web-app-banner">
         <div class="">
             <div class="row text-center">
-                <!-- <div class="">
-                    <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                </div> -->
                 <div class="serimg">
                     <div class="sercon ">
                         <div class="text-start container">
@@ -55,11 +52,11 @@ Template Name: Laravel Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/laravel6.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
+                <img src="../../wp-content/uploads/2023/09/laravel2.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Android">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Laravel is one of the most powerful and elegant PHP frameworks that enables you to build web applications with ease, yet in a meaningful manner. Through the Laravel framework, you can make web applications powerful with out-of-the-box features. In addition, it allows for developing amazing, user-friendly, and search engine friendly web applications. Laravel is needed by medium and large enterprises, however, small businesses also need it. To make web applications more effective, Laravel allows rapid and easy development with efficiency and extension capability.</p>
+                    <p>Laravel is a powerful PHP framework for seamless web application development, offering advanced out-of-the-box features. It excels in creating impressive, user-centric, and search engine-friendly web applications. Suitable for both medium and large enterprises, as well as small businesses, Laravel is valued for its efficiency and extensibility. It serves as a vital tool for rapid and effective web application development.</p>
                 </div>
             </div>
 
@@ -72,11 +69,11 @@ Template Name: Laravel Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/laravel1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
+                <img src="../../wp-content/uploads/2023/10/laravel1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Android">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Due to its reliability, Laravel is widely adopted for making highly customized web applications. Because it is open-source, it is based on the MVC architectural platform, and it accelerates application development. Top-quality websites and apps can be developed with Laravel quickly. Laravel allows modular programming. The Laravel framework offers premium functionality, making coding much easier. The facilities provided by this framework make it simpler to work with template engines, service layers, and dependency injection containers. It also comes with AJAX-enabled widgets embedded in an enhanced user interface.</p>
+                    <p>Laravel, renowned for its reliability, is a favored option for tailoring highly customized web applications. Following the MVC architecture as an open-source framework, Laravel expedites application development. With robust support for modular programming, it enables the rapid creation of top-tier websites and apps. The framework's premium functionality streamlines coding and facilitates seamless work with template engines, service layers, and dependency injection containers. Furthermore, Laravel features AJAX-enabled widgets embedded in an improved user interface, elevating the overall development experience.</p>
                 </div>
             </div>
         </div>
@@ -91,14 +88,14 @@ Template Name: Laravel Development
         <div class="row">
             <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
                 <h2>Why Should You Choose Laravel Technology? </h2>
-                <p>Laravel is the most popular and starred PHP framework on Github which builds interactive web apps and secure, scalable, & enterprisegrade websites. It comes handy and makes web development enjoyable, creative, and truly satisfying. Know some more hidden business benefits of Laravel here.
+                <p>Laravel is the most popular and starred PHP framework on GitHub which builds interactive web apps and secure, scalable, & enterprise-grade websites. It comes in handy and makes web development enjoyable, creative, and truly satisfying. Know some more hidden business benefits of Laravel here.
                 </p>
             </div>
         </div>
 
         <div class="row  angularjs-devcompmay d-flex">
             <div class="col-md-4 text-center">
-                <img src="/wp-content/uploads/2023/02/laravel-logo.webp" style="width: 401px;" alt="laravel">
+                <img src="../../wp-content/uploads/2023/09/laravel-logo.webp" style="width: 401px;" alt="laravel">
             </div>
 
             <div class="col-md-8 text-center">
@@ -141,19 +138,19 @@ Template Name: Laravel Development
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/development-1.webp" alt="development"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/development-1.webp" alt="development"></div>
                     <h5>Faster Development</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/features1.webp" alt="features"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/features.webp" alt="features"></div>
                     <h5>Inbuilt Feature</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/coding.webp" alt="coding"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/coding.webp" alt="coding"></div>
                     <h5>Regimented coding<br class="d-sm-none">
                     </h5>
                 </div>
@@ -163,19 +160,19 @@ Template Name: Laravel Development
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/migration.webp" alt="migration"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/migration.webp" alt="migration"></div>
                     <h5>Amazing Migration</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/testing.webp"  alt="testing"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/testing.webp"  alt="testing"></div>
                     <h5>Unit Testing</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS huge-benefits">
-                    <div><img src="/wp-content/uploads/2023/02/query.webp" alt="query"></div>
+                    <div><img src="../../wp-content/uploads/2023/09/query.webp" alt="query"></div>
                     <h5>Fluent Query Rebuilding</h5>
                 </div>
             </div>
@@ -218,124 +215,124 @@ Template Name: Laravel Development
 
         <!-- First row -->
         <div class="row">
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Dedicated Laravel Developers</h3>
-                    <p>Hire dedicated Laravel developers who are experienced in building robust web solutions for our global clients in diverse industries.</p>
-                </div>
-            </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Dedicated Laravel Developers</h3>
+					<p>Hire dedicated Laravel developers who are experienced in building robust web solutions for our global clients in diverse industries.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Enterprise Laravel Solutions</h3>
-                    <p>For large scale enterprise-grade solutions, our expert developers leverage the Laravel framework and build scalable applications.</p>
-                </div>
-            </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Enterprise Laravel Solutions</h3>
+					<p>For large scale enterprise-grade solutions, our expert developers leverage the Laravel framework and build scalable applications.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Laravel Management & Maintenance </h3>
-                    <p> Our remote Laravel developers keep your web applications managed & maintained following best practices.</p>
-                </div>
-            </div>
-        </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Laravel Management & Maintenance </h3>
+					<p> Our remote Laravel developers keep your web applications managed & maintained following best practices.</p>
+				</div>
+			</div>
+		</div>
 
-        <!-- Second  row -->
-        <div class="row">
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Hire Full-stack Laravel developers</h3>
-                    <p>Hire full-stack Laravel developers who can manage the front-end as well as the backend of your web apps.</p>
-                </div>
-            </div>
+		<!-- Second  row -->
+		<div class="row">
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Hire Full-stack Laravel developers</h3>
+					<p>Hire full-stack Laravel developers who can manage the front-end as well as the backend of your web apps.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Laravel Integration & Upgradation</h3>
-                    <p>We can integrate and upgrade your existing app with Laravel- from other platforms such as Python, .Net, Nodejs, etc.</p>
-                </div>
-            </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Laravel Integration & Upgradation</h3>
+					<p>We can integrate and upgrade your existing app with Laravel- from other platforms such as Python, .Net, Nodejs, etc.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Module Development Solutions </h3>
-                    <p>Our remote Laravel developers render effective module development solutions and maintain data on Laravel cloud storage.</p>
-                </div>
-            </div>
-        </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Module Development Solutions </h3>
+					<p>Our remote Laravel developers render effective module development solutions and maintain data on Laravel cloud storage.</p>
+				</div>
+			</div>
+		</div>
 
-        <!-- Thrid  row -->
-        <div class="row">
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg"  class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Laravel API Development</h3>
-                    <p>Hire Laravel developers online who can build online portals & are adept at custom API development for small to large businesses.</p>
-                </div>
-            </div>
+		<!-- Thrid  row -->
+		<div class="row">
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg"  class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Laravel API Development</h3>
+					<p>Hire Laravel developers online who can build online portals & are adept at custom API development for small to large businesses.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser mb-5">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg" class="wow zoomIn"  alt="shopping">
-                    </div>
-                    <h3>Migration to Laravel</h3>
-                    <p>Our expert Laravel development team provides Laravel migration services from other technologies/frameworks to Laravel.</p>
-                </div>
-            </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser mb-5">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg" class="wow zoomIn"  alt="shopping">
+					</div>
+					<h3>Migration to Laravel</h3>
+					<p>Our expert Laravel development team provides Laravel migration services from other technologies/frameworks to Laravel.</p>
+				</div>
+			</div>
 
-            <div class="col-sm-6 col-lg-6 col-xl-4">
-                <div class="laravel-hire-ser ">
-                    <div class="gap-process-icon">
-                        <img src="https://www.esparkinfo.com/wp-content/uploads/2021/12/shopping.svg"  class="wow zoomIn" alt="shopping">
-                    </div>
-                    <h3>Laravel eCommerce Development</h3>
-                    <p>For eCommerce solutions, our remote Laravel developers provide excellent services to our global clients.</p>
-                </div>
-            </div>
-        </div>
+			<div class="col-sm-6 col-lg-6 col-xl-4">
+				<div class="laravel-hire-ser ">
+					<div class="gap-process-icon">
+						<img src="../../wp-content/uploads/2023/10/shopping.svg"  class="wow zoomIn" alt="shopping">
+					</div>
+					<h3>Laravel eCommerce Development</h3>
+					<p>For eCommerce solutions, our remote Laravel developers provide excellent services to our global clients.</p>
+				</div>
+			</div>
+		</div>
 
     </div>
 </section>
 
 
-<!-- Why Eastern Techno Solution is Trustworthy Laravel Development Agency? -->
+<!-- Why Edventure Infotech is Trustworthy Laravel Development Agency? -->
 
 <section class="sectionPadd whay-choose-bkcolor">
     <div class="container-flud">
         <div class="row d-flex">
             <div class="col-lg-6 text-center">
-                <img src="/wp-content/uploads/2023/02/laravel5.webp" class="wow fadeInLeft" data-wow-delay="0.4s" alt="digital-marketing">
+                <img src="../../wp-content/uploads/2023/09/laravel5.webp" class="wow fadeInLeft" data-wow-delay="0.4s" alt="digital-marketing">
             </div>
             <div class="col-lg-6 ProcssWork">
                 <div class="fireAdd mb-0">
-                    <h2>Why Eastern Techno Solution is a trustworthy Laravel development company?</h2>
+                    <h2>Why Edventure Infotech is a trustworthy Laravel development company?</h2>
                 </div>
-                <!-- <h3 class="mb-5">Why Eastern Techno Solution is Trustworthy Laravel Development Agency?</h3> -->
-                <p>Eastern Techno Solution is a reliable Laravel application development company in Surat that you can trust if you are looking for a dedicated Laravel developer. We have a team of expert Laravel developers who are well versed in all aspects of this PHP framework. They are skilled at developing secure, scalable and powerful web applications. We are adept at managing even the most complex projects using agile methodologies, unmatched coding quality, and a solid grasp of the Laravel framework.</p>
-                <p>By utilizing the amazing features and functionalities of Laravel and its MVC architecture we offer numerous Laravel services. As one of the leading Laravel development companies in Surat, we guarantee you that we will provide you with the most sophisticated, feature-rich, and high-quality web development services that will allow you to stay ahead of your competitors.</p>
-                <p>Eastern Techno Solution has been able to expand its range of knowledge and technology. Therefore, we adopt and incorporate the latest Laravel technologies to give outstanding experience and benefits to our customers and develop state-of-the-art solutions.</p>
-                <p>Undoubtedly, Laravel is a secure, scalable, and robust backend technology. In order to develop an end-to-end web development solution, we integrate it with frontend technologies, databases, and APIs. At Eastern Techno Solution, we make use of the most advanced technologies that make Laravel the perfect package.</p>
+                <!-- <h3 class="mb-5">Why Edventure Infotech is Trustworthy Laravel Development Agency?</h3> -->
+                <p>Edventure Infotech is a dependable Laravel application development company in Canada that you can rely on if you are seeking a dedicated Laravel developer. Our team comprises skilled Laravel developers well-versed in all aspects of this PHP framework. They excel in creating secure, scalable, and robust web applications. We are proficient in handling even the most intricate projects using agile methodologies, unparalleled coding quality, and a solid understanding of the Laravel framework.</p>
+                <p>By utilizing the amazing features and functionalities of Laravel and its MVC architecture we offer numerous Laravel services. As one of the leading Laravel development companies in Canada, we guarantee you that we will provide you with the most sophisticated, feature-rich, and high-quality web development services that will allow you to stay ahead of your competitors.</p>
+                <p>Edventure Infotech has been able to expand its range of knowledge and technology. Therefore, we adopt and incorporate the latest Laravel technologies to give outstanding experience and benefits to our customers and develop state-of-the-art solutions.</p>
+                <p>Undoubtedly, Laravel is a secure, scalable, and robust backend technology. In order to develop an end-to-end web development solution, we integrate it with frontend technologies, databases, and APIs. At Edventure Infotech, we make use of the most advanced technologies that make Laravel the perfect package.</p>
             </div>
         </div>
     </div>
@@ -358,13 +355,13 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser mb-5">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/education-1.webp" class="wow rollIn" alt="education">
+                        <img src="../../wp-content/uploads/2023/02/education-1.webp" class="wow rollIn" alt="education">
                     </div>
                     <h3 class="text-center2">E-Learning</h3>
                     <ul>
                         <li>Touch-base with the modern times</li>
-                        <li> Leave behind the outdated Learning Management System Layout</li>
-                        <li>Develop a much deeper understanding of the working framework </li>
+                        <li>Leave behind the outdated Learning Management System Layout.</li>
+                        <li>Develop a much deeper understanding of the working framework.</li>
                     </ul>
                 </div>
             </div>
@@ -372,13 +369,13 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser mb-5">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/shopping.webp" class="wow rollIn" alt="shopping">
+                        <img src="../../wp-content/uploads/2023/02/shopping.webp" class="wow rollIn" alt="shopping">
                     </div>
                     <h3 class="text-center2">E-Commerce</h3>
                     <ul>
-                        <li>Smooth navigation flow across the platform</li>
-                        <li>Excellent understanding of target e-commerce audience</li>
-                        <li>Get end-to-end solution efficiently</li>
+                        <li>Smooth navigation flows across the platform.</li>
+                        <li>Excellent understanding of target e-commerce audience.</li>
+                        <li>Get end-to-end solutions efficiently.</li>
                     </ul>
                 </div>
             </div>
@@ -386,13 +383,13 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser mb-5">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/healthcare-2.webp"  class="wow rollIn" alt="healthcare">
+                        <img src="../../wp-content/uploads/2023/02/healthcare-2.webp"  class="wow rollIn" alt="healthcare">
                     </div>
                     <h3 class="text-center2">Healthcare </h3>
                     <ul>
                         <li>Highly responsive and secure digital solutions to tackle emergency situations.</li>
-                        <li>Customised development to ailing patients with full dedication</li>
-                        <li>Portable solutions for multiple platforms</li>
+                        <li>Customised development for ailing patients with full dedication.</li>
+                        <li>Portable solutions for multiple platforms.</li>
                     </ul>
                 </div>
             </div>
@@ -403,13 +400,13 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser mb-5">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/hand.webp" class="wow rollIn" alt="hand">
+                        <img src="../../wp-content/uploads/2023/02/hand.webp" class="wow rollIn" alt="hand">
                     </div>
                     <h3 class="text-center2">Finance</h3>
                     <ul>
-                        <li>Outstanding management of daily workflow</li>
-                        <li>Improve performances via result-driven approaches</li>
-                        <li>Improved ROI & other factors </li>
+                        <li>Outstanding management of daily workflow.</li>
+                        <li>Improve performances via result-driven approaches.</li>
+                        <li>Improved ROI & other factors. </li>
                     </ul>
                 </div>
             </div>
@@ -417,13 +414,13 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser mb-5">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/movies.webp" class="wow rollIn" alt="movie">
+                        <img src="../../wp-content/uploads/2023/02/movies.webp" class="wow rollIn" alt="movie">
                     </div>
                     <h3 class="text-center2">Media</h3>
                     <ul>
-                        <li>Suitable digital presence to uplift your business</li>
-                        <li>Target more audiences & secure constant engagement</li>
-                        <li>Let your virtual group know new offers & news instantly through the broadcast</li>
+                        <li>Suitable digital presence to uplift your business.</li>
+                        <li>Target more audiences & secure constant engagement.</li>
+                        <li>Let your virtual group know new offers & news instantly through the broadcast.</li>
                     </ul>
                 </div>
             </div>
@@ -431,12 +428,12 @@ Template Name: Laravel Development
             <div class="col-sm-6 col-lg-6 col-xl-4">
                 <div class="specialist-hire-ser">
                     <div class="gap-process-icon text-center2">
-                        <img src="/wp-content/uploads/2023/02/logistics.webp" class="wow rollIn" alt="logistics">
+                        <img src="../../wp-content/uploads/2023/02/logistics.webp" class="wow rollIn" alt="logistics">
                     </div>
                     <h3 class="text-center2">Tourism </h3>
                     <ul>
-                        <li>Publish your content in various style </li>
-                        <li>Develop appealing user-experience on your web applications</li>
+                        <li>Publish your content in various styles. </li>
+                        <li>Develop appealing user experience on your web applications.</li>
                         <li>Maintain an effective online presence for your clientele.</li>
                     </ul>
                 </div>
@@ -456,7 +453,7 @@ Template Name: Laravel Development
         <div class="row">
             <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
                 <h2>Tailored After Care and Support for Laravel </h2>
-                <p>At Radixweb we have designed tailored-to-needs maintenance and support packages for your Laravel interfaces. Here aresome highlights: </p>
+                <p>At Radixweb we have designed tailored-to-needs maintenance and support packages for your Laravel interfaces. Here are some highlights: </p>
             </div>
         </div>
 
@@ -465,12 +462,12 @@ Template Name: Laravel Development
                 <div class="col-md-6 text-center">
                     <ul class="chooseRscms">
                         <li>90 days no-cost Bug-free warranty for bug control, updates and security patches</li>
-                        <li>Option for access to ad-hoc developers for maintaining, upgrading web solutions</li>
+                        <li>Option for access to ad-hoc developers for maintaining, and upgrading web solutions</li>
                     </ul>
                 </div>
                 <div class="col-md-6 text-center">
                     <ul class="chooseRscms">
-                        <li>Retained service agreement along with your existing agreement with fixed man hours</li>
+                        <li>Retained service agreement along with your existing agreement with fixed man-hours</li>
                         <li>Flexibility of choosing support package – add specific features, decide time frames as per your budget</li>
                     </ul>
                 </div>
@@ -1492,7 +1489,7 @@ Template Name: Laravel Development
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>Enterprise scale without the enterprise complexity.</h2>
+                <h2>Enterprise scale without the enterprise complexity</h2>
                 <p>Laravel vast library of meticulously maintained packages means you're ready for anything. Let Laravel Octane supercharge your application's performance, and experience infinite scale on Laravel Vapor, our serverless deployment platform powered by AWS Lambda.</p>
             </div>
         </div>
@@ -1502,7 +1499,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Forge</h3>
                         </div>
                         <p>Server management doesn't have to be a nightmare. Provision and deploy unlimited PHP applications on DigitalOcean, Linode, Vultr, Amazon, Hetzner and more.</p>
@@ -1511,7 +1508,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Vapor</h3>
                         </div>
                         <p>Laravel Vapor is a serverless deployment platform for Laravel, powered by AWS. Launch your Laravel infrastructure on Vapor and fall in love with the scalable simplicity of serverless.</p>
@@ -1522,7 +1519,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Breeze</h3>
                         </div>
                         <p>Lightweight starter kit scaffolding for new applications with Blade or Inertia.</p>
@@ -1531,7 +1528,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Cashier</h3>
                         </div>
                         <p>Take the pain out of managing subscriptions on Stripe or Paddle.</p>
@@ -1540,7 +1537,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Dusk</h3>
                         </div>
                         <p>Automated browser testing to ship your application with confidence.</p>
@@ -1549,7 +1546,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Echo</h3>
                         </div>
                         <p>Listen for WebSocket events broadcast by your Laravel application.</p>
@@ -1558,7 +1555,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Envoyer</h3>
                         </div>
                         <p>Deploy your Laravel applications to customers with zero downtime.</p>
@@ -1567,7 +1564,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Horizon</h3>
                         </div>
                         <p>Beautiful UI for monitoring your Redis driven Laravel queues.</p>
@@ -1576,7 +1573,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Jetstream</h3>
                         </div>
                         <p>Robust starter kit including authentication and team management.</p>
@@ -1585,7 +1582,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Nova</h3>
                         </div>
                         <p>Thoughtfully designed administration panel for your Laravel applications.</p>
@@ -1594,7 +1591,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Octane</h3>
                         </div>
                         <p>Supercharge your application's performance by keeping it in memory.</p>
@@ -1603,7 +1600,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Pint</h3>
                         </div>
                         <p>Opinionated PHP code style fixer for minimalists.</p>
@@ -1612,7 +1609,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Sail</h3>
                         </div>
                         <p>Hand-crafted Laravel local development experience using Docker.</p>
@@ -1621,7 +1618,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Sanctum</h3>
                         </div>
                         <p>API and mobile application authentication without wanting to pull your hair out.</p>
@@ -1630,16 +1627,16 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Scout</h3>
                         </div>
-                        <p>Lightning fast full-text search for your application's Eloquent models.</p>
+                        <p>Lightning-fast full-text search for your application's Eloquent models.</p>
                     </div>
                 </li>
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Socialite</h3>
                         </div>
                         <p>Social authentication via Facebook, Twitter, GitHub, LinkedIn, and more.</p>
@@ -1648,7 +1645,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="larave-sacle-iamge">
                             <h3>Spark</h3>
                         </div>
                         <p>Launch your next business with our fully-featured, drop-in billing portal.</p>
@@ -1657,7 +1654,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/laravel-vaper.png" alt="laravel-vaper">
                             <h3>Telescope</h3>
                         </div>
                         <p>Debug your application using our debugging and insight UI.</p>
@@ -1666,7 +1663,7 @@ Template Name: Laravel Development
                 <li>    
                     <div class="">
                         <div class="laarvel-flex-sacle">
-                            <img src="/wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="laravel-vaper">
+                            <img src="../../wp-content/uploads/2022/12/larave-sacle-iamge.png" alt="laravel-vaper">
                             <h3>Valet</h3>
                         </div>
                         <p>The fastest Laravel local development experience - exclusively for macOS.</p>

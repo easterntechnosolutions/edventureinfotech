@@ -17,7 +17,7 @@
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp customCmsmain">
+    <div class="firebaseApp web-dev-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">
@@ -56,11 +56,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/01/cms1.webp"  class="wow fadeInLeft"  data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms1">
+                <img src="../../wp-content/uploads/2023/09/cms-1.png"  class="wow fadeInLeft"  data-wow-duration="3s" data-wow-delay="0.5s" style="width: 1000px;height: auto;" alt="cms1">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>A content management system is a web-based application that allows you to manage website content from a user-friendly interface without any detailed technical knowledge. When talking about our custom CMS web development services, you can have full control over your website’s content. We offer custom CMS development services for clients across different industries in Melbourne. We have a team of an experienced web developer who follows best CMS practices for CMS web development.</p>
+                    <p>A content management system (CMS) is like a tool on the internet that helps you control your website's content without needing to be a tech expert. When it comes to our custom CMS web development services, you get to be in charge of your website's content. We make special CMS systems for people in different industries in Canada. Our team of experienced web developers knows all the right ways to make these CMS websites.</p>
                 </div>
             </div>
 
@@ -72,11 +72,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/01/cms2.webp" class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" style="width: 951px;height: auto;" alt="cms2">
+                <img src="../../wp-content/uploads/2023/09/cms-2.png" class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" style="width: 1000px;height: auto;" alt="cms2">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Pick Eastern Techno Solution as your CMS development agency. Get expert professionals, modern infrastructure and development on up-to-date technologies trends. We adhere to industry best standards to offer secure and scalable content management systems web applications for diverse business sectors.</p>
+                    <p>Pick Edventure Infotech as your trusted partner for CMS development. Our highly skilled team, cutting-edge technology utilization, and commitment to industry best practices ensure the creation of secure and efficient web applications tailored to diverse business sectors, delivering optimal results.</p>
                 </div>
             </div>
         </div>
@@ -90,34 +90,34 @@
         <div class="row">
             <div class="fireAdd ourPross text-center">
                 <h2><b> Our Development Process</b></h2>
-                <p>We build the highest quality web & mobile solutions by utilizing innovative, collaborative, and robust project management systems.</p>
+                <p>We craft top-notch web and mobile solutions by leveraging innovative, cooperative, and resilient project management systems.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="/wp-content/uploads/2023/01/post-project-requirements.png" alt="post-project-requirements">
+                    <img src="../../wp-content/uploads/2023/09/post-project-requirements.png" alt="post-project-requirements">
                 </div>
                 <h3>POST YOUR PROJECT REQUIREMENTS</h3>
                 <p>Depending on your project requirements, our analysts will select the most experienced developers.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="/wp-content/uploads/2023/01/discuss-project.png" alt="discuss-project">
+                    <img src="../../wp-content/uploads/2023/09/discuss-project.png" alt="discuss-project">
                 </div>
                 <h3>DISCUSS PROJECT DETAILS WITH OUR ANALYSTS</h3>
-                <p>Our experts will contact you within no time to discuss your project related queries and to offer the best solution for your project development.</p>
+                <p>Our experts will contact you within no time to discuss your project-related queries and to offer the best solution for your project development.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="/wp-content/uploads/2023/01/engagement-terms.png" alt="engagement-terms">
+                    <img src="../../wp-content/uploads/2023/09/engagement-terms.png" alt="engagement-terms">
                 </div>
                 <h3>CHOOSE ENGAGEMENT TERMS & TIMELINES</h3>
                 <p>Based on the project consultation provided by our experts, you can choose the engagement timelines for your project execution.</p>
             </div>
             <div class="col-md-3 col-sm-6 ourProcess">
                 <div>
-                    <img src="/wp-content/uploads/2023/01/secure-payment.png" alt="secure-payment">
+                    <img src="../../wp-content/uploads/2023/09/secure-payment.png" alt="secure-payment">
                 </div>
                 <h3>SECURELY PAY ONLINE AND GET STARTED!</h3>
                 <p>Make payment through our 100% secure online system and our team shall immediately get started on your project within 24 hours.</p>
@@ -130,11 +130,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img  class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="/wp-content/uploads/2023/01/cms5.webp" style="width: 951px;height: auto;" alt="cms5">
+                <img  class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-3.png" style="width: 1000px;height: auto;" alt="cms5">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p >There are many factors that contribute to a business's growth. Custom CMS website design and development is one of them. Eastern Techno Solution offers high-end CMS solutions that allow your business to grow. It is a fact that appropriate solutions are obtained when the problem is analyzed in depth. This CMS system allows users to manage their website content without requiring programming knowledge. The content management system makes it easier to add, update, and delete content and other necessary features that help in the maintenance of content quality.</p>
+                    <p >Business growth involves various factors, and creating a personalized website using a Content Management System (CMS) is one of them. At Edventure Infotech, we provide top-notch CMS solutions to facilitate your business expansion. We meticulously analyze the issues at hand and devise optimal solutions. Our CMS system empowers individuals to manage website content without requiring advanced computer skills. This simplifies the process of adding, modifying, or removing content and other vital elements to maintain an appealing website appearance.</p>
                 </div>
             </div>
 
@@ -146,11 +146,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img  class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" src="/wp-content/uploads/2023/01/cms4.webp" style="width: 951px;height: auto;" alt="cms4">
+                <img  class="wow fadeInRight" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-4.png" style="width:1000px;height: auto;" alt="cms4">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p >Regardless of the size of the business, it has now become an essential feature for E-commerce websites that need to operate continuously. With the right CMS solution, you can save time, money, and effort in managing your website content. Our CMS includes a whole bunch of innovative technologies that promote business. Nowadays content management is considered one of the necessary features of websites.</p>
+                    <p >Regardless of a business's size, maintaining uninterrupted operation has become imperative for E-commerce websites. Implementing a suitable CMS solution can result in efficiencies in terms of time, expenses, and resource allocation for website content management. Our CMS integrates an array of cutting-edge technologies to bolster business prospects. In the contemporary landscape, content management is universally recognized as an indispensable element of websites.</p>
                 </div>
             </div>
         </div>
@@ -161,11 +161,11 @@
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="/wp-content/uploads/2023/01/cms3.webp" style="width: 951px;height: auto;" alt="cms3">
+                <img class="wow fadeInLeft" data-wow-duration="3s" data-wow-delay="0.5s" src="../../wp-content/uploads/2023/09/cms-5.png" style="width:1000px;height: auto;" alt="cms3">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Our custom CMS web design and development solutions are user-friendly which allows clients to manage their website after installation. They can add, update or delete any content without touching other features of websites. The change does not need the support of a programmer. We have a proven track record of delivering the most effective results for our clients.</p>
+                    <p>Our custom CMS web design and development solutions are meticulously crafted with a user-friendly approach, facilitating clients in efficiently managing their websites after installation. This encompasses the capacity to add, modify, or remove content without reliance on programming support while preserving the integrity of other website features. Our established track record substantiates a consistent history of delivering exceptionally effective outcomes for our valued clients.</p>
                 </div>
             </div>
         </div>
@@ -185,28 +185,28 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="/wp-content/uploads/2023/01/intutive-cms1-e1599541571488.png" alt="intutive-cms1">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms1-e1599541571488.png" alt="intutive-cms1">
                     <h3>Easy to Manage</h3>
-                    <p>Edit, Publish, Delete, web pages with ease.</p>
+                    <p>Edit, Publish, and Delete, web pages with ease.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="/wp-content/uploads/2023/01/intutive-cms2-e1599541620431.png" alt="intutive-cms2">
-                    <h3>Time Saving</h3>
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms2-e1599541620431.png" alt="intutive-cms2">
+                    <h3>Time-Saving</h3>
                     <p>Interactive content management features to save time and effort</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="/wp-content/uploads/2023/01/intutive-cms3-e1599541645239.png" alt="intutive-cms3">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms3-e1599541645239.png" alt="intutive-cms3">
                     <h3>Complete Control</h3>
                     <p>Have complete authority over website content and graphics.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="intuCMS">
-                    <img src="/wp-content/uploads/2023/01/intutive-cms4-e1599541670467.png" alt="intutive-cms4">
+                    <img src="../../wp-content/uploads/2023/09/intutive-cms4-e1599541670467.png" alt="intutive-cms4">
                     <h3>Highly Secure</h3>
                     <p>Multiple users can work in a highly secure and collaborative way.
 </p>
@@ -225,7 +225,7 @@
             </div>
             <div class="col-md-9">
                 <div class="takingBusin wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s">
-                    <h2 data-wow-duration="3s" data-wow-delay="0.5s">Taking business content to the new heights!</h2>
+                    <h2 data-wow-duration="3s" data-wow-delay="0.5s">Taking business content to new heights!</h2>
                     <p  data-wow-duration="3s" data-wow-delay="0.5s">With the evolving demand for managing corporate content effectively, organizations need to have a robust Enterprise Content Management System. This will enable them to access, analyze, and act on business content for superior insight & action. Content services & solutions provided by Clavax support your digital transformation, which leads to a more efficient and competitive business.</p>
                 </div>
             </div>
@@ -236,12 +236,12 @@
 <!-- What are the benefits of a custom CMS? -->
 
 <section>
-    <div class="container-fluid">
+    <div class="cms container-fluid">
         <div class="row d-flex991">
             <div class="col-md-6 whatArepadd">
                 <div class="whatArecms text-center">
                     <h3>What are the benefits of a custom CMS?</h3>
-                    <p>Picture a blank canvas, free for you to create cutting-edge experiences with 100% administrative control & that's, just a beginning...</p>
+                    <p>Picture a blank canvas, free for you to create cutting-edge experiences with 100% administrative control & that's, just the beginning...</p>
                     <img src="	https://www.easternts.com.au/wp-content/uploads/2020/09/image2.png" alt="">
                 </div>
             </div>
@@ -280,7 +280,7 @@
                     </div>
                     <div class="benefitCMS">
                         <h3>Customization</h3>
-                        <p>A CMS gives you an experience to make the modifications by your own, instead of depending on anyone else.</p>
+                        <p>A CMS gives you the experience of making the modifications by your own, instead of depending on anyone else.</p>
                     </div>
                 </div>
 
@@ -484,7 +484,7 @@
 <!-- We build CMSs around your Business Workflow. -->
 
 <section>
-    <div class="container-fluid p0">
+    <div class="cms container-fluid p0">
         <div class="row d-flex991">
             <div class="col-md-4 whatArepadd">
                 <div class="whatArecms text-center">
@@ -524,7 +524,7 @@
                                 </svg>
                             </div>
                             <h3>News & Publications</h3>
-                            <p>We take care of your complex publishing workflows & gives exciting experiences.</p>
+                            <p>We take care of your complex publishing workflows & give exciting experiences.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 buildcmsblack">
@@ -544,7 +544,7 @@
 </svg>
                             </div>
                             <h3>Portals & Web Apps</h3>
-                            <p>Complex user portals and applications, leave it on us.</p>
+                            <p>Complex user portals and applications, leave it to us.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 buildcmsblack">
@@ -589,7 +589,7 @@
 </svg>
                             </div>
                             <h3>SAAS Platforms</h3>
-                            <p>Something which you should never take off-the-shelf, ever!</p>
+                            <p>Something which you should never take off the shelf, ever!</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 buildcmsblack">
@@ -627,7 +627,7 @@
 </svg>
                             </div>
                             <h3>Get in touch Today</h3>
-                            <p>For what you have been looking to build, since a very long time?</p>
+                            <p>For what you have been looking to build, for a very long time.</p>
                         </div>
                     </div>
                 </div>
@@ -642,8 +642,8 @@
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2><b>Why choose ETS for your CMS project?</b></h2>
-                <p>We are very well known CMS development company in India, providing advanced content management solutions that can solve complex problems of organizations and deliver better holding in the market with our unique features.</p>
+                <h2><b>Why choose Edventure Infotech for your CMS project?</b></h2>
+                <p>We are a very well-known CMS development company in India, providing advanced content management solutions that can solve complex problems of organizations and deliver better holding in the market with our unique features.</p>
             </div>
             <div class="row">
                 <div class="">
@@ -675,73 +675,73 @@
         <div class="row">
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
+                    <img src="../../wp-content/uploads/2023/09/Travel-Hospitality.svg" class="wow bounceIn" alt="Travel-Hospitality">
                     <h4>Travel & Hospitality</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
+                    <img src="../../wp-content/uploads/2023/09/Media-Entertainment.svg" class="wow bounceIn" alt="Media-Entertainment">
                     <h4>Media & Entertainment</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
+                    <img src="../../wp-content/uploads/2023/09/Healthcare.svg" class="wow bounceIn" alt="Healthcare">
                     <h4>Healthcare</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Education.svg" class="wow fadeIn" alt="Education">
+                    <img src="../../wp-content/uploads/2023/09/Education.svg" class="wow fadeIn" alt="Education">
                     <h4>Education</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
+                    <img src="../../wp-content/uploads/2023/09/Life-Style.svg" class="wow fadeIn" alt="Life-Style">
                     <h4>Lifestyle & Management</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Transportation.svg" class="wow fadeIn" alt="Transportation">
+                    <img src="../../wp-content/uploads/2023/09/Transportation.svg" class="wow fadeIn" alt="Transportation">
                     <h4>Transportation & Logistic</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/aviation.svg"  class="wow fadeIn" alt="Aviation">
+                    <img src="../../wp-content/uploads/2023/09/aviation.svg"  class="wow fadeIn" alt="Aviation">
                     <h4>Aviation</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
+                    <img src="../../wp-content/uploads/2023/09/manufacturing.svg" class="wow fadeIn" alt="Manufacturing">
                     <h4>Manufacturing</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
+                    <img src="../../wp-content/uploads/2023/09/Agriculture.svg" class="wow fadeIn" alt="Agriculture">
                     <h4>Agriculture</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Fintech.svg" class="wow fadeIn" alt="Fintech">
+                    <img src="../../wp-content/uploads/2023/09/Fintech.svg" class="wow fadeIn" alt="Fintech">
                     <h4>Fintech</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/Retail.svg" class="wow fadeIn"  alt="Retail"> 
+                    <img src="../../wp-content/uploads/2023/09/Retail.svg" class="wow fadeIn"  alt="Retail"> 
                     <h4>Retail</h4>
                 </div>
             </div>
             <div class="induStryCard">
                 <div class="travel">
-                    <img src="/wp-content/uploads/2023/01/realestate.svg" class="wow fadeIn"  alt="realestate">
+                    <img src="../../wp-content/uploads/2023/09/realestate.svg" class="wow fadeIn"  alt="realestate">
                     <h4>Real estate</h4>
                 </div>
             </div>

@@ -17,7 +17,7 @@ Template Name: Custom Application Development
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp">
+    <div class="firebaseApp web-app-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">
@@ -27,7 +27,7 @@ Template Name: Custom Application Development
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1><?php the_title(); ?></h1>
-                            <p>You ideate, we create</p>
+                            <p>You Dream, We Build</p>
                         </div>
                     </div>
                 </div>
@@ -55,11 +55,11 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0 text-center">
-                <img src="/wp-content/uploads/2023/02/cad1.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-3.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>Business owners have their own ideas or thoughts on how to take their businesses forward with different approaches. To meet such a wide range of requirements, Eastern Techno Solutions offers Custom Application Development services in India. These services let us customize the web application as per the product and the client’s requirements. To optimize output, we have replaced all manual work with machines. With the latest technology, discrepancies are eliminated, making the process more reliable. In this fast-moving era, Custom Application Development services serve as a means to take your product out into the world in the most efficient way.</p>
+                    <p>Entrepreneurs harbor unique visions for propelling their businesses, each demanding a tailored strategy. Edventure Infotech, based in Ontario, caters to this diverse spectrum through its Custom Application Development services. This enables the customization of web applications according to both product specifications and client preferences. We've streamlined operations by substituting manual tasks with automated processes, ensuring heightened precision through cutting-edge technology. In today's dynamic landscape, our Custom Application Development services stand as a pivotal conduit for efficiently launching your product into the global market.</p>
                 </div>
             </div>
 
@@ -72,11 +72,13 @@ Template Name: Custom Application Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 text-center p0">
-                <img src="/wp-content/uploads/2023/02/cad2-1.webp" class="wow fadeInright" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Custom">
+                <img src="../../wp-content/uploads/2023/10/Custom-Application-Development-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Custom">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>Custom Application Development is a process that is built from scratch and directed towards fulfilling each client’s specifications. Our experience allows us to target the client’s area of concern and helps us in successfully delivering exceptional custom application development services. From developing custom applications for various sectors to working for individuals, Eastern Techno Solutions understands the specific needs of all.</p>
+                    <p>
+                        Crafted from the ground up to meet precise client requirements, Custom Application Development is a meticulous process we excel in. Drawing on our wealth of experience, we focus on addressing client concerns and ensuring the delivery of outstanding custom application development services. Whether it's tailoring applications for diverse sectors or catering to individual needs, Edventure Infotech is adept at comprehending and meeting specific requirements.
+                    </p>
                 </div>
             </div>
         </div>
@@ -89,10 +91,12 @@ Template Name: Custom Application Development
 <section class="sectionPadd">
     <div class="container">
         <div class="row">
-            <div class="fireAdd ">
-                <h2>The Agile Process to achieve your business goal</h2>
-                <p>Selleo advocates following the rules and principles of Agile and Lean software development methodologies as the most effective approach to managing projects. We use Scrum as a lightweight agile process framework to manage our software development as it ensures an appropriate level of communication and collaboration with the client's people. We perceive it to be a critical success factor in the execution of outsourced projects.</p>
-                <img src="/wp-content/uploads/2022/11/scrum-process-lp.png" class="wow fadeIn"  alt="scrum-process">
+            <div class="fireAdd text-center">
+                <h2>The Agile Process to Achieve Your Business Goal</h2>
+                <p>
+                    We firmly adhere to the Agile and Lean software development methodologies, considering them as the most efficient approach to project management. Our choice of utilizing Scrum, a lightweight agile process framework, stems from its ability to foster optimal communication and collaboration with our clients. We view this as a pivotal element contributing to the success of outsourced projects.
+                </p>
+                <img src="../../wp-content/uploads/2022/11/scrum-process-lp.png" class="wow fadeIn"  alt="scrum-process">
             </div>
         </div>
 
@@ -107,7 +111,7 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Opt For Excellent Quality App Development Services</h2>
-                <p>Take advantage of our custom application development services to improve the security of your solution, speed time to market, and deliver exceptional customer value.</p>
+                <p>Utilize our tailored application development services to enhance solution security, accelerate time-to-market, and provide outstanding customer value.</p>
             </div>
         </div>
 
@@ -118,12 +122,12 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp" src="https://cdn.octalsoftware.com/images/software-consulting/DIGITAL_TRANSFORMATION_CONSULTING.webp" class="lazy loaded  wow flipInX" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="48" data-was-processed="true" >
+                                <img src="../../wp-content/uploads/2023/10/Quality-icon.png" class="lazy loaded  wow flipInX" alt="DIGITAL TRANSFORMATION CONSULTING" width="49" height="48" data-was-processed="true" >
                             </picture>
                         </span>
                         <h3>Assurance Of Top-Grade Quality</h3>
                     </div>
-                    <p>Our team of QA experts have hands-on experience in all major types of testing, including functionality, usability, load, stress, acceptance, integration testing and more.</p>
+                    <p>Our team of QA experts has hands-on experience in all major types of testing, including functionality, usability, load, stress, acceptance, integration testing, and more.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 mb-5">
@@ -132,7 +136,7 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/ENTERPRISE_MOBILITY_CONSULTATION.webp" class="lazy loaded wow flipInX" type="image/webp" width="60" height="49" data-was-processed="true" >
+                                <img src="../../wp-content/uploads/2023/10/DevOps-icon.png" class="lazy loaded wow flipInX" type="image/webp" width="49" height="48"  data-was-processed="true" >
                             </picture>
                         </span>
                         <h3>DevOps Integrated Culture</h3>
@@ -146,7 +150,7 @@ Template Name: Custom Application Development
                         <span class="icon">
                             <picture>
                                 <!-- for other browser -->
-                                <img data-src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" src="https://cdn.octalsoftware.com/images/software-consulting/BUSINESS_PROCESS_AUTOMATION_CONSULTATION.webp" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="49" height="49" data-was-processed="true" >
+                                <img src="../../wp-content/uploads/2023/10/Security-icon.png" class="lazy loaded wow flipInX" alt="BUSINESS PROCESS AUTOMATION CONSULTATION" width="40" height="40" data-was-processed="true" >
                             </picture>
                         </span>
                         <h3>Robust Security</h3>
@@ -166,8 +170,8 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd ">
                 <h2 class="text-center">Software Architecture</h2>
-                <p>For many developers, software architecture and design are overlooked, which might hinder the application's performance and development velocity. Other projects may suffer from big design up front, which can cause unnecessary complexity and delay feedback that would otherwise come organically during implementation.</p>
-                <p>We have a pragmatic approach to architecture and design issues. We pinpoint the most significant areas that are worth investing upfront time, and prioritize others afterwards, where the design comes only after more critical development iterations are finished. Microservice architecture</p>
+                <p>Developers often underestimate the significance of software architecture and design, potentially impeding both application performance and development speed. Conversely, some projects may grapple with excessive upfront design, leading to unwarranted intricacy and postponing feedback that could naturally emerge during the implementation phase.</p>
+                <p>We adopt a practical approach to architecture and design challenges. We identify the pivotal areas that merit initial investment of time and prioritize others for later stages, focusing on design once critical development iterations are completed.</p>
             </div>
         </div>
         <div class="row">
@@ -212,7 +216,7 @@ Template Name: Custom Application Development
                 </div>
             </div>
             <div class="col-md-6 p-4">
-                <img src="/wp-content/uploads/2023/02/agile1.webp" alt="scrum-process-lp">
+                <img src="../../wp-content/uploads/2023/10/agile.webp" alt="scrum-process-lp">
 
             </div>
         </div>
@@ -228,7 +232,7 @@ Template Name: Custom Application Development
             <div class="col-md-6 mt-5">
                 <div class="mb-0 fireAdd  text-white col-md-12 ProcssWork">
                     <h2>Request a Quote </h2>
-                    <P>Share a brief about your project and get a guaranteed response within 24 hours.</P>
+                    <P>Provide a project overview and receive a guaranteed response within 24 hours.</P>
                     <div class="gain-competitive bg-transparent hover-blue-color">
 						<a href="javascript:void(0);"  class="subscriber-form">Let's Start</a>
                     </div>
@@ -248,9 +252,9 @@ Template Name: Custom Application Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Why Choose Us For Custom Software Development Services?</h2>
-                <p>Having advanced feature-rich software today is no longer a luxury, but a necessity for having an advantage over competitors. For over a decade, One Technologies has been a trusted ally to organizations across the globe when it comes to custom software development.</p>
-                <p>From conceptualization ideas to coding, development to deployment, The One Technologies provides custom software development services that accelerate workflows, optimize operations and boost revenues. Whether you're looking to develop a customized app for your business or improve your existing software environment, we offer the bespoke software application development services you require.</p>
-                <p>We have highly skilled and experienced software developers with excellent technical knowledge in using the latest software standards, tools, platforms, frameworks and technologies. We invest continuously in training and education, to be able to respond to any new technology challenges and demands from our clients.</p>
+                <p>Having advanced and feature-rich software is now a necessity, not just a luxury, for staying ahead of competitors. One Technologies has been a trusted partner for over a decade, assisting organizations globally with custom software development.</p>
+                <p>The One Technologies offers end-to-end custom software development services, spanning from idea conceptualization to coding, development, and deployment. We streamline workflows, optimize operations, and enhance revenues. Whether you need a customized business app or improvements to your existing software, we've got you covered.
+                We have a team of highly skilled software developers proficient in the latest technologies. Continuous investment in training allows us to meet new technology challenges and client demands effectively.
             </div>
         </div>
 
@@ -275,7 +279,7 @@ Template Name: Custom Application Development
                     <li>
                         <i class="icon4 wow bounceIn"></i>
                         <h3><b> Better Integration with Existing Systems </b></h3>
-                        <p>The customized software application can easily be integrated with existing systems of yours and can be tailored to suit the skill level of users.</p>
+                        <p>The customized software application can easily be integrated with existing systems and can be tailored to suit the skill level of users.</p>
                     </li>
                     <li>
                         <i class="icon5 wow bounceIn"></i>
@@ -301,7 +305,7 @@ Template Name: Custom Application Development
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>Opt For Excellent Quality App Development Services</h2>
+                <h2>Opt Superior App Development Services for Unmatched Quality</h2>
                 <p>Take advantage of our custom application development services to improve the security of your solution, speed time to market, and deliver exceptional customer value.</p>
             </div>
         </div>
@@ -310,7 +314,7 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/abt-icon.png" data-src="https://www.chapter247.com/wp-content/uploads/2018/09/abt-icon.png" data-was-processed="true">
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/abt-icon.png" data-src="https://www.chapter247.com/wp-content/uploads/2018/09/abt-icon.png" data-was-processed="true">
                     </div>
                     <h3 class="chapter-enterprise-heading">Tailor-made Mobile App Development</h3>
                     <p>Get consistent cross-platform experiences by taking advantage of our custom mobile solutions to build impressive applications without sacrificing design or feel. Take users by storm with powerfully in-built VR and AI competencies, seamless social media sharing, secure in-app payments and much more. Our immaculate custom mobile application development solutions ensure the harnessing of advanced technologies to develop feature-rich mobile applications.</p>
@@ -319,7 +323,7 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-1.png" data-was-processed="true">
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-1.png" data-was-processed="true">
                     </div>
                     <h3 class="chapter-enterprise-heading">Multi-pronged Staff Augmentation Solutions</h3>
                     <p> Complement your business objectives and software needs with our staff augmentation services. Count on us and our proficient IT experts for your complex software development needs. Our proven strategy allows you to get your hands on professionals with commendable domain experience and business skills. Focus on your business while we carry the heavy load of our richly featured applications.</p>
@@ -328,7 +332,7 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-2.png" data-was-processed="true">
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-2.png" data-was-processed="true">
                     </div>
                     <h3 class="chapter-enterprise-heading">Legacy Applications Modernization</h3>
                     <p>The need to keep reinventing is a grave concern that needs to be addressed without further ado. The spread of digital platforms such as Android, Facebook, Twitter, analytics, cloud, artificial intelligence, and the Internet of Things (IoT) has made it imperative for firms to stay competitive. As a leading custom software development firm, we look forward to bridging the gap between our current capability and the software needs of the client.</p>
@@ -337,16 +341,16 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-3.png" data-was-processed="true">
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-3.png" data-was-processed="true">
                     </div>
                     <h3 class="chapter-enterprise-heading">Custom E-commerce Solutions To Drive Your Growth</h3>
-                    <p>Our custom software solutions empower B2B and B2C difference-makers to derive huge benefits and leads which you can convert into potential cash cows. We as an award-winning custom software development company will own your e-commerce project to ensure it reaches the zenith of excellence. Our software will trigger growth in the customer base and ensure limitless revenue opportunities marking the success of your business.</p>
+                    <p>Our custom software solutions empower B2B and B2C difference-makers to derive huge benefits and leads that you can convert into potential cash cows. We as an award-winning custom software development company will own your e-commerce project to ensure it reaches the zenith of excellence. Our software will trigger growth in the customer base and ensure limitless revenue opportunities marking the success of your business.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-4.png" data-was-processed="true" alt="">   
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-4.png" data-was-processed="true" alt="">   
                     </div>
                     <h3 class="chapter-enterprise-heading">Personalized Chatbot Solutions</h3>
                     <p>Chatbots help companies stay live with a bang. Companies need to be available to their customers day and night. Chapter247 offers all-encompassing custom software chatbot development services to revolutionize the way businesses interact with their customers. We provide highly astute and refined chatbot development solutions that can be implemented in the divergent fields of entertainment, education, sports, distribution and much more. We are just a click away!</p>
@@ -355,7 +359,7 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-5.png" data-was-processed="true" alt="">   
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-5.png" data-was-processed="true" alt="">   
                     </div>
                     <h3 class="chapter-enterprise-heading">Innovative Edutech Solutions</h3>
                     <p>Transforming education with hands-on technology expertise is what we excel at. Our powerful online custom software solutions that empower students to outperform themselves, have been one of our major offerings as an accomplished custom software development application company. Collaborate with us to inspire your students to excel and surpass their efforts with our real-time performance trackers, learning inputs, audio and video augmented solutions and much more.</p>
@@ -364,16 +368,16 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-6.png" data-was-processed="true" alt="">   
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-6.png" data-was-processed="true" alt="">   
                     </div>
                     <h3 class="chapter-enterprise-heading">Blockchain Solutions</h3>
-                    <p>Our Industry authorized Blockchain solutions work to secure your data and digitize your applications. Our Blockchain technology experts integrate and engineer blockchain applications and networks. The software product we build together will be reliable, robust will draw users owing to compliance and conformity.</p>
+                    <p>Our Industry-authorized Blockchain solutions work to secure your data and digitize your applications. Our Blockchain technology experts integrate and engineer blockchain applications and networks. The software product we build together will be reliable, and robust and will draw users owing to compliance and conformity.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-7.png" data-was-processed="true" alt="">   
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-7.png" data-was-processed="true" alt="">   
                     </div>
                     <h3 class="chapter-enterprise-heading">Benefit From Our Efficient Logistics Solutions
                     </h3>
@@ -383,10 +387,10 @@ Template Name: Custom Application Development
             <div class="col-sm-6 col-md-4">
                 <div  class="chapter-solution-div">
                     <div class="we-love-work-img">
-                        <img class="lazy loaded" src="/wp-content/uploads/2023/02/math-icon-8.png" data-was-processed="true" alt="">   
+                        <img class="lazy loaded" src="../../wp-content/uploads/2023/02/math-icon-8.png" data-was-processed="true" alt="">   
                     </div>
                     <h3 class="chapter-enterprise-heading">Expert Cloud Computing Services</h3>
-                    <p>Extensibility, Receptivity, and cost-efficiency are the key benefits companies achieve when they embrace cloud computing. For any business to move to a cloud environment is a strategic change that will have a lasting long-term impact on the way they will operate. As a highly rated custom software development company we will help you embrace cloud computing like a pro.</p>
+                    <p>Extensibility, Receptivity, and cost-efficiency are the key benefits companies achieve when they embrace cloud computing. For any business to move to a cloud environment is a strategic change that will have a lasting long-term impact on the way it will operate. As a highly rated custom software development company we will help you embrace cloud computing like a pro.</p>
                 </div>
             </div>
 

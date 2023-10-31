@@ -17,7 +17,7 @@ Template Name: AngularJS
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp">
+    <div class="firebaseApp web-app-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">
@@ -27,7 +27,7 @@ Template Name: AngularJS
                     <div class="sercon ">
                         <div class="text-start container">
                             <h1>AngularJS</h1>
-                            <p>Race your sales ahead</p>
+                            <p>Accelerate Your Sales Performance</p>
                         </div>
                     </div>
                 </div>
@@ -56,11 +56,11 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/AngularJS2.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 951px;height: auto;" alt="Android">
+                <img src="../../wp-content/uploads/2023/09/angular1.webp" class="wow fadeInLeft" data-wow-delay="0.2s" style="width: 1000px;height: auto;" alt="Android">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>AngularJS is an open source web development framework developed and maintained by Google. You can employ AngularJS to develop interactive and dynamic user interfaces for web and mobile apps. AngularJS enhances HTML's capabilities. It is widely used for building web, mobile and native applications. JavaScript is used on the front end and for Single Page Applications. Angular development is well organized and dynamic which allows developers to develop clear and flexible code.</p>
+                    <p>AngularJS, an open-source web development framework by Google, is used to create interactive interfaces for web and mobile apps, enhancing HTML capabilities. Widely adopted for building web, mobile, and native applications, it employs JavaScript for single-page applications. Angular development is well-organized and dynamic, enabling developers to produce clear and flexible code.</p>
                 </div>
             </div>
 
@@ -72,11 +72,11 @@ Template Name: AngularJS
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/angular-js-2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 951px;height: auto;"alt="Android">
+                <img src="../../wp-content/uploads/2023/10/angular2.webp" class="wow fadeInRight" data-wow-delay="0.4s"  style="width: 1000px;height: auto;"alt="Android">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>The latest component router helps AngularJS apps load faster and also provides automatic code splitting. When a user requests a view, it helps to show that view by loading only the needed code. Templates are transformed into highly optimized code using AngularJS. This code serves as a framework for developing web and mobile applications. With the use of AngularJS, a large data requirement is met by making data models on Immutable.js, RxJS, or another push-model.</p>
+                    <p>AngularJS's latest component router accelerates app loading with automatic code splitting, efficiently loading only necessary code when a user requests a view. It transforms templates into optimized code, serving as a framework for web and mobile app development. AngularJS meets large data requirements through data models constructed with Immutable.js, RxJS, or a push-model approach.</p>
                 </div>
             </div>
         </div>
@@ -84,14 +84,14 @@ Template Name: AngularJS
 </section>
 
 
-<!-- A Wide Range Of Angular Js Development Services At Eastern Techno Solution
+<!-- A Wide Range Of Angular Js Development Services At Edventure Infotech
  -->
 
 <section class="sectionPadd bg-orange">
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>A Wide Range Of Angular Js Development Services At Eastern Techno Solution</h2>
+                <h2>A Wide Range Of Angular Js Development Services At Edventure Infotech </h2>
                 <!-- <p>Flexible and fast development process of web and mobile apps.</p> -->
             </div>
         </div>
@@ -109,7 +109,7 @@ Template Name: AngularJS
                         </svg>
                     </div>
                     <h3>Angular JS Consulting</h3>
-                    <p>We fully understand the particular needs of your business and explain the advantages of developing an enterprise application using AngularJS. Feel free to contact us. Our developers are ready to serve you.</p>
+                    <p>We comprehensively grasp the specific requirements of your business and elucidate the benefits of constructing an enterprise application using AngularJS. Please do not hesitate to reach out to us. Our developers are prepared to assist you.</p>
                 </div>
             </div>
 
@@ -183,7 +183,7 @@ Template Name: AngularJS
                         </svg>
                     </div>
                     <h3>Angular JS API Development </h3>
-                    <p>At Eastern Techno Solution, we aim to provide high-performing and scalable enterprise-oriented Angular API development services suited to the specific needs of your business. Just tell us your specific needs and we'll take care of the rest.</p>
+                    <p>At Edventure Infotech, we aim to provide high-performing and scalable enterprise-oriented Angular API development services suited to the specific needs of your business. Just tell us your specific needs and we'll take care of the rest.</p>
                 </div>
             </div>
         </div>
@@ -275,8 +275,8 @@ Template Name: AngularJS
                             </g>
                         </svg>
                     </div>
-                    <h3>App interface and Development</h3>
-                    <p>We have innovative web developers that provide excellent development that allows people to explore your business globally. They utilize HTML components in a superior end-to-end testing environment.</p>
+                    <h3>App Interface and Development</h3>
+                    <p>We have innovative web developers who provide excellent development that allows people to explore your business globally. They utilize HTML components in a superior end-to-end testing environment.</p>
                 </div>
             </div>
         </div>
@@ -285,46 +285,8 @@ Template Name: AngularJS
         <div class="row">
             <div class="col-md-4">
                 <div class="gap-process anguler-js-ser text-center">
-                    <div class="gap-process-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_9" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" width="50px" height="50px">
-                            <g id="prototype">
-                                <g>
-                                    <path d="M379.853,228.907c14.329,0,25.987-11.658,25.987-25.987V25.987C405.84,11.658,394.183,0,379.853,0h-88.467    C277.057,0,265.4,11.658,265.4,25.987v53.659c-2.303-0.153-4.657,0.642-6.418,2.403c-3.239,3.239-3.239,8.491,0,11.728    l12.382,12.382H246.6V25.987C246.6,11.658,234.943,0,220.613,0h-88.467c-14.329,0-25.987,11.658-25.987,25.987V202.92    c0,14.329,11.658,25.987,25.987,25.987h35.94v54.186h-35.94c-14.329,0-25.987,11.658-25.987,25.987v176.933    c0,14.329,11.658,25.987,25.987,25.987h88.467c14.329,0,25.987-11.658,25.987-25.987V309.08c0-14.329-11.658-25.987-25.987-25.987    h-35.94v-54.186h35.94c14.329,0,25.987-11.658,25.987-25.987v-80.173h24.763l-12.382,12.382c-3.239,3.239-3.239,8.491,0,11.728    c1.62,1.619,3.743,2.43,5.865,2.43c0.185,0,0.368-0.014,0.553-0.027v53.659c0,14.329,11.658,25.987,25.987,25.987h35.94v54.186    h-35.94c-14.329,0-25.987,11.658-25.987,25.987v176.933c0,14.329,11.658,25.987,25.987,25.987h88.467    c14.329,0,25.987-11.658,25.987-25.987V309.08c0-14.329-11.658-25.987-25.987-25.987h-35.94v-54.186H379.853z M220.613,299.68    c5.183,0,9.4,4.216,9.4,9.4v176.933c0,5.183-4.217,9.4-9.4,9.4h-88.467c-5.183,0-9.4-4.217-9.4-9.4V309.08    c0-5.183,4.216-9.4,9.4-9.4h35.94v33.609l-12.381-12.382c-3.24-3.239-8.491-3.239-11.73,0s-3.239,8.491,0,11.728l26.54,26.54    c0.011,0.011,0.023,0.02,0.033,0.03c0.184,0.181,0.375,0.355,0.575,0.52c0.093,0.076,0.191,0.143,0.286,0.215    c0.122,0.091,0.24,0.185,0.367,0.27c0.113,0.075,0.23,0.141,0.346,0.21c0.116,0.07,0.23,0.143,0.349,0.207    c0.118,0.063,0.241,0.117,0.363,0.175c0.124,0.059,0.245,0.121,0.373,0.172c0.118,0.049,0.24,0.088,0.361,0.132    c0.135,0.049,0.268,0.1,0.405,0.142c0.122,0.036,0.244,0.063,0.367,0.094c0.139,0.035,0.278,0.074,0.419,0.103    c0.143,0.029,0.286,0.045,0.43,0.065c0.124,0.018,0.247,0.041,0.372,0.054c0.272,0.027,0.545,0.041,0.818,0.041    c0.273,0,0.546-0.014,0.818-0.041c0.126-0.012,0.248-0.035,0.372-0.054c0.144-0.021,0.288-0.038,0.43-0.065    c0.143-0.029,0.28-0.068,0.419-0.103c0.123-0.031,0.245-0.057,0.367-0.094c0.138-0.042,0.271-0.093,0.406-0.142    c0.12-0.043,0.241-0.083,0.359-0.132c0.127-0.053,0.25-0.115,0.374-0.174c0.121-0.057,0.243-0.111,0.362-0.174    c0.119-0.064,0.233-0.137,0.349-0.207c0.116-0.07,0.233-0.135,0.346-0.21c0.126-0.084,0.246-0.178,0.367-0.27    c0.095-0.072,0.193-0.138,0.286-0.214c0.2-0.164,0.391-0.337,0.575-0.52c0.011-0.011,0.023-0.02,0.033-0.03l26.54-26.54    c3.239-3.239,3.239-8.491,0-11.728c-3.24-3.239-8.491-3.239-11.73,0l-12.381,12.382V299.68H220.613z M176.38,123.853    c-5.183,0-9.4-4.217-9.4-9.4s4.217-9.4,9.4-9.4s9.4,4.216,9.4,9.4S181.563,123.853,176.38,123.853z M230.013,202.92    c0,5.183-4.217,9.4-9.4,9.4h-35.94v-73.244c7.667-2.59,13.739-8.662,16.329-16.329h29.01V202.92z M230.013,106.16h-29.01    c-3.47-10.273-13.193-17.693-24.622-17.693c-14.329,0-25.987,11.658-25.987,25.987c0,11.43,7.42,21.152,17.693,24.622v73.244    h-35.94c-5.183,0-9.4-4.217-9.4-9.4V25.987c0-5.183,4.216-9.4,9.4-9.4h88.467c5.183,0,9.4,4.217,9.4,9.4V106.16z M291.387,212.32    c-5.183,0-9.4-4.217-9.4-9.4v-67.337l15.265-15.265c3.239-3.239,3.239-8.491,0-11.728l-15.265-15.265V25.987    c0-5.183,4.216-9.4,9.4-9.4h88.467c5.183,0,9.4,4.217,9.4,9.4V202.92c0,5.183-4.216,9.4-9.4,9.4h-35.94v-73.244    c10.273-3.47,17.693-13.193,17.693-24.622c0-14.329-11.658-25.987-25.987-25.987c-14.329,0-25.987,11.658-25.987,25.987    c0,11.43,7.42,21.152,17.693,24.622v73.244H291.387z M379.853,299.68c5.183,0,9.4,4.216,9.4,9.4v176.933    c0,5.183-4.216,9.4-9.4,9.4h-88.467c-5.183,0-9.4-4.217-9.4-9.4V309.08c0-5.183,4.216-9.4,9.4-9.4h35.94v33.609l-12.381-12.382    c-3.24-3.239-8.491-3.239-11.729,0c-3.239,3.239-3.239,8.491,0,11.728l26.54,26.54c0.011,0.011,0.023,0.02,0.033,0.03    c0.184,0.181,0.375,0.355,0.575,0.52c0.093,0.076,0.191,0.143,0.286,0.215c0.122,0.091,0.24,0.185,0.367,0.27    c0.113,0.075,0.23,0.141,0.346,0.21c0.116,0.07,0.23,0.143,0.349,0.207c0.118,0.063,0.241,0.117,0.363,0.175    c0.124,0.059,0.245,0.121,0.373,0.172c0.118,0.049,0.24,0.088,0.361,0.132c0.135,0.049,0.268,0.1,0.405,0.142    c0.122,0.036,0.244,0.063,0.367,0.094c0.139,0.035,0.278,0.074,0.419,0.103c0.143,0.029,0.286,0.045,0.43,0.065    c0.124,0.018,0.247,0.041,0.372,0.054c0.272,0.027,0.545,0.041,0.818,0.041c0.273,0,0.546-0.014,0.818-0.041    c0.126-0.012,0.248-0.035,0.372-0.054c0.144-0.021,0.288-0.038,0.43-0.065c0.143-0.029,0.28-0.068,0.419-0.103    c0.123-0.031,0.245-0.057,0.367-0.094c0.138-0.042,0.271-0.093,0.406-0.142c0.121-0.043,0.241-0.083,0.359-0.132    c0.127-0.053,0.25-0.115,0.374-0.174c0.121-0.057,0.243-0.111,0.362-0.174c0.119-0.064,0.233-0.137,0.349-0.207    c0.116-0.07,0.233-0.135,0.346-0.21c0.126-0.084,0.245-0.178,0.367-0.27c0.095-0.072,0.193-0.138,0.286-0.214    c0.2-0.164,0.391-0.337,0.575-0.52c0.011-0.011,0.023-0.02,0.033-0.03l26.54-26.54c3.239-3.239,3.239-8.491,0-11.728    c-3.24-3.239-8.491-3.239-11.73,0l-12.381,12.382V299.68H379.853z M335.62,123.853c-5.183,0-9.4-4.217-9.4-9.4s4.217-9.4,9.4-9.4    s9.4,4.216,9.4,9.4S340.803,123.853,335.62,123.853z" fill="#dc2d3c"></path>
-                                </g>
-                                <g>
-                                    <path d="M335.62,371.559c-14.329,0-25.987,11.658-25.987,25.987c0,14.329,11.658,25.987,25.987,25.987    c14.329,0,25.987-11.658,25.987-25.987C361.607,383.217,349.949,371.559,335.62,371.559z M335.62,406.946    c-5.183,0-9.4-4.216-9.4-9.4s4.217-9.4,9.4-9.4s9.4,4.217,9.4,9.4S340.803,406.946,335.62,406.946z" fill="#dc2d3c"></path>
-                                </g>
-                                <g>
-                                    <path d="M176.38,371.559c-14.329,0-25.987,11.658-25.987,25.987c0,14.329,11.658,25.987,25.987,25.987    s25.987-11.658,25.987-25.987C202.367,383.217,190.71,371.559,176.38,371.559z M176.38,406.946c-5.183,0-9.4-4.216-9.4-9.4    s4.217-9.4,9.4-9.4s9.4,4.217,9.4,9.4S181.563,406.946,176.38,406.946z" fill="#dc2d3c"></path>
-                                </g>
-                            </g>
-                        </svg>
-                    </div>
-                    <h3>Custom AngularJS Development </h3>
-                    <p>Due to having vast domain expertise, we have helped clients to create secure, scalable, feature-packed, and mobile-friendly AngularJS web app development services.</p>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="gap-process anguler-js-ser text-center">
-                    <div class="gap-process-icon">
-                        <svg xmlns="" xmlns:xlink="" version="1.1" id="Capa_5" x="0px" y="0px" viewBox="0 0 496.941 496.941" style="enable-background:new 0 0 496.941 496.941" xml:space="preserve" width="50px" height="50px">
-                            <g id="requirement">
-                                <path d="M475.299,106.918l-12.047-3.765c-3.012-0.753-6.024-1.506-9.788-1.506c-13.553,0-25.6,9.035-30.118,21.835l-6.776,20.329     v-15.059V128c0-2.259-1.506-4.518-3.012-6.024L290.076,2.259C288.57,0.753,286.311,0,284.805,0H43.111     c-4.518,0-7.529,3.012-7.529,7.529v23.341H7.723c-4.518,0-7.529,3.012-7.529,7.529v451.012c0,4.518,3.012,7.529,7.529,7.529     h365.929c4.518,0,7.529-3.012,7.529-7.529v-23.341h27.859c4.518,0,7.529-3.012,7.529-7.529V356.894l21.082-28.612l0.753-2.259     l56.471-179.953C500.899,129.506,491.864,112.188,475.299,106.918z M292.334,25.6l98.635,94.871h-98.635V25.6z M366.123,481.882     H15.252V45.929h20.329v412.612c0,4.518,3.012,7.529,7.529,7.529h323.012V481.882z M402.264,451.012h-0.753H50.64V15.059h226.635     V128c0,4.518,3.012,7.529,7.529,7.529h117.459V192l-35.388,111.435v2.259l1.506,95.624c0,3.012,2.259,6.024,5.271,6.776     c3.012,0.753,6.776,0,8.282-3.012l20.329-27.106V451.012z M382.687,377.976l-1.506-62.494l37.647,12.047L382.687,377.976z      M481.323,141.553l-54.212,172.424l-43.671-14.306L437.652,128c3.012-8.282,12.047-13.553,20.329-10.541l12.047,3.765     C479.064,123.482,484.334,133.271,481.323,141.553z" fill="#a4c639"></path>
-                                <path d="M86.782,206.306h228.894c4.518,0,7.529-3.012,7.529-7.529c0-4.518-3.012-7.529-7.529-7.529H86.782     c-4.518,0-7.529,3.012-7.529,7.529C79.252,203.294,82.264,206.306,86.782,206.306z" fill="#a4c639"></path>
-                                <path d="M347.299,411.106H233.605c-4.518,0-7.529,3.012-7.529,7.529s3.012,7.529,7.529,7.529h112.941     c4.518,0,7.529-3.012,7.529-7.529S351.064,411.106,347.299,411.106z" fill="#a4c639"></path>
-                            </g>
-                        </svg>
-                    </div>
-                    <h3>Real-time App Development</h3>
-                    <p>Real-time apps like Chat Apps can easily be developed with AngularJS. Our developers integrate it with NodeJS and Grunt to improve user experience and performance.</p>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="gap-process anguler-js-ser text-center">
-                    <div class="gap-process-icon">
-                        <svg version="1.1" id="Capa_6" x="0px" y="0px" style="" width="50px" height="50px" viewBox="0 0 512 512">
+                    <div class="gap-process-icon">                        						
+						<svg version="1.1" id="Capa_6" x="0px" y="0px" style="" width="50px" height="50px" viewBox="0 0 512 512">
                             <g id="uiux">
                                 <g>
                                     <path d="M360,104h-80c-4.418,0-8,3.582-8,8v80c0,4.418,3.582,8,8,8h80c4.418,0,8-3.582,8-8v-80C368,107.582,364.418,104,360,104z     M288,184v-52.693L340.693,184H288z M352,172.68L299.32,120H352V172.68z" fill="#1094f1"></path>
@@ -368,6 +330,45 @@ Template Name: AngularJS
                             </g>
                         </svg>
                     </div>
+                    <h3>Custom AngularJS Development </h3>
+                    <p>Due to having vast domain expertise, we have helped clients create secure, scalable, feature-packed, and mobile-friendly AngularJS web app development services.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="gap-process anguler-js-ser text-center">
+                    <div class="gap-process-icon">
+                        
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_9" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" width="50px" height="50px">
+                            <g id="prototype">
+                                <g>
+                                    <path d="M379.853,228.907c14.329,0,25.987-11.658,25.987-25.987V25.987C405.84,11.658,394.183,0,379.853,0h-88.467    C277.057,0,265.4,11.658,265.4,25.987v53.659c-2.303-0.153-4.657,0.642-6.418,2.403c-3.239,3.239-3.239,8.491,0,11.728    l12.382,12.382H246.6V25.987C246.6,11.658,234.943,0,220.613,0h-88.467c-14.329,0-25.987,11.658-25.987,25.987V202.92    c0,14.329,11.658,25.987,25.987,25.987h35.94v54.186h-35.94c-14.329,0-25.987,11.658-25.987,25.987v176.933    c0,14.329,11.658,25.987,25.987,25.987h88.467c14.329,0,25.987-11.658,25.987-25.987V309.08c0-14.329-11.658-25.987-25.987-25.987    h-35.94v-54.186h35.94c14.329,0,25.987-11.658,25.987-25.987v-80.173h24.763l-12.382,12.382c-3.239,3.239-3.239,8.491,0,11.728    c1.62,1.619,3.743,2.43,5.865,2.43c0.185,0,0.368-0.014,0.553-0.027v53.659c0,14.329,11.658,25.987,25.987,25.987h35.94v54.186    h-35.94c-14.329,0-25.987,11.658-25.987,25.987v176.933c0,14.329,11.658,25.987,25.987,25.987h88.467    c14.329,0,25.987-11.658,25.987-25.987V309.08c0-14.329-11.658-25.987-25.987-25.987h-35.94v-54.186H379.853z M220.613,299.68    c5.183,0,9.4,4.216,9.4,9.4v176.933c0,5.183-4.217,9.4-9.4,9.4h-88.467c-5.183,0-9.4-4.217-9.4-9.4V309.08    c0-5.183,4.216-9.4,9.4-9.4h35.94v33.609l-12.381-12.382c-3.24-3.239-8.491-3.239-11.73,0s-3.239,8.491,0,11.728l26.54,26.54    c0.011,0.011,0.023,0.02,0.033,0.03c0.184,0.181,0.375,0.355,0.575,0.52c0.093,0.076,0.191,0.143,0.286,0.215    c0.122,0.091,0.24,0.185,0.367,0.27c0.113,0.075,0.23,0.141,0.346,0.21c0.116,0.07,0.23,0.143,0.349,0.207    c0.118,0.063,0.241,0.117,0.363,0.175c0.124,0.059,0.245,0.121,0.373,0.172c0.118,0.049,0.24,0.088,0.361,0.132    c0.135,0.049,0.268,0.1,0.405,0.142c0.122,0.036,0.244,0.063,0.367,0.094c0.139,0.035,0.278,0.074,0.419,0.103    c0.143,0.029,0.286,0.045,0.43,0.065c0.124,0.018,0.247,0.041,0.372,0.054c0.272,0.027,0.545,0.041,0.818,0.041    c0.273,0,0.546-0.014,0.818-0.041c0.126-0.012,0.248-0.035,0.372-0.054c0.144-0.021,0.288-0.038,0.43-0.065    c0.143-0.029,0.28-0.068,0.419-0.103c0.123-0.031,0.245-0.057,0.367-0.094c0.138-0.042,0.271-0.093,0.406-0.142    c0.12-0.043,0.241-0.083,0.359-0.132c0.127-0.053,0.25-0.115,0.374-0.174c0.121-0.057,0.243-0.111,0.362-0.174    c0.119-0.064,0.233-0.137,0.349-0.207c0.116-0.07,0.233-0.135,0.346-0.21c0.126-0.084,0.246-0.178,0.367-0.27    c0.095-0.072,0.193-0.138,0.286-0.214c0.2-0.164,0.391-0.337,0.575-0.52c0.011-0.011,0.023-0.02,0.033-0.03l26.54-26.54    c3.239-3.239,3.239-8.491,0-11.728c-3.24-3.239-8.491-3.239-11.73,0l-12.381,12.382V299.68H220.613z M176.38,123.853    c-5.183,0-9.4-4.217-9.4-9.4s4.217-9.4,9.4-9.4s9.4,4.216,9.4,9.4S181.563,123.853,176.38,123.853z M230.013,202.92    c0,5.183-4.217,9.4-9.4,9.4h-35.94v-73.244c7.667-2.59,13.739-8.662,16.329-16.329h29.01V202.92z M230.013,106.16h-29.01    c-3.47-10.273-13.193-17.693-24.622-17.693c-14.329,0-25.987,11.658-25.987,25.987c0,11.43,7.42,21.152,17.693,24.622v73.244    h-35.94c-5.183,0-9.4-4.217-9.4-9.4V25.987c0-5.183,4.216-9.4,9.4-9.4h88.467c5.183,0,9.4,4.217,9.4,9.4V106.16z M291.387,212.32    c-5.183,0-9.4-4.217-9.4-9.4v-67.337l15.265-15.265c3.239-3.239,3.239-8.491,0-11.728l-15.265-15.265V25.987    c0-5.183,4.216-9.4,9.4-9.4h88.467c5.183,0,9.4,4.217,9.4,9.4V202.92c0,5.183-4.216,9.4-9.4,9.4h-35.94v-73.244    c10.273-3.47,17.693-13.193,17.693-24.622c0-14.329-11.658-25.987-25.987-25.987c-14.329,0-25.987,11.658-25.987,25.987    c0,11.43,7.42,21.152,17.693,24.622v73.244H291.387z M379.853,299.68c5.183,0,9.4,4.216,9.4,9.4v176.933    c0,5.183-4.216,9.4-9.4,9.4h-88.467c-5.183,0-9.4-4.217-9.4-9.4V309.08c0-5.183,4.216-9.4,9.4-9.4h35.94v33.609l-12.381-12.382    c-3.24-3.239-8.491-3.239-11.729,0c-3.239,3.239-3.239,8.491,0,11.728l26.54,26.54c0.011,0.011,0.023,0.02,0.033,0.03    c0.184,0.181,0.375,0.355,0.575,0.52c0.093,0.076,0.191,0.143,0.286,0.215c0.122,0.091,0.24,0.185,0.367,0.27    c0.113,0.075,0.23,0.141,0.346,0.21c0.116,0.07,0.23,0.143,0.349,0.207c0.118,0.063,0.241,0.117,0.363,0.175    c0.124,0.059,0.245,0.121,0.373,0.172c0.118,0.049,0.24,0.088,0.361,0.132c0.135,0.049,0.268,0.1,0.405,0.142    c0.122,0.036,0.244,0.063,0.367,0.094c0.139,0.035,0.278,0.074,0.419,0.103c0.143,0.029,0.286,0.045,0.43,0.065    c0.124,0.018,0.247,0.041,0.372,0.054c0.272,0.027,0.545,0.041,0.818,0.041c0.273,0,0.546-0.014,0.818-0.041    c0.126-0.012,0.248-0.035,0.372-0.054c0.144-0.021,0.288-0.038,0.43-0.065c0.143-0.029,0.28-0.068,0.419-0.103    c0.123-0.031,0.245-0.057,0.367-0.094c0.138-0.042,0.271-0.093,0.406-0.142c0.121-0.043,0.241-0.083,0.359-0.132    c0.127-0.053,0.25-0.115,0.374-0.174c0.121-0.057,0.243-0.111,0.362-0.174c0.119-0.064,0.233-0.137,0.349-0.207    c0.116-0.07,0.233-0.135,0.346-0.21c0.126-0.084,0.245-0.178,0.367-0.27c0.095-0.072,0.193-0.138,0.286-0.214    c0.2-0.164,0.391-0.337,0.575-0.52c0.011-0.011,0.023-0.02,0.033-0.03l26.54-26.54c3.239-3.239,3.239-8.491,0-11.728    c-3.24-3.239-8.491-3.239-11.73,0l-12.381,12.382V299.68H379.853z M335.62,123.853c-5.183,0-9.4-4.217-9.4-9.4s4.217-9.4,9.4-9.4    s9.4,4.216,9.4,9.4S340.803,123.853,335.62,123.853z" fill="#dc2d3c"></path>
+                                </g>
+                                <g>
+                                    <path d="M335.62,371.559c-14.329,0-25.987,11.658-25.987,25.987c0,14.329,11.658,25.987,25.987,25.987    c14.329,0,25.987-11.658,25.987-25.987C361.607,383.217,349.949,371.559,335.62,371.559z M335.62,406.946    c-5.183,0-9.4-4.216-9.4-9.4s4.217-9.4,9.4-9.4s9.4,4.217,9.4,9.4S340.803,406.946,335.62,406.946z" fill="#dc2d3c"></path>
+                                </g>
+                                <g>
+                                    <path d="M176.38,371.559c-14.329,0-25.987,11.658-25.987,25.987c0,14.329,11.658,25.987,25.987,25.987    s25.987-11.658,25.987-25.987C202.367,383.217,190.71,371.559,176.38,371.559z M176.38,406.946c-5.183,0-9.4-4.216-9.4-9.4    s4.217-9.4,9.4-9.4s9.4,4.217,9.4,9.4S181.563,406.946,176.38,406.946z" fill="#dc2d3c"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <h3>Real-time App Development</h3>
+                    <p>Real-time apps like Chat Apps can easily be developed with AngularJS. Our developers integrate it with NodeJS and Grunt to improve user experience and performance.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="gap-process anguler-js-ser text-center">
+                    <div class="gap-process-icon">
+                        <svg xmlns="" xmlns:xlink="" version="1.1" id="Capa_5" x="0px" y="0px" viewBox="0 0 496.941 496.941" style="enable-background:new 0 0 496.941 496.941" xml:space="preserve" width="50px" height="50px">
+                            <g id="requirement">
+                                <path d="M475.299,106.918l-12.047-3.765c-3.012-0.753-6.024-1.506-9.788-1.506c-13.553,0-25.6,9.035-30.118,21.835l-6.776,20.329     v-15.059V128c0-2.259-1.506-4.518-3.012-6.024L290.076,2.259C288.57,0.753,286.311,0,284.805,0H43.111     c-4.518,0-7.529,3.012-7.529,7.529v23.341H7.723c-4.518,0-7.529,3.012-7.529,7.529v451.012c0,4.518,3.012,7.529,7.529,7.529     h365.929c4.518,0,7.529-3.012,7.529-7.529v-23.341h27.859c4.518,0,7.529-3.012,7.529-7.529V356.894l21.082-28.612l0.753-2.259     l56.471-179.953C500.899,129.506,491.864,112.188,475.299,106.918z M292.334,25.6l98.635,94.871h-98.635V25.6z M366.123,481.882     H15.252V45.929h20.329v412.612c0,4.518,3.012,7.529,7.529,7.529h323.012V481.882z M402.264,451.012h-0.753H50.64V15.059h226.635     V128c0,4.518,3.012,7.529,7.529,7.529h117.459V192l-35.388,111.435v2.259l1.506,95.624c0,3.012,2.259,6.024,5.271,6.776     c3.012,0.753,6.776,0,8.282-3.012l20.329-27.106V451.012z M382.687,377.976l-1.506-62.494l37.647,12.047L382.687,377.976z      M481.323,141.553l-54.212,172.424l-43.671-14.306L437.652,128c3.012-8.282,12.047-13.553,20.329-10.541l12.047,3.765     C479.064,123.482,484.334,133.271,481.323,141.553z" fill="#a4c639"></path>
+                                <path d="M86.782,206.306h228.894c4.518,0,7.529-3.012,7.529-7.529c0-4.518-3.012-7.529-7.529-7.529H86.782     c-4.518,0-7.529,3.012-7.529,7.529C79.252,203.294,82.264,206.306,86.782,206.306z" fill="#a4c639"></path>
+                                <path d="M347.299,411.106H233.605c-4.518,0-7.529,3.012-7.529,7.529s3.012,7.529,7.529,7.529h112.941     c4.518,0,7.529-3.012,7.529-7.529S351.064,411.106,347.299,411.106z" fill="#a4c639"></path>
+                            </g>
+                        </svg>
+                    </div>
                     <h3>Angular JS eCommerce Apps Development</h3>
                     <p> Developing a feature-rich AngularJS eCommerce app becomes a lot simpler if you take our AngularJS eCommerce app development services.</p>
                 </div>
@@ -389,7 +390,7 @@ Template Name: AngularJS
 
         <div class="row  angularjs-devcompmay d-flex">
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2023/02/logo-angularjs.webp" alt="logo-angularjs">
+                <img src="../../wp-content/uploads/2023/02/logo-angularjs.webp" alt="logo-angularjs">
             </div>
             <div class="col-md-3 text-center">
                 <h3>Single page applications </h3>
@@ -422,19 +423,19 @@ Template Name: AngularJS
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/experienced-developers.webp" alt="experienced-developers"></div>
                     <h5>Company backed by 9001:2008 Certification</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/flexible-engagement-model.webp" alt="flexible-engagement-model"></div>
                     <h5>Delivering Angular JS development solutions since 2008</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/tailor-made-solutions.webp" alt="tailor-made-solutions"></div>
                     <h5>2500+ Projects<br class="d-sm-none">
                         Delivered</h5>
                 </div>
@@ -444,19 +445,19 @@ Template Name: AngularJS
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/budget.webp" alt="budget"></div>
                     <h5>92% Customer Satisfaction</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/quality-assurance.webp" alt="quality-assurance"></div>
                     <h5>365 Days Availability</h5>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="whyUS">
-                    <div><img src="/wp-content/uploads/2023/02/24-7services.webp" alt="service"></div>
+                    <div><img src="../../wp-content/uploads/2023/02/24-7services.webp" alt="service"></div>
                     <h5>High-Quality Development</h5>
                 </div>
             </div>
@@ -471,7 +472,7 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 ProcssWork">
-                <h3 class="mb-5">Why choose US?</h3>
+                <h3 class="mb-5">Why choose Us?</h3>
                 <h4>Skill in AngularJS Development</h4>
                 <p> Leverage the skill and experience of our AngularJS developers who know how to craft superbly designed AngularJS apps in order to maximize ROI.</p>
                 <h4> Clean Coding</h4>
@@ -480,7 +481,7 @@ Template Name: AngularJS
                 <P>Utilizing the latest techniques, approaches, and standards of AngularJS, we develop robust web solutions that attract customers and enhance user experiences.</P>
             </div>
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/AngularJS3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
+                <img src="../../wp-content/uploads/2023/09/angular3.webp" class="wow fadeInRight" data-wow-delay="0.2s"   alt="angularjs-choose">
             </div>
 
         </div>
@@ -494,7 +495,8 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/angular-4.webp" alt="why-choose">
+                <img src="../../wp-content/uploads/2023/09/angular4.webp" alt="why-choose">
+
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
@@ -506,7 +508,7 @@ Template Name: AngularJS
 
 <!-- Industries We Serve As A Leading Angular Web Development Company -->
 
-<section class="sectionPadd bg-orange">
+<section class="sectionPadd" style="background-color: #0D1321; color: #fff;">
     <div class="container">
         <div class="row">
             <div class="fireAdd text-center">
@@ -515,152 +517,152 @@ Template Name: AngularJS
             </div>
         </div>
 
-        <div class="row justify-content-center angularjs-web-develop text-center">
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-1.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Medical</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box"> 
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-2.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Education</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-3.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Business</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-4.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Finance</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-5.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Lifestyle</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-6.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Food &amp; Drink</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-7.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Shopping</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-8.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Music</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-9.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Travel</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-10.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">News</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-11.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Photo &amp; Video</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-12.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Entertainment</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-13.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Social Networking</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-14.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Health &amp; Fitness</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-15.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Sports</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-16.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Weather</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-17.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Logistic</h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                <div class="service-box px-2">
-                    <div class="svg-icon-box">
-                        <img src="https://www.bacancytechnology.com/main-boot-5/images/industries/serve-18.webp" alt="serve">
-                    </div>
-                    <h3 class="text-18 small-heading font-bold" style="height: 30px;">Agritech</h3>
-                </div>
-            </div>
-        </div>
+       <div class="row justify-content-center angularjs-web-develop text-center">
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-1.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Medical</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box"> 
+					   <img src="../../wp-content/uploads/2023/10/serve-2.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Education</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-3.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Business</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-4.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Finance</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-5.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Lifestyle</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-6.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Food &amp; Drink</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-7.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Shopping</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-8.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Music</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-9.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Travel</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-10.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">News</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-11.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Photo &amp; Video</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-12.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Entertainment</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-13.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Social Networking</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-14.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Health &amp; Fitness</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-15.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Sports</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-16.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Weather</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-17.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Logistic</h3>
+			   </div>
+		   </div>
+		   <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+			   <div class="service-box px-2">
+				   <div class="svg-icon-box">
+					   <img src="../../wp-content/uploads/2023/10/serve-18.webp" alt="serve">
+				   </div>
+				   <h3 class="text-18 small-heading font-bold" style="height: 30px;">Agritech</h3>
+			   </div>
+		   </div>
+		</div>
 
 
     </div>
@@ -670,16 +672,16 @@ Template Name: AngularJS
 
 <section class="sectionPadd unit-testing-devel-bg">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
                 <h2>Unit Testing with AngularJS </h2>
                 <P>Unit testing is performed on all modules by splitting them to surface their abstraction level. Unit testing describes the expected functionality and behavior of the modules. AngularJS development services yield clean and error-free applications using test environments that provide solid solutions to enterprise requirements.</P>
             </div>
-        </div>
+        </div> -->
 
         <div class="row ubint-testing-marg angularjs-devcompmay d-flex">
             <div class="col-sm-6 cmd-back-img text-center">
-                <img src="/wp-content/uploads/2023/02/karma-work-flow.webp" alt="karma-work-flow">
+                <img src="../../wp-content/uploads/2023/02/karma-work-flow.webp" alt="karma-work-flow">
             </div>
             <div class="col-sm-6 unit-testing-karma text-center">
                 <h3>Unit Testing with Karma</h3>
@@ -706,7 +708,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/affordable.png" alt="affordable-icon">
+                        <img src="../../wp-content/uploads/2023/01/affordable.png" alt="affordable-icon">
                     </div>
                     <h3>Affordable</h3>
                 </div>
@@ -715,7 +717,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/scalib.png" alt="scalability-icon">
+                        <img src="../../wp-content/uploads/2023/01/scalib.png" alt="scalability-icon">
                     </div>
                     <h3>Scalability</h3>
                 </div>
@@ -724,7 +726,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/flexibility.png" alt="flexibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/flexibility.png" alt="flexibility-icon">
                     </div>
                     <h3>Flexibility </h3>
                 </div>
@@ -732,7 +734,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/rest.png" alt="rest-friendly-icon">
+                        <img src="../../wp-content/uploads/2023/01/rest.png" alt="rest-friendly-icon">
                     </div>
                     <h3>REST Friendly </h3>
                 </div>
@@ -744,7 +746,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/compatibility.png" alt="browser-compatibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/compatibility.png" alt="browser-compatibility-icon">
                     </div>
                     <h3>Browser Compatibility</h3>
                 </div>
@@ -753,7 +755,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/extensibility.png" alt="extensibility-icon">
+                        <img src="../../wp-content/uploads/2023/01/extensibility.png" alt="extensibility-icon">
                     </div>
                     <h3>Extensibility</h3>
                 </div>
@@ -762,7 +764,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/user-interface.png" alt="user-interface-icon">
+                        <img src="../../wp-content/uploads/2023/01/user-interface.png" alt="user-interface-icon">
                     </div>
                     <h3>User Interface </h3>
                 </div>
@@ -770,7 +772,7 @@ Template Name: AngularJS
             <div class="col-md-3 col-sm-6 mb-5">
                 <div class="benefitsja-of-angular text-center">
                     <div class="gap-process-icon">
-                        <img src="/wp-content/uploads/2023/01/export-img.png" alt="fast-loading-icon">
+                        <img src="../../wp-content/uploads/2023/01/export-img.png" alt="fast-loading-icon">
                     </div>
                     <h3>Fast Loading</h3>
                 </div>
@@ -786,11 +788,11 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center">
-                <img src="/wp-content/uploads/2023/02/angular-5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
+                <img src="../../wp-content/uploads/2023/09/angular5.webp"  class="wow fadeInLeft" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">AngularJS Development</h3>
-                <p>Easternts offers excellent open-source Angular front-end framework solutions, and you should hire BitCot for AngularJS development.</p>
+                <p>Edventure Infotech offers excellent open-source Angular front-end framework solutions, and you should hire BitCot for AngularJS development.</p>
             </div>
         </div>
     </div>
@@ -803,7 +805,7 @@ Template Name: AngularJS
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 text-center order-2">
-                <img src="/wp-content/uploads/2023/02/AngularJS2-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
+                <img src="../../wp-content/uploads/2023/02/AngularJS2-1.webp" class="wow fadeInRight" data-wow-delay="0.2s" alt="Angular-JS-Dev-banner">
             </div>
             <div class="col-md-6 ProcssWork">
                 <h3 class="mb-5">Angular js development company</h3>

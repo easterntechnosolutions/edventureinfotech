@@ -17,7 +17,7 @@ Template Name: iPhone App Development
 <?php get_header(); ?>
 
 <section>
-    <div class="firebaseApp">
+    <div class="firebaseApp app-dev-banner">
         <div class="">
             <div class="row text-center">
                 <!-- <div class="">
@@ -55,11 +55,12 @@ Template Name: iPhone App Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img src="/wp-content/uploads/2023/02/iphone-app-development1.webp" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s"   alt="android" style="width: 951px;height: auto;">
+                <img src="../../wp-content/uploads/2023/09/iphone-app-development1-1.png" class="wow fadeInLeft" data-wow-delay="0.4s"  data-wow-duration="3s"   alt="android" style="width: 1000px; height: auto;">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
-                    <p>The popularity of iPhone devices is increasing around the world. Businesses want to take advantage of this popularity by reaching out to a large number of users. Not surprisingly, there is a growing need for iPhone app development in INDIA and around the globe. But, these apps need to be enriched with the right features and technologies to create best impact on customers. That’s why businesses want the support of expert iPhone application development companies to give them assistance to develop a presence on the app store.</p>
+                    <p>
+The global demand for iPhone devices is on the rise, and businesses aim to tap into this expanding user base. Consequently, there is a surging requirement for iPhone app development in India and worldwide. However, to make a significant impression on customers, these apps must incorporate the right features and technologies. This is why businesses seek the expertise of proficient iPhone application development companies to guide them in establishing a presence on the app store.</p>
                 </div>
             </div>
 
@@ -71,11 +72,11 @@ Template Name: iPhone App Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 order2 p0">
-                <img src="/wp-content/uploads/2023/02/iphone-app-development2.webp" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" alt="andoid" style="width: 951px;height: auto;">
+				<img src="../../wp-content/uploads/2023/09/iphone-app-development2.png" class="wow fadeInRight"  data-wow-delay="0.4s" data-wow-duration="3s" alt="andoid" style="width: 1000px; height: auto;">
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <p>If you are looking for an agency that provides reliability and expertise, Eastern Techno Solution comes forward as the ideal choice. An industry presence for a long period of time along with the experience of making a vast range of iOS applications for diverse business clients makes us distinct from others. Our iOS app development team has the right skills, experience, and certifications in this area along with vast knowledge of the latest iOS mobile development technologies.</p>
+                    <p>If you're in search of a dependable and knowledgeable agency, Edventure Infotech stands out as the perfect option. With a longstanding presence in the industry and a track record of creating a wide variety of iOS applications for various business clients, we set ourselves apart. Our iOS app development team possesses the requisite expertise, experience, and certifications in this field, coupled with extensive knowledge of the latest iOS mobile development technologies.</p>
                 </div>
             </div>
         </div>
@@ -90,14 +91,14 @@ Template Name: iPhone App Development
             <div class="fireAdd aboutDevelop  text-center">
                 <h2><b class="">About Development</b> </h2>
                 <p>Beginning with conceptualization and ideation of your vision, we provide you with a guided, step-by-step transformation plan. Quality check is done at every stage of the development process, to ensure that the final product exceeds the user's expectations. Our development process is built around scalable future solutions so that your business continues to grow. This approach makes us an eminent iOS App Development company in India.</p>
-                <img  src="/wp-content/uploads/2023/02/ios-dev-process-diagram.webp">
+                <img  src="../../wp-content/uploads/2023/02/ios-dev-process-diagram.webp">
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="aboutDev">
                     <div class="aboutFeed">
-                        <img src="/wp-content/uploads/2023/02/design-thinking.webp">
+                        <img src="../../wp-content/uploads/2023/02/design-thinking.webp">
                     </div>
                     <div>
                         <p>We follow design thinking and agile methodologies</p>
@@ -107,7 +108,7 @@ Template Name: iPhone App Development
             <div class="col-md-4">
                 <div class="aboutDev">
                     <div class="aboutFeed">
-                        <img src="/wp-content/uploads/2023/02/domain-specialist.webp">
+                        <img src="../../wp-content/uploads/2023/02/domain-specialist.webp">
                     </div>
                     <div>
                         <p>A domain specialist project manager for a business contact</p>
@@ -117,7 +118,7 @@ Template Name: iPhone App Development
             <div class="col-md-4">
                 <div class="aboutDev">
                     <div class="aboutFeed">
-                        <img src="/wp-content/uploads/2023/02/constant-interaction.webp">
+                        <img src="../../wp-content/uploads/2023/02/constant-interaction.webp">
                     </div>
                     <div>
                         <p>Constant interaction with stakeholders, feedback-driven</p>
@@ -132,7 +133,7 @@ Template Name: iPhone App Development
     <div class="container-fluid p0">
         <div class="row appFlex">
             <div class="col-md-6 p0">
-                <img class=" wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" src="/wp-content/uploads/2023/02/iphone-app-development3-scaled.webp">
+                <img class=" wow fadeInLeft" data-wow-delay="0.2s"  data-wow-duration="3s" src="../../wp-content/uploads/2023/09/iphone-app-development3.png">
             </div>
             <div class="col-md-6 order2  p0">
                 <div class="zigZ">
@@ -152,7 +153,7 @@ Template Name: iPhone App Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Latest Technologies</h2>
-                <p>At Eastern Techno Solutions, we love to work with the latest technology that helps us to unlock the new possibilities that can help our clients to grow their businesses exponentially.</p>
+                <p>At Edventure Infotech, we love to work with the latest technology that helps us to unlock the new possibilities that can help our clients to grow their businesses exponentially.</p>
             </div>
         </div>
 
@@ -827,40 +828,40 @@ Template Name: iPhone App Development
         <div class="row devTools">
             <div class="col-md-1"></div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/swift.webp">
+                <img src="../../wp-content/uploads/2023/02/swift.webp">
                 <h4>Swift</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/xcode.webp">
+                <img src="../../wp-content/uploads/2023/02/xcode.webp">
                 <h4>XCode</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/instruments.webp">
+                <img src="../../wp-content/uploads/2023/02/instruments.webp">
                 <h4>Instruments</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/core-data.webp">
+                <img src="../../wp-content/uploads/2023/02/core-data.webp">
                 <h4>Core Data</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/realmee.webp">
+                <img src="../../wp-content/uploads/2023/02/realmee.webp">
                 <h4>Realme</h4>
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/ipad.webp">
+                <img src="../../wp-content/uploads/2023/02/ipad.webp">
                 <h4>iPad</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/iphone.webp">
+                <img src="../../wp-content/uploads/2023/02/iphone.webp">
                 <h4>iPhone</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/apple-watchh.webp">
+                <img src="../../wp-content/uploads/2023/02/apple-watchh.webp">
                 <h4>Apple Watch</h4>
             </div>
             <div class="col-md-2 col-sm-4 col-6 devswift">
-                <img src="/wp-content/uploads/2023/02/apple-tvv.webp">
+                <img src="../../wp-content/uploads/2023/02/apple-tvv.webp">
                 <h4>Apple TV</h4>
             </div>
         </div>
@@ -873,9 +874,9 @@ Template Name: iPhone App Development
         <div class="row rightSup">
             <div class="col-md-6 righStart">
                 <div>
-                    <h3> Right support to turn your startup <b class=""> into profitable venture </b> </h3>
-					<p><a href="tel:+91 704 682 7566">+91 704 682 7566</a>
-                        <br><a href="mailto:contact@easternts.com"> contact@easternts.com </a>
+                    <h3> Supporting Your Startup's Growth<b class=""> into profitable venture </b> </h3>
+					<p><!-- <a href="tel:+91 704 682 7566">+91 704 682 7566</a> --> 
+                        <a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
                     </p>
                     <div class="comBtn2 buildBtn">
                         <a href="javascript:void(0);" class="subscriber-form comBtn">Contact Us</a>
@@ -883,7 +884,7 @@ Template Name: iPhone App Development
                 </div>
             </div>
             <div class="col-md-6 text-center righhtMmarg">
-                <img src="https://www.easternts.com.au/wp-content/uploads/2020/08/inquiry.png" alt="inquiry">
+                <img src="../../wp-content/uploads/2023/09/enquiry-us.png" alt="inquiry">
             </div>
         </div>
     </div>
@@ -891,7 +892,7 @@ Template Name: iPhone App Development
 
 <!-- 5 iPhone -->
 
-<section class="rightsecondpadd">
+<section class="rightsecondpadd sectionPadd">
     <div class="container">
         <div class="fireAdd aboutDevelop  text-center">
             <h2><b>Custom iOS App Development Service</b></h2>
@@ -901,23 +902,23 @@ Template Name: iPhone App Development
         <div class="row">
             <div class="col-md-1 col-sm-1"></div>
             <div class="col-md-2 col-sm-2 iphonetab">
-                <img src="/wp-content/uploads/2023/02/tab1.webp" alt="tab">
+                <img src="../../wp-content/uploads/2023/02/tab1.webp" alt="tab">
                 <h4>IPHONE</h4>
             </div>
             <div class="col-md-2 col-sm-2 iphonetab">
-                <img src="/wp-content/uploads/2023/02/tab2.webp" alt="tab">
+                <img src="../../wp-content/uploads/2023/02/tab2.webp" alt="tab">
                 <h4>IPAD</h4>
             </div>
             <div class="col-md-2 col-sm-2 iphonetab">
-                <img src="/wp-content/uploads/2023/02/tab3.webp" alt="tab">
+                <img src="../../wp-content/uploads/2023/02/tab3.webp" alt="tab">
                 <h4>IWATCH</h4>
             </div>
             <div class="col-md-2 col-sm-2 iphonetab">
-                <img src="/wp-content/uploads/2023/02/tab4.webp" alt="tab">
+                <img src="../../wp-content/uploads/2023/02/tab4.webp" alt="tab">
                 <h4>IMAC</h4>
             </div>
             <div class="col-md-2 col-sm-2 iphonetab">
-                <img src="/wp-content/uploads/2023/02/tab5.webp" alt="tab">
+                <img src="../../wp-content/uploads/2023/02/tab5.webp" alt="tab">
                 <h4>APPLE TV</h4>
             </div>
             <div class="col-md-1 col-sm-1"></div>
@@ -936,48 +937,48 @@ Template Name: iPhone App Development
         <div class="row">
             <div class="fireAdd text-center">
                 <h2>Latest Technologies</h2>
-                <p>At Eastern Techno Solutions, we love working with the latest technology. This helps us unlock new possibilities that can help our clients grow their businesses exponentially.</p>
+                <p>At Edventure Infotech, we love working with the latest technology. This helps us unlock new possibilities that can help our clients grow their businesses exponentially.</p>
             </div>
         </div>
         <div class="row latestTEcflex">
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/chat-apps.webp" alt="chat-apps">
+                <img src="../../wp-content/uploads/2023/01/chat-apps.webp" alt="chat-apps">
                 <h4> <b>Chat </b> Apps </h4> 
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/multimedia-apps.webp" alt="multimedia-apps">
+                <img src="../../wp-content/uploads/2023/01/multimedia-apps.webp" alt="multimedia-apps">
                 <h4> <b>Multimedia </b> Apps </h4>
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/education-apps.webp" alt="education-apps">
+                <img src="../../wp-content/uploads/2023/01/education-apps.webp" alt="education-apps">
                <h4> <b>Education </b> Apps </h4>
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/geo-location-apps.webp" alt="geo-location-apps">
+                <img src="../../wp-content/uploads/2023/01/geo-location-apps.webp" alt="geo-location-apps">
                 <h4> <b>Geo-Location </b> Apps </h4>
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/gaming-apps.webp" alt="gaming-apps">
+                <img src="../../wp-content/uploads/2023/01/gaming-apps.webp" alt="gaming-apps">
                   <h4> <b>Gaming </b> Apps </h4> 
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/on-demand-apps.webp" alt="on-demand-apps">
+                <img src="../../wp-content/uploads/2023/01/on-demand-apps.webp" alt="on-demand-apps">
                 <h4> <b>On Demand </b> Apps </h4> 
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/utility-apps.webp" alt="utility-apps">
+                <img src="../../wp-content/uploads/2023/01/utility-apps.webp" alt="utility-apps">
                <h4> <b>Utility </b> Apps </h4> 
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/Iot-apps.webp" alt="iot-apps">
+                <img src="../../wp-content/uploads/2023/01/Iot-apps.webp" alt="iot-apps">
               <h4> <b>IoT </b> Apps </h4>
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/ride-apps.webp" alt="ride-apps">
+                <img src="../../wp-content/uploads/2023/01/ride-apps.webp" alt="ride-apps">
                 <h4> <b>Ride </b> Apps </h4> 
             </div>
             <div class="col-md-2 col-sm-3 col-6 latestTechon">
-                <img src="/wp-content/uploads/2023/01/ar-vr-apps.webp" alt="ar-vr-apps">
+                <img src="../../wp-content/uploads/2023/01/ar-vr-apps.webp" alt="ar-vr-apps">
                 <h4> <b>AR-VR </b> Apps </h4>
             </div>
         </div>
@@ -1029,7 +1030,7 @@ Template Name: iPhone App Development
                     <div><i class="fab fa-apple"></i></div>
                     <div class="ourIosUi">
                         <h3>Enterprise iOS App</h3>
-                        <p>Eastern Techno Solution offers robust and scalable enterprise iOS application development services to large business enterprises in Surat, Gujarat.</p>
+                        <p>Edventure Infotech offers robust and scalable enterprise iOS application development services to large business enterprises in Surat, Gujarat.</p>
                     </div>
                 </div>
             </div>
@@ -1061,14 +1062,14 @@ Template Name: iPhone App Development
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-4 text-center">
-                <img src="/wp-content/uploads/2023/02/mobile_image.webp" class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" alt="Mobile_image">
+                <img src="../../wp-content/uploads/2023/02/mobile_image.webp" class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" alt="Mobile_image">
             </div>
             <div class="col-md-8 techexperts">
                 <h2>Technical skills of our iOS experts</h2>
                 <div class="row">
                     <div class="col-md-6 techskil">
                         <h3>UI/UX Design Approach</h3>
-                        <p>If you need iPhone application development services, we have the right skill set and extensive experience which could be suitable for your business.</p>
+                        <p>If you need iPhone application development services, we have the right skill set and extensive experience that could be suitable for your business.</p>
                     </div>
                     <div class="col-md-6 techskil">
                         <h3>App Optimisation</h3>
@@ -1094,57 +1095,57 @@ Template Name: iPhone App Development
     <div class="container">
         <div class="row">
             <div class="fireAdd aboutDevelop  text-center">
-                <h2><b class="">Why Choose Eastern? </b> </h2>
-                <p>We at Eastern Techno Solutions offer customize iOS app development services for the mobile app development projects. Our consultants will identify the most profitable growth roadmap for your mobile app, build capabilities using Firebase and create solid front-end mobile apps.</p>
+                <h2><b class="">Why Choose Edventure Infotech? </b> </h2>
+                <p>We at Edventure Infotech offer customize iOS app development services for the mobile app development projects. Our consultants will identify the most profitable growth roadmap for your mobile app, build capabilities using Firebase and create solid front-end mobile apps.</p>
             </div>
         </div>
         <div class="row">
             <div class="row">
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>NDA Security</h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>QA Tested & Bug Free Solution</h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>On Time Delivery </h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>Source Code Authorization </h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>No Hidden Cost </h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>Comprehensive Reporting </h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>Security and IP Protection </h4>
                     </div>
                 </div>
                 <div class="col-md-3  col-sm-6 col-6 choosEts">
                     <div>
-                        <img src="/wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
+                        <img src="../../wp-content/uploads/2021/10/NDA-security.png" alt="NDA-security">
                         <h4>Quick Team Scaling </h4>
                     </div>
                 </div>
@@ -1160,7 +1161,7 @@ Template Name: iPhone App Development
         <div class="row enhance text-center">
             <h2>Give your users an unforgettable digital experience!</h2>
             <hr class="enhacHr">
-            <p>From consultation to conception to completion, our talented app developers team will help you at each step of the iPhone app development process, turning your vision into reality.</p>
+            <p class="text-center-important">From consultation to conception to completion, our talented app developers team will help you at each step of the iPhone app development process, turning your vision into reality.</p>
             <div class="comBtn2 buildBtn">
                 <a href="javascript:void(0);" class="subscriber-form comBtn">Contact us Today!</a>
             </div>

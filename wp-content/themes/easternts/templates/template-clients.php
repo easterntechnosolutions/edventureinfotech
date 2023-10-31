@@ -7,18 +7,16 @@ Template Name: Client
   <?php get_header(); ?>
   
   <section>
-      <div class="firebaseApp">
+      <div class="firebaseApp clients-banner">
           <div class="">
               <div class="row text-center">
-                  <!-- <div class="">
-                      <img src="https://www.easternts.com.au/wp-content/uploads/2019/05/App-Development.jpg">
-                  </div> -->
                   <div class="serimg">
                       <div class="sercon ">
                           <div class="text-start container">
-                              <h1><?php the_title(); ?></h1>
-                              <p>Our alliance with them help provide skilled and tailored solutions.
-                              </p>
+                                <h1><?php the_title(); ?></h1>
+                                <p>
+                                    Empowering Success Stories through our Valued Partners and Clients
+                                </p>
                           </div>
                       </div>
                   </div>
@@ -35,8 +33,9 @@ Template Name: Client
     <div class="container">
         <div class="row d-flex">
             <div class="col-lg-12 ProcssWork text-center">
-                <p>Over the years, Eastern Techno Solutions has evolved into one of the leading web development and app development companies in Australia and India. Our expertise, lets us cater to a wide range of diverse businesses. Crediting our knowledge and resources, we have provided personalised services to each of our clients. Here are the brands that are a part of Eastern Techno Solution’s family.
-                  </p>
+                <p>
+                    Edventure InfoTech has emerged as a top-tier web and app development agency in Ontario, Canada. With our extensive expertise, we effectively serve a wide spectrum of businesses. Leveraging our knowledge and resources, we deliver customized solutions to every client. Below, you'll find the esteemed brands that form a part of Edventure InfoTech’s valued network.    
+                </p>
             </div>
         </div>
 

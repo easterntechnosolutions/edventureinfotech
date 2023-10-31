@@ -61,7 +61,7 @@ Template Name: Email Marketing
                 <div class="fireAdd mb-0">
                     <h2>The Agency with Top Email Marketing Services.</h2>
                 </div>
-                <!-- <h3 class="mb-5">Why Eastern Techno Solution is Trustworthy Laravel Development Agency?</h3> -->
+                <!-- <h3 class="mb-5">Why Edventure Infotech is Trustworthy Laravel Development Agency?</h3> -->
                 <p>SeeResponse is an email marketing agency focused on using email marketing as a growth strategy for our clients. We work hand in hand with your in-house team to ensure you're able to leverage the strengths of both sides, innovate, and continue to grow. Ride on our expertise and knowledge to discover new ways of expanding your software and internet business.
                 </p>
                 <p>SeeResponse is one of the top email marketing companies in the United States. We are proud to be recognized by Clutch as a Market Leader in the Email Marketing category on their Leaders Matrix.</p>
@@ -198,7 +198,7 @@ Template Name: Email Marketing
                 <div class="fireAdd mb-0">
                     <h2>Email Marketing Strategy</h2>
                 </div>
-                <!-- <h3 class="mb-5">Why Eastern Techno Solution is Trustworthy Laravel Development Agency?</h3> -->
+                <!-- <h3 class="mb-5">Why Edventure Infotech is Trustworthy Laravel Development Agency?</h3> -->
                 <p>Got an email marketing challenge you need to solve? Having trouble figuring out where to start? We can help you plan your email marketing strategy and prepare a roadmap.</p>
             </div>
 

@@ -8,24 +8,25 @@
 
 <!-- We develope -->
 
-<section class="colororang">
-    <div class="container ">
-        <div class="row text-center developBeautiful">
-            <h4>We develop Beautiful native apps in record time with Flutter.
-                <a href="<?php the_permalink(27); ?>">Get Started</a>
-            </h4>
+<a href="<?php the_permalink(27); ?>">
+    <section class="colororang sub-header">
+        <div class="container ">
+            <div class="row text-center developBeautiful">
+                <h4>We develop Beautiful native apps in record time with Flutter.
+                    <span>Get Started</span>
+                </h4>
+            </div>
         </div>
-    </div>
-</section>
-
+    </section>
+</a>
 <!-- Hero section -->
 
 <section>
     <div class="Hero-back">
         <div class="container">
             <div class="row text-center">
-                <p>We provide creative web design, web development, mobile development and digital marketing services in Surat-Gujarat, INDIA</p>
-                 <!-- <h3 class="typeText"></h3> -->
+<!--                  <h1>Edventure Infotech</h1> -->
+                 <h1 class="word"></h1>					
             </div>
         </div>
     </div>
@@ -37,11 +38,10 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp ">
-                <h3>Gain competitive edge through digital innovation</h3>
+                <h3>Elevate Your Business with Cutting-Edge Digital Solutions</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
 				 <button class="subscriber-form  free-quote "> Get a Free Quote </button>
-<!--                 <a herf="#"  class="subscriber-form pum-trigger "> Get a Free Quote </a> -->
             </div>
         </div>
     </div>
@@ -53,8 +53,8 @@
     <div class="container">
         <div class="row ">
             <div class="OurServices text-center">
-                <h2>Our Services</h2>
-                <p>Our team is prepared to adapt to any changes while working towards achieving the goal.</p>
+                <h2>What We Offer</h2>
+                <p>Empowering Your Digital Journey with Expert Services</p>
             </div>
         </div>
 
@@ -62,9 +62,9 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/iphone-Development-1.webp" alt="iphone" width="41" height="41">
                         <h4>iPhone App Development</h4>
-                        <p>Experienced in developing iOS applications with a dedicated team. Our commitment to excellence ensures the highest quality service in class. Furthermore, we are keen on keeping our clients informed of our progress on a regular basis.</p>
+                        <p>We possess extensive expertise in crafting iOS applications through a dedicated team. Our unwavering dedication to delivering top-notch quality sets us apart. Additionally, we prioritize transparent communication with our clients, providing regular updates on project progress.</p>
                         <a href="<?php echo get_permalink(44); ?>">Read More...</a>
                     </div>
                 </div>
@@ -72,9 +72,10 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/android-development-1.webp" alt="android" width="41" height="41">
                         <h4> Android App Development </h4>
-                        <p>When it comes to design, graphics, code, or animation, we have excelled in all the possible areas of building an application. We at "Eastern Techno Solutions" provide the exact requirements determined by the client.</p>
+
+                        <p>In the realms of design, graphics, code, and animation, we have demonstrated exceptional proficiency in every facet of application development. At 'EDVENTURE INFOTECH,' we meticulously deliver precisely what our clients envision and require.</p>
                         <a href="<?php echo get_permalink(43); ?>">Read More...</a>
 
                     </div>
@@ -83,9 +84,9 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/flutter.webp" alt="flutter" width="41" height="41">
                         <h4>Flutter App Development </h4>
-                        <p>The user interface of your application should not be a restriction on what your application can do. Through our Native App Development in Flutter, we can develop your app compatible with both Android and iOS users.</p>
+                        <p>Break free from limitations imposed by your app's user interface. With our expertise in Native App Development using Flutter, we create applications that seamlessly cater to both Android and iOS users, ensuring a versatile and inclusive user experience for all customers.</p>
                         <a href="<?php echo get_permalink(27); ?>">Read More...</a>
                     </div>
                 </div>
@@ -93,9 +94,9 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/laravel_icon_01.webp" alt="laravel" width="41" height="41">
                         <h4>Laravel Development </h4>
-                        <p>Laravel is one of the most powerful and elegant PHP frameworks that enables you to build web applications with ease, yet in a meaningful manner. With our help, you can build a website according to your specifications.</p>
+                        <p>Laravel stands as a robust and sophisticated PHP framework, facilitating the streamlined development of web applications with both simplicity and depth. Our expertise empowers you to craft a website tailored precisely to your unique specifications.</p>
                         <a href="<?php echo get_permalink(704); ?>">Read More...</a>
                     </div>
                 </div>
@@ -103,9 +104,11 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
+                        <img src="wp-content/uploads/2021/11/e-commerce-1.webp" alt="ecommerce" width="41" height="41">
                         <h4>E-Commerce </h4>
-                        <p>E-commerce refers to commercial transactions conducted electronically on the internet. At "Eastern Techno Solutions", we provide unique eCommerce web development services by creating cutting-edge online storefronts.</p>
+
+                        <p>We specialize in crafting state-of-the-art eCommerce platforms, enabling electronic commercial transactions on the internet. Our expertise lies in delivering unique web development services, creating innovative online storefronts for seamless digital commerce experiences.</p>
+
                         <a href="<?php echo get_permalink(300); ?>">Read More...</a>
                     </div>
                 </div>
@@ -113,32 +116,93 @@
             <div class="col-md-4 col-sm-6">
                 <div class="ourCards">
                     <div class="ourDetails">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
-                        <h4> Software Development</h4>
-                        <p>Software plays a crucial role when it comes to efficiency, accuracy, time-saving, security and affordability. It is our goal at "Eastern Techno Solutions" to ensure the safe delivery of your data without compromising it.</p>
-                        <a href="<?php echo get_permalink(710); ?>">Read More...</a>
+                        <img src="wp-content/uploads/2021/11/software-development-1.webp" alt="software" width="41" height="41">
+                        <h4>SAP</h4>
+                        <p>
+                            With our expertise take your business to new heights of efficiency, innovation, and growth. We can seamlessly integrate SAP solutions into your operations, revolutionizing the way you manage processes, data, and customer relationships.
+                        </p>
+
+                        <a href="<?php echo get_permalink(9740); ?>">Read More...</a>
                     </div>
                 </div>
             </div>
+            <div class="col-12 view-more text-center" style="margin: 17px 0;">
+                <a href="<?php echo get_permalink(221); ?>" class="comBtn" style="margin-top: 50px;">View All</a>
+            </div>
         </div>
 
-        <div class="row ">
-            <div class="comBtn2 text-center">
-                <a href="<?php echo get_permalink(221); ?>" class="comBtn">View All</a>
+    </div>
+</section>
+
+<!-- Our Expertise  -->
+
+<section class="sectionPadd secPaddtable" style="background-color: #0D1321; padding: 60px 0 100px;">
+    <div class="container">
+        <div class="row">
+            <div class="OurServices text-center">
+                <h2 style="color: #fff">Our Expertise</h2>
+                <p style="color: #fff">Mastering the Craft, Delivering Excellence</p>
             </div>
+        </div>
+
+        <div class="row d-inline">
+			
+			<div class="col-md-6 col-sm-12 wow bounceInLeft" data-wow-delay="0.4s">
+                <a href="<?php echo get_permalink(712); ?>">
+
+                    <div class="ourExpert ourmarg">
+                        <img src="wp-content/uploads/2023/09/mob-dev.gif" alt="mobile">
+
+                        <div class="exportTitle">
+                            <h3>Mobile App Development</h3>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="<?php echo get_permalink(714); ?>">
+                    <div class="ourExpert ourmarg">
+                        <img src="wp-content/uploads/2023/09/web-dev1.gif" alt="creative">
+
+                        <div class="exportTitle">
+                            <h3>Web Development</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-12 wow bounceInRight" data-wow-delay="0.4s">
+                <a href="<?php echo get_permalink(9740); ?>">
+                    <div class="ourExpert ourmarg">
+
+                        <img src="wp-content/uploads/2023/09/pos-1.gif" alt="creative">
+
+                        <div class="exportTitle">
+                            <h3>SAP</h3>
+                        </div>
+                    </div>
+                </a>
+                <a href="<?php echo get_permalink(713); ?>">
+                    <div class="ourExpert ourmarg">
+                        <img src="wp-content/uploads/2023/09/web-dev.gif" alt="webdevelopment">
+                        <div class="exportTitle">
+                            <h3>Web Application</h3>
+                        </div>
+                    </div>
+                </a>                
+            </div>
+			
         </div>
     </div>
 </section>
 
 <!-- Technology Stack -->
 
-<section class="">
+<!-- <section class="sectionPadd" style="background-color: rgb(246, 246, 246);"> -->
+<section class="sectionPadd">
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">
                 <h2>Technology Stack</h2>
-                 <!-- <h1>ETS Projects</h1> -->
-                <p>We can easily be your One-Stop Solution, which means that if you need IT, we can provide it to you. </p>
+                <p>Building Tomorrow's Solutions with Cutting-Edge Tech Stack</p>
             </div>
         </div>
         <div class="row techno-stack">
@@ -146,91 +210,5 @@
         </div>
     </div>
 </section>
-
-<!-- Our Expertise  -->
-
-<section class="sectionPadd secPaddtable">
-    <div class="container">
-        <div class="row">
-            <div class="OurServices text-center">
-                <h2>Our Expertise</h2>
-                <p>A very creative company specializing in web design, web development, mobile app development & digital marketing in Surat - Gujarat (INDIA).</p>
-            </div>
-        </div>
-
-        <div class="row d-inline">
-            <div class="col-md-7 col-sm-12">
-                <a href="<?php echo get_permalink(712); ?>">
-                    <div class="ourExpert">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/mobileapp.gif" alt="mobile" width="" height="">
-                        <div class="exportTitle">
-                            <h3>Mobile App Development</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-5 col-sm-12 bounceInLeft" data-wow-delay="0.4s">
-                <a href="<?php echo get_permalink(713); ?>">
-                    <div class="ourExpert ourmarg monileMarg ">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-design.gif" alt="webdevelopment" width="" height="">
-                        <div class="exportTitle">
-                            <h3>Web Application</h3>
-                        </div>
-                    </div>
-                </a>
-                <a href="<?php echo get_permalink(714); ?>">
-                    <div class="ourExpert ourmarg">
-                        <img src="http://localhost/edventureinfotech/wp-content/uploads/2021/10/web-development.gif" alt="creative" width="" height="">
-                        <div class="exportTitle">
-                            <h3>Web Development</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- We can help -->
-
-<!-- <section class="weCanhalp ">
-    <img class="weImg weLf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets1.png">
-    <img class="weImg weRf" src="https://www.easternts.com.au/wp-content/uploads/2020/03/call-ets2.png">
-    <div class="container ">
-        <div class="row text-center">
-            <div class="weCan">
-                <h3>We can help you build what you have been thinking about.</h3>
-            </div>
-            <div class="comBtn2 text-center">
-                <a href="/" class="comBtn">Call Us </a>
-            </div>
-        </div>
-    </div>
-</section> -->
-
-<!-- Subscribe newsletter -->
-<!-- 
-<section class="subNew">
-    <div class="container">
-        <div class="row d-flex">
-            <div class="col-md-5 SubPadd">
-                <h3>Subscribe to our <span class="colororeang">newsletter</span></h3>
-            </div>
-            <div class="col-md-7 SubPadd">
-                <div class="row">
-                    <div class=" col-md-7 col-sm-7 SubPadd">
-                        <input type="gmail" class="emailInput" placeholder="Email">
-                    </div>
-
-                    <div class="comBtn2 col-md-5 col-sm-5  SubPadd text-center">
-                        <a href="" class="subbtn">Subscribe </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-
-
 
 <?php get_footer(); ?>

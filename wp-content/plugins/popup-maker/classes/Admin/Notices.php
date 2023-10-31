@@ -1,8 +1,9 @@
 <?php
 /**
- * Notices handler.
+ * Class for Admin Notices
  *
- * @package PUM\Core
+ * @package   PUM
+ * @copyright Copyright (c) 2023, Code Atlantic LLC
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -119,7 +120,7 @@ class PUM_Admin_Notices {
 					if ( ! empty( $type ) ) {
 						switch ( $type ) {
 							case 'plugin':
-								if ( $extra && ! is_plugin_active( $extra ) ) {
+								if ( $extra && ! is_plugin_active( "$extra/$extra.php" ) ) {
 									unset( $notices[ $key ] );
 								}
 								break;
@@ -257,7 +258,7 @@ class PUM_Admin_Notices {
 	 * @return bool
 	 */
 	public static function check_environment( $type ) {
-		$env = wp_get_environment_type();
+		$env = function_exists( 'wp_get_environment_type' ) ? wp_get_environment_type() : 'production';
 
 		switch ( $type ) {
 			case 'local':
