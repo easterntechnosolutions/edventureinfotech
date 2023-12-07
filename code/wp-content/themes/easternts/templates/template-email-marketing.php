@@ -46,7 +46,7 @@ Template Name: Email Marketing
                 </h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-                <a href="tel:61420822457">CALL US TODAY! </a>
+                <a href="tel:+1(437)559-9090">CALL US TODAY! </a>
             </div>
         </div>
     </div>

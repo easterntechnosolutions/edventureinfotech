@@ -197,7 +197,7 @@
 <!-- Technology Stack -->
 
 <!-- <section class="sectionPadd" style="background-color: rgb(246, 246, 246);"> -->
-<section class="sectionPadd">
+<section class="sectionPadd tech">
     <div class="container">
         <div class="row">
             <div class="OurServices text-center">

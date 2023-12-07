@@ -31,10 +31,47 @@ Template Name: About us
                 <h3>Bring your application to life with Edventure Infotech</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-                  <a href="javascript:void(0);"  class="subscriber-form">KNOW HOW</a>
+                  <a href="javascript:void(0);"  class="subscriber-form">Know How</a>
             </div>
         </div>
     </div>
+</section>
+
+<section class="sectionPadd">
+      <div class="container">
+            <div class="row d-flex">
+                  <div class="col-lg-8 col-md-12 fireAdd who-we-are-about">
+                        <h2 class="mb-4">Pradipsinh Barad (B. Eng, M.B.A)</h2>
+                        <p class="mb-3">Pradipsinh Barad is an accomplished entrepreneur and management consultant, with 30+ years of experience under his belt. Throughout his illustrious career, he has successfully founded and managed thriving enterprises spanning diverse sectors, including real estate, land development, abroad education and restaurants. With a rich history of navigating the complexities of business strategy, he brings a wealth of experience and a proven track record of driving organizational success. 
+</p>  
+					    <p class="mb-3">At the heart of Pradipsinh’s expertise is a deep understanding of the nuances involved in launching and growing a successful Startup. From crafting compelling business plans to navigating the complexities of funding and scaling, he has been a driving force behind numerous Startup success stories. Navigating market dynamics is a forte for Pradipsinh, who excels in helping Startup’s find their unique value proposition and establish a strong market presence.
+</p>  
+					    <p class="mb-3">As Pradipsinh spearheads our operations, we are confident in the bright future that lies ahead. With a visionary at the helm, Edventure Infotech is well-positioned to navigate the challenges of today's business landscape and capitalize on the opportunities that tomorrow holds.
+</p>  
+                  </div>
+                  <div class="col-lg-4 col-md-12">
+                        <img src="../wp-content/uploads/2023/12/team-member.png" alt="team member"  class="wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="3s" title="">
+                  </div>
+            </div>
+      </div>
+</section>
+<section class="sectionPadd bg-orange">
+      <div class="container">
+            <div class="row d-flex">
+                  <div class="col-lg-8 col-md-12 fireAdd who-we-are-about order-2">
+                        <h2 class="mb-4">Vimalbhai Patel</h2>
+                        <p class="mb-3">Introducing our visionary CEO, Vimalbhai Patel, a seasoned entrepreneur with over 30+ years of diverse experience across real estate, export-import, and the insurance sector. Fueled by a relentless passion for innovation, he now sets his sights on pioneering a new chapter in the technological landscape by establishing an IT company in Canada.
+</p>
+					    <p class="mb-3">Our CEO's journey is marked by a trail of successful ventures and a steadfast commitment to pushing boundaries. With an illustrious career spanning real estate, export-import, and insurance, he brings a wealth of knowledge and a proven track record of turning vision into reality.
+</p>  
+					    <p class="mb-3">His three decades of experience have cultivated a unique perspective that blends strategic acumen with a deep understanding of various industries. Underlying our CEO's entrepreneurial journey is a commitment to excellence. He envisions the IT company as a beacon of innovation, fostering a culture that values creativity, collaboration, and forward-thinking solutions.
+</p>                                           
+                  </div>
+                  <div class="col-lg-4 col-md-12">
+                        <img src="../wp-content/uploads/2023/12/team-ceo.png" alt="team ceo"  class="wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="3s" title="">
+                  </div>
+            </div>
+      </div>
 </section>
 
 <!-- Who We Are  -->
@@ -117,7 +154,7 @@ Template Name: About us
 
 <!-- Things We have Achieved -->
 
-<section class="sectionPadd position-relative why-should-you-choose">
+<!-- <section class="sectionPadd position-relative why-should-you-choose">
       <div class="container">
             <div class="row">
                   <div class=" fireAdd  text-white col-md-12 text-center ProcssWork">
@@ -177,8 +214,7 @@ Template Name: About us
                   </div>
             </div>
     </div>
-</section>
-
+</section> -->
 <!-- How We Work?  -->
 
 <section class="sectionPadd bg-orange">

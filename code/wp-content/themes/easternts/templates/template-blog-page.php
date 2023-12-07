@@ -50,6 +50,7 @@ $the_query = new WP_Query( $args );  ?>
 
 <section class="blog-page-padd">
     <div class="container">
+		<h2 class="error-title text-center" style="padding: 50px 0 70px; font-size: 46px;">Coming Soon!</h2>
         <div class="row d-flow-root">
         <?php while ( $the_query->have_posts() ) : $the_query->the_post();  ?>
             <div class="col-md-4 col-sm-6 bog-artical">

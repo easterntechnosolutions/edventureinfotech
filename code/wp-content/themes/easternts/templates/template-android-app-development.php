@@ -304,7 +304,7 @@
                 <h2>Android App <br> Development Company</h2>
                 <p class="text-justify">Transform your Android and iOS mobile app using the industry’s newest yet fastest-evolving cross-platform Android framework.</p>
                 <div class="comBtn2 buildBtn">
-                    <a href="tel:+91 760 001 5802" class="comBtn">CALL US TODAY!</a>
+                    <a href="tel:+1(437)559-9090" class="comBtn">CALL US TODAY!</a>
                 </div>
             </div>
             <div class="col-md-6 text-center">
@@ -419,35 +419,35 @@
     <div class="container-fluid d-block">
         <div class="row">
             <div class="owl-carousel owl-theme">
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/grocery.webp" alt="grocery">
                     <h4>Grocery</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/ecommerce.webp" alt="ecommerce">
                     <h4>Ecommerce</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/travel.webp" alt="travel">
                     <h4>Tour & Travel</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/entertainment.webp" alt="entertainment">
                     <h4>Entertainment</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/healthcare.webp" alt="healthcare">
                     <h4> Health & Fitness App</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/finance.webp" alt="finance">
                     <h4>Business</h4>
                 </div>
-                <div class="item areasSlider android-slider">
+                <div class="item areasSlider android-slider text-center">
                     <img src="../../wp-content/uploads/2023/02/blockchain.webp" alt="blockchain">
                     <h4>Blockchain</h4>
                 </div>
-                <div class="item areasSlider android-slider"> 
+                <div class="item areasSlider android-slider text-center"> 
                     <img src="../../wp-content/uploads/2023/02/education.webp" alt="education">
                     <h4>Education</h4>
                 </div>

@@ -42,12 +42,12 @@
 				<div>
 					<div id="header-logo" class="row d-flex">
 <!-- 						<div class="col-sm-5 bgLogocss col-md-3"> -->
-						<div class="col-sm-5 col-md-3">
+						<div class="col-sm-5 col-md-4">
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="">								
 								<img src="<?php echo get_template_directory_uri(); ?>/images/edventure-logo.png" class="header-logo" alt="Logo"  height="100%" width="100%"/>
 							</a>
 						</div>
-						<div class="col-sm-12 col-md-9 text-center res_menu hidden-sm-down" id="site-navigation">
+						<div class="col-sm-12 col-md-8 text-center res_menu hidden-sm-down" id="site-navigation">
 							<!-- <span class="responsive-menu" id="responsive-menu"><i class="fa fa-bars"></i></span> -->
 							<nav class="primary-menu">
 								<div class="menu">

@@ -15,7 +15,7 @@ Template Name: Client
                           <div class="text-start container">
                                 <h1><?php the_title(); ?></h1>
                                 <p>
-                                    Empowering Success Stories through our Valued Partners and Clients
+                                    Empowering Success Stories Through Our Valued Partners And Clients
                                 </p>
                           </div>
                       </div>

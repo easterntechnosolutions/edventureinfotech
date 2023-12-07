@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: iPhone App Development
+Template Name: iOS App Development
 */
 ?>
 
@@ -26,7 +26,7 @@ Template Name: iPhone App Development
                 <div class="serimg">
                     <div class="sercon ">
                         <div class="text-start container">
-                            <h1>iPhone App Development</h1>
+                            <h1>iOS App Development</h1>
                             <p>Reign over the App Store</p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ Template Name: iPhone App Development
                 <h3>App development that is responsive and intuitive!</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-				 <a href="javascript:void(0);"  class="subscriber-form">CALL US TODAY!</a>
+				 <a href="javascript:void(0);"  class="subscriber-form">Call Us Today!</a>
             </div>
         </div>
     </div>
@@ -875,8 +875,9 @@ The global demand for iPhone devices is on the rise, and businesses aim to tap i
             <div class="col-md-6 righStart">
                 <div>
                     <h3> Supporting Your Startup's Growth<b class=""> into profitable venture </b> </h3>
-					<p><!-- <a href="tel:+91 704 682 7566">+91 704 682 7566</a> --> 
-                        <a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
+					<p>
+						<a href="tel:+1(437)559-9090">+1(437)559-9090</a> 
+<!--                         <a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a> -->
                     </p>
                     <div class="comBtn2 buildBtn">
                         <a href="javascript:void(0);" class="subscriber-form comBtn">Contact Us</a>

@@ -6,7 +6,7 @@ var words = ['Edventure Infotech - Bringing Imagination To Life'],
     forwards = true,
     skip_count = 0,
     skip_delay = 0,
-    speed = 70;
+    speed = 55;
 var wordflick = function () {
   setInterval(function () {
     if (forwards) {

@@ -257,7 +257,7 @@ When you develop an app using the traditional method, you typically have to writ
     <div class="container-fluid">
         <div class="row">
             <div class="fireAdd text-center">
-                <h2>Why Choose FireBase <span class="colorblue"></span></h2>
+                <h2>Why Choose Firebase <span class="colorblue"></span></h2>
             </div>
         </div>
         <div class="row">

@@ -87,8 +87,7 @@ Template Name: Website development
            <div class="col-md-6">
                 <div class="fireAdd">
                     <h2>WordPress</h2>
-                    <p>Effective web design is pointless if it's not user-friendly for business owners. With our WordPress development, you can have the best of both worlds. Our passion for our work is all you need to create a website that includes all the essential elements to make it ideal. Dreaming big? Contact us today at Edventure Infotech.
-<!-- <a href="tel:+91 704 682 7566">+91 704 682 7566</a> --></p>
+                    <p>Effective web design is pointless if it's not user-friendly for business owners. With our WordPress development, you can have the best of both worlds. Our passion for our work is all you need to create a website that includes all the essential elements to make it ideal. Dreaming big? Contact us today at Edventure Infotech.</p>
                 </div>
                 <div class="comBtn2 buildBtn">
                     <a href="<?php the_permalink(271); ?>" class="comBtn">Read More</a>

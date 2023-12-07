@@ -1,4 +1,7 @@
 <?php
+/** Enable W3 Total Cache */
+define('WP_CACHE', true); // Added by W3 Total Cache
+
 /**
  * The base configuration for WordPress
  *
@@ -20,13 +23,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'edventureinfotech' );
+define( 'DB_NAME', 'easyglue_edventureinfotech' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'easyglue_edventureinfotech' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '52HQ(KM4}HH0' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

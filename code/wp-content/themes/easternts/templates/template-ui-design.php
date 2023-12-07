@@ -93,39 +93,41 @@ We aim to provide effective and engaging engagement models.</p>
 <section class="sectionPadd uiDesingbg">
     <div class="container">
         <div class="row">
-            <div class="fireAdd text-center wow bounceInUp" data-wow-duration="3s" data-wow-delay="0.4s">
+            <div class="fireAdd text-center">
                 <h2>Web Design</h2>
             </div>
         </div>
-        <div class="row d-flexWOcenter">
-            <div class="col-sm-5">
-                <div class="webDesingUi">
-                    <img src="../../wp-content/uploads/2023/09/complex-web.png" alt="seo1">
-                    <h3>COMPLEX WEB APPLICATIONS</h3>
-                    <p> 
-Our designers are really good at making designs for software development. They know how to create complicated interfaces that are easy to use. Our strength is in making complex user journeys simple in our products.</p>
-                    <div class="comBtn2 text-center buildBtn">
-                        <a href="<?php echo the_permalink(714); ?>" class="comBtn">We Design Web Applications</a>
-                    </div>
-                </div>
-            </div>
+		<div style="display: flex;">
+			<div class="row d-flexWOcenter">
+				<div class="col-sm-5">
+					<div class="webDesingUi">
+						<img src="../../wp-content/uploads/2023/09/complex-web.png" alt="seo1">
+						<h3>COMPLEX WEB APPLICATIONS</h3>
+						<p> 
+	Our designers are really good at making designs for software development. They know how to create complicated interfaces that are easy to use. Our strength is in making complex user journeys simple in our products.</p>
+						<div class="comBtn2 text-center buildBtn">
+							<a href="<?php echo the_permalink(714); ?>" class="comBtn">We Design Web Applications</a>
+						</div>
+					</div>
+				</div>
 
-            <div class="col-sm-2 uiWedplas">
-                <div class="plas"></div>
-            </div>
+				<div class="col-sm-2 uiWedplas">
+					<div class="plas"></div>
+				</div>
 
-            <div class="col-sm-5">
-                <div class="webDesingUi">
-                    <img src="../../wp-content/uploads/2023/09/android-apps.png"  alt="onlineshopping">
-                    <h3>NATIVE IOS & ANDROID APPS</h3>
-                    <p>We create stunning apps for iOS and Android, tailoring them to fully embrace each platform's features, elements, components, libraries, and design patterns. This guarantees that your product provides the smoothest and most enjoyable user experience.</p>
-                    <div class="comBtn2 text-center buildBtn">
-                        <a href="<?php the_permalink(43); ?>" class="comBtn">We Design Android Apps</a>
-                    </div>
-                </div>
+				<div class="col-sm-5">
+					<div class="webDesingUi">
+						<img src="../../wp-content/uploads/2023/09/android-apps.png"  alt="onlineshopping">
+						<h3>NATIVE IOS & ANDROID APPS</h3>
+						<p>We create stunning apps for iOS and Android, tailoring them to fully embrace each platform's features, elements, components, libraries, and design patterns. This guarantees that your product provides the smoothest and most enjoyable user experience.</p>
+						<div class="comBtn2 text-center buildBtn">
+							<a href="<?php the_permalink(43); ?>" class="comBtn">We Design Android Apps</a>
+						</div>
+					</div>
 
-            </div>
-        </div>
+				</div>
+			</div>					
+		</div>
     </div>
 </section>
 

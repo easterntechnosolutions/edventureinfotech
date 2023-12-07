@@ -412,7 +412,7 @@ Template Name: Software Development
                 <div>
 
                     <h3>Right support to turn your startup into <b class="bBlod"> Profitable Venture </b> </h3>
-                    <p><a href="tel:+00 000 000 000">+00 000 000 000</a>
+                    <p><a href="tel:+1(437)559-9090">+1(437)559-9090</a>
                         <br><a href="mailto:info@edventureinfotech.com"> info@edventureinfotech.com </a>
 
                     </p>
@@ -1150,6 +1150,9 @@ Template Name: Software Development
     </div>
 </section>
 
+<!-- Services -->
+<?php get_template_part("parts/sort-code-our-service"); ?>
+	
 <?php get_footer(); ?>
 
 <script id="rendered-js">

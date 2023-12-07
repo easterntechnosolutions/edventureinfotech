@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-8 gainCOmp">
-                <h3>Accomplish your digital goals with us!.</h3>
+                <h3>Accomplish your digital goals with us!</h3>
             </div>
             <div class="col-md-4 getBtn text-end">
-                <a href="javascript:void(0);"  class="subscriber-form">GET IN TOUCH TODAY!</a>
+                <a href="javascript:void(0);"  class="subscriber-form">Get In Touch Today</a>
             </div>
         </div>
     </div>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-6 p0">
                 <div class="zigZ">
-                    <h2><b>MOBILE-FIRST APPROACH</b></h2>
+                    <h2><b>Mobile-First Approach</b></h2>
                     <p>Today's market demands website accessibility across all devices. This includes desktops, tablets, and mobiles. Adapting to the ever-evolving device landscape can be challenging. A fully responsive website is the key to meeting this challenge. We prioritize a 'mobile-first' approach in all our projects for versatile screen adaptation.</p>
                     <p>
 A website that seamlessly adjusts to various devices not only saves you time but also reduces costs. Since mobile browsing overtook desktop usage in May 2015 and mobile-friendliness became an official Google ranking factor in April, having a mobile-friendly website is no longer a choice; it's an essential requirement. The foundation for this begins with responsive web design.</p>
@@ -424,7 +424,7 @@ A website that seamlessly adjusts to various devices not only saves you time but
                         <a href="javascript:void(0);" class="subscriber-form  comBtn">Get a Quote !</a>
                     </div>
 <!--                     <div class="comBtn2 buildBtn">
-                        <a href="tel:61420822457" class="comBtn">Get a Quote!</a>
+                        <a href="tel:+1(437)559-9090" class="comBtn">Get a Quote!</a>
                     </div> -->
                 </div>
             </div>

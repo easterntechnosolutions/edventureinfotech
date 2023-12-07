@@ -93,6 +93,24 @@
     </div>
 </section>
 
+<!-- Flutter App Development company -->
+
+<section class=" flutterComp flutter-top-padd">
+    <div class="container">
+        <div class="row d-flex">
+            <div class="col-md-6 developMent">
+                <h2>Require a Quote</h2>
+                <p> Getting your website right makes everything else easier. </p>
+                <div class="d-flex">
+                    <div class="comBtn2 buildBtn mr-4">
+                        <a href="tel:+1(437)559-9090" class="comBtn">Let's Start</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</div>
+</section>
+
 <!-- Our Process -->
 
 <section class="sectionPadd asdasdasd" >
@@ -142,26 +160,6 @@
             </div>
         </div>
     </div>
-</section>
-
-<!--  MOBILE-FIRST APPROACH -->
-
-<!-- Flutter App Development company -->
-
-<section class=" flutterComp flutter-top-padd">
-    <div class="container">
-        <div class="row d-flex">
-            <div class="col-md-6 developMent">
-                <h2>Require a Quote</h2>
-                <p> Getting your website right makes everything else easier. </p>
-                <div class="d-flex">
-                    <div class="comBtn2 buildBtn mr-4">
-                        <a href="tel:+91 70468 27566" class="comBtn">Let's Start</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-	</div>
 </section>
 
 <!-- End -->
@@ -388,7 +386,6 @@
             <div class="col-md-6 righStart">
                 <div>
                     <h3> Providing Adequate Assistance for Nurturing Your Startup <b class="bBlod"> Into Profitable Venture </b> </h3>
-<!--                    <a href="tel:+91 704 682 7566">+91 704 682 7566</a>, <a href="tel:+91 760 001 5802">+91 760 001 5802</a> -->
                          <p> <a href="mailto:contact@easternts.com"> info@edventureinfotech.com</a>
                     </p>
                     <div class="comBtn2 buildBtn">

@@ -472,7 +472,7 @@ Flutter serves as a valuable tool for building business-critical apps on both iO
                 <h2>Flutter App <br> Development Company</h2>
                 <p class="text-justify">Transform your Android and iOS mobile app ideas using the industry’s newest yet fastest-evolving cross-platform Flutter framework.</p>
                 <div class="comBtn2 buildBtn">
-                    <a href="tel:61420822457" class="comBtn">CALL US TODAY!</a>
+                    <a href="tel:+1(437)559-9090" class="comBtn">CALL US TODAY!</a>
                 </div>
             </div>
             <div class="col-md-6 text-center">
